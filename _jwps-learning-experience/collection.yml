@@ -2,9 +2,9 @@ collections:
   jwps-learning-experience:
     output: true
     order:
-      - MATHEMATICS/PROGRAMMES AND ACTIVITIES.md
-      - MATHEMATICS/MATHEMATICS.md
       - MATHEMATICS/.keep
+      - MATHEMATICS/MATHEMATICS.md
+      - MATHEMATICS/PROGRAMMES AND ACTIVITIES.md
       - ENGLISH/.keep
       - ENGLISH/ENGLISH.md
       - ENGLISH/PROGRAMMES AND ACTIVITIES.md
