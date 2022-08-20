@@ -2,6 +2,7 @@ collections:
   jwps-learning-experience:
     output: true
     order:
+      - SCIENCE/.keep
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/MOTHER TONGUE.md
       - MOTHER TONGUE/CHINESE LANGUAGE.md
