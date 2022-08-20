@@ -57,14 +57,20 @@ description: ""
 </tbody>
 </table>
 
+<br>
+
 |   Operations Manager  |
 |:---------------------:|
 | Mr Chris Ng Boon Pian |
+
+<br>
 
 | Administration Manager |
 |:---:|
 | Ms Sharifah Ali  
 Ms Tan Chiaw Chiet |
+
+<br>
 
 |  Year Head ( Upper Block ) | Assistant Year Head ( Upper Block ) |
 |:---:|:---:|
@@ -77,6 +83,8 @@ Ms Tan Chiaw Chiet |
 |  Year Head ( Lower Block )  | Assistant Year Head ( Lower Block )   |
 |:---------------------------:|:-------------------------------------:|
 |      Ms Lau Chin Yong       |       Ms Yvonne Chew (Covering)       |
+
+<br>
 
 <table>
 <thead>
