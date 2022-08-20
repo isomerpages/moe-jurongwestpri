@@ -34,7 +34,7 @@ and 
 
 A Conscientious learner 
 
-(Thirst for knowledge and love for learning).
+(Thirst for knowledge and love for learning).</p>
 
 <p style = "text-align: center;"><span style="color: #000000;"><b>  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</b></span> </p>
 
