@@ -15,18 +15,13 @@ third_nav_title: ENGLISH
 *   School-based Dyslexia Remediation Programme (SDR)
 *   Values Education
 
-APPLIED LEARNING PROGRAMME (ALP)
---------------------------------
+## APPLIED LEARNING PROGRAMME (ALP)
 
-  
-
-**Art of Communication for Personal Excellence**
+### **Art of Communication for Personal Excellence**
 
 The school believes in the potential of ALP to help it realise its school mission and vision. The school is cognisant of the growing demands and expectations of having students who are future ready and well anchored on sound moral values. As such, ALP is poised to bring about these two aspects which are also incidentally encapsulated in our mission statement.
 
-  
-
-**Outcomes of ALP**
+### **Outcomes of ALP**
 
 *   To reaise confident communicators and creative individuals who are well anchored on the school core values and capable to lead self and others; and
 *   To ensure the pervasiveness and sustainability of ALP via infusion into the school-based curriculum, namely PAL, NE and IPW.
