@@ -63,7 +63,7 @@ description: ""
   <tr>
     <td class="tg-inuq"><span style="color:#4A9FE0">Bus Operator</span><br><br><span style="font-weight:400;color:#252525"><b>JK59 Pte Ltd</b></span><br><br><span style="font-weight:400;color:#252525">17 Lorong Kilat #01-10 <br>Kilat Court<br>Singapore 598139<br><br>Tel: 6465 5959<br>Fax: 6466 5959<br></span></td>
     <td class="tg-inuq"><span style="color:#4A9FE0">School Uniform</span><br><br><span style="color:#252525">Yang Tze Kiang Tailor</span><br><br><span style="font-weight:normal">Blk 26 Teck Whye Lane</span><br><span style="font-weight:normal">#01-180</span><br><span style="font-weight:normal">Singapore 680026</span><br><br><span style="font-weight:normal">Tel: 6769 1260</span><br><br><br></td>
-    <td class="tg-inuq"><span style="color:#4A9FE0">Insurance</span><br><br>NTUC Income<br><br>Tel: 6346 2663</td>
+    <td class="tg-inuq"><span style="color:#4A9FE0">Insurance</span><br><br><span style="font-weight:400;color:#252525"><b>NTUC Income</b></span><br><br>Tel: 6346 2663</td>
   </tr>
   <tr>
     <td class="tg-05aa" colspan="3">School-based Student Care Centre<br>YMCA<br><br>Tel: 6790 7917 / 8876 3753<br>Email: jwsc2@ymca.edu.sg<br></td>
