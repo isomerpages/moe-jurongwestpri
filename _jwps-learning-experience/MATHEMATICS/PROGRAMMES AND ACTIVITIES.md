@@ -22,45 +22,17 @@ third_nav_title: MATHEMATICS
 
 <p style="text-align: justify;"> In Term 3, our students are provided with a platform to play competitively against their peers in the annual Math Games Week. Games such as Numero, Math Warrior and Fun with Tangrams provide a meaningful situation for the application of Mathematical skills. Through games, students are motivated to participate and enjoy playing. In the process, students build their confidence and develop positive attitudes towards Mathematics, reducing the fear of failures and errors. </p>
 
-  
-
 ![Infusion 1.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/JWPS%20Learning%20Experience/Mathematics/Infusion%201.png)
 
-  
+## WIRELESS EXPERIENTIAL LEARNING
+### Bringing Authentic Context to Learning
 
-  
-
-  
-
-WIRELESS EXPERIENTIAL LEARNING
-------------------------------
-
-  
-
-### 
-
-Bringing Authentic Context to Learning
-
-In line with the department's beliefs of using hands-on activities to engage our students in the process of active learning, every Primary 4 student will have the opportunity to participate in Wireless Experiential Learning. Students will work in groups and solve problems in a real-world context and learn to explore mathematical ideas in depth. The activity aims to help students make meaningful connections between their learning and the real world, use technology to help them in their problem-solving and, most importantly, find joy in the learning of Mathematics.
-
-  
+<p style="text-align: justify;"> In line with the department's beliefs of using hands-on activities to engage our students in the process of active learning, every Primary 4 student will have the opportunity to participate in Wireless Experiential Learning. Students will work in groups and solve problems in a real-world context and learn to explore mathematical ideas in depth. The activity aims to help students make meaningful connections between their learning and the real world, use technology to help them in their problem-solving and, most importantly, find joy in the learning of Mathematics. </p>  
 
 ![Wireless 1.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/JWPS%20Learning%20Experience/Mathematics/Wireless%201.png)
 
-  
-
-  
-
-  
-
-FUNDAMATICS
------------
-
-###   
-
-### 
-
-Strengthening the Fundamentals by Having Fun with Mathematics
+## FUNDAMATICS
+### Strengthening the Fundamentals by Having Fun with Mathematics
 
 As part of the school's initiative of implementing an active recess, the Mathematics Department has introduced an activity named FUNdamatics. FUNdamatics provides another channel for pupils to be actively and meaningfully occupied during recess through playing mathematical and logical games. The main objective of this activity is to instill fun in the process of our students' learning through the use of mathematical and logical games. The games have been carefully curated with the aim of improving students’ mathematical factual fluency. Also, our teachers hope to cultivate in students a greatest interest and love for the subject.
 
