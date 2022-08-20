@@ -75,7 +75,7 @@ third_nav_title: ENGLISH
      style="width:30%">  
 		 
 <img src="/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Literature%20Programme%201.png"
-     style="width:50%">  
+     style="width:50%;float: left">  
 
 
 ## READING CULTURE LIBRARY
