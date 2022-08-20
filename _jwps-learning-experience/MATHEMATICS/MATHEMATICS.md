@@ -11,7 +11,7 @@ third_nav_title: MATHEMATICS
 ## <span style = "color: #c81b1b"> <b>Mission and Objectives of the Department:</b> </span>
 
 
-To create an enriching environment that enhances the acquisition of Mathematical knowledge and skills, the development of thinking processes, and the appreciation and interest in Math through the integration of IT, games and problem solving strategies.
+<p style="text-align: justify;">To create an enriching environment that enhances the acquisition of Mathematical knowledge and skills, the development of thinking processes, and the appreciation and interest in Math through the integration of IT, games and problem solving strategies. </p>
 
   
 
