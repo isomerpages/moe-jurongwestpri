@@ -44,10 +44,34 @@ description: ""
 </figure>
 
 <figure>
+	 <img src="/images/About%20Us/School%20Facilities/tn_dance_studio%202_JPG_2.jpg"
+     style="width:50%;">
+<figcaption>
+	<strong> Glass-covered Dance Studio</strong>
+	</figcaption>
+</figure>
+
+<figure>
 	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
      style="width:50%;">
 <figcaption>
-	<strong> Playground</strong>
+	<strong> Glass-covered Dance Studio</strong>
+	</figcaption>
+</figure>
+
+<figure>
+	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
+     style="width:50%;">
+<figcaption>
+	<strong> Glass-covered Dance Studio</strong>
+	</figcaption>
+</figure>
+
+<figure>
+	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
+     style="width:50%;">
+<figcaption>
+	<strong> Glass-covered Dance Studio</strong>
 	</figcaption>
 </figure>
 	
