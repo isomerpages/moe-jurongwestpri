@@ -36,8 +36,9 @@ third_nav_title: ENGLISH
 
 <p style="text-align: justify;"> Through DST, the school hopes to enhance competencies across many domains, and expose teachers and students to the possibilities of using Web2.0 tools for teaching and learning. A number of teaching periods were allocated to DST in the Primary 3 English curriculum. Through DST, our students learnt to use tools such as Google Slides, Google Documents, Linoit and PowerPoint to write and share about their experiences. As a form of self-directed learning, students were taught features of recount writing and encouraged to create their own digital stories. </p>
 
-![](/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Digital%20Storytelling.png)
-  
+
+<img src="/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Digital%20Storytelling.png"
+     style="width:50%">
 
 ## ENGLISH STUDENT LEADERS
 
