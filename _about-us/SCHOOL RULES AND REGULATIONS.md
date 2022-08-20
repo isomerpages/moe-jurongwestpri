@@ -194,8 +194,6 @@ As part of our dedication to student welfare, we have taken a basic insurance po
 *   Do not stand or play on the steps of the bus.
 *   Do not lean out of the windows.
 
-  
-
 **Travelling by Car or School Bus**
 
 *   Put on your best behaviour at all times.
@@ -203,14 +201,9 @@ As part of our dedication to student welfare, we have taken a basic insurance po
 *   Do not lean out of the windows.
 *   Do not speak loudly or play in the car or bus.  
     
-
-  
-
 **Traffic Signs**
 
 *   Adhere to traffic signs at all times.
-
-  
 
 **Important Note:**
 
