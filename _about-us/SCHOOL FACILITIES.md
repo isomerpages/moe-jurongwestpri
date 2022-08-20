@@ -55,7 +55,7 @@ description: ""
 	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
      style="width:50%;">
 <figcaption>
-	<strong> Glass-covered Dance Studio</strong>
+	<strong> Art Gallery</strong>
 	</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ description: ""
 	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
      style="width:50%;">
 <figcaption>
-	<strong> Glass-covered Dance Studio</strong>
+	<strong> Spacious Staff Lounge</strong>
 	</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ description: ""
 	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
      style="width:50%;">
 <figcaption>
-	<strong> Glass-covered Dance Studio</strong>
+	<strong> Canteen</strong>
 	</figcaption>
 </figure>
 	
