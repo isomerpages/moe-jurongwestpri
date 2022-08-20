@@ -66,7 +66,7 @@ description: ""
     <td class="tg-inuq"><span style="color:#4A9FE0">Insurance</span><br><br><span style="font-weight:400;color:#252525"><b>NTUC Income</b></span><br><br><span style="font-weight:400;color:#252525">Tel: 6346 2663</span></td>
   </tr>
   <tr>
-    <td class="tg-05aa" colspan="3">School-based Student Care Centre<br><span style="font-weight:400;color:#252525">YMCA</span><br><br><span style="font-weight:400;color:#252525">Tel: 6790 7917 / 8876 3753</span><br><span style="font-weight:400;color:#252525">Email: jwsc2@ymca.edu.sg</span><br></td>
+    <td class="tg-05aa" colspan="3">School-based Student Care Centre<br><br><span style="font-weight:400;color:#252525"><b>YMCA</b></span><br><br><span style="font-weight:400;color:#252525">Tel: 6790 7917 / 8876 3753</span><br><span style="font-weight:400;color:#252525">Email: jwsc2@ymca.edu.sg</span><br></td>
   </tr>
 </tbody>
 </table>
