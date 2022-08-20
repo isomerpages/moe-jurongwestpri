@@ -2,6 +2,7 @@ collections:
   jwps-learning-experience:
     output: true
     order:
+      - ENGLISH.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
