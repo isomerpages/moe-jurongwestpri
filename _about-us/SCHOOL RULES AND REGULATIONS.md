@@ -26,13 +26,12 @@ description: ""
 3.  **Footwear:** Students are to wear white-based canvas shoes and white socks together with the school uniform during school activities. Branded shoes should not be worn. At no time should students be in slippers or sandals without valid reason.
 4.  **Hair:** Hair should be kept neat, tidy and simply styled. Hair touching the collar must be either tied up or cut. No dyeing, tinting or highlighting of hair is allowed. Students are not to gel their hair into any untidy/ fanciful styles. Students with unacceptable, modified, punk or distracting hairstyles will have to revert to acceptable hairstyles. 
 
-*   Hair fringes over the forehead should not touch the eyebrows.
-*   Only black and dark blue hair accessories are permitted.  
-    
-*   Boys' hair must be kept simple, short and should not touch their eyebrows, ears and the collar of the school shirt/PE T-shirt. · 
-*   Boys are not allowed to keep facial hair and boys with facial hair will be required to be clean-shaven.
-*   Girls with shoulder-length hair must neatly plait or tie their hair up.
-*   Girls are not to sport any fanciful hairstyles, including hair extensions
+	 *  Hair fringes over the forehead should not touch the eyebrows.
+	 *   Only black and dark blue hair accessories are permitted.    
+	 *   Boys' hair must be kept simple, short and should not touch their eyebrows, ears and the collar of the school shirt/PE T-shirt. · 
+	 *   Boys are not allowed to keep facial hair and boys with facial hair will be required to be clean-shaven.
+	 *   Girls with shoulder-length hair must neatly plait or tie their hair up.
+	 *   Girls are not to sport any fanciful hairstyles, including hair extensions
 
 6.  **Fingernails:** Fingernails should be kept short and clean for hygiene and safety purposes. Nails should not be coloured.
 7.  **Jewellery/Ornaments/Hair accessories:** Jewellery, ornaments and accessories are not permitted to be worn. Only one pair of small and simple ear-studs may be worn for girls. Only black and dark blue hair accessories are permitted.
