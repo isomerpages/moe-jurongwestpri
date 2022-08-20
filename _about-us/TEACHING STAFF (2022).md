@@ -56,4 +56,15 @@ description: ""
 |  Innovativeness 4 |   Mdm Nuraznita  |  Ms Lim Yan Ping  |
 |  Innovativeness 5 | Mdm Siti Farhana |  Ms Geraldine Loo |
 
+<br>
+
+|    Class   |          Form Teacher          |    Form Teacher   |
+|:----------:|:------------------------------:|:-----------------:|
+| Kindness 1 |             Mr Ali             |  Mdm Ang Kay Nee  |
+| Kindness 2 |          Mdm Syahirah          |  Ms Seah Hui Yan  |
+| Kindness 3 |        Mdm Siti Nafisah        |    Mdm Raheelah   |
+| Kindness 4 |         Ms Eng Yew Soo         |  Mdm Ooi Min Duan |
+| Kindness 5 | Ms Tan Chee Keng / Mdm Suriati | Ms Chong Siew Hui |
+| Kindness 6 |         Mrs Wee Yin Ser        |  Mdm Huang Li Xia |
+
 ## <span style = "color: #c81b1b"> <b>Allied Educators (AED), Flexi-Adjunct (FA) and Contract-Adjunct (CA)</b> </span>
