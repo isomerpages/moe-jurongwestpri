@@ -2,9 +2,9 @@ collections:
   jwps-learning-experience:
     output: true
     order:
-      - MOTHER TONGUE/CHINESE LANGUAGE.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/MOTHER TONGUE.md
+      - MOTHER TONGUE/CHINESE LANGUAGE.md
       - MOTHER TONGUE/MALAY LANGUAGE.md
       - MOTHER TONGUE/TAMIL LANGUAGE.md
       - MATHEMATICS/.keep
