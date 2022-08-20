@@ -57,8 +57,7 @@ Students are to wear the prescribed school uniform in school and during school a
 *   Girls' skort/culotte must not be more than 10cm above the knee.  
     
 
-###   
-In Partnership with Parents
+### In Partnership with Parents
 
 To arrange for an appointment with teachers, write a short note in the student handbook to inform the teacher of your concerns. The school sees our parents as partners in developing the potential in each of our students by:
 
