@@ -4,6 +4,5 @@ collections:
     order:
       - ENGLISH/ENGLISH.md
       - ENGLISH/.keep
-      - ENGLISH.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
