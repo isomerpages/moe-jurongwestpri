@@ -7,6 +7,7 @@ description: ""
 ## <span style = "color: #c81b1b"> <b>Indoor Sports Hall</b> </span>
 
 ![](/images/About%20Us/School%20Facilities/tn_indoor_sports_hall_JPG_2.jpg)
+
 ![](/images/About%20Us/School%20Facilities/tn_covered%20basketball%20court_JPG_2.jpg)
 
 ## <span style = "color: #c81b1b"> <b>Revamped Library</b> </span>
