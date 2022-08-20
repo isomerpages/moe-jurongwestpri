@@ -56,3 +56,12 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+|   Operations Manager  |
+|:---------------------:|
+| Mr Chris Ng Boon Pian |
+
+| Administration Manager |
+|:---:|
+| Ms Sharifah Ali  
+Ms Tan Chiaw Chiet |
