@@ -26,13 +26,13 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th colspan="2">Vice Principal  </th>
+    <th colspan="2" style = "text-align: center" >Vice Principal  </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Mr Lim Chin Guan<br>(Administration)</td>
-    <td> Mr Pillay P Krishnan<br>(Academic) </td>
+    <td style = "text-align: center" >Mr Lim Chin Guan<br>(Administration)</td>
+    <td style = "text-align: center" > Mr Pillay P Krishnan<br>(Academic) </td>
   </tr>
 </tbody>
 </table>
