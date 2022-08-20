@@ -55,7 +55,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-inuq"><span style="color:#4A9FE0">School Library</span><br><br><span style="font-weight:400;color:#252525">Opening Hours:</span><br><span style="font-weight:400;color:#252525">8.00 a.m to 4.00 p.m</span><br><br><span style="font-weight:400;color:#252525">Lunch Break:<br></span><span style="font-weight:400;color:#252525">11.15 a.m to 12.00 p.m</span></th>
-    <th class="tg-inuq"><span style="color:#4A9FE0">Dental Clinic</span><br>-<br><span style="font-weight:400;color:#252525">(Dental Therapist)</span><br><span style="font-weight:400;color:#252525">Tel: 9114 8995</span><br><span style="font-weight:400;color:#252525"> </span><span style="background-color:initial">Lunch Break:</span><br><br><span style="font-weight:400;color:#252525">1.00 p.m. - 2.00 p.m.</span></th>
+    <th class="tg-inuq"><span style="color:#4A9FE0">Dental Clinic</span><br>-<br><span style="font-weight:400;color:#252525">(Dental Therapist)</span><br><span style="font-weight:400;color:#252525">Tel: 9114 8995</span><br><span style="font-weight:400;color:#252525"> </span><br><span style="font-weight:400;color:#252525">Lunch Break:</span><br><span style="font-weight:400;color:#252525">1.00 p.m. - 2.00 p.m.</span></th>
     <th class="tg-inuq"><span style="color:#4A9FE0">Bookshop</span><br>Pacific Bookstore<br><span style="font-weight:400;color:#252525">Tel: 9048 1145</span><br><br>Opening Hours:<br><span style="font-weight:400;color:#252525">Mondays to Fridays:</span><br><span style="font-weight:400;color:#252525">9.00 am - 4.00 pm</span><br><br>Lunch Break:<br><span style="font-weight:400;color:#252525">12.00 p.m - 1.00 p.m</span><br></th>
   </tr>
 </thead>
