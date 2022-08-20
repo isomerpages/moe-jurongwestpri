@@ -81,11 +81,9 @@ description: ""
 
 ## <span style = "color: #c81b1b"> <b>Driveway and Quadrangle</b> </span>
 
-*   Tarmac Driveway  
+*   Tarmac Driveway
     
 *   Cement Quadrangle  
-    
-
-*   1 Netball Court
-*   4 Badminton Court
-*   8 Hopscotch
+    *   1 Netball Court
+    *   4 Badminton Court
+    *   8 Hopscotch
