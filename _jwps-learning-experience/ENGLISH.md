@@ -4,6 +4,7 @@ permalink: /jwps-learning-experience/english
 description: ""
 ---
 # ENGLISH
+![](/images/JWPS%20LEARNING%20EXPERIENCE/IMG_1618.png)
 
 ## <span style = "color: #c81b1b"> <b>Mission</b> </span>
 
