@@ -17,3 +17,5 @@ description: ""
 <p style = "text-align: center;"><span style="color: #000000;"><b>  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</b></span> </p>
 
 <h3> <p style = "text-align: center;"><span style="color: #c81b1b;"> School Core Values </span> </p></h3>
+
+<p style = "text-align: center;"> 'Think and Grow'</p>
