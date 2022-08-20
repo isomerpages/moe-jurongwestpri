@@ -23,11 +23,11 @@ Dear Parents,
 
 Future-ready students will need to be equipped with both broad knowledge and practical skills. Hence, to help prepare our students to face the potential challenges of the future, we have put together learning packages for them. These packages are developed to help our students gain new knowledge, skills and values in both academic and non-academic areas. The packages include the _Academic Proficiency Package_, the _Life Skill Package_ and the _Leadership Development Package_. They are also aimed at realising the school vision of nurturing every JWPS student into becoming an engaged **_Learner_**, a reflective **_THInker_** and a selfless **_Leader_**. 
 
-2.    Embrace All Learners
+2.    <u>Embrace All Learners</u>
 
 Our students have varying abilities and learning needs and we place great emphasis on embracing and developing every learner. To maximise their potential in learning and help them achieve competency and success in their own ways, we provide students with the _Baseline Support Package_, the _Special Educational Needs (SEN) Package_, the _‘Diversity in Strength’ Package_ and the _Lift-up Support Package_. Through these packages, we support all learners and motivate them to take ownership of their own learning. 
 
-3.    Enhance Student Well-being
+3.    <u>Enhance Student Well-being</u>
 
 Student well-being is an important element in overall student success. With that in mind, the school generates a safe and positive learning environment that promotes nurturing the whole child, head, body and mind. Packages that focus on developing the students in the areas of physical, mental, social, emotional and moral are put in place. Such packages include the _Physical Well-being Package_, the _Social and Emotional Well-being Package_, the _Moral Well-being package_ and the _Talent Development Package_.
 
