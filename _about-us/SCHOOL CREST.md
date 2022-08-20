@@ -4,7 +4,6 @@ permalink: /about-us/school-crest
 description: ""
 ---
 # School Crest
-#1e2e43
 
 ### <span style = "color: #c81b1b"> School Crest </span>
 
