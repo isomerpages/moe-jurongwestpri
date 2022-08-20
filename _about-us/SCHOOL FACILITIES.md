@@ -27,10 +27,10 @@ description: ""
 ## <span style = "color: #c81b1b"> <b>School Facilities</b></span>
 
 <figure>
-	<a href="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg"
+	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
      style="width:50%"></a>
 <figcaption>
-	<strong> Staff Activity to Jewel @ Changi Airport </strong>
+	<strong> Playground</strong>
 	</figcaption>
 </figure>
 	
