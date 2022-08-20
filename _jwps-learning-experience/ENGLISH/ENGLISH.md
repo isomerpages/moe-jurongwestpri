@@ -5,8 +5,7 @@ description: ""
 third_nav_title: ENGLISH
 ---
 # ENGLISH
-![](/images/JWPS%20LEARNING%20EXPERIENCE/IMG_1618.png)
-
+![](/images/JWPS%20LEARNING%20EXPERIENCE/ENGLISH/IMG_1618.png)
 ## <span style = "color: #c81b1b"> <b>Mission</b> </span>
 
 To create a language rich environment that facilitates the acquisition of a high standard of English proficiency in the skills of reading, writing, listening and speaking.  
