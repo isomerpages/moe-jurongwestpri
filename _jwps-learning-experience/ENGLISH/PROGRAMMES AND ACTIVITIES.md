@@ -19,7 +19,7 @@ third_nav_title: ENGLISH
 
 ### **Art of Communication for Personal Excellence**
 
-The school believes in the potential of ALP to help it realise its school mission and vision. The school is cognisant of the growing demands and expectations of having students who are future ready and well anchored on sound moral values. As such, ALP is poised to bring about these two aspects which are also incidentally encapsulated in our mission statement.
+<p style="text-align: justify;">The school believes in the potential of ALP to help it realise its school mission and vision. The school is cognisant of the growing demands and expectations of having students who are future ready and well anchored on sound moral values. As such, ALP is poised to bring about these two aspects which are also incidentally encapsulated in our mission statement. </p>
 
 ### **Outcomes of ALP**
 
