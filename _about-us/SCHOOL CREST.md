@@ -4,7 +4,7 @@ permalink: /about-us/school-crest
 description: ""
 ---
 # School Crest
-
+#1e2e43
 
 ### School Crest
 
