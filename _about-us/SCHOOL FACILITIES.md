@@ -4,4 +4,4 @@ permalink: /about-us/school-facilities
 description: ""
 ---
 # SCHOOL FACILITIES
-Indoor Sports Hall
+## <span style = "color: #c81b1b"> <b>School Crest</b> </span>
