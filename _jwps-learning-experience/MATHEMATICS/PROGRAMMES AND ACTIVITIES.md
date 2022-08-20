@@ -32,7 +32,7 @@ third_nav_title: MATHEMATICS
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/MATHEMATICS/PROGRAMMES%20AND%20ACTIVITIES/Wireless%201.png)
 
 ## FUNDAMATICS
-### Strengthening the <span style = "color: #c81b1b"> <b>Funda</b> </span>mentals by Having <span style = "color: #c81b1b"> <b>Fun</b> </span> with Mathe<span style = "color: #c81b1b"> <b>matics</b> </span>
+### Strengthening the <span style = "color: #c81b1b"> <b>Funda</b> </span>mentals by Having <span style = "color: #c81b1b"> <b>Fun</b> </span>with Mathe<span style = "color: #c81b1b"> <b>matics</b> </span>
 
 <p style="text-align: justify;"> As part of the school's initiative of implementing an active recess, the Mathematics Department has introduced an activity named FUNdamatics. FUNdamatics provides another channel for pupils to be actively and meaningfully occupied during recess through playing mathematical and logical games. The main objective of this activity is to instill fun in the process of our students' learning through the use of mathematical and logical games. The games have been carefully curated with the aim of improving students’ mathematical factual fluency. Also, our teachers hope to cultivate in students a greatest interest and love for the subject. </p> 
 
