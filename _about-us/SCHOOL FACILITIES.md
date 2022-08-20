@@ -24,8 +24,16 @@ description: ""
 
 ![](/images/About%20Us/School%20Facilities/tn_pond_JPG_2.jpg)
 
-## <span style = "color: #c81b1b"> <b>School Facilities</b> </span>
+## <span style = "color: #c81b1b"> <b>School Facilities</b></span>
 
+<figure>
+	<a href="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg"
+     style="width:50%"></a>
+<figcaption>
+	<strong> Staff Activity to Jewel @ Changi Airport </strong>
+	</figcaption>
+</figure>
+	
 ## <span style = "color: #c81b1b"> <b>Gate 3 and Road Safety</b> </span>
 
 ## <span style = "color: #c81b1b"> <b>Driveway and Quadrangle</b> </span>
