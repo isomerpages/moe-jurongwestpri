@@ -34,7 +34,7 @@ description: ""
   </tr>
   <tr>
     <td>Map</td>
-    <td><a href="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/About%20Us/Contact%20Us/jwps%20map.jpg"
+    <td><a href="https://www.streetdirectory.com/sg/jurong-west/30-jurong-west-street-61-648368/4412_116196.html" target = "_blank"> <img src="/images/About%20Us/Contact%20Us/jwps%20map.jpg"
      style="width:100%"></a><br>(Please click on the map above)</td>
   </tr>
 </tbody>
