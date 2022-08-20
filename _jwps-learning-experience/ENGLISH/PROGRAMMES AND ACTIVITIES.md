@@ -17,11 +17,11 @@ third_nav_title: ENGLISH
 
 ## APPLIED LEARNING PROGRAMME (ALP)
 
-### **Art of Communication for Personal Excellence**
+### Art of Communication for Personal Excellence
 
 <p style="text-align: justify;">The school believes in the potential of ALP to help it realise its school mission and vision. The school is cognisant of the growing demands and expectations of having students who are future ready and well anchored on sound moral values. As such, ALP is poised to bring about these two aspects which are also incidentally encapsulated in our mission statement. </p>
 
-### **Outcomes of ALP**
+### Outcomes of ALP
 
 *   <span style="text-align: justify;">To reaise confident communicators and creative individuals who are well anchored on the school core values and capable to lead self and others; and </span>
 *   <span style="text-align: justify;">To ensure the pervasiveness and sustainability of ALP via infusion into the school-based curriculum, namely PAL, NE and IPW. </span>
@@ -30,7 +30,7 @@ third_nav_title: ENGLISH
 
 ## DIGITAL STORYTELLING (DST)
 
-### **Alignment with the MOE English Syllabus**
+### Alignment with the MOE English Syllabus
 
 <p style="text-align: justify;"> DST was launched in response to the fast-changing and multi-faceted way of learning in the educational landscape. The programme was aligned to the school’s vision and mission and ICT was employed extensively. To quote Michael Fullen, “Pedagogy is the driver. Technology is the accelerator." We hope to deepen and enhance the writing processes of the students, as well as make writing a pleasurable experience for them. DST is not an add-on. Instead, it is meant as a complement to the school's STELLAR writing programme in alignment with the MOE English Syllabus. </p>
 
