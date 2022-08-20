@@ -4,4 +4,4 @@ permalink: /about-us/mission-vision-and-values
 description: ""
 ---
 # MISSION, VISION AND VALUES
-## <span style="color: #c81b1b;text-align: center;"> Our School Vision </span>
+## <span style="color: #c81b1b; text-align: center;"> Our School Vision </span>
