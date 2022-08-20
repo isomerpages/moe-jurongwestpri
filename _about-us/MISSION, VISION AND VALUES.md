@@ -21,7 +21,7 @@ description: ""
 <h4> <p style = "text-align: center;"><span style="color: #4a9fe0;"> THInKER </span> </p></h4>
 
 |                |                                                                                                                                           |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
 |    **T**eamwork    |     The sense of togetherness and unity in working together with one another.        |
 |     **H**onesty    |         The virtue of always doing the right thing and being true to oneself.            |
 | **I**nnovativeness | The courage to always question and think creatively. One who takes calculated risks in coming up with ideas for the benefit of everyone.  |
