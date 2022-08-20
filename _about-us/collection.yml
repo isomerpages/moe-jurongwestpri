@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - TEACHING STAFF (2022).md
       - PRINCIPAL'S FOREWORD 2022.md
       - HISTORY.md
       - MISSION, VISION AND VALUES.md
@@ -10,5 +9,6 @@ collections:
       - SCHOOL FACILITIES.md
       - SCHOOL RULES AND REGULATIONS.md
       - SCHOOL MANAGEMENT COMMITTEE.md
+      - TEACHING STAFF (2022).md
       - CONTACT US.md
       - FAQ.md
