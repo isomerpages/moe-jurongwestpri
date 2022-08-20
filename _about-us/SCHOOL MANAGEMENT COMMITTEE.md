@@ -10,18 +10,6 @@ description: ""
 |:--------------------:|
 | Mr Chris Loh Kai Mun |
 
-<table>
-<thead>
-  <tr>
-    <th style = "text-align: center" >Principal</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td style = "text-align: center" >Mr Chris Loh Kai Mun</td>
-  </tr>
-</tbody>
-</table>
 
 <table>
 <thead>
