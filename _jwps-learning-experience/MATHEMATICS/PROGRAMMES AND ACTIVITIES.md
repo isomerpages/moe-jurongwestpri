@@ -68,7 +68,7 @@ Please click [here](https://jurongwestpri.moe.edu.sg/accolades/academic) to vi
 
 ### Improving Students' Retention of Knowledge
 
-<p style="text-align: justify;"> Students in our ICAN programme tend to face difficulties remembering what has been taught. They find it difficult to recall formulas and mathematical concepts. In particular, subtle differences between _more than_ and _less than_ tend to confuse low progress learners. In ICAN, these key concepts are explicitly highlighted to students so that they can better identify and recall what they have learned about these concepts. To promote retention, our teachers use graphic organisers, make connections with prior knowledge, use visual-aids as reminders of concepts, and provide practice and review to promote retention.</p>
+<p style="text-align: justify;"> Students in our ICAN programme tend to face difficulties remembering what has been taught. They find it difficult to recall formulas and mathematical concepts. In particular, subtle differences between <i>more than</i> and <i>less than</i> tend to confuse low progress learners. In ICAN, these key concepts are explicitly highlighted to students so that they can better identify and recall what they have learned about these concepts. To promote retention, our teachers use graphic organisers, make connections with prior knowledge, use visual-aids as reminders of concepts, and provide practice and review to promote retention.</p>
 
 ## LEARNING SUPPORT FOR MATHEMATICS (LSM)
 
