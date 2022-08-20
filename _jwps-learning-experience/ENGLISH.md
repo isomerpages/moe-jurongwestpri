@@ -17,3 +17,49 @@ The English Department aims to equip our students with the skills to speak, read
 |    Head of Department   |
 |:-----------------------:|
 | Mdm Hamidah Binti Osman |
+
+|       Level Head      |
+|:---------------------:|
+| Ms Farhana (Covering) |
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2" style="text-align: center;">Members</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">Mr Kong Kum Cheong<br>(LT/EL)</td>
+    <td style="text-align: center;">Mdm Beena D/O Prabhakaran<br>(ST/EL)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Mdm Margaret Lim<br>(ST/LSP/IMP Mentor/Assistant Year Head, P1 P2)<br></td>
+    <td style="text-align: center;">Ms Shamini D/O Gopal Krishnasamy<br>(SH/SL - Covering)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Mdm K Sunitha<br>(ST/SEN)<br></td>
+    <td style="text-align: center;">Mdm Tan Le-Shon<br></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Ms Marianne Ng Wei Ching<br>(ALP I/C)</td>
+    <td style="text-align: center;">Mdm Sakuntala D/O Kandasamy<br>(STELLAR Coordinator)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Mdm Gomathi D/O Krishnan<br>(SDR Coordinator)</td>
+    <td style="text-align: center;">Ms Cindy Sim Lee Choo<br>(Health Education Coordinator)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Mdm Lim Shao Leng Priscilla</td>
+    <td style="text-align: center;">Ms Nuraznita Binte Juke<br></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Mdm Dina Kharismawati</td>
+    <td style="text-align: center;">Mrs George Sudha<br></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"> Miss Lynn Heng</td>
+    <td> </td>
+  </tr>
+</tbody>
+</table>
