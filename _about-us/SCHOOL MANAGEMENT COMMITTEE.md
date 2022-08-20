@@ -77,3 +77,29 @@ Ms Tan Chiaw Chiet |
 |  Year Head ( Lower Block )  | Assistant Year Head ( Lower Block )   |
 |:---------------------------:|:-------------------------------------:|
 |      Ms Lau Chin Yong       |       Ms Yvonne Chew (Covering)       |
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2" style = "text-align: center">Subject Heads and Level Heads</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style = "text-align: center">Ms Farhana (Covering)<br>(LH/English)</td>
+    <td style = "text-align: center">Ms Esther Neo<br>(LH/Mathematics)<br></td>
+  </tr>
+  <tr>
+    <td style = "text-align: center">Mdm Pua Chia Wei<br>(LH/Chinese)<br></td>
+    <td style = "text-align: center">Mr Jasni Bin Ibrahim<br>(SH/Malay)</td>
+  </tr>
+  <tr>
+    <td style = "text-align: center">Ms Chong Siew Hui<br>(LH/Science)<br></td>
+    <td style = "text-align: center">Ms Tan Chee Keng<br>(SH/Character &amp; Citizenship Education)</td>
+  </tr>
+  <tr>
+    <td style = "text-align: center"> Ms Ong Ying Wen Gladys<br>(SH/ICT)<br></td>
+    <td style = "text-align: center">Ms Jamie Gu<br>(SH/PE and CCA) </td>
+  </tr>
+</tbody>
+</table>
