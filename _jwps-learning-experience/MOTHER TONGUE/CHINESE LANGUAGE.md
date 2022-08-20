@@ -18,8 +18,7 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 ### Programmes
 
 
-
-<p style="text-align: center;"> <b><u> 西区第三校群工作坊分享会 </b></u></p>
+<p style="text-align: center;"> <b><u> 西区第三校群工作坊分享会 </u></b></p>
 
 
         醒南小在学9月21日举办了西区第三校群工作坊分享会。  
