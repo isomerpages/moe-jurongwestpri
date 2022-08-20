@@ -5,17 +5,17 @@ description: ""
 third_nav_title: MOTHER TONGUE
 ---
 # CHINESE LANGUAGE
-## Vision
+### Vision
 
 Know our Language
 
 Love our Culture
 
-## Mission
+### Mission
 
 To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Language and Culture.
 
-## Programmes
+### Programmes
 
 
 
@@ -34,4 +34,4 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/Mother%20Tongue/Chinese%20Language/CL%20Dept_P6%20Parents%20Workshop_2%20April%2013.jpg)
 
-				
+### Interview by Thumbs Up Newspaper (大拇指)
