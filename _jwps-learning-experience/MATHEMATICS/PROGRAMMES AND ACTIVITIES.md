@@ -34,33 +34,16 @@ third_nav_title: MATHEMATICS
 ## FUNDAMATICS
 ### Strengthening the Fundamentals by Having Fun with Mathematics
 
-As part of the school's initiative of implementing an active recess, the Mathematics Department has introduced an activity named FUNdamatics. FUNdamatics provides another channel for pupils to be actively and meaningfully occupied during recess through playing mathematical and logical games. The main objective of this activity is to instill fun in the process of our students' learning through the use of mathematical and logical games. The games have been carefully curated with the aim of improving students’ mathematical factual fluency. Also, our teachers hope to cultivate in students a greatest interest and love for the subject.
-
-  
+<p style="text-align: justify;"> As part of the school's initiative of implementing an active recess, the Mathematics Department has introduced an activity named FUNdamatics. FUNdamatics provides another channel for pupils to be actively and meaningfully occupied during recess through playing mathematical and logical games. The main objective of this activity is to instill fun in the process of our students' learning through the use of mathematical and logical games. The games have been carefully curated with the aim of improving students’ mathematical factual fluency. Also, our teachers hope to cultivate in students a greatest interest and love for the subject. </p> 
 
 ![Fundamatics 1.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/JWPS%20Learning%20Experience/Mathematics/Fundamatics%201.png)
 
-  
+## MATH OLYMPIAD
+### Stretching Students' Potential and Achieving Greater Heights
 
-  
-
-  
-
-MATH OLYMPIAD
--------------
-
-### 
-
-  
-
-Stretching Students' Potential and Achieving Greater Heights
-
-Math Olympiad is an enrichment programme for selected Primary 4 to Primary 6 students with high aptitude and interest in Mathematics. It is conducted by qualified trainers engaged by the school. The students go through rigorous training which will enable them to pick up important non-routine Mathematical concepts and be able to explain and apply their knowledge of the Mathematical concepts. It also aims to equip the students with the ability to respond critically and accurately to Mathematical questions both in class and in Math Olympiad competitions. Through this training, we hope the students will be able to demonstrate resilience and self-discipline when completing Mathematical problems. The training will help to prepare the students for competitions such as Singapore Mathematical Olympiad for Primary Schools (SMOPS), National Mathematics Olympiad of Singapore (NMOS), Singapore and Asian Schools Math Olympiad (SASMO) and Annual Mathlympics. The students have consistently done well in these competitions, with some pupils achieving the gold, silver and bronze awards.
-
-  
+<p style="text-align: justify;"> Math Olympiad is an enrichment programme for selected Primary 4 to Primary 6 students with high aptitude and interest in Mathematics. It is conducted by qualified trainers engaged by the school. The students go through rigorous training which will enable them to pick up important non-routine Mathematical concepts and be able to explain and apply their knowledge of the Mathematical concepts. It also aims to equip the students with the ability to respond critically and accurately to Mathematical questions both in class and in Math Olympiad competitions. Through this training, we hope the students will be able to demonstrate resilience and self-discipline when completing Mathematical problems. The training will help to prepare the students for competitions such as Singapore Mathematical Olympiad for Primary Schools (SMOPS), National Mathematics Olympiad of Singapore (NMOS), Singapore and Asian Schools Math Olympiad (SASMO) and Annual Mathlympics. The students have consistently done well in these competitions, with some pupils achieving the gold, silver and bronze awards. </p>  
 
 Please click [here](https://jurongwestpri.moe.edu.sg/accolades/academic) to view the list of students who have received awards in Math Olympiad competitions.
-
   
 
 ![Olympiad 1.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/JWPS%20Learning%20Experience/Mathematics/Olympiad%201.png)  
