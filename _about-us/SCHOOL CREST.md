@@ -5,7 +5,7 @@ description: ""
 ---
 # School Crest
 
-### <span style = "color: #c81b1b"> School Crest </span>
+### <span style = "color: #c81b1b"> <b>School Crest</b> </span>
 
 <img src="/images/About%20Us/jwps_school_crest.png" alt="School Crest" class="center" style="width:25%">
 
