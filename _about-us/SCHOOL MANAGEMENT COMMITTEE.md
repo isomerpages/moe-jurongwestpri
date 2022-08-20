@@ -73,3 +73,7 @@ Ms Tan Chiaw Chiet |
 |  Year Head ( Middle Block ) | Assistant Year Head ( Middle Block ) |
 |:---------------------------:|:------------------------------------:|
 |        Ms Wai Lai May       |         Mrs Tan-Tan Mei Ching        |
+
+|  Year Head ( Lower Block )  | Assistant Year Head ( Lower Block )   |
+|:---------------------------:|:-------------------------------------:|
+|      Ms Lau Chin Yong       |       Ms Yvonne Chew (Covering)       |
