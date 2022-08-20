@@ -46,8 +46,7 @@ third_nav_title: MATHEMATICS
 
 Please click [here](https://jurongwestpri.moe.edu.sg/accolades/academic) to view the list of students who have received awards in Math Olympiad competitions.
   
-
-![Olympiad 1.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/JWPS%20Learning%20Experience/Mathematics/Olympiad%201.png)  
+![](/images/JWPS%20LEARNING%20EXPERIENCE/MATHEMATICS/PROGRAMMES%20AND%20ACTIVITIES/Olympiad%201.png)  
 
 ## ICAN PROGRAMME  
 ### Core Belief That Every Student Can Learn Mathematics
