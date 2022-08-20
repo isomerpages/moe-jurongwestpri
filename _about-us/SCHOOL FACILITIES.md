@@ -42,6 +42,14 @@ description: ""
 	<strong> Playground</strong>
 	</figcaption>
 </figure>
+
+<figure>
+	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
+     style="width:50%;">
+<figcaption>
+	<strong> Playground</strong>
+	</figcaption>
+</figure>
 	
 ## <span style = "color: #c81b1b"> <b>Gate 3 and Road Safety</b> </span>
 
