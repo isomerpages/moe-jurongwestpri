@@ -12,4 +12,4 @@ description: ""
 
 <h3> <p style = "text-align: center;"><span style="color: #c81b1b;"> Our School Mission </span> </p></h3>
 
-<h3> <p style = "text-align: center;"><span style="color: #c81b1b;"> Our School Vision </span> </p></h3>
+<h3> <p style = "text-align: center;"><span style="color: #c81b1b;"> School Core Values </span> </p></h3>
