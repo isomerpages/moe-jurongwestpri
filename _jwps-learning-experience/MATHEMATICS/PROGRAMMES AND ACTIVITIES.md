@@ -12,17 +12,11 @@ third_nav_title: MATHEMATICS
 *   FUNdamatics
 *   Mathematics Workshops for Parents
 
-### 
 
-**INFUSING GAMES AND ACTIVITIES IN OUR MATH LESSONS**  
+## INFUSING GAMES AND ACTIVITIES IN OUR MATH LESSONS    
+### Games Infusion
 
-####   
-
-### 
-
-Games Infusion
-
-The department believes in using games and hands-on activities to engage our students in the process of active learning. As part of the school’s effort to create a conducive learning environment for all students, our teachers have been incorporating hands-on activities using Math manipulatives in the delivery of our lessons. The use of simple and colourful manipulatives such as Play Money, Fraction discs, interlocking cubes etc, promotes students’ engagement and participation in the learning process. Opportunities are provided for students to discover, process and apply new information to make their learning authentic.
+<p style="text-align: justify;"> The department believes in using games and hands-on activities to engage our students in the process of active learning. As part of the school’s effort to create a conducive learning environment for all students, our teachers have been incorporating hands-on activities using Math manipulatives in the delivery of our lessons. The use of simple and colourful manipulatives such as Play Money, Fraction discs, interlocking cubes etc, promotes students’ engagement and participation in the learning process. Opportunities are provided for students to discover, process and apply new information to make their learning authentic. </p>
 
   
 
