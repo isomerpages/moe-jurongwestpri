@@ -34,6 +34,17 @@ description: ""
 | Teamwork 5 |         Mdm Suhaila         |      Mrs Rama     |
 | Teamwork 6 | Mdm Doris Heng / Ms Adriana | Mdm Francis Irene |
 
+<br>
+
+|   Class   |    Form Teacher   |      Form Teacher      |
+|:---------:|:-----------------:|:----------------------:|
+| Honesty 1 | Mdm Priscilla Lim |    Mdm Phang Kee Mee   |
+| Honesty 2 |   Mdm Cindy Sim   |       Mdm Lalitha      |
+| Honesty 3 |  Mdm Hui Yin Peng |     Mdm Toh Lay Har    |
+| Honesty 4 |  Mdm Tan Li Ping  | Mrs Lew-Wong Mei Foong |
+| Honesty 5 |    Ms Kelly Tan   |    Mdm Wang Xiaosong   |
+| Honesty 6 |   Ms Amanda Tan   |    Mdm Yu Shui Shui    |
+
 ## <span style = "color: #c81b1b"> <b>Allied Educators (AED), Flexi-Adjunct (FA) and Contract-Adjunct (CA)</b> </span>
 
 ## <span style = "color: #c81b1b"> <b>Allied Educators (AED), Flexi-Adjunct (FA) and Contract-Adjunct (CA)</b> </span>
