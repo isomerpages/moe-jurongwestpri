@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - SCHOOL FACILITIES.md
       - PRINCIPAL'S FOREWORD 2022.md
       - HISTORY.md
       - MISSION, VISION AND VALUES.md
       - SCHOOL CREST.md
+      - SCHOOL FACILITIES.md
       - CONTACT US.md
       - FAQ.md
