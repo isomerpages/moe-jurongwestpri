@@ -37,9 +37,11 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 ### Interview by Thumbs Up Newspaper (大拇指)
 
 <img src="/images/JWPS%20LEARNING%20EXPERIENCE/Mother%20Tongue/Chinese%20Language/tn_Chinese%20Thumb1_jpg_2.jpg"
-     style="width:30%">
+     style="width:30%; float: left">
+		 
+<img src="/images/JWPS%20LEARNING%20EXPERIENCE/Mother%20Tongue/Chinese%20Language/tn_Chinese%20Thumb2_jpg_2.jpg"
+     style="width:30%; float: left">		 
 
-![]()
-![](/images/JWPS%20LEARNING%20EXPERIENCE/Mother%20Tongue/Chinese%20Language/tn_Chinese%20Thumb2_jpg_2.jpg)
-
-![](/images/JWPS%20LEARNING%20EXPERIENCE/Mother%20Tongue/Chinese%20Language/tn_Chinese%20Thumb3_jpg_2.jpg)
+<img src="/images/JWPS%20LEARNING%20EXPERIENCE/Mother%20Tongue/Chinese%20Language/tn_Chinese%20Thumb3_jpg_2.jpg"
+     style="width:30%; float: left">
+		 
