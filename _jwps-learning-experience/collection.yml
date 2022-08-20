@@ -2,6 +2,7 @@ collections:
   jwps-learning-experience:
     output: true
     order:
+      - MOTHER TONGUE/.keep
       - MATHEMATICS/.keep
       - MATHEMATICS/MATHEMATICS.md
       - MATHEMATICS/PROGRAMMES AND ACTIVITIES.md
