@@ -22,3 +22,17 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Vice Principal  </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Lim Chin Guan<br>(Administration)</td>
+    <td> Mr Pillay P Krishnan<br>(Academic) </td>
+  </tr>
+</tbody>
+</table>
