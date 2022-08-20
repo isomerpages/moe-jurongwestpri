@@ -68,3 +68,23 @@ description: ""
 | Kindness 6 |         Mrs Wee Yin Ser        |  Mdm Huang Li Xia |
 
 ## <span style = "color: #c81b1b"> <b>Upper Block Year Head: Mrs Sophia Ow Yong<br>Upper Block Assistant Year Head: Ms Emily Lim</b> </span>
+
+|     Class    |   Form Teacher   |            Form Teacher           |
+|:------------:|:----------------:|:---------------------------------:|
+| Enthusiasm 1 | Mdm Vivienne Ong |     Mdm Beena / Ms Gladys Ong     |
+| Enthusiasm 2 |  Mdm Tan Le-Shon |         Mdm Chan Qing Yue         |
+| Enthusiasm 3 |  Ms Tan Kai Lin  |            Ms Yan Bing            |
+| Enthusiasm 4 |  Ms Marianne Ng  |    Ms Esther Neo / Mr Joel How    |
+| Enthusiasm 5 |  Ms Andrea Chan  |            Mdm Sunitha            |
+| Enthusiasm 6 |    Ms Jamie Gu   | Mr Jasni / Mdm Sopianti (T2 - T4) |
+
+<br>
+
+|     Class    |    Form Teacher   |           Form Teacher           |
+|:------------:|:-----------------:|:--------------------------------:|
+| Resilience 1 | Mdm Liu Hong Ping |         Mdm Foo Meng Leng        |
+| Resilience 2 | Ms Shermaine Chan |        Mdm Woon Hsiao Han        |
+| Resilience 3 |     Ms Val Tan    |         Mdm Norliah Latif        |
+| Resilience 4 |    Ms Jean Chia   |         Mdm Pua Chia Wei         |
+| Resilience 5 |  Mdm Jessie Teow  | Mdm Eliza Lim / Mdm Loo Yie Ying |
+| Resilience 6 |  Mr Alphonsus Png |     Mdm Shamini / Ms Noraisha    |
