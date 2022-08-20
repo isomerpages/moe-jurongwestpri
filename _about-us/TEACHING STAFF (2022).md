@@ -67,4 +67,4 @@ description: ""
 | Kindness 5 | Ms Tan Chee Keng / Mdm Suriati | Ms Chong Siew Hui |
 | Kindness 6 |         Mrs Wee Yin Ser        |  Mdm Huang Li Xia |
 
-## <span style = "color: #c81b1b"> <b>Allied Educators (AED), Flexi-Adjunct (FA) and Contract-Adjunct (CA)</b> </span>
+## <span style = "color: #c81b1b"> <b>Upper Block Year Head: Mrs Sophia Ow Yong<br>Upper Block Assistant Year Head: Ms Emily Lim</b> </span>
