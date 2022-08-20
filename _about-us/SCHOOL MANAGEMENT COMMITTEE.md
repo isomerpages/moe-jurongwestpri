@@ -69,3 +69,7 @@ Ms Tan Chiaw Chiet |
 |  Year Head ( Upper Block ) | Assistant Year Head ( Upper Block ) |
 |:---:|:---:|
 | Mrs Sophia Ow Yong | Ms Emily Lim |
+
+|  Year Head ( Middle Block ) | Assistant Year Head ( Middle Block ) |
+|:---------------------------:|:------------------------------------:|
+|        Ms Wai Lai May       |         Mrs Tan-Tan Mei Ching        |
