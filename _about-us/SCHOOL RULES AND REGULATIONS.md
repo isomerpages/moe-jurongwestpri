@@ -109,12 +109,10 @@ All students are expected to:
 3.  Not to misuse things provided for safety purposes;  
     
 4.  Adhere to JWPS WALK Rules when they move from point to point.  
-    
-
-*   **W**alk quietly
-*   **A**dhere to pit-stops
-*   **L**ook straight
-*   **K**eep left  
+     * **W**alk quietly
+     *  **A**dhere to pit-stops
+     *   **L**ook straight
+     *    **K**eep left  
     
 
   
