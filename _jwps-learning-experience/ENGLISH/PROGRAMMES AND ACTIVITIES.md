@@ -36,7 +36,7 @@ third_nav_title: ENGLISH
 
 <p style="text-align: justify;"> Through DST, the school hopes to enhance competencies across many domains, and expose teachers and students to the possibilities of using Web2.0 tools for teaching and learning. A number of teaching periods were allocated to DST in the Primary 3 English curriculum. Through DST, our students learnt to use tools such as Google Slides, Google Documents, Linoit and PowerPoint to write and share about their experiences. As a form of self-directed learning, students were taught features of recount writing and encouraged to create their own digital stories. </p>
 
-<img src="/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Digital%20Storytelling.png"
+<img src="/images/JWPS%20LEARNING%20EXPERIENCE/ENGLISH/PROGRAMME%20AND%20ACTIVITES/Digital%20Storytelling.png"
      style="width:50%">
 
 ## ENGLISH STUDENT LEADERS
@@ -52,7 +52,7 @@ third_nav_title: ENGLISH
 
 <p style="text-align: justify;"> LSP is an early literacy intervention programme which aims to provide learning support to Primary 1 and 2 students who have weak language, reading and spelling skills. They are identified for this programme through the Early Literacy Indicators Test which is administered at the beginning of Primary 1. The students are taught by the LSCs, Mrs Margaret Tan and Mrs Farihin, in groups of ten for one period every day. The curriculum includes the teaching of phonemic awareness, phonics, vocabulary, reading and spelling skills. The students are given much support and encouragement and are taught in a conducive and well-decorated classroom. At the end of the year, students who meet the twin-discharge criteria, namely age-appropriate reading age and a pass in overall English Language, are discharged from the programme. They are awarded certificates of achievement for attaining a pass in the English Language and making progress in their reading. </p>
 
-<img src="/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Learning%20Support%20Programme%201.png"
+<img src="/images/JWPS%20LEARNING%20EXPERIENCE/ENGLISH/PROGRAMME%20AND%20ACTIVITES/Learning%20Support%20Programme%201.png"
      style="width:50%">
 
 ### Learning Support Games Day
