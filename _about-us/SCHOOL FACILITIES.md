@@ -12,6 +12,12 @@ description: ""
 
 ## <span style = "color: #c81b1b"> <b>Revamped Library</b> </span>
 
+![](/images/About%20Us/School%20Facilities/tn_library_JPG_2.jpg)
+
+![](/images/About%20Us/School%20Facilities/tn_storeytelling%20corner_JPG_2.jpg)
+
+![](/images/About%20Us/School%20Facilities/tn_stage_at_library_JPG_2.jpg)
+
 ## <span style = "color: #c81b1b"> <b>Outdoor Performing Stage, Garden and Pond</b> </span>
 
 ## <span style = "color: #c81b1b"> <b>School Facilities</b> </span>
