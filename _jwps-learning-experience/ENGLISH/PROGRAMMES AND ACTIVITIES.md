@@ -59,7 +59,7 @@ third_nav_title: ENGLISH
 
 <p style="text-align: justify;"> All Primary 1 and Primary 2 LSP students will have a chance to participate in creative and fun activities on the annual Learning Support Games Day. They play phonics games and also engage in team-building activities during the event. </p>
 
-<img src="/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Learning%20Support%20Programme%202.png"
+<img src="/images/JWPS%20LEARNING%20EXPERIENCE/ENGLISH/PROGRAMME%20AND%20ACTIVITES/Learning%20Support%20Programme%202.png"
      style="width:50%">  
 
 ## LITERATURE PROGRAMME
@@ -68,13 +68,13 @@ third_nav_title: ENGLISH
 
 <p style="text-align: justify;"> Our school embarked on the Literature Programme for Primary 3 and Primary 4 students in 2016. Through this programme, we hope to instil the love of reading in our students. The books, <i>Charlotte’s Web</i> and <i>Charlie and the Chocolate Factory</i>, have very interesting plots and characters that provide opportunities for engaging classroom discussions. Such discussions include values on friendship, kindness, compassion and generosity. Students often are able to link real life experiences to the story, hence making the whole process meaningful. The classroom activities also explore creative expressions in the form of poetry writing and poster design. The learning of English language is thus seamlessly weaved into this programme. We hope that through the guidance of the English teachers and the learning experience they gain from the programme, students are better skilled and are able to enjoy in greater depths the books that they pick up to read in future. </p>
 
- <img src="/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Literature%20Programme%203.png"
+ <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ENGLISH/PROGRAMME%20AND%20ACTIVITES/Literature%20Programme%203.png"
      style="width:30%;float: left">  
 		 
-<img src="/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Literature%20Programme%202.png"
+<img src="/images/JWPS%20LEARNING%20EXPERIENCE/ENGLISH/PROGRAMME%20AND%20ACTIVITES/Literature%20Programme%202.png"
      style="width:30%">  
 		 
-<img src="/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Literature%20Programme%201.png"
+<img src="/images/JWPS%20LEARNING%20EXPERIENCE/ENGLISH/PROGRAMME%20AND%20ACTIVITES/Literature%20Programme%201.png"
      style="width:50%;float: left">  
 
 
