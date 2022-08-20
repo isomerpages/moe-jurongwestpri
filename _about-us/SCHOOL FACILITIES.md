@@ -14,11 +14,15 @@ description: ""
 		 
 ## <span style = "color: #c81b1b"> <b>Revamped Library</b> </span>
 
-![](/images/About%20Us/School%20Facilities/tn_library_JPG_2.jpg)
+<img src="/images/About%20Us/School%20Facilities/tn_library_JPG_2.jpg"
+     style="width:50%;">
+		 
+<img src="/images/About%20Us/School%20Facilities/tn_storeytelling%20corner_JPG_2.jpg"
+     style="width:50%;">
 
-![](/images/About%20Us/School%20Facilities/tn_storeytelling%20corner_JPG_2.jpg)
+<img src="/images/About%20Us/School%20Facilities/tn_stage_at_library_JPG_2.jpg"
+     style="width:50%;">
 
-![](/images/About%20Us/School%20Facilities/tn_stage_at_library_JPG_2.jpg)
 
 ## <span style = "color: #c81b1b"> <b>Outdoor Performing Stage, Garden and Pond</b> </span>
 
