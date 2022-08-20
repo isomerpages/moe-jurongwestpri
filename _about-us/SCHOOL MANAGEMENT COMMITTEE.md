@@ -5,3 +5,7 @@ description: ""
 ---
 # SCHOOL MANAGEMENT COMMITTEE
 ![](/images/About%20Us/IMG_1613.png)
+
+|       Principal      |
+|:--------------------:|
+| Mr Chris Loh Kai Mun |
