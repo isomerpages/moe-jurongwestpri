@@ -45,6 +45,15 @@ description: ""
 | Honesty 5 |    Ms Kelly Tan   |    Mdm Wang Xiaosong   |
 | Honesty 6 |   Ms Amanda Tan   |    Mdm Yu Shui Shui    |
 
-## <span style = "color: #c81b1b"> <b>Allied Educators (AED), Flexi-Adjunct (FA) and Contract-Adjunct (CA)</b> </span>
+## <span style = "color: #c81b1b"> <b>Middle Block Year Head: Ms Wai Lai May<br>Middle Block Assistant Year Head: Mrs Tan-Tan Mei Ching</b> </span>
+
+|       Class       |   Form Teacher   |    Form Teacher   |
+|:-----------------:|:----------------:|:-----------------:|
+| Innovativeness 1A |      Mr Azli     |      Mdm Rani     |
+| Innovativeness 1B | Mrs George Sudha |   Mdm Nur Sahira  |
+|  Innovativeness 2 |   Mdm Sakuntala  |     Ms Ma Jing    |
+|  Innovativeness 3 |   Mr Jeremy Lim  | Mdm Loke Jye Jiun |
+|  Innovativeness 4 |   Mdm Nuraznita  |  Ms Lim Yan Ping  |
+|  Innovativeness 5 | Mdm Siti Farhana |  Ms Geraldine Loo |
 
 ## <span style = "color: #c81b1b"> <b>Allied Educators (AED), Flexi-Adjunct (FA) and Contract-Adjunct (CA)</b> </span>
