@@ -77,4 +77,15 @@ description: ""
 	
 ## <span style = "color: #c81b1b"> <b>Gate 3 and Road Safety</b> </span>
 
+![](/images/About%20Us/School%20Facilities/Gate3&RoadSafety.jpg)
+
 ## <span style = "color: #c81b1b"> <b>Driveway and Quadrangle</b> </span>
+
+*   Tarmac Driveway  
+    
+*   Cement Quadrangle  
+    
+
+*   1 Netball Court
+*   4 Badminton Court
+*   8 Hopscotch
