@@ -23,7 +23,7 @@ Monday to Friday: 6.30 a.m. to 7 p.m. 
 #### 3\. What are the operating time for the Library, Dental Clinic & Book Store?
 
   
-##### Library Hours  
+##### <span style = "color: #660000"> Library Hours  
 8 a.m. to 4 p.m.  
   
 ##### Dental Clinic Hours 
