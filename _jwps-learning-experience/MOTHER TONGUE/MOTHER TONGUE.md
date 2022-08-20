@@ -22,64 +22,64 @@ third_nav_title: MOTHER TONGUE
 <table>
 <thead>
   <tr>
-    <th colspan="2">Members</th>
+    <th colspan="2" style="text-align: center;">Members</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Ms Cheong Wei Siang Carol(HOD/ICT)</td>
-    <td>Mdm Foo Meng Leng<br>(ST/CL)</td>
+    <td style="text-align: center;">Ms Cheong Wei Siang Carol(HOD/ICT)</td>
+    <td style="text-align: center;">Mdm Foo Meng Leng<br>(ST/CL)</td>
   </tr>
   <tr>
-    <td> Mrs Ramachandran P<br>(ST/TL)</td>
-    <td> Mdm Suriati Bte Samuri<br>(ST/Art)</td>
+    <td style="text-align: center;"> Mrs Ramachandran P<br>(ST/TL)</td>
+    <td style="text-align: center;"> Mdm Suriati Bte Samuri<br>(ST/Art)</td>
   </tr>
   <tr>
-    <td> Ms Loo Pei Ling Geraldine<br>(iExams Coordinator)</td>
-    <td>Ms Loke Jye Jiun<br>(Edusave Coordinator)<br></td>
+    <td style="text-align: center;"> Ms Loo Pei Ling Geraldine<br>(iExams Coordinator)</td>
+    <td style="text-align: center;">Ms Loke Jye Jiun<br>(Edusave Coordinator)<br></td>
   </tr>
   <tr>
-    <td>Mdm Norliah Binte Abdul Latif<br>(Cockpit Coordinator)<br></td>
-    <td>Mdm Toh Lay Har<br>(CCM Coordinator)</td>
+    <td style="text-align: center;">Mdm Norliah Binte Abdul Latif<br>(Cockpit Coordinator)<br></td>
+    <td style="text-align: center;">Mdm Toh Lay Har<br>(CCM Coordinator)</td>
   </tr>
   <tr>
-    <td>Mdm Siti Abesah Bte Md Yusof<br>(CCE Coordinator)<br></td>
-    <td>Mdm Sopianti Bt Abdullah<br>(ST/ML/ICT)</td>
+    <td style="text-align: center;">Mdm Siti Abesah Bte Md Yusof<br>(CCE Coordinator)<br></td>
+    <td style="text-align: center;">Mdm Sopianti Bt Abdullah<br>(ST/ML/ICT)</td>
   </tr>
   <tr>
-    <td>Miss Seah Hui Yan<br></td>
-    <td>  Mdm Yu Shuishui </td>
+    <td style="text-align: center;">Miss Seah Hui Yan<br></td>
+    <td style="text-align: center;">  Mdm Yu Shuishui </td>
   </tr>
   <tr>
-    <td> Ms Chew You Mei Yvonne</td>
-    <td>Mdm Ooi Min Duan</td>
+    <td style="text-align: center;"> Ms Chew You Mei Yvonne</td>
+    <td style="text-align: center;">Mdm Ooi Min Duan</td>
   </tr>
   <tr>
-    <td>Mdm Xia Lu</td>
-    <td>Ms Yan Bing<br></td>
+    <td style="text-align: center;">Mdm Xia Lu</td>
+    <td style="text-align: center;">Ms Yan Bing<br></td>
   </tr>
   <tr>
-    <td>Mdm Zhang Minhui  </td>
-    <td>Mdm Wang Xiaosong </td>
+    <td style="text-align: center;">Mdm Zhang Minhui  </td>
+    <td style="text-align: center;">Mdm Wang Xiaosong </td>
   </tr>
   <tr>
-    <td>Ms Siti Noraisha Binte Mohd Senin</td>
-    <td> Ms Thilaga Rani D/O Pandian</td>
+    <td style="text-align: center;">Ms Siti Noraisha Binte Mohd Senin</td>
+    <td style="text-align: center;"> Ms Thilaga Rani D/O Pandian</td>
   </tr>
   <tr>
-    <td>Mdm Phang Kee Mee</td>
-    <td>Mrs Lalitha Chandrashekaran</td>
+    <td style="text-align: center;">Mdm Phang Kee Mee</td>
+    <td style="text-align: center;">Mrs Lalitha Chandrashekaran</td>
   </tr>
   <tr>
-    <td>Mdm Chan Qing Yue</td>
-    <td> Ms Loo Yie Yeng<br></td>
+    <td style="text-align: center;">Mdm Chan Qing Yue</td>
+    <td style="text-align: center;"> Ms Loo Yie Yeng<br></td>
   </tr>
   <tr>
-    <td>Mdm Ma Jing<br></td>
-    <td>Mdm Huang Lixia</td>
+    <td style="text-align: center;">Mdm Ma Jing<br></td>
+    <td style="text-align: center;">Mdm Huang Lixia</td>
   </tr>
   <tr>
-    <td> Mrs Lew-Wong Mei Foong</td>
+    <td style="text-align: center;"> Mrs Lew-Wong Mei Foong</td>
     <td> </td>
   </tr>
 </tbody>
