@@ -166,8 +166,6 @@ As part of our dedication to student welfare, we have taken a basic insurance po
 *   Do not rush across the road when the green man at traffic controls is flashing.  
     
 
-  
-
 **Cycling**
 
 *   Ensure that your bicycle is always in a good condition.
@@ -181,8 +179,6 @@ As part of our dedication to student welfare, we have taken a basic insurance po
 *   Left Turn Signal – Extend left arm straight out in the direction of the turn, parallel to the road.
 *   Right Turn Signal – Extend right arm straight out in the direction of the turn, parallel to the road.
 *   Stopping / Braking Signal – Extend your right arm directly out to the right parallel to the road with palm facing down and slowly wave the extended arm up and down.
-
-  
 
 **Travelling by Bus**
 
