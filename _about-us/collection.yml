@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - SCHOOL SONG.md
       - PRINCIPAL'S FOREWORD 2022.md
       - HISTORY.md
       - MISSION, VISION AND VALUES.md
@@ -14,4 +13,5 @@ collections:
       - EXECUTIVE & ADMINISTRATION STAFF.md
       - CALENDAR.md
       - CONTACT US.md
+      - SCHOOL SONG.md
       - FAQ.md
