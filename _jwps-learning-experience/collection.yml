@@ -2,10 +2,10 @@ collections:
   jwps-learning-experience:
     output: true
     order:
-      - MOTHER TONGUE/TAMIL LANGUAGE.md
-      - MOTHER TONGUE/MALAY LANGUAGE.md
-      - MOTHER TONGUE/MOTHER TONGUE.md
       - MOTHER TONGUE/.keep
+      - MOTHER TONGUE/MOTHER TONGUE.md
+      - MOTHER TONGUE/MALAY LANGUAGE.md
+      - MOTHER TONGUE/TAMIL LANGUAGE.md
       - MATHEMATICS/.keep
       - MATHEMATICS/MATHEMATICS.md
       - MATHEMATICS/PROGRAMMES AND ACTIVITIES.md
