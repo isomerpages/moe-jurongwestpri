@@ -20,6 +20,10 @@ description: ""
 
 ## <span style = "color: #c81b1b"> <b>Outdoor Performing Stage, Garden and Pond</b> </span>
 
+![](/images/About%20Us/School%20Facilities/tn_performing%20stage_JPG_2.jpg)
+
+![](/images/About%20Us/School%20Facilities/tn_pond_JPG_2.jpg)
+
 ## <span style = "color: #c81b1b"> <b>School Facilities</b> </span>
 
 ## <span style = "color: #c81b1b"> <b>Gate 3 and Road Safety</b> </span>
