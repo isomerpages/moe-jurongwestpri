@@ -75,7 +75,7 @@ Please click [here](https://jurongwestpri.moe.edu.sg/accolades/academic) to vi
 
 <p style="text-align: justify;">The Learning Support for Mathematics (LSM) programme is designed to provide early intervention support in Mathematics to students who have not achieved an age-appropriate mathematical age when they enter Primary One. The goals of LSM are to level up and help students achieve an age-appropriate mathematical age and to equip students with the mathematical knowledge, skills and dispositions so that they can learn Mathematics with their peers. Students are identified for this programme through the Early Numeracy Indicators Test which is administered at the beginning of Primary 1. Students identified for LSM programme are supported by qualified LSM teachers, Madam Norlia Safi’ee and Mr Ali Aziz. The LSM class-size is kept small, so that every student receives individual attention from the LSM teachers. The students are given much support and encouragement and are taught in a conducive and well-decorated classroom. The LSM teachers can help their students by ensuring that they experience success in learning Mathematics. In LSM, we also adopt the ICAN Intervention Framework which embraces 8 key principles of effective intervention, namely Routines and Norms, Diagnosis and Feedback, Confidence and Motivation, Key Ideas and their Connections, Explicit and Direct Instruction, Scaffolding and Progression, Communication and Reasoning, and Practice and Review. </p>
 
-![LSM 1.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/JWPS%20Learning%20Experience/Mathematics/LSM%201.png)  
+![](/images/JWPS%20LEARNING%20EXPERIENCE/MATHEMATICS/PROGRAMMES%20AND%20ACTIVITIES/LSM%201.png)
 
 ### JWPS Learning Support Games Day
 
