@@ -60,7 +60,7 @@ description: ""
 </figure>
 
 <figure>
-	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
+	 <img src="/images/About%20Us/School%20Facilities/tn_staffroom_JPG_2.jpg"
      style="width:50%;">
 <figcaption>
 	<strong> Spacious Staff Lounge</strong>
