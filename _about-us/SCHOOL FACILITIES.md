@@ -6,10 +6,12 @@ description: ""
 # SCHOOL FACILITIES
 ## <span style = "color: #c81b1b"> <b>Indoor Sports Hall</b> </span>
 
-![](/images/About%20Us/School%20Facilities/tn_indoor_sports_hall_JPG_2.jpg)
+<img src="/images/About%20Us/School%20Facilities/tn_indoor_sports_hall_JPG_2.jpg"
+     style="width:50%;">
 
-![](/images/About%20Us/School%20Facilities/tn_covered%20basketball%20court_JPG_2.jpg)
-
+<img src="/images/About%20Us/School%20Facilities/tn_covered%20basketball%20court_JPG_2.jpg"
+     style="width:50%;">
+		 
 ## <span style = "color: #c81b1b"> <b>Revamped Library</b> </span>
 
 ![](/images/About%20Us/School%20Facilities/tn_library_JPG_2.jpg)
@@ -28,7 +30,7 @@ description: ""
 
 <figure>
 	 <img src="/images/About%20Us/School%20Facilities/tn_playground_JPG_2.jpg"
-     style="width:50%"></a>
+     style="width:50%;">
 <figcaption>
 	<strong> Playground</strong>
 	</figcaption>
