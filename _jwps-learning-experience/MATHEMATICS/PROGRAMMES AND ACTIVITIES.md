@@ -44,7 +44,7 @@ third_nav_title: MATHEMATICS
 
 <p style="text-align: justify;"> Math Olympiad is an enrichment programme for selected Primary 4 to Primary 6 students with high aptitude and interest in Mathematics. It is conducted by qualified trainers engaged by the school. The students go through rigorous training which will enable them to pick up important non-routine Mathematical concepts and be able to explain and apply their knowledge of the Mathematical concepts. It also aims to equip the students with the ability to respond critically and accurately to Mathematical questions both in class and in Math Olympiad competitions. Through this training, we hope the students will be able to demonstrate resilience and self-discipline when completing Mathematical problems. The training will help to prepare the students for competitions such as Singapore Mathematical Olympiad for Primary Schools (SMOPS), National Mathematics Olympiad of Singapore (NMOS), Singapore and Asian Schools Math Olympiad (SASMO) and Annual Mathlympics. The students have consistently done well in these competitions, with some pupils achieving the gold, silver and bronze awards. </p>  
 
-# Please click [here](https://jurongwestpri.moe.edu.sg/accolades/academic) to view the list of students who have received awards in Math Olympiad competitions.
+Please click [here](/accolades/ACADEMIC/2017) to view the list of students who have received awards in Math Olympiad competitions.
   
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/MATHEMATICS/PROGRAMMES%20AND%20ACTIVITIES/Olympiad%201.png)  
 
