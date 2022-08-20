@@ -4,9 +4,37 @@ permalink: /about-us/contact-us
 description: ""
 ---
 # CONTACT US
-Address:	30, JURONG WEST ST 61  S(648368)
-Tel :	6793 3419
-Fax :	6793 6593
-e-Mail :	jwps@moe.edu.sg
-Bus Services :	192
-Nearest MRT Station :	Pioneer MRT Station
+<table>
+<thead>
+  <tr>
+    <th>Address:</th>
+    <th>30, JURONG WEST ST 61  S(648368)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Tel :</td>
+    <td>6793 3419</td>
+  </tr>
+  <tr>
+    <td>Fax :</td>
+    <td>6793 6593</td>
+  </tr>
+  <tr>
+    <td>e-Mail :</td>
+    <td><a href="mailto:jwps@moe.edu.sg">jwps@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Bus Services :</td>
+    <td>192</td>
+  </tr>
+  <tr>
+    <td>Nearest MRT Station :</td>
+    <td>Pioneer MRT Station</td>
+  </tr>
+  <tr>
+    <td>Map</td>
+    <td>jwps map.jpg</td>
+  </tr>
+</tbody>
+</table>
