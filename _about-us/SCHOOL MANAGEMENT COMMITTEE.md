@@ -65,3 +65,7 @@ description: ""
 |:---:|
 | Ms Sharifah Ali  
 Ms Tan Chiaw Chiet |
+
+|  Year Head ( Upper Block ) | Assistant Year Head ( Upper Block ) |
+| --- | --- |
+| Mrs Sophia Ow Yong | Ms Emily Lim |
