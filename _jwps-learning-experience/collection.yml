@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  jwps-learning-experience:
     output: true
     order:
       - folder-page.md
