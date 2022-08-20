@@ -18,9 +18,7 @@ third_nav_title: MATHEMATICS
 
 <p style="text-align: justify;"> The department believes in using games and hands-on activities to engage our students in the process of active learning. As part of the school’s effort to create a conducive learning environment for all students, our teachers have been incorporating hands-on activities using Math manipulatives in the delivery of our lessons. The use of simple and colourful manipulatives such as Play Money, Fraction discs, interlocking cubes etc, promotes students’ engagement and participation in the learning process. Opportunities are provided for students to discover, process and apply new information to make their learning authentic. </p>
 
-  
-
-Math Games Week
+### Math Games Week
 
 In Term 3, our students are provided with a platform to play competitively against their peers in the annual Math Games Week. Games such as Numero, Math Warrior and Fun with Tangrams provide a meaningful situation for the application of Mathematical skills. Through games, students are motivated to participate and enjoy playing. In the process, students build their confidence and develop positive attitudes towards Mathematics, reducing the fear of failures and errors.
 
