@@ -34,7 +34,8 @@ description: ""
   </tr>
   <tr>
     <td>Map</td>
-    <td>jwps map.jpg</td>
+    <td><a href="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg" target = "_blank"> <img src="/images/Jewel%20outing/032-Ee-Leng-Elaine-Seah-250x250.jpg"
+     style="width:50%"></a>jwps map.jpg</td>
   </tr>
 </tbody>
 </table>
