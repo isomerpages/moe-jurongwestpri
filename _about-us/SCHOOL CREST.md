@@ -8,3 +8,11 @@ description: ""
 ### <span style = "color: #c81b1b"> School Crest </span>
 
 <img src="/images/jwps_school_crest.png" alt="School Crest" class="center" style="width:40%">
+
+|            |            |
+|---------------------------|--------------------------------------|
+| Green Sapling:            | Lively young child                   |
+| Yellow Circle:            | Environment of love and care         |
+| Green Concentric Circles: | Wholesome and well-rounded education |
+| White Background:         | Upright character of students        |
+| School colours:           | Blue, green and yellow               |
