@@ -46,10 +46,9 @@ third_nav_title: ENGLISH
 <p style="text-align: justify;"> At the start of the school year, English Leaders will go through a short training on their roles and responsibilities. English Leaders are the first-line support to their English teacher. They will help to collect homework and assist in any English-related activities. This year, the leaders had the opportunity to present stories and grammar items to their classmates weekly. This provided a platform for the leaders to share their newfound grammar knowledge. By presenting in front of their peers, the leaders also developed greater confidence and knowledge of grammar items. Primary 5 and Primary 6 leaders took it one step further and shared moral stories with Primary 1 and 2 students. </p>
 
 
-### LEARNING SUPPORT PROGRAMME (LSP)
-  
+## LEARNING SUPPORT PROGRAMME (LSP)
 
-**Early Literacy Intervention for Primary 1 and 2 Students**
+### Early Literacy Intervention for Primary 1 and 2 Students
 
 LSP is an early literacy intervention programme which aims to provide learning support to Primary 1 and 2 students who have weak language, reading and spelling skills. They are identified for this programme through the Early Literacy Indicators Test which is administered at the beginning of Primary 1. The students are taught by the LSCs, Mrs Margaret Tan and Mrs Farihin, in groups of ten for one period every day. The curriculum includes the teaching of phonemic awareness, phonics, vocabulary, reading and spelling skills. The students are given much support and encouragement and are taught in a conducive and well-decorated classroom. At the end of the year, students who meet the twin-discharge criteria, namely age-appropriate reading age and a pass in overall English Language, are discharged from the programme. They are awarded certificates of achievement for attaining a pass in the English Language and making progress in their reading.
 
