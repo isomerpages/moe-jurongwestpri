@@ -24,7 +24,7 @@ Jurong West Primary
 Striving for the best  
 A lifelong learner  
 Resilient through all tests  
-Always a **THInKER  
-**Always growing  
+Always a **THInKER**  
+Always growing  
 Becoming a leader  
 Who will serve the rest
