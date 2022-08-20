@@ -20,7 +20,7 @@ third_nav_title: MATHEMATICS
 
 ### Math Games Week
 
-In Term 3, our students are provided with a platform to play competitively against their peers in the annual Math Games Week. Games such as Numero, Math Warrior and Fun with Tangrams provide a meaningful situation for the application of Mathematical skills. Through games, students are motivated to participate and enjoy playing. In the process, students build their confidence and develop positive attitudes towards Mathematics, reducing the fear of failures and errors.
+<p style="text-align: justify;"> In Term 3, our students are provided with a platform to play competitively against their peers in the annual Math Games Week. Games such as Numero, Math Warrior and Fun with Tangrams provide a meaningful situation for the application of Mathematical skills. Through games, students are motivated to participate and enjoy playing. In the process, students build their confidence and develop positive attitudes towards Mathematics, reducing the fear of failures and errors. </p>
 
   
 
