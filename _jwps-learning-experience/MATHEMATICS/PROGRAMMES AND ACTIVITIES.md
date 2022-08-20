@@ -22,7 +22,7 @@ third_nav_title: MATHEMATICS
 
 <p style="text-align: justify;"> In Term 3, our students are provided with a platform to play competitively against their peers in the annual Math Games Week. Games such as Numero, Math Warrior and Fun with Tangrams provide a meaningful situation for the application of Mathematical skills. Through games, students are motivated to participate and enjoy playing. In the process, students build their confidence and develop positive attitudes towards Mathematics, reducing the fear of failures and errors. </p>
 
-![Infusion 1.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/JWPS%20Learning%20Experience/Mathematics/Infusion%201.png)
+![](/images/JWPS%20LEARNING%20EXPERIENCE/MATHEMATICS/PROGRAMMES%20AND%20ACTIVITIES/Infusion%201.png)
 
 ## WIRELESS EXPERIENTIAL LEARNING
 ### Bringing Authentic Context to Learning
