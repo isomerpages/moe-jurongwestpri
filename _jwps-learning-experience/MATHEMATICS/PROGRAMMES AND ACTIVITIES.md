@@ -81,13 +81,13 @@ Please click [here](https://jurongwestpri.moe.edu.sg/accolades/academic) to vi
 
 All Primary 1 and Primary 2 LSM students will have the opportunity to participate in creative and fun activities on our annual Learning Support Games Day. Students will work in groups to solve mathematical problems through logic, experiential learning and games. Through this event, our teachers hope to boost their interest in learning and promote character development through team building.
 
-![LSM 2.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/JWPS%20Learning%20Experience/Mathematics/LSM%202.png)
+![](/images/JWPS%20LEARNING%20EXPERIENCE/MATHEMATICS/PROGRAMMES%20AND%20ACTIVITIES/LSM%202.png)
 
 ### LSM Cluster Games Day
 
 In 2017, our Primary 2 LSM students took part in the Cluster LSM Games Day held at Clementi Primary School. The objectives of the event are to engage students in learning mathematical concepts in a fun and interactive way, and encourage teamwork among students through play. Through games, students gain greater confidence and develop a positive attitude towards Mathematics. Students are able to see how the mathematical concepts that they learn can be applied in daily life, thus making learning meaningful.
 
-![LSM 3.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/JWPS%20Learning%20Experience/Mathematics/LSM%203.png)
+![](/images/JWPS%20LEARNING%20EXPERIENCE/MATHEMATICS/PROGRAMMES%20AND%20ACTIVITIES/LSM%203.png)
  
 
 ## MATHEMATICS WORKSHOPS FOR PARENTS
