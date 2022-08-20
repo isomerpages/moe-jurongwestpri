@@ -12,17 +12,7 @@ description: ""
 
 <h3> <p style = "text-align: center;"><span style="color: #c81b1b;"> Our School Mission </span> </p></h3>
 
-<p style = "text-align: center;"> To develop <br><br> A Confident person <br>(Believe in oneself),
-
-An active Contributor 
-
-(Always giving selflessly), 
-
-  
-
-A Concerned citizen 
-
-(A caring individual who is socially responsible, cultivates a healthy lifestyle, 
+<p style = "text-align: center;"> To develop <br><br> A Confident person <br>(Believe in oneself), <br><br>An active Contributor <br>(Always giving selflessly), <br><br>A Concerned citizen <br>(A caring individual who is socially responsible, cultivates a healthy lifestyle, 
 
 putting nation before self) 
 
