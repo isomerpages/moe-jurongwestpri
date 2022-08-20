@@ -66,10 +66,7 @@ All Primary 1 and Primary 2 LSP students will have a chance to participate in cr
 
   
 
-LITERATURE PROGRAMME
---------------------
-
-  
+## LITERATURE PROGRAMME
 
 **Enjoyment of Reading and Language Learning**
 
@@ -83,35 +80,20 @@ Our school embarked on the Literature Programme for Primary 3 and Primary 4 stud
 
 ![Literature Programme 1.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/Literature%20Programme%201.png)
 
-READING CULTURE LIBRARY
------------------------
-
+## READING CULTURE LIBRARY
 
 **Cultivating Love for Reading**
 
 We hope to innovate constantly and develop a cosy and conducive library for our students to lure them to the world of books. Stories are told very often and students are introduced to popular authors in the library. The library has very colourful thematic book displays to encourage them to explore books based on those themes. Library readership is monitored monthly and certificates are given out to students and classes with the highest readership. To inculcate the habit of reading, the school has implemented a few initiatives. Students are encouraged to read extensively and badges are given out every month to readers as rewards to inspire them. Besides role modelling by teachers, a group of enthusiastic parents lends their support to our school reading journey by being “parentellers”. They share stories regularly with students during recesses. Thus far, they have been very well received as their presentations were often engaging. The school hopes to extend the reading experiences in our school by collaborating with the National Library Board to bring in more engaging and enriching library programmes for our students.
 
-  
-
-  
-
-SCHOOL-BASED DYSLEXIA REMEDIATION PROGRAMME (SDR)
--------------------------------------------------
-
-  
+## SCHOOL-BASED DYSLEXIA REMEDIATION PROGRAMME (SDR)
 
 **Explicit Teaching of Phonemic Awareness, Reading Recognition and Comprehension**
 
 SDR is a two-year intervention programme for Primary 3 and Primary 4 students It is conducted specially for students diagnosed with Dyslexia as the development of reading and spelling skills in these students are delayed and thus, they will benefit from smaller group teaching. SDR explicitly teaches phonemic awareness, higher reading recognition and comprehension within a controlled group. These students are identified for support through a systematic screening process for Dyslexia conducted at the end of Primary 2. In JWPS, this programme conducted on every Tuesday to Thursday for one hour throughout the whole year. Following a two-year programme, students display a vast improvement in reading and understanding comprehension skills. They are also able to practise the comprehension skills taught in their own learning. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. At the end every term, a progress report is given to each student and his or her progress and achievements are communicated to their parents.
 
-  
-  
+## VALUES EDUCATION
 
-VALUES EDUCATION
-----------------
-
-  
-
-**Imparting of Values**
+### Imparting of Values
 
 Values education is the process by which teachers impart moral values to the young minds of JWPS students. In JWPS, we give utmost importance to instilling values through English lessons. We explicitly teach students on values through stories read in class, videos on values, interaction between teachers and students on the values taught and reflection activities at the end of the lesson. In JWPS, we already impart our school values, RISE (Respect, Integrity, Self-discipline and Excellence), throughout the whole journey of their primary years in JWPS. Values education is an advancement to the existing values taught in school. Values Education is incorporated into English lessons. Posters on different values are also put up around the school and in the classrooms so that students will always have a visual reminder on the values taught to them.
