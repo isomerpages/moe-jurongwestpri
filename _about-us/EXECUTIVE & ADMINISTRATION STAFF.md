@@ -5,6 +5,8 @@ description: ""
 ---
 # EXECUTIVE & ADMINISTRATION STAFF
 
+![](/images/About%20Us/IMG_1638.png)
+
 |             Designation            |                                                                Name                                                               |
 |:----------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 |     Administration Manager (AM)    |                                                        Sharifah Ali (Miss)                                                        |
