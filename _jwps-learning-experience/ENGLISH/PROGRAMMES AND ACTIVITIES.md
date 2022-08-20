@@ -26,7 +26,7 @@ third_nav_title: ENGLISH
 *   To reaise confident communicators and creative individuals who are well anchored on the school core values and capable to lead self and others; and
 *   To ensure the pervasiveness and sustainability of ALP via infusion into the school-based curriculum, namely PAL, NE and IPW.
 
-<p style="text-align: justify;"> In line with the **G**i**FT** approach in student development, the school has been very focused and comprehensive in its first tier of **G**eneral student development via ALP. In the area of **F**ocused Training, the school will further streamline its processes in identifying the potential students for Tier 2 development. In the case of **T**alent management, the school will be looking at possible platforms for the students to be further stretched in their potential via school ambassadorship. </p>
+<p style="text-align: justify;"> In line with the <b>G</b>i<b>FT</b> approach in student development, the school has been very focused and comprehensive in its first tier of <b>G</b>eneral student development via ALP. In the area of <b>F</b>ocused Training, the school will further streamline its processes in identifying the potential students for Tier 2 development. In the case of <b>T</b>alent management, the school will be looking at possible platforms for the students to be further stretched in their potential via school ambassadorship. </p>
 
 DIGITAL STORYTELLING (DST)
 --------------------------
