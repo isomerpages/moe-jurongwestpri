@@ -19,7 +19,7 @@ Dear Parents,
 
     In 2022 and beyond, the school is committed to provide a broad based, holistic education for the students, particularly focusing in 3 areas; Learn for Life, Embrace All Leaners and Enhance Student Well-being. 
 
-<u>1.    Learn for Life</u>
+1.    <u>Learn for Life</u>
 
 Future-ready students will need to be equipped with both broad knowledge and practical skills. Hence, to help prepare our students to face the potential challenges of the future, we have put together learning packages for them. These packages are developed to help our students gain new knowledge, skills and values in both academic and non-academic areas. The packages include the _Academic Proficiency Package_, the _Life Skill Package_ and the _Leadership Development Package_. They are also aimed at realising the school vision of nurturing every JWPS student into becoming an engaged **_Learner_**, a reflective **_THInker_** and a selfless **_Leader_**. 
 
