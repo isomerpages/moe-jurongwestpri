@@ -56,13 +56,9 @@ third_nav_title: ENGLISH
 
 ### Learning Support Games Day
 
-All Primary 1 and Primary 2 LSP students will have a chance to participate in creative and fun activities on the annual Learning Support Games Day. They play phonics games and also engage in team-building activities during the event.
+<p style="text-align: justify;"> All Primary 1 and Primary 2 LSP students will have a chance to participate in creative and fun activities on the annual Learning Support Games Day. They play phonics games and also engage in team-building activities during the event. </p>
 
-  
-
-![Learning Support Programme 2.png](https://jurongwestpri.moe.edu.sg/qql/slot/u646/Learning%20Support%20Programme%202.png)  
-
-  
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PROGRAMMES%20AND%20ACTIVITIES/Learning%20Support%20Programme%202.png)  
 
 ## LITERATURE PROGRAMME
 
