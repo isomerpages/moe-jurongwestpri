@@ -2,6 +2,7 @@ collections:
   jwps-learning-experience:
     output: true
     order:
+      - ENGLISH/PROGRAMMES AND ACTIVITIES.md
       - ENGLISH/ENGLISH.md
       - ENGLISH/.keep
       - example-subfolder/.keep
