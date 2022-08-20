@@ -6,18 +6,24 @@ third_nav_title: MOTHER TONGUE
 ---
 # MOTHER TONGUE
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/Mother%20Tongue/Mother%20Tongue%20Department.jpg)
-
+<br>
 | Head of Department |
 |:------------------:|
 |  Ms Wong Sheau Yun |
+
+<br>
 
 |   Level Head/CL  |
 |:----------------:|
 | Mdm Pua Chia Wei |
 
+<br>
+
 | Subject Head/ML & TL |
 |:--------------------:|
 | Mr Jasni Bin Ibrahim |
+
+<br>
 
 <table>
 <thead>
