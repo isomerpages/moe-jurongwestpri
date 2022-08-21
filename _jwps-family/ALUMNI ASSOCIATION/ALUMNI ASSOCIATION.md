@@ -52,3 +52,17 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
 | Mr Bryson Lam<br>Mr Irwin Hafiz<br>Ms Soh Xian<br>Mr Low Suan Peng |
 
 ##### Executive Committee Members (August 2018 - August 2021)
+
+|                                        **President**                                        |
+|:---------------------------------------------------------------------------------------:|
+|                                   Mr Suah Boon Choong                                   |
+|                                      **Vice-President**                                    |
+|                                      Ms Guo Huicong                                     |
+|                                         **Treasurer**                                       |
+|                                      Mr Derrick Chin                                    |
+|                                        **Secretary**                                       |
+|                                      Ms Seah Hui Yan                                    |
+|                                      **Liaison Officer**                                    |
+|                                        Ms Karen Ho                                      |
+|                                          **Member**                                         |
+|  Ms Seng Jia Ying<br>Mr Irwin Hafiz<br>Ms Nur Hafizah<br>Mr Bryson Lam<br>Ms Joanne Loo |
