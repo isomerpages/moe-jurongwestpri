@@ -15,3 +15,5 @@ In so doing, we seek to raise confident communicators and creative individuals w
 To ensure a wholesome experience, both internal and external performing platforms such as The Art House, NLB, Frontier CC, recess interlude, school events, etc., will be created and sought to ensure that every student is able to share their experiences, stories, and opinions with different audiences. Students with talent, aptitude and interest will be given intensified exposure and training via our school Drama Club. The school also seeks to partner accreditation organisation such as LAMDA to provide certification of our students’ achievement.
 
 ## <span style = "color: #c81b1b"> <b>Programmes</b> </span>
+
+![](/images/Distinctive%20programmes/APPLIED%20LEARNING%20PROGRAMME/Slide1.jpg)
