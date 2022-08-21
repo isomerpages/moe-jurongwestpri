@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SCIENCE
 ---
 # SCIENCE
-
+![](/images/JWPS%20LEARNING%20EXPERIENCE/SCIENCE/IMG_1616.png)
 ## <span style = "color: #c81b1b"> <b>Vision</b> </span>
 
 Inquiring learners who are able to use his senses, think, ask and reflect critically.
