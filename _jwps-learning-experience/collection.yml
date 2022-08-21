@@ -2,6 +2,7 @@ collections:
   jwps-learning-experience:
     output: true
     order:
+      - SCIENCE/PROGRAMMES AND ACTIVITIES.md
       - SCIENCE/SCIENCE.md
       - SCIENCE/.keep
       - MOTHER TONGUE/.keep
