@@ -6,10 +6,11 @@ description: ""
 # PRIMARY 1 REGISTRATION
 
 For information on Primary 1 Registration Exercise, please visit:  
-[https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)  
+<a href="https://www.moe.gov.sg/primary/p1-registration" target = "_blank">https://www.moe.gov.sg/primary/p1-registration</a>
+
   
 For information on school vacancies by phases, please visit:  
-[https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting](https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting)  
+<a href="https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting" target = "_blank">https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting</a>
   
 For information on school uniform size chart, please click on this link:  
 [size chart](https://www.yangtzekiang.com.sg/eshop/size-chart/)
