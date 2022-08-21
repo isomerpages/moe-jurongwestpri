@@ -2,5 +2,5 @@ collections:
   jwps-family:
     output: true
     order:
-      - PARENTS SUPPORT GROUP.md
       - SCHOOL ADVISORY COMMITTEE.md
+      - PARENTS SUPPORT GROUP.md
