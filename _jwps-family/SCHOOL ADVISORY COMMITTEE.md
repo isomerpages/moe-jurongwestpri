@@ -16,3 +16,10 @@ description: ""
 |    Honorary Treasurer    |
 |:------------------------:|
 | Ms Sandra Loo Leong Swee |
+
+|          Members         |
+|:------------------------:|
+| Ms Owyeong Yu-Hua Yvonne |
+|     Mr Phang Siew Eng    |
+|     Dr Tan Wee Hian      |
+|      Mr Sim Han Seng     |
