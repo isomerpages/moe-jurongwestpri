@@ -56,15 +56,15 @@ description: ""
 <thead>
   <tr>
     <th><img src="/images/Moe%20kindergarten@Jurong%20west/MK1.jpeg" alt="MK1.jpeg" width="213"></th>
-    <th><img src="/images/Moe%20kindergarten@Jurong%20west/MK1.jpeg" alt="MK2.jpeg" width="215"></th>
-    <th><img src="/images/Moe%20kindergarten@Jurong%20west/MK1.jpeg" alt="MK3.jpeg" width="213"></th>
+    <th><img src="/images/Moe%20kindergarten@Jurong%20west/MK2.jpeg" alt="MK2.jpeg" width="215"></th>
+    <th><img src="/images/Moe%20kindergarten@Jurong%20west/MK3.jpeg" alt="MK3.jpeg" width="213"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Moe%20kindergarten@Jurong%20west/MK1.jpeg" alt="Mk4.jpeg" width="213"></td>
-    <td><img src="/images/Moe%20kindergarten@Jurong%20west/MK1.jpeg" alt="MK5.jpeg" width="215"></td>
-    <td><img src="/images/Moe%20kindergarten@Jurong%20west/MK1.jpeg" alt="MK6.jpeg" width="213"></td>
+    <td><img src="/images/Moe%20kindergarten@Jurong%20west/Mk4.jpeg" alt="Mk4.jpeg" width="213"></td>
+    <td><img src="/images/Moe%20kindergarten@Jurong%20west/MK5.jpeg" alt="MK5.jpeg" width="215"></td>
+    <td><img src="/images/Moe%20kindergarten@Jurong%20west/MK6.jpeg" alt="MK6.jpeg" width="213"></td>
   </tr>
 </tbody>
 </table>
