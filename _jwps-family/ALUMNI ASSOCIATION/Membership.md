@@ -19,7 +19,7 @@ To join the Alumni Association, complete and submit the online membership applic
 
 <p style = "text-align:center;">
 	<a href="https://goo.gl/forms/A4423pqTTSMALgKz2" target = "_blank">
-		<span style = "color: #FF0000" >&gt &gt Membership Application &lt &lt </span>
+		<span style = "color: #FF0000" >>> Membership Application < < </span>
 	</a>
 </p>
 
