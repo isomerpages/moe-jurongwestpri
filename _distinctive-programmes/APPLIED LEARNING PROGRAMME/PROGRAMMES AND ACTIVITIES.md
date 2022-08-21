@@ -26,7 +26,7 @@ third_nav_title: APPLIED LEARNING PROGRAMME
 <tbody>
   <tr>
     <td rowspan="2"  style="text-align: center;">P2</td>
-    <td>  style="text-align: center;"PAL</td>
+    <td style="text-align: center;"> PAL</td>
     <td  style="text-align: center;">Visual Art – People in My Neighbourhood<br></td>
     <td  style="text-align: center;">Choral Reading / Oral Presentation<br></td>
     <td rowspan="2" style="text-align: center;">To build students' fluency, self-confidence, and motivation.<br></td>
