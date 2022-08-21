@@ -2,9 +2,9 @@ collections:
   jwps-learning-experience:
     output: true
     order:
-      - SCIENCE/PROGRAMMES AND ACTIVITIES.md
-      - SCIENCE/SCIENCE.md
       - SCIENCE/.keep
+      - SCIENCE/SCIENCE.md
+      - SCIENCE/PROGRAMMES AND ACTIVITIES.md
       - MOTHER TONGUE/.keep
       - MOTHER TONGUE/MOTHER TONGUE.md
       - MOTHER TONGUE/CHINESE LANGUAGE.md
