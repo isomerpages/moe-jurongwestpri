@@ -12,3 +12,7 @@ description: ""
 | Honorary Secretary |
 |:---:|
 | Mr Chris Loh Kai Mun |
+
+|    Honorary Treasurer    |
+|:------------------------:|
+| Ms Sandra Loo Leong Swee |
