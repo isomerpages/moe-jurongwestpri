@@ -1,5 +1,5 @@
 collections:
-  admission-or-forms:
+  admission-and-forms:
     output: true
     order:
       - PRIMARY 1 REGISTRATION.md
