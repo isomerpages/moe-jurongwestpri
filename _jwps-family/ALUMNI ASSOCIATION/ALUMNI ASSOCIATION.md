@@ -20,3 +20,17 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
 <h3><p style="text-align: center;color: #c81b1b"><a href="/jwps-family/ALUMNI-ASSOCIATION/membership" target = "_blank">CLICK HERE TO SIGN UP NOW</a></p></h3>
 
 <h4><p style="text-align: center;"><a href="/files/JWPS%20Family/Constitution%20of%20JWPS%20Alumni%20Association.pdf" target = "_blank">Constitution of JWPS Alumni Association</a></p></h4>
+
+##### Objectives:
+
+1.  To provide opportunities for the gathering of the former students of Jurong West Primary School.
+    
+2.  To maintain close cooperation and strengthen the relationship of all alumni and students of Jurong West Primary School.
+    
+3.  To provide Association members with opportunities for career development and industry networking.
+    
+4.  To foster the spirit of service to the school.
+    
+##### Executive Committee Members (August 2021 - August 2023)
+
+##### Executive Committee Members (August 2018 - August 2021)
