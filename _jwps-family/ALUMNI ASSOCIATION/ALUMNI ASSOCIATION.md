@@ -18,7 +18,7 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
 
 <a href="/jwps-family/ALUMNI-ASSOCIATION/membership" target = "_blank">Join us</a> and be part of our JWPSAA family today!
 
-<h3><p style="text-align: center;color: #c81b1b"><a href="/jwps-family/ALUMNI-ASSOCIATION/membership" target = "_blank">CLICK HERE TO SIGN UP NOW</a></p></h3>
+<h3><p style="text-align: center; color: #FF0000"><a href="/jwps-family/ALUMNI-ASSOCIATION/membership" target = "_blank">CLICK HERE TO SIGN UP NOW</a></p></h3>
 
 <h4><p style="text-align: center;"><a href="/files/JWPS%20Family/Constitution%20of%20JWPS%20Alumni%20Association.pdf" target = "_blank">Constitution of JWPS Alumni Association</a></p></h4>
 
