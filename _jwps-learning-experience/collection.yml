@@ -2,7 +2,6 @@ collections:
   jwps-learning-experience:
     output: true
     order:
-      - STUDENT MANAGEMENT DEPARTMENT.md
       - ENGLISH/.keep
       - ENGLISH/ENGLISH.md
       - ENGLISH/PROGRAMMES AND ACTIVITIES.md
@@ -19,3 +18,4 @@ collections:
       - SCIENCE/PROGRAMMES AND ACTIVITIES.md
       - SCIENCE/NATURE TRAIL AND LEARNING JOURNEYS.md
       - SCIENCE/INVESTIGATIVE EXPERIMENTS AND MINI PROJECTS.md
+      - STUDENT MANAGEMENT DEPARTMENT.md
