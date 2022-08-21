@@ -68,3 +68,5 @@ The Allied Educators (Learning and Behavioural Support) providing support to s
 
 #### **Process of Support for students**
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/STUDENT%20MANAGEMENT%20DEPARTMENT/SFS.png)
+
+### <span style = "color: #c81b1b"> <b>Resources for Parents</b> </span>
