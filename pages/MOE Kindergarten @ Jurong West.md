@@ -14,7 +14,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th>Address</th>
+    <th><br><br>Address</th>
     <th><br>MK @ Jurong West<br><a href="https://www.google.com/maps/place/30%20Jurong%20West%20Street%2061">30 Jurong West Street 61, S648368</a><br>This MK is located within Jurong West Primary School</th>
   </tr>
 </thead>
