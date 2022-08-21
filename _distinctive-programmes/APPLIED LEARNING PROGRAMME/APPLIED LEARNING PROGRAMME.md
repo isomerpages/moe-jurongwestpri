@@ -4,6 +4,8 @@ permalink: /distinctive-programmes/APPLIED-LEARNING-PROGRAMME/
 description: ""
 third_nav_title: APPLIED LEARNING PROGRAMME
 ---
+# upload smilebox slideshow video to youtube
+
 # APPLIED LEARNING PROGRAMME
 
 ## <span style = "color: #c81b1b"> <b>Art in Communication for Personal Excellence</b> </span>
