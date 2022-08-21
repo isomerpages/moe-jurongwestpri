@@ -70,3 +70,29 @@ The Allied Educators (Learning and Behavioural Support) providing support to s
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/STUDENT%20MANAGEMENT%20DEPARTMENT/SFS.png)
 
 ### <span style = "color: #c81b1b"> <b>Resources for Parents</b> </span>
+
+<table style="undefined;table-layout: fixed; width: 648px">
+<colgroup>
+<col style="width: 240px">
+<col style="width: 408px">
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2" style="text-align: center;">Resources for Parents</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;"> Resource / Information</td>
+    <td style="text-align: center;">Description                                                  </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Learning/ Behavioural Support<br>for Students with additional needs<br>Click <a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Departments/SMD/Admin%20Day%202019%20Parents%20resources.pdf">here</a></td>
+    <td style="text-align: center;">For parents of P1 students to understand the types of learning and behavioural support available for their child who may have additional needs.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Tips and information to develop<br>self-directed learning and<br>independence in children<br>Click <a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Departments/SMD/Helping%20your%20child%20be%20a%20self-directed%20learner.pptx.pdf">here</a></td>
+    <td style="text-align: center;">What can be done to help in nurturing your child/ children to be self-directed and independent learners, with the help of routines and workstation at home</td>
+  </tr>
+</tbody>
+</table>
