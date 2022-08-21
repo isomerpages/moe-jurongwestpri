@@ -40,3 +40,7 @@ description: ""
 ## <span style = "color: #c81b1b"> <b>Programmes & Activities</b> </span>
 
 ### <span><b><u>Special Educational Needs (SEN) Support for students with additional / diagnosed needs</u></b></span>
+
+**Tiered System of Support (TSS)**
+
+The school adopts a Tiered System of Support (TSS) in providing support to students with special educational and/ or additional needs. Each student’s performance and progress is used and reviewed to determine the level of needs and intensity of support required. The TSS helps with effective and efficient allocation of resources in the areas of manpower, time, physical space and finances.
