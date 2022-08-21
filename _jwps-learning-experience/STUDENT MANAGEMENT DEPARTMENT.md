@@ -59,7 +59,7 @@ The Allied Educators (Learning and Behavioural Support) providing support to s
 3. Liaise with MOE Psychologists or external organizations in providing <span style = "color: blue"> <b>assessments on the needs</b> </span> of the students
 4. Provide <span style = "color: blue"> <b>in-class support</b> </span>, <span style = "color: blue"> <b>withdrawal sessions</b> </span> or after school support to the students in need
 5. Plan and implement **individualized/ group intervention** (e.g. social skills training, confidence-building, literacy and                numeracy support)
-6. **Work closely** with the **CMT** in supporting the students
+6. <span style = "color: blue"> <b>Work closely</b> </span> with the <span style = "color: blue"> <b>CMT</b> </span> in supporting the students
 
 
 #### **Process of Support for students**
