@@ -2,4 +2,5 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - APPLIED LEARNING PROGRAMME/APPLIED LEARNING PROGRAMME.md
       - APPLIED LEARNING PROGRAMME/.keep
