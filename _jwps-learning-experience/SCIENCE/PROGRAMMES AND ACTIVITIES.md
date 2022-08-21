@@ -6,9 +6,9 @@ third_nav_title: SCIENCE
 ---
 # PROGRAMMES/ACTIVITIES
 
-The school uses an integrated and holistic approach in the areas of teaching and learning of Science. It aims to nurture students to be self-directed, independent, collaborative and confident problem solvers. It is also aimed at building the confidence of our students to enable them to communicate their thoughts, ideas and feelings visually and verbally using a variety of media forms.
+<p style="text-align: justify;">The school uses an integrated and holistic approach in the areas of teaching and learning of Science. It aims to nurture students to be self-directed, independent, collaborative and confident problem solvers. It is also aimed at building the confidence of our students to enable them to communicate their thoughts, ideas and feelings visually and verbally using a variety of media forms. </p>
 
-In JWPS, the Science curriculum is supported and enriched by the following activities :
+<p style="text-align: justify;">In JWPS, the Science curriculum is supported and enriched by the following activities : </p>
 
 *   Investigative Experiments
 *   Nature Trail and Learning Journeys
