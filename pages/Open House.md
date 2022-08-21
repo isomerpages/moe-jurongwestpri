@@ -17,14 +17,14 @@ See you all then!
   
 Kindergarten Visits will be held on 6 to 8 Jul 2022 from 10:30am to 12:30pm. Participants will be led by our student leaders to tour our school facilities. Children can also experience buying of food at our school canteen after the tour. Registration for kindergarten visits has ended. Thank you.
 
-### <p style = "text-align: center"> <span style = "color: #c81b1b"> <b>The JWPS Experiences</b> </span></p>
+<p style = "text-align: center"> <span style = "color: #c81b1b"> <b>The JWPS Experiences</b> </span></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A2XGJEKeQ4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### <p style = "text-align: center"> <span style = "color: #c81b1b"> <b>Primary 1: Joy Of Learning</b> </span></p>
+<p style = "text-align: center"> <span style = "color: #c81b1b"> <b>Primary 1: Joy Of Learning</b> </span></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rx39dVngVOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### <p style = "text-align: center"> <span style = "color: #c81b1b"> <b>JWPS Virtual Video Tour</b> </span></p>
+<p style = "text-align: center"> <span style = "color: #c81b1b"> <b>JWPS Virtual Video Tour</b> </span></p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VOuRte8KmtY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
