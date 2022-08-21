@@ -1,7 +1,5 @@
 logo: /images/logo.svg
 links:
-  - title: Example Page
-    url: /example-page/
   - title: ABOUT US
     collection: about-us
   - title: JWPS LEARNING EXPERIENCE
@@ -12,3 +10,5 @@ links:
     collection: accolades
   - title: JWPS FAMILY
     collection: jwps-family
+  - title: ADMISSION/FORMS
+    collection: admission-or-forms
