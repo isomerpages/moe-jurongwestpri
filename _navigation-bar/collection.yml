@@ -1,4 +1,5 @@
 collections:
   navigation-bar:
     output: true
-    order: []
+    order:
+      - Open House.md
