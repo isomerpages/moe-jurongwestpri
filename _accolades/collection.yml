@@ -2,5 +2,6 @@ collections:
   accolades:
     output: true
     order:
+      - ACADEMIC/2018.md
       - ACADEMIC/2017.md
       - ACADEMIC/.keep
