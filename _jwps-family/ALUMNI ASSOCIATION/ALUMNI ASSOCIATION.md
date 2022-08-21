@@ -37,4 +37,34 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
 |:-------------------:|
 | Mr Suah Boon Choong |
 
+|                 Vice-President               |
+|:--------------------------------------------:|
+|  Ms Guo Huicong<br>Mr Jishreean Janan Ramesh |
+
+|     Treasurer    |
+|:----------------:|
+|  Mr Derrick Chin |
+
+|   Vice-Treasurer  |
+|:-----------------:|
+|   Ms Kimberly Tay |
+
+|                           **President**                           |
+|:------------------------------------------------------------------:|
+|                         Mr Suah Boon Choong                        |
+|                         **Vice-President**                        |
+|             Ms Guo Huicong<br>Mr Jishreean Janan Ramesh            |
+|                           **Treasurer**                           |
+|                           Mr Derrick Chin                          |
+|                        **Vice-Treasurer**                        |
+|                            Ms Kimberly Tay                         |
+|                           **Secretary**                           |
+|                           Ms Seah Hui Yan                          |
+|                        **Liaison Officer**                        |
+|                             Ms Karen Ho                            |
+|                     **Social Media Officer**                     |
+|                           Mr Klinsmann Soh                         |
+|                             **Member**                            |
+| Mr Bryson Lam<br>Mr Irwin Hafiz<br>Ms Soh Xian<br>Mr Low Suan Peng |
+
 ##### Executive Committee Members (August 2018 - August 2021)
