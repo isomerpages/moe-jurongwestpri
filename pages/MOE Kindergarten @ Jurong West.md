@@ -37,11 +37,11 @@ description: ""
   </tr>
   <tr>
     <td style="text-align: center;">MK Waiting List Application </td>
-    <td><a href="http://go.gov.sg/mkjwwait">go.gov.sg/mkjwwait </a></td>
+    <td><a href="http://go.gov.sg/mkjwwait" target ="_blank" >go.gov.sg/mkjwwait </a></td>
   </tr>
   <tr>
     <td style="text-align: center;"> MK@ Jurong West e-Open House</td>
-    <td><a href="https://jurongwestpri.moe.edu.sg/qql/slot/u363/2022/MKJW%20OPEN%20HOUSE%202022.pdf">Click here</a> to view the slides presented on<br>29 Jan 2022</td>
+    <td><a href="https://jurongwestpri.moe.edu.sg/qql/slot/u363/2022/MKJW%20OPEN%20HOUSE%202022.pdf" target ="_blank">Click here</a> to view the slides presented on<br>29 Jan 2022</td>
   </tr>
 </tbody>
 </table>
