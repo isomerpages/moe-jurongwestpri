@@ -2,5 +2,5 @@ collections:
   admission-or-forms:
     output: true
     order:
-      - WAIT LIST APPLICATION.md
       - PRIMARY 1 REGISTRATION.md
+      - WAIT LIST APPLICATION.md
