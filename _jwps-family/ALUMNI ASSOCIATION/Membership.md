@@ -17,7 +17,7 @@ Former students of Jurong West Primary School below 21 years old are eligible fo
 
 To join the Alumni Association, complete and submit the online membership application form.
 
-<a href="https://goo.gl/forms/A4423pqTTSMALgKz2" target = "_blank">>>Membership Application<<</a>  
+<a href="https://goo.gl/forms/A4423pqTTSMALgKz2" target = "_blank"><span style = "color: red" >>>Membership Application<<</span></a>  
 
 ### Primary 1 Phase 2A(1) Registration
 
