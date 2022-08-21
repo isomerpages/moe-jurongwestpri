@@ -87,7 +87,7 @@ The Allied Educators (Learning and Behavioural Support) providing support to s
     <td style="text-align: center;">Description                                                  </td>
   </tr>
   <tr>
-    <td style="text-align: center;">Learning/ Behavioural Support<br>for Students with additional needs<br>Click <a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Departments/SMD/Admin%20Day%202019%20Parents%20resources.pdf">here</a></td>
+    <td style="text-align: center;">Learning/ Behavioural Support<br>for Students with additional needs<br>Click <a href="/files/Jwps%20learning%20experience/STUDENT%20MANAGEMENT%20DEPARTMENT/Admin%20Day%202019%20Parents%20resources.pdf" target = "_blank">here</a></td>
     <td style="text-align: center;">For parents of P1 students to understand the types of learning and behavioural support available for their child who may have additional needs.</td>
   </tr>
   <tr>
