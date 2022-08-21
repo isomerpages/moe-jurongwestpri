@@ -5,3 +5,7 @@ description: ""
 ---
 # STUDENT MANAGEMENT DEPARTMENT
 
+| Student Management HOD |
+|:----------------------:|
+|    Ms Tay Siew Hwee    |
+
