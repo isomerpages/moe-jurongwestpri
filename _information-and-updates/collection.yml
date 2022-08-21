@@ -2,4 +2,5 @@ collections:
   information-and-updates:
     output: true
     order:
+      - LETTERS TO PARENTS/LETTERS TO PARENTS.md
       - LETTERS TO PARENTS/.keep
