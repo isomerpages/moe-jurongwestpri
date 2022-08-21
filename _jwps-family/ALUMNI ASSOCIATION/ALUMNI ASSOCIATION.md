@@ -33,4 +33,8 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
     
 ##### Executive Committee Members (August 2021 - August 2023)
 
+|       President     |
+|:-------------------:|
+| Mr Suah Boon Choong |
+
 ##### Executive Committee Members (August 2018 - August 2021)
