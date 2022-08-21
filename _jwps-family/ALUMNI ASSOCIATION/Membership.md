@@ -17,8 +17,7 @@ Former students of Jurong West Primary School below 21 years old are eligible fo
 
 To join the Alumni Association, complete and submit the online membership application form.
 
-Primary 1 Phase 2A(1) Registration
-----------------------------------
+### Primary 1 Phase 2A(1) Registration
 
 To be eligible for the Primary 1 Phase 2A(1) registration, you will need to be a full member of the alumni association at least one year before the 30th of June of the year when your child needs to be registered. This is in accordance to MOE guidelines.
 
