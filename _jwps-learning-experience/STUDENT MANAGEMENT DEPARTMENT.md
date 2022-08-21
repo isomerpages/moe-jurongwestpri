@@ -91,7 +91,7 @@ The Allied Educators (Learning and Behavioural Support) providing support to s
     <td style="text-align: center;">For parents of P1 students to understand the types of learning and behavioural support available for their child who may have additional needs.</td>
   </tr>
   <tr>
-    <td style="text-align: center;">Tips and information to develop<br>self-directed learning and<br>independence in children<br>Click <a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Departments/SMD/Helping%20your%20child%20be%20a%20self-directed%20learner.pptx.pdf">here</a></td>
+    <td style="text-align: center;">Tips and information to develop<br>self-directed learning and<br>independence in children<br>Click <a href="/files/Jwps%20learning%20experience/STUDENT%20MANAGEMENT%20DEPARTMENT/Helping%20your%20child%20be%20a%20self-directed%20learner.pdf" target = "_blank">here</a></td>
     <td style="text-align: center;">What can be done to help in nurturing your child/ children to be self-directed and independent learners, with the help of routines and workstation at home</td>
   </tr>
 </tbody>
