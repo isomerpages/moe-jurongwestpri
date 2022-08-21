@@ -1,0 +1,4 @@
+collections:
+  navigation-bar:
+    output: true
+    order: []
