@@ -47,10 +47,10 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/STUDENT%20MANAGEMENT%20DEPARTMENT/TSS.jpg)
 
-### **School SEN Support Personnel**
+##### **School SEN Support Personnel**
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/STUDENT%20MANAGEMENT%20DEPARTMENT/WHO.jpg)
 
-### **Allied Educator (Learning and Behavioral Support) – AED (LBS)**
+##### **Allied Educator (Learning and Behavioral Support) – AED (LBS)**
 
 The Allied Educators (Learning and Behavioural Support) providing support to students in need of additional support in their learning and/ or behavior, will carry out the following:
 
