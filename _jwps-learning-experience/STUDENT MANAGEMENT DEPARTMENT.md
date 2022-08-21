@@ -38,3 +38,5 @@ description: ""
 </table>
 
 ## <span style = "color: #c81b1b"> <b>Programmes & Activities</b> </span>
+
+### <span><b><u>Special Educational Needs (SEN) Support for students with additional / diagnosed needs</u></b></span>
