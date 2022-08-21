@@ -8,7 +8,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th colspan="4">Life-long Programme (LLP)</th>
+    <th colspan="4" style="text-align: center;">Life-long Programme (LLP)</th>
   </tr>
 </thead>
 <tbody>
@@ -26,3 +26,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+# slide show widget not migrated, can only upload individual images instead
