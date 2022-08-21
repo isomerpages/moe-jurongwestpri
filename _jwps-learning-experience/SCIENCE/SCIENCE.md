@@ -15,7 +15,7 @@ Inquiring learners who are able to use his senses, think, ask and reflect critic
 | Mdm Goh Hwee Sung Patricia |
 
 | Level Head |
-| --- |
+|:---:|
 | Ms Chong Siew Hui |
 
 <table>
