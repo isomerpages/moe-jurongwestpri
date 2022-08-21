@@ -12,3 +12,7 @@ JWPS will be organizing an Open House for parents from 6 to 8 Jul 2022 (Wed-Fri)
 For other information on P1 Registration, click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/admission-forms/primary-1-registration).  
 
 See you all then!
+
+### **For nearby kindergartens**  
+  
+Kindergarten Visits will be held on 6 to 8 Jul 2022 from 10:30am to 12:30pm. Participants will be led by our student leaders to tour our school facilities. Children can also experience buying of food at our school canteen after the tour. Registration for kindergarten visits has ended. Thank you.
