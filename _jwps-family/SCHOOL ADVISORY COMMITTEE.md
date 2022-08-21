@@ -5,3 +5,10 @@ description: ""
 ---
 # SCHOOL ADVISORY COMMITTEE
 
+|     Chairman     |
+|:----------------:|
+|  Mr Xu Song Qing |
+
+| Honorary Secretary |
+|:---:|
+| Mr Chris Loh Kai Mun |
