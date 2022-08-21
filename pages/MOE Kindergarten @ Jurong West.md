@@ -3,6 +3,7 @@ title: MOE Kindergarten @ Jurong West
 permalink: /moe-kindergarten-at-jurong-west
 description: ""
 ---
+# MK@ Jurong West e-Open House briefing slides >5MB
 # MOE Kindergarten @ Jurong West
 ![](/images/Moe%20kindergarten@Jurong%20west/MK.jpg)
 
