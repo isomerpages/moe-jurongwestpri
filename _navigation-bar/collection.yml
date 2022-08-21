@@ -2,4 +2,5 @@ collections:
   navigation-bar:
     output: true
     order:
+      - MOE Kindergarten @ Jurong West.md
       - Open House.md
