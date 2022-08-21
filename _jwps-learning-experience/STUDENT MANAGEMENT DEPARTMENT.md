@@ -54,7 +54,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 The Allied Educators (Learning and Behavioural Support) providing support to students in need of additional support in their learning and/ or behavior, will carry out the following:
 
-1. Conduct **in-class observations** on students who need or had been identified as needing additional support in class
+1. Conduct <span style = "color: blue"> <b>in-class observations</b> </span> on students who need or had been identified as needing additional support in class
 2. Provide **consultation to teachers and parents** on supporting the needs of the students
 3. Liaise with MOE Psychologists or external organizations in providing **assessments on the needs** of the students
 4. Provide **in-class support**, **withdrawal sessions** or after school support to the students in need
