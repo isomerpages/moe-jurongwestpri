@@ -1,4 +1,5 @@
 collections:
   jwps-family:
     output: true
-    order: []
+    order:
+      - SCHOOL ADVISORY COMMITTEE.md
