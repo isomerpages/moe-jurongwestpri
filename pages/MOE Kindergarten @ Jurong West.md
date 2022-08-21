@@ -10,15 +10,20 @@ description: ""
      style="width:50%" class = "center">
 
 <p style = "text-align: center; color: #4a9fe0"> Click <a href="https://moe.gov.sg/preschool/moe-kindergarten/" target = "_blank">here</a> to visit MOE's MK Website
-	
+
+
 <table>
 <thead>
   <tr>
-    <th style="text-align: center;"><br><br>Address</th>
-    <th><br>MK @ Jurong West<br><a href="https://www.google.com/maps/place/30%20Jurong%20West%20Street%2061" target ="_blank">30 Jurong West Street 61, S648368</a><br>This MK is located within Jurong West Primary School</th>
+    <th></th>
+    <th></th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td style="text-align: center;">Address</td>
+    <td><br>MK @ Jurong West<br><a href="https://www.google.com/maps/place/30%20Jurong%20West%20Street%2061" target ="_blank">30 Jurong West Street 61, S648368</a><br>This MK is located within Jurong West Primary School</td>
+  </tr>
   <tr>
     <td style="text-align: center;">Operating hours</td>
     <td>MK: 8am – 5pm<br>KCare: 7am – 7pm</td>
@@ -29,7 +34,7 @@ description: ""
   </tr>
   <tr>
     <td style="text-align: center;"> Contact</td>
-    <td >Phone (MK): 9647 4301<br>Email: <a href="mailto:mk_jurongwest@moe.edu.sg">mk_jurongwest@moe.edu.sg</a>   </td>
+    <td>Phone (MK): 9647 4301<br>Email: <a href="mailto:mk_jurongwest@moe.edu.sg">mk_jurongwest@moe.edu.sg</a>   </td>
   </tr>
   <tr>
     <td style="text-align: center;"> Partner EYCs</td>
@@ -37,7 +42,7 @@ description: ""
   </tr>
   <tr>
     <td style="text-align: center;">MK Waiting List Application </td>
-    <td><a href="http://go.gov.sg/mkjwwait" target ="_blank" >go.gov.sg/mkjwwait </a></td>
+    <td><a href="http://go.gov.sg/mkjwwait" target ="_blank">go.gov.sg/mkjwwait </a></td>
   </tr>
   <tr>
     <td style="text-align: center;"> MK@ Jurong West e-Open House</td>
