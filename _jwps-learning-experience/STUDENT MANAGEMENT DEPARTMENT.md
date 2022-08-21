@@ -44,3 +44,12 @@ description: ""
 **Tiered System of Support (TSS)**
 
 The school adopts a Tiered System of Support (TSS) in providing support to students with special educational and/ or additional needs. Each student’s performance and progress is used and reviewed to determine the level of needs and intensity of support required. The TSS helps with effective and efficient allocation of resources in the areas of manpower, time, physical space and finances.
+
+![](/images/JWPS%20LEARNING%20EXPERIENCE/STUDENT%20MANAGEMENT%20DEPARTMENT/TSS.jpg)
+
+### **School SEN Support Personnel**
+![](/images/JWPS%20LEARNING%20EXPERIENCE/STUDENT%20MANAGEMENT%20DEPARTMENT/WHO.jpg)
+
+### **Allied Educator (Learning and Behavioral Support) – AED (LBS)**
+
+![](/images/JWPS%20LEARNING%20EXPERIENCE/STUDENT%20MANAGEMENT%20DEPARTMENT/SFS.png)
