@@ -2,6 +2,7 @@ collections:
   jwps-learning-experience:
     output: true
     order:
+      - SCIENCE/NATURE TRAIL AND LEARNING JOURNEYS.md
       - SCIENCE/.keep
       - SCIENCE/SCIENCE.md
       - SCIENCE/PROGRAMMES AND ACTIVITIES.md
