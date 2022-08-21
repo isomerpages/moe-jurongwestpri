@@ -13,7 +13,6 @@ description: ""
 **Back (L-R):** Mr Irwin Hafiz, Ms Seng Jia Ying, Ms Karen Ho, Mr Bryson Lam.
 
   
-
 The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd August 2018 in conjunction with the school’s 20th Anniversary celebrations. It serves as a platform for our ex-students to stay connected with each other and contribute back to our alma mater.
-
-[Join us](https://jurongwestpri.moe.edu.sg/jwps-family/alumni-association/membership) and be part of our JWPSAA family today!
+<a href="url">Join us</a>
+[](https://jurongwestpri.moe.edu.sg/jwps-family/alumni-association/membership) and be part of our JWPSAA family today!
