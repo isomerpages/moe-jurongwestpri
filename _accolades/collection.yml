@@ -2,9 +2,9 @@ collections:
   accolades:
     output: true
     order:
-      - NON ACADEMIC/2017.md
-      - NON ACADEMIC/.keep
       - ACADEMIC/.keep
       - ACADEMIC/2017.md
       - ACADEMIC/2018.md
       - ACADEMIC/2019.md
+      - NON ACADEMIC/.keep
+      - NON ACADEMIC/2017.md
