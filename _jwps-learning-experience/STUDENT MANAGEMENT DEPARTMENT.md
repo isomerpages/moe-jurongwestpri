@@ -66,5 +66,5 @@ The Allied Educators (Learning and Behavioural Support) providing support to s
 
     6)      **Work closely** with the **CMT** in supporting the students
 
-### **Process of Support for students**
+#### **Process of Support for students**
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/STUDENT%20MANAGEMENT%20DEPARTMENT/SFS.png)
