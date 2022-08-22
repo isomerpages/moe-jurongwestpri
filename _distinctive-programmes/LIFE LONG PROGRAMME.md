@@ -8,7 +8,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th colspan="4" style="text-align: center;">Life-long Programme (LLP)</th>
+    <th style="text-align: center;" colspan="4">Life-long Programme (LLP)</th>
   </tr>
 </thead>
 <tbody>
@@ -28,6 +28,8 @@ description: ""
 </table>
 
 # slide show widget not migrated, can only upload individual images instead
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAz9b2WbL-X_wddq6w6kvfU9vM9BZd6165FtGJiADZUmG2hmJSqdUhGHz0mxaxZoMvDMG7kV_nxCP6/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 ![](/images/Distinctive%20programmes/Life%20long%20learning/Football.jpg)
 
