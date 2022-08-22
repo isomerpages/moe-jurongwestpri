@@ -18,11 +18,11 @@ third_nav_title: LETTERS TO PARENTS
 <tbody>
   <tr>
     <td style="text-align: center;">14 Jan 2022</td>
-    <td style="text-align: center;"><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/020%20Sch%20Hours%20on%20CNY%20Eve%2031%20Jan%202022.pdf" target = "_blank">School Hours for Chinese New Year Eve - 31 Jan (Mon)</a><br></td>
+    <td style="text-align: center;"><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Honesty%20P2/020%20Sch%20Hours%20on%20CNY%20Eve%2031%20Jan%202022.pdf" target = "_blank">School Hours for Chinese New Year Eve - 31 Jan (Mon)</a><br></td>
   </tr>
   <tr>
     <td style="text-align: center;"> 20 Jan 2022</td>
-    <td style="text-align: center;"><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/022%20VIA%20Programme%20Fundraising%20for%20Lions%20Club%20of%20Singapore%20Nanyang.pdf" target = "_blank">VIA Programme - Fundraising for Lions Club of S'pore Nanyang</a> </td>
+    <td style="text-align: center;"><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Honesty%20P2/022%20VIA%20Programme%20Fundraising%20for%20Lions%20Club%20of%20Singapore%20Nanyang.pdf" target = "_blank">VIA Programme - Fundraising for Lions Club of S'pore Nanyang</a> </td>
   </tr>
 </tbody>
 </table>
@@ -39,7 +39,7 @@ third_nav_title: LETTERS TO PARENTS
 <tbody>
   <tr>
     <td style="text-align: center;">13 Jun 2022</td>
-    <td style="text-align: center;"><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/044%20Collection%20of%20Recycled%20items.pdf" target = "_blank">Values-In-Action Activity - Collection of Recycled Items</a></td>
+    <td style="text-align: center;"><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Honesty%20P2/044%20Collection%20of%20Recycled%20items.pdf" target = "_blank">Values-In-Action Activity - Collection of Recycled Items</a></td>
   </tr>
 </tbody>
 </table>
