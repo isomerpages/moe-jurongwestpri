@@ -32,11 +32,11 @@ third_nav_title: LETTERS TO PARENTS
 <table>
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Letter to Parents</th>
+    <th style="text-align: center;">Date</th>
+    <th style="text-align: center;">Letter to Parents</th>
   </tr>
 </thead>
-<tbody>
+<tbody style="text-align: center;">
   <tr>
     <td>25 Mar 2022</td>
     <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/029%20P3%20Modes%20of%20Assessments%20Letter%20to%20Parents.pdf">2022 Modes of Assessment for P3</a></td>
@@ -53,11 +53,11 @@ third_nav_title: LETTERS TO PARENTS
 <table>
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Letter to Parents</th>
+    <th style="text-align: center;">Date</th>
+    <th style="text-align: center;">Letter to Parents</th>
   </tr>
 </thead>
-<tbody>
+<tbody style="text-align: center;">
   <tr>
     <td>22 Jul 2022</td>
     <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/050%20ECHA%20letter%20to%20parents%202022.pdf">Edusave Character Award 2022</a></td>
