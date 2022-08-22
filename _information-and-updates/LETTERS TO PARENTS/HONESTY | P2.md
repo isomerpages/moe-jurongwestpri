@@ -8,6 +8,6 @@ third_nav_title: LETTERS TO PARENTS
 
 ### <span style = "color: #c81b1b"> <b>Term 1 (2022)</b> </span>
 
-### <span style = "color: #c81b1b"> <b>Term 1 (2022)</b> </span>
+### <span style = "color: #c81b1b"> <b>Term 2 (2022)</b> </span>
 
-### <span style = "color: #c81b1b"> <b>Term 1 (2022)</b> </span>
+### <span style = "color: #c81b1b"> <b>Term 3 (2022)</b> </span>
