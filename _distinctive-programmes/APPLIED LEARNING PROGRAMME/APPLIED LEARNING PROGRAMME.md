@@ -4,7 +4,7 @@ permalink: /distinctive-programmes/APPLIED-LEARNING-PROGRAMME/
 description: ""
 third_nav_title: APPLIED LEARNING PROGRAMME
 ---
-# upload smilebox slideshow video to youtube
+# upload smilebox slideshow video to youtube or google slides
 
 # APPLIED LEARNING PROGRAMME
 
