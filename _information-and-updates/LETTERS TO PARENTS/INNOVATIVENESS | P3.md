@@ -18,7 +18,7 @@ third_nav_title: LETTERS TO PARENTS
 <tbody style="text-align: center;">
   <tr>
     <td>14 Jan 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/020%20Sch%20Hours%20on%20CNY%20Eve%2031%20Jan%202022.pdf" target="_blank">School Hours for Chinese New Year Eve - 31 Jan (Mon)</a><br></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Innovativeness%20P3/020%20Sch%20Hours%20on%20CNY%20Eve%2031%20Jan%202022.pdf" target="_blank">School Hours for Chinese New Year Eve - 31 Jan (Mon)</a><br></td>
   </tr>
   <tr>
     <td> 20 Jan 2022</td>
