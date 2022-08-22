@@ -3,6 +3,7 @@ title: Open House
 permalink: /open-house
 description: ""
 ---
+# Display error when embeded youtube video for Pri 1 Joy of Learning (link still works and will bring you to youtube).
 # Open House
 
 ### **For Parents**
