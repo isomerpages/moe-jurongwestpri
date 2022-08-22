@@ -27,7 +27,7 @@ description: ""
 </tbody>
 </table>
 
-# slide show widget not migrated, can only upload individual images instead
+# slide show widget not migrated, can only upload individual images instead. Recommend to upload photos to google slide as shown in the example below
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTAz9b2WbL-X_wddq6w6kvfU9vM9BZd6165FtGJiADZUmG2hmJSqdUhGHz0mxaxZoMvDMG7kV_nxCP6/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
