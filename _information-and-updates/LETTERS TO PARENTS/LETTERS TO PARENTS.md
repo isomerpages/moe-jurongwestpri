@@ -11,5 +11,4 @@ third_nav_title: LETTERS TO PARENTS
 * [Innovativeness | Primary 3](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/information-and-updates/letters-to-parents/innovativeness-p3)
 * [Kindness | Primary 4](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/information-and-updates/letters-to-parents/kindness-p4)
 * [Enthusiasm | Primary](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/information-and-updates/letters-to-parents/enthusiasm-p5) 5
-
-*   [Resilience | Primary 6](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/information-and-updates/letters-to-parents/resilience-p6)
+* [Resilience | Primary 6](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/information-and-updates/letters-to-parents/resilience-p6)
