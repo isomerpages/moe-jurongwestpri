@@ -2,6 +2,7 @@ collections:
   information-and-updates:
     output: true
     order:
+      - LETTERS TO PARENTS/RESILIENCE | P6.md
       - LETTERS TO PARENTS/ENTHUSIASM | P5.md
       - LETTERS TO PARENTS/KINDNESS | P4.md
       - LETTERS TO PARENTS/.keep
