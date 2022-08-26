@@ -80,31 +80,31 @@ third_nav_title: LETTERS TO PARENTS
   </tr>
   <tr>
     <td>15 Jul 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/054%20Letter%20to%20parents%20on%20Preliminary%20Oral%20Examinations%202022.pdf" target = "_blank">P6 Prelim Oral Examinations - 20 &amp; 21 Jul 2022 </a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/054%20Letter%20to%20parents%20on%20Preliminary%20Oral%20Examinations%202022.pdf" target = "_blank">P6 Prelim Oral Examinations - 20 &amp; 21 Jul 2022 </a></td>
   </tr>
   <tr>
     <td> 18 Jul 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/049_Resilience%20Math%20Clinic%202022.pdf" target = "_blank">Online Resilience Mathematics Clinic 2022 </a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/049_Resilience%20Math%20Clinic%202022.pdf" target = "_blank">Online Resilience Mathematics Clinic 2022 </a></td>
   </tr>
   <tr>
     <td>22 Jul 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/050%20ECHA%20letter%20to%20parents%202022.pdf" target = "_blank"> Edusave Character Award 2022</a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/050%20ECHA%20letter%20to%20parents%202022.pdf" target = "_blank"> Edusave Character Award 2022</a></td>
   </tr>
   <tr>
     <td>27 Jul 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/056%20Notice%20on%20PSLE%20Oral%20and%20LC%202022.pdf" target = "_blank">PSLE Oral and Listening Comprehension Examinations</a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/056%20Notice%20on%20PSLE%20Oral%20and%20LC%202022.pdf" target = "_blank">PSLE Oral and Listening Comprehension Examinations</a></td>
   </tr>
   <tr>
     <td> 28 Jul 2022</td>
-    <td> <a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/058%20National%20Day%20Celebrations%20on%208%20Aug%202022.pdf" target = "_blank">National Day Celebrations on 8 Aug 2022</a></td>
+    <td> <a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/058%20National%20Day%20Celebrations%20on%208%20Aug%202022.pdf" target = "_blank">National Day Celebrations on 8 Aug 2022</a></td>
   </tr>
   <tr>
     <td>8 Aug 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/P6%20Sept%20Hols%20Supp%202022.pdf" target = "_blank">P6 Sep Holidays Supplementary Schedule (8 &amp; 9 Sep 2022) </a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/P6%20Sept%20Hols%20Supp%202022.pdf" target = "_blank">P6 Sep Holidays Supplementary Schedule (8 &amp; 9 Sep 2022) </a></td>
   </tr>
   <tr>
     <td>15 Aug 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/062%20P6%20prelim%20dismissal%202022.pdf" target = "_blank">P6 Prelim Examination Dismissal Time (18 to 23 Aug 2022) </a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/062%20P6%20prelim%20dismissal%202022.pdf" target = "_blank">P6 Prelim Examination Dismissal Time (18 to 23 Aug 2022) </a></td>
   </tr>
 </tbody>
 </table>
