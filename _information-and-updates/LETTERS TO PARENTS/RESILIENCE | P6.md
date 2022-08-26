@@ -18,19 +18,19 @@ third_nav_title: LETTERS TO PARENTS
 <tbody style="text-align: center">
   <tr>
     <td>4 Jan 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/010A%20P6%20Term1%20bridging%20programme_amended.pdf" target = "_blank">Term 1 P6 Bridging Programme</a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/010A%20P6%20Term1%20bridging%20programme_amended.pdf" target = "_blank">Term 1 P6 Bridging Programme</a></td>
   </tr>
   <tr>
     <td>14 Jan 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/020%20Sch%20Hours%20on%20CNY%20Eve%2031%20Jan%202022.pdf" target = "_blank"> School Hours for Chinese New Year Eve - 31 Jan (Mon)</a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/020%20Sch%20Hours%20on%20CNY%20Eve%2031%20Jan%202022.pdf" target = "_blank"> School Hours for Chinese New Year Eve - 31 Jan (Mon)</a></td>
   </tr>
   <tr>
     <td>20 Jan 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/022%20VIA%20Programme%20Fundraising%20for%20Lions%20Club%20of%20Singapore%20Nanyang.pdf" target = "_blank">VIA Programme - Fundraising for Lions Club of S'pore Nanyang </a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/022%20VIA%20Programme%20Fundraising%20for%20Lions%20Club%20of%20Singapore%20Nanyang.pdf" target = "_blank">VIA Programme - Fundraising for Lions Club of S'pore Nanyang </a></td>
   </tr>
   <tr>
     <td> 23 Feb 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/027%20P6%20March%20Holidays%20Supp%202022.pdf" target = "_blank">P6 March Holidays Supplementary Schedule</a> </td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/027%20P6%20March%20Holidays%20Supp%202022.pdf" target = "_blank">P6 March Holidays Supplementary Schedule</a> </td>
   </tr>
 </tbody>
 </table>
@@ -47,15 +47,15 @@ third_nav_title: LETTERS TO PARENTS
 <tbody style="text-align: center">
   <tr>
     <td>25 Mar 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/032%20P6%20Modes%20of%20Assessments%20Letter%20to%20Parents.pdf" target = "_blank">2022 Modes of Assessments for P6</a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/032%20P6%20Modes%20of%20Assessments%20Letter%20to%20Parents.pdf" target = "_blank">2022 Modes of Assessments for P6</a></td>
   </tr>
   <tr>
     <td>25 Apr 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/042%20P6%20June%20Holidays%20Supp%202022.pdf" target = "_blank"> P6 June Holidays Supplementary Schedule</a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/042%20P6%20June%20Holidays%20Supp%202022.pdf" target = "_blank"> P6 June Holidays Supplementary Schedule</a></td>
   </tr>
   <tr>
     <td>13 Jun 2022 </td>
-    <td> <a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/045%20P6%20Learning%20Journey%20to%20Marina%20Barrage%20on%201%20July.pdf" target = "_blank">P6 Learning Journey to Marina Barrage on 1 Jul 2022</a></td>
+    <td> <a href="" target = "_blank">P6 Learning Journey to Marina Barrage on 1 Jul 2022</a></td>
   </tr>
   <tr>
     <td> 13 Jun 2022</td>
