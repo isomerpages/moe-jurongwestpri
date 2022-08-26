@@ -11,11 +11,11 @@ third_nav_title: LETTERS TO PARENTS
 <table>
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Letter to Parents</th>
+    <th style="text-align: center;">Date</th>
+    <th style="text-align: center;">Letter to Parents</th>
   </tr>
 </thead>
-<tbody>
+<tbody style="text-align: center;">
   <tr>
     <td>4 Jan 2022</td>
     <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/011A%20P5%20Term1%20bridging%20programme_amended.pdf">Term 1 P5 Bridging Programme</a></td>
@@ -40,11 +40,11 @@ third_nav_title: LETTERS TO PARENTS
 <table>
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Letter to Parents</th>
+    <th style="text-align: center;">Date</th>
+    <th style="text-align: center;">Letter to Parents</th>
   </tr>
 </thead>
-<tbody>
+<tbody style="text-align: center;">
   <tr>
     <td>25 Mar 2022</td>
     <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/031%20P5%20Modes%20of%20Assessments%20Letter%20to%20Parents.pdf">2022 Modes of Assessments for P5</a></td>
@@ -61,11 +61,11 @@ third_nav_title: LETTERS TO PARENTS
 <table>
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Letter to Parents</th>
+    <th style="text-align: center;">Date</th>
+    <th style="text-align: center;">Letter to Parents</th>
   </tr>
 </thead>
-<tbody>
+<tbody style="text-align: center;">
   <tr>
     <td>22 Jun 2022</td>
     <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/046%20P5%20NE%20show%20on%209%20July%202022.pdf">P5 National Education Show on 9 Jul (Sat)</a></td>
