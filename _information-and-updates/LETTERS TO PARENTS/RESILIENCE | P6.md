@@ -55,11 +55,11 @@ third_nav_title: LETTERS TO PARENTS
   </tr>
   <tr>
     <td>13 Jun 2022 </td>
-    <td> <a href="" target = "_blank">P6 Learning Journey to Marina Barrage on 1 Jul 2022</a></td>
+    <td> <a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/045%20P6%20Learning%20Journey%20to%20Marina%20Barrage%20on%201%20July.pdf" target = "_blank">P6 Learning Journey to Marina Barrage on 1 Jul 2022</a></td>
   </tr>
   <tr>
     <td> 13 Jun 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/044%20Collection%20of%20Recycled%20items.pdf" target = "_blank">Values-In-Action Activity - Collection of Recycled Items</a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/044%20Collection%20of%20Recycled%20items.pdf" target = "_blank">Values-In-Action Activity - Collection of Recycled Items</a></td>
   </tr>
 </tbody>
 </table>
@@ -76,7 +76,7 @@ third_nav_title: LETTERS TO PARENTS
 <tbody style="text-align: center">
   <tr>
     <td>24 Jun 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/Term%203%20supplementary%20letter%20to%20parents%20P6.pdf" target = "_blank">Term 3 P6 Supplementary Lesson Schedule</a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Resilience%20P6/Term%203%20supplementary%20letter%20to%20parents%20P6.pdf" target = "_blank">Term 3 P6 Supplementary Lesson Schedule</a></td>
   </tr>
   <tr>
     <td>15 Jul 2022 </td>
