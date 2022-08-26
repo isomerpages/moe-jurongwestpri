@@ -39,15 +39,15 @@ third_nav_title: LETTERS TO PARENTS
 <tbody style="text-align: center;">
   <tr>
     <td>25 Mar 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/030%20P4%20Modes%20of%20Assessments%20Letter%20to%20Parents.pdf">2022 Modes of Assessments for P4</a></td>
+    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/030%20P4%20Modes%20of%20Assessments%20Letter%20to%20Parents.pdf" target = "_blank">2022 Modes of Assessments for P4</a></td>
   </tr>
   <tr>
     <td>18 May 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/043%20Financial%20Literacy%20for%20P4.pdf">P4 Financial Literacy Life Skills Programme - 24 &amp; 26 May </a></td>
+    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/043%20Financial%20Literacy%20for%20P4.pdf" target = "_blank">P4 Financial Literacy Life Skills Programme - 24 &amp; 26 May </a></td>
   </tr>
   <tr>
     <td>13 Jun 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/044%20Collection%20of%20Recycled%20items.pdf">Values-In-Action Activity - Collection of Recycled Items </a></td>
+    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/044%20Collection%20of%20Recycled%20items.pdf" target = "_blank">Values-In-Action Activity - Collection of Recycled Items </a></td>
   </tr>
 </tbody>
 </table>
@@ -64,11 +64,11 @@ third_nav_title: LETTERS TO PARENTS
 <tbody style="text-align: center;">
   <tr>
     <td>22 Jul 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/050%20ECHA%20letter%20to%20parents%202022.pdf">Edusave Character Award 2022 </a></td>
+    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/050%20ECHA%20letter%20to%20parents%202022.pdf" target = "_blank">Edusave Character Award 2022 </a></td>
   </tr>
   <tr>
     <td> 28 Jul 2022</td>
-    <td> <a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/058%20National%20Day%20Celebrations%20on%208%20Aug%202022.pdf">National Day Celebrations on 8 Aug 2022</a></td>
+    <td> <a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/058%20National%20Day%20Celebrations%20on%208%20Aug%202022.pdf" target = "_blank">National Day Celebrations on 8 Aug 2022</a></td>
   </tr>
 </tbody>
 </table>
