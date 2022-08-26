@@ -46,7 +46,7 @@ third_nav_title: LETTERS TO PARENTS
 
 ### <span style = "color: #c81b1b"> <b>Term 3 (2022)</b> </span>
 
-<table style="text-align: center;">
+<table>
 <thead>
   <tr>
     <th style="text-align: center;">Date</th>
@@ -55,16 +55,16 @@ third_nav_title: LETTERS TO PARENTS
 </thead>
 <tbody>
   <tr>
-    <td>15 Jul 2022 </td>
-    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Honesty%20P2/053%20Schedule%20for%20P2%20on%2020%20and%2021%20July.pdf" target = "_blank">Schedule for P2 on 20 &amp; 21 Jul 2022 </a></td>
+    <td style="text-align: center;">15 Jul 2022 </td>
+    <td style="text-align: center;"><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Honesty%20P2/053%20Schedule%20for%20P2%20on%2020%20and%2021%20July.pdf" target = "_blank">Schedule for P2 on 20 &amp; 21 Jul 2022 </a></td>
   </tr>
   <tr>
-    <td> 22 Jul 2022</td>
-    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Honesty%20P2/050%20ECHA%20letter%20to%20parents%202022.pdf" target = "_blank">Edusave Character Award 2022 </a></td>
+    <td style="text-align: center;"> 22 Jul 2022</td>
+    <td style="text-align: center;"><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Honesty%20P2/050%20ECHA%20letter%20to%20parents%202022.pdf" target = "_blank">Edusave Character Award 2022 </a></td>
   </tr>
   <tr>
-    <td>28 Jul 2022 </td>
-    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Honesty%20P2/058%20National%20Day%20Celebrations%20on%208%20Aug%202022.pdf" target = "_blank">National Day Celebrations on 8 Aug 2022 </a></td>
+    <td style="text-align: center;">28 Jul 2022 </td>
+    <td style="text-align: center;"><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Honesty%20P2/058%20National%20Day%20Celebrations%20on%208%20Aug%202022.pdf" target = "_blank">National Day Celebrations on 8 Aug 2022 </a></td>
   </tr>
 </tbody>
 </table>
