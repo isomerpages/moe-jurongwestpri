@@ -22,7 +22,7 @@ third_nav_title: LETTERS TO PARENTS
   </tr>
   <tr>
     <td> 20 Jan 20<a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/information-and-updates/letters-to-parents/goog_298990296" target = "_blank" >22</a></td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/022%20VIA%20Programme%20Fundraising%20for%20Lions%20Club%20of%20Singapore%20Nanyang.pdf" target = "_blank" >VIA Programme - Fundraising for Lions Club of S'pore Nanyang</a> </td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Kindness%20P4/022%20VIA%20Programme%20Fundraising%20for%20Lions%20Club%20of%20Singapore%20Nanyang.pdf" target = "_blank" >VIA Programme - Fundraising for Lions Club of S'pore Nanyang</a> </td>
   </tr>
 </tbody>
 </table>
@@ -39,7 +39,7 @@ third_nav_title: LETTERS TO PARENTS
 <tbody style="text-align: center;">
   <tr>
     <td>25 Mar 2022</td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/030%20P4%20Modes%20of%20Assessments%20Letter%20to%20Parents.pdf" target = "_blank">2022 Modes of Assessments for P4</a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Kindness%20P4/030%20P4%20Modes%20of%20Assessments%20Letter%20to%20Parents.pdf" target = "_blank">2022 Modes of Assessments for P4</a></td>
   </tr>
   <tr>
     <td>18 May 2022 </td>
