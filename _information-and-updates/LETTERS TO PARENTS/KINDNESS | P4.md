@@ -8,14 +8,14 @@ third_nav_title: LETTERS TO PARENTS
 
 ### <span style = "color: #c81b1b"> <b>Term 1 (2022)</b> </span>
 
-<table>
+<table >
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Letter to Parents<br></th>
+    <th style="text-align: center;">Date</th>
+    <th style="text-align: center;">Letter to Parents<br></th>
   </tr>
 </thead>
-<tbody>
+<tbody style="text-align: center;">
   <tr>
     <td>14 Jan 2022</td>
     <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Kindness%20P4/020%20Sch%20Hours%20on%20CNY%20Eve%2031%20Jan%202022.pdf" target = "_blank" >School Hours for Chinese New Year Eve - 31 Jan (Mon)</a><br></td>
@@ -32,11 +32,11 @@ third_nav_title: LETTERS TO PARENTS
 <table>
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Letter to Parents<br></th>
+    <th style="text-align: center;">Date</th>
+    <th style="text-align: center;">Letter to Parents<br></th>
   </tr>
 </thead>
-<tbody>
+<tbody style="text-align: center;">
   <tr>
     <td>25 Mar 2022</td>
     <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/030%20P4%20Modes%20of%20Assessments%20Letter%20to%20Parents.pdf">2022 Modes of Assessments for P4</a></td>
@@ -57,11 +57,11 @@ third_nav_title: LETTERS TO PARENTS
 <table>
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Letter to Parents<br></th>
+    <th style="text-align: center;">Date</th>
+    <th style="text-align: center;">Letter to Parents<br></th>
   </tr>
 </thead>
-<tbody>
+<tbody style="text-align: center;">
   <tr>
     <td>22 Jul 2022</td>
     <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%203/050%20ECHA%20letter%20to%20parents%202022.pdf">Edusave Character Award 2022 </a></td>
