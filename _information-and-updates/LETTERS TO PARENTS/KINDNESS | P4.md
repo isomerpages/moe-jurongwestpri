@@ -43,11 +43,11 @@ third_nav_title: LETTERS TO PARENTS
   </tr>
   <tr>
     <td>18 May 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/043%20Financial%20Literacy%20for%20P4.pdf" target = "_blank">P4 Financial Literacy Life Skills Programme - 24 &amp; 26 May </a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Kindness%20P4/043%20Financial%20Literacy%20for%20P4.pdf" target = "_blank">P4 Financial Literacy Life Skills Programme - 24 &amp; 26 May </a></td>
   </tr>
   <tr>
     <td>13 Jun 2022 </td>
-    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2022%20Letters%20to%20Parents/Term%202/044%20Collection%20of%20Recycled%20items.pdf" target = "_blank">Values-In-Action Activity - Collection of Recycled Items </a></td>
+    <td><a href="/files/INFORMATION%20AND%20UPDATES/Letter%20To%20Parents/Kindness%20P4/044%20Collection%20of%20Recycled%20items.pdf" target = "_blank">Values-In-Action Activity - Collection of Recycled Items </a></td>
   </tr>
 </tbody>
 </table>
