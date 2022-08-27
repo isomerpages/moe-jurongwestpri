@@ -2,7 +2,6 @@ collections:
   chinese-language:
     output: true
     order:
-      - Dolphin Awards/.keep
       - School Celebration/.keep
       - School Celebration/2020 新年庆祝会.md
       - School Celebration/2019 新年庆祝会.md
@@ -15,3 +14,4 @@ collections:
       - INTER SCHOOL COMPETITION 校际比赛/2017 校际比赛.md
       - INTER SCHOOL COMPETITION 校际比赛/2016 校际比赛.md
       - INTER SCHOOL COMPETITION 校际比赛/2015 校际比赛.md
+      - Dolphin Awards/.keep
