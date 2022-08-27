@@ -42,11 +42,36 @@ Semester 1 获奖得主
 
 #### Primary 4
 
-
+|    |                        |
+|----|------------------------|
+| 4B | Richard Chen Fu Hai    |
+| 4C | Chen Yihan             |
+| 4D | Teoh Yi Xin            |
+| 4F | Zhao Xin Qi            |
+| 4F | Ngoh Si Xuan           |
 
 #### Primary 5
 
-
+|    |                    |
+|----|--------------------|
+| 5A | Ong Yi Qian        |
+| 5A | Guo Jingyou        |
+| 5B | Tang Xinyu         |
+| 5D | Lye Wen Wen        |
+| 5E | Teo Wei Jun        |
+| 5F | Tang Jianing       |
+| 5F | Isaac Tan Wei Jie  |
+| 5F | Bryan Loh          |
 
 #### Primary 6
 
+|    |                          |
+|----|--------------------------|
+| 6A | Wong Zhiyan              |
+| 6A | Moe Cindy                |
+| 6A | Lim Shaoen Bernice       |
+| 6B | Thin                     |
+| 6B | Christine Liu Hongzhi    |
+| 6C | Erana Belle Chew Min Qi  |
+| 6D | Ho Wen Zhi               |
+| 6G | Chiam Xiao Qin Deby      |
