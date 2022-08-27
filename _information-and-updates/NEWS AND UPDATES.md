@@ -45,7 +45,7 @@ Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/information-and-upda
 
 ### <span style = "color: #c81b1b"> <b>MOE Sexuality Education in Schools - The Growing Years Programme (Primary 5 and 6 Pupils)</b></span>
 
-Please click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2021/Information%20and%20Updates/Info_on_SEd_for_schs_website_Pri_2021JWPS%20Website.pdf) for more information about the programme.
+Please click <a href="/files/INFORMATION%20AND%20UPDATES/News%20and%20updates/Info_on_SEd_for_schs_website_Pri_2021JWPS%20Website.pdf" target ="_blank">here</a> for more information about the programme.
 
 ### <span style = "color: #c81b1b"> <b>Singapore Student Learning Space - Getting Started.</b></span>
 
