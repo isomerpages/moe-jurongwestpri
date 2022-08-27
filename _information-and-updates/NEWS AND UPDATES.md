@@ -9,7 +9,7 @@ description: ""
 
 On Tuesday, 26th April 2022, the Chou Sing Chu Foundation (CSCF) organized a signing ceremony at the NTUC Centre. The ceremony was commemorated as the CSCF had recently added Jurong West Primary School along with 19 beneficiary schools to their School Library Sponsorship Programme. 
 
-For more information, click <a href="https://www.straitstimes.com/singapore/parenting-education/70-primary-schools-now-part-of-library-sponsorship-programme-to-help-students-master-mother-tongue?fbclid=IwAR1LCtKBtEPcZBSqO_pbG7B_o_nkzrWqp38vRSeDHIvTD7ZK-BMTsosxWDs" target ="_blank">here</a>
+For more information, click <a href="https://www.straitstimes.com/singapore/parenting-education/70-primary-schools-now-part-of-library-sponsorship-programme-to-help-students-master-mother-tongue?fbclid=IwAR1LCtKBtEPcZBSqO_pbG7B_o_nkzrWqp38vRSeDHIvTD7ZK-BMTsosxWDs" target ="_blank">here</a>.
 
 ### <span style = "color: #c81b1b"> <b>Information on Primary 1 Registration</b></span>
 
