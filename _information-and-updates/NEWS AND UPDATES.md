@@ -13,7 +13,7 @@ For more information, click <a href="https://www.straitstimes.com/singapore/par
 
 ### <span style = "color: #c81b1b"> <b>Information on Primary 1 Registration</b></span>
 
-For other information on P1 Registration, click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/admission-forms/primary-1-registration).  
+For other information on P1 Registration, click [here](/admission-and-forms/primary-1-registration).  
 
 See you all then!
 
