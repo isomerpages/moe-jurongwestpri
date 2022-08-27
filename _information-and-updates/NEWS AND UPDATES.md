@@ -3,6 +3,7 @@ title: NEWS AND UPDATES
 permalink: /information-and-updates/news-and-updates
 description: ""
 ---
+# pdf for Managing Emotional Health Book >5MB
 # NEWS AND UPDATES
 
 ### <span style = "color: #c81b1b"> <b>CSCF School Library Sponsorship Programme Signing Ceremony</b></span>
