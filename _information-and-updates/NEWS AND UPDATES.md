@@ -4,7 +4,7 @@ permalink: /information-and-updates/news-and-updates
 description: ""
 ---
 # pdf for Managing Emotional Health Book, Getting Ready for School, WE STories 2020, P1 Orientation Briefing for Parents of 2020>5MB
-# EXPLORE OUR CAMPUS page is made private
+# Jurong West Primary School Virtual Tour: EXPLORE OUR CAMPUS page is made private
 # NEWS AND UPDATES
 
 ### <span style = "color: #c81b1b"> <b>CSCF School Library Sponsorship Programme Signing Ceremony</b></span>
