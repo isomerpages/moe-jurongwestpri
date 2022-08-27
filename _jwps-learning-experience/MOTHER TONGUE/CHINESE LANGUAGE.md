@@ -70,3 +70,43 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 *   [2016 校际比赛](/chinese-language/INTER-SCHOOL-COMPETITION/2016)
 *   [2017 校际比赛](/chinese-language/INTER-SCHOOL-COMPETITION/2017)
 *   [2018 校际比赛](/chinese-language/INTER-SCHOOL-COMPETITION/2018)
+
+### DOLPHIN AWARD 海豚奖
+
+<table>
+<thead>
+  <tr>
+    <th><img src="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Photos/12.png" alt="12.png" width="279" height="248"></th>
+    <th><img src="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Photos/13.png" alt="13.png" width="261" height="241"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Photos/14.png" alt="14.png" width="279" height="273"></td>
+    <td><img src="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Photos/15.png" alt="15.png" width="264" height="255"></td>
+  </tr>
+  <tr>
+    <td><img src="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Photos/16.png" alt="16.png" width="279" height="272"></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+<table style="undefined;table-layout: fixed; width: 549px">
+<colgroup>
+<col style="width: 318px">
+<col style="width: 231px">
+</colgroup>
+<thead>
+  <tr>
+    <th><img src="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Photos/17.png" alt="17.png" width="307"></th>
+    <th><img src="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Photos/18.png" alt="18.png" width="218" height="116"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Photos/19.png" alt="19.png" width="297"></td>
+    <td style="text-align: center;"><br><i><b>So what are you waiting for?<br><br>Remember, with a mindset of Excellence, you can bring me and my friends home very soon!</b></i></td>
+  </tr>
+</tbody>
+</table>
