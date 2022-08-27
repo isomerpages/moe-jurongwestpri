@@ -44,6 +44,7 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 <img src="/images/JWPS%20LEARNING%20EXPERIENCE/Mother%20Tongue/Chinese%20Language/tn_Chinese%20Thumb3_jpg_2.jpg"
      style="width:28%; float: left">
 		 
+<br><br><br>
+<br><br>
 
-
-### <p> SCHOOL CELEBRATION 新庆祝会 </p>
+### SCHOOL CELEBRATION 新庆祝会
