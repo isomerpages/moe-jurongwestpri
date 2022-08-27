@@ -3,3 +3,76 @@ title: NEWS AND UPDATES
 permalink: /information-and-updates/news-and-updates
 description: ""
 ---
+# NEWS AND UPDATES
+
+CSCF School Library Sponsorship Programme Signing Ceremony
+----------------------------------------------------------
+
+On Tuesday, 26th April 2022, the Chou Sing Chu Foundation (CSCF) organized a signing ceremony at the NTUC Centre. The ceremony was commemorated as the CSCF had recently added Jurong West Primary School along with 19 beneficiary schools to their School Library Sponsorship Programme. 
+
+  
+
+For more information, click [here](https://www.straitstimes.com/singapore/parenting-education/70-primary-schools-now-part-of-library-sponsorship-programme-to-help-students-master-mother-tongue?fbclid=IwAR1LCtKBtEPcZBSqO_pbG7B_o_nkzrWqp38vRSeDHIvTD7ZK-BMTsosxWDs).
+
+Information on Primary 1 Registration
+-------------------------------------
+
+For other information on P1 Registration, click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/admission-forms/primary-1-registration).  
+
+  
+
+See you all then!
+
+THK Parenting Support Provider
+------------------------------
+
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20PSP_info%20infographics.jpg) or [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20PSP%20Digital%20Poster.png) for more information.  
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20Family%20Services%20Division%20-%20Managing%20Emotional%20Health%20Book%20Digital.pdf) for Managing Emotional Health Book.  
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20PSP_Referral_Enquiry_2021updated%203%20Mar%202021.pdf) for Referral Enquiry.  
+  
+
+#### Triple P Seminar
+
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/Triple%20P%20Primary%20Poster%20Apr-June.pdf) for more information.  
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/Parents%20Letter%20Primary.pdf) to register for the seminar.  
+
+Getting Ready for School - Primary 1 (2021)
+-------------------------------------------
+
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2020%20Information%20Slides%20and%20Guides/Getting%20Ready%20for%20School_P1%20(2021).pdf) for more information.
+
+Primary 4 SUBJECT-BASED BANDING & BYOD Briefing
+-----------------------------------------------
+
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2020%20News%20and%20Updates/P4%20SBB%20briefing%202019.pdf) for the briefing slides shared on Subject-Based Banding.  
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2020%20News%20and%20Updates/BYOD%20briefing.pdf) for more information about BYOD.  
+
+Jurong West Primary School Virtual Tour. 
+-----------------------------------------
+
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/information-and-updates/explore-our-campus) to explore a virtual school tour of Jurong West Primary. 
+
+MOE Sexuality Education in Schools - The Growing Years Programme (Primary 5 and 6 Pupils)
+-----------------------------------------------------------------------------------------
+
+Please click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2021/Information%20and%20Updates/Info_on_SEd_for_schs_website_Pri_2021JWPS%20Website.pdf) for more information about the programme.
+
+Singapore Student Learning Space - Getting Started.
+---------------------------------------------------
+
+Please click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2018%20Information%20Slides%20and%20Guides/4b.%20Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf) for more instructions on using the new e-learning portal.
+
+WE STories 2020
+---------------
+
+WE STories is a West Zone publication intended to enable primary school students and parents to make more informed decisions when selecting secondary schools. A soft copy of the publication is available [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2020%20News%20and%20Updates/WE%20STories%202020.pdf).  
+
+P1 Orientation Briefing for Parents of 2020
+-------------------------------------------
+
+Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/P1%20Orientation%20Briefing%20for%20Parents%202020.pdf) for the slides.
+
+Cyber Wellness for Parents - First Social Media Account
+-------------------------------------------------------
+
+Please click [here](https://www.youtube.com/watch?v=LJzFWNcFi7A&feature=youtu.be&app=desktop) for video.
