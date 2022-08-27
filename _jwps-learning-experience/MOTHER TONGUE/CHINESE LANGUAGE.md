@@ -64,4 +64,8 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 *   [母语双周 2018](/chinese-language/mother-tongue-fortnight)
 
 
-/chinese-language/INTER-SCHOOL-COMPETITION/2018
+*   [2015 校际比赛](/chinese-language/INTER-SCHOOL-COMPETITION/2015) 
+*   [2016 校际比赛](/chinese-language/INTER-SCHOOL-COMPETITION/2016)
+*   [2017 校际比赛](/chinese-language/INTER-SCHOOL-COMPETITION/2017)
+*   [2018 校际比赛](/chinese-language/INTER-SCHOOL-COMPETITION/2018)
+
