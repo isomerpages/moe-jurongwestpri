@@ -49,7 +49,7 @@ Please click <a href="/files/INFORMATION%20AND%20UPDATES/News%20and%20updates/I
 
 ### <span style = "color: #c81b1b"> <b>Singapore Student Learning Space - Getting Started.</b></span>
 
-Please click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2018%20Information%20Slides%20and%20Guides/4b.%20Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf) for more instructions on using the new e-learning portal.
+Please click [here](/files/INFORMATION%20AND%20UPDATES/News%20and%20updates/4b%20Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf) for more instructions on using the new e-learning portal.
 
 ### <span style = "color: #c81b1b"> <b>WE STories 2020</b></span>
 
