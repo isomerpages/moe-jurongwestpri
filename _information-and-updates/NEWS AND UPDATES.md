@@ -19,7 +19,7 @@ See you all then!
 
 ### <span style = "color: #c81b1b"> <b>THK Parenting Support Provider</b></span>
 
-Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20PSP_info%20infographics.jpg) or [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20PSP%20Digital%20Poster.png) for more information.  
+Click <a href="/images/Information%20and%20Updates/News%20and%20updates/THK%20PSP_info%20infographics.jpg" target ="_blank">here</a> or <a href="/images/Information%20and%20Updates/News%20and%20updates/THK%20PSP%20Digital%20Poster.png" target ="_blank">here</a> for more information.  
 Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20Family%20Services%20Division%20-%20Managing%20Emotional%20Health%20Book%20Digital.pdf) for Managing Emotional Health Book.  
 Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20PSP_Referral_Enquiry_2021updated%203%20Mar%202021.pdf) for Referral Enquiry.  
   
