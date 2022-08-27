@@ -2,5 +2,6 @@ collections:
   chinese-language:
     output: true
     order:
+      - School Celebration/2019 新年庆祝会.md
       - School Celebration/2020 新年庆祝会.md
       - School Celebration/.keep
