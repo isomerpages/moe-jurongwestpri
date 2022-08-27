@@ -3,7 +3,7 @@ title: NEWS AND UPDATES
 permalink: /information-and-updates/news-and-updates
 description: ""
 ---
-# pdf for Managing Emotional Health Book, Getting Ready for School >5MB
+# pdf for Managing Emotional Health Book, Getting Ready for School, WE STories 2020, P1 Orientation Briefing for Parents of 2020>5MB
 # EXPLORE OUR CAMPUS page is made private
 # NEWS AND UPDATES
 
