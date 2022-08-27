@@ -61,4 +61,4 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 
 ### MOTHER TONGUE FORTNIGHT 母语双周
 
-*   [母语双周 2018](/chinese-language/School-Celebration/2015)
+*   [母语双周 2018](/chinese-language/mother-tongue-fortnight)
