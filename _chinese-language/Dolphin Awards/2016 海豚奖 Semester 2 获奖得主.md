@@ -21,6 +21,15 @@ Semester 2 获奖得主
 
 #### Primary 2
 
+|    |                     |
+|----|---------------------|
+| 2A | Wong Jia Min        |
+| 2C | Olivia Chia Yu Tong |
+| 2E | Wu Liangyu          |
+| 2E | Wong Yi De          |
+| 2E | Shyanne Ong Yu Xin  |
+| 2F | Bo Wen              |
+
 #### Primary 3
 
 #### Primary 4
