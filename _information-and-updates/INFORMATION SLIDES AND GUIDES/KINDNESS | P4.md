@@ -18,27 +18,27 @@ third_nav_title: INFORMATION SLIDES AND GUIDES
 <tbody>
   <tr>
     <td style="text-align: center;">7 Feb 2022</td>
-    <td style="text-align: center;"><a href="https://youtu.be/XRXWjPnGERY">MTP Briefing Slides - English</a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/XRXWjPnGERY" target = "_blank">MTP Briefing Slides - English</a></td>
   </tr>
   <tr>
     <td style="text-align: center;">7 Feb 2022 </td>
-    <td style="text-align: center;"><a href="https://youtu.be/SMXzzji65AI">MTP Briefing Slides - Chinese Language </a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/SMXzzji65AI" target = "_blank">MTP Briefing Slides - Chinese Language </a></td>
   </tr>
   <tr>
     <td style="text-align: center;">7 Feb 2022 </td>
-    <td style="text-align: center;"><a href="https://youtu.be/EfHttLXuU0U">MTP Briefing Slides - Malay Language </a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/EfHttLXuU0U" target = "_blank">MTP Briefing Slides - Malay Language </a></td>
   </tr>
   <tr>
     <td style="text-align: center;"> 7 Feb 2022</td>
-    <td style="text-align: center;"><a href="https://youtu.be/1jfm8gbn1pQ">MTP Briefing Slides - Tamil Language </a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/1jfm8gbn1pQ" target = "_blank">MTP Briefing Slides - Tamil Language </a></td>
   </tr>
   <tr>
     <td style="text-align: center;">7 Feb 2022 </td>
-    <td style="text-align: center;"><a href="https://youtu.be/ELRXcGibcQE">MTP Briefing Slides - Mathematics </a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/ELRXcGibcQE" target = "_blank">MTP Briefing Slides - Mathematics </a></td>
   </tr>
   <tr>
     <td style="text-align: center;">7 Feb 2022 </td>
-    <td style="text-align: center;"><a href="https://youtu.be/dLXxVxwdjrk">MTP Briefing Slides - Sciences </a></td>
+    <td style="text-align: center;" target = "_blank"><a href="https://youtu.be/dLXxVxwdjrk">MTP Briefing Slides - Sciences </a></td>
   </tr>
 </tbody>
 </table>
