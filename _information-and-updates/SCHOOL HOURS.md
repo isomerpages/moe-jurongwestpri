@@ -7,6 +7,10 @@ description: ""
 
 All pupils are required to report to school before 7.30 a.m.
 
+|        Day       |              Level            |           School Hours          |
+|:----------------:|:------------------------------------------:|:--------------------------------------------------------:|
+| Monday to Friday |  Pri 1<br> Pri 2 to Pri 4<br>Pri 5, Pri 6  | 7:30am to 1:20pm<br>7:30am to 1:30pm<br>7:30am to 1:35pm |
+
 7.30 a.m. - Bell rings and school gate closes  
 7.35 a.m. - National anthem and pledge-taking  
 7.45 a.m. - Start of lessons
