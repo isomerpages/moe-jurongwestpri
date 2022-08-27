@@ -18,23 +18,23 @@ third_nav_title: INFORMATION SLIDES AND GUIDES
 <tbody>
   <tr>
     <td style="text-align: center;">7 Feb 2022</td>
-    <td style="text-align: center;"><a href="https://youtu.be/DaGETx_rWvM">MTP Briefing Slides - English</a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/DaGETx_rWvM" target ="_blank">MTP Briefing Slides - English</a></td>
   </tr>
   <tr>
     <td style="text-align: center;"> 7 Feb 2022</td>
-    <td style="text-align: center;"><a href="https://youtu.be/tID3P1o7n-c">MTP Briefing Slides - Chinese Language</a> </td>
+    <td style="text-align: center;"><a href="https://youtu.be/tID3P1o7n-c" target ="_blank">MTP Briefing Slides - Chinese Language</a> </td>
   </tr>
   <tr>
     <td style="text-align: center;">7 Feb 2022 </td>
-    <td style="text-align: center;"><a href="https://youtu.be/pjoaFwyYHcs">MTP Briefing Slides - Malay Language</a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/pjoaFwyYHcs" target ="_blank">MTP Briefing Slides - Malay Language</a></td>
   </tr>
   <tr>
     <td style="text-align: center;"> 7 Feb 2022</td>
-    <td style="text-align: center;"><a href="https://youtu.be/vkFglcOlEH0">MTP Briefing Slides - Tamil Language </a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/vkFglcOlEH0" target ="_blank">MTP Briefing Slides - Tamil Language </a></td>
   </tr>
   <tr>
     <td style="text-align: center;">7 Feb 2022 </td>
-    <td style="text-align: center;"><a href="https://youtu.be/HpKJRmtPJNE">MTP Briefing Slides - Mathematics </a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/HpKJRmtPJNE" target ="_blank">MTP Briefing Slides - Mathematics </a></td>
   </tr>
 </tbody>
 </table>
