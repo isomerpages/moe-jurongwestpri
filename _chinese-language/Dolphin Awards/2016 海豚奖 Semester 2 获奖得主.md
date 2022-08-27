@@ -32,6 +32,15 @@ Semester 2 获奖得主
 
 #### Primary 3
 
+|    |                    |
+|----|--------------------|
+| 3B | Chong Wei Ye Jerry |
+| 3B | Tan Zhi Shan       |
+| 3B | Josephine Tan      |
+| 3D | Low Jia Wei        |
+| 3F | Zhao Xin Qi        |
+| 3F | He Zhou Qi         |
+
 #### Primary 4
 
 #### Primary 5
