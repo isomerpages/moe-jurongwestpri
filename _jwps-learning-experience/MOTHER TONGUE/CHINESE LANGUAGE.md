@@ -47,3 +47,13 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 <br><br><br><br><br><br><br><br>
 
 ### SCHOOL CELEBRATION 新庆祝会
+
+*   [2020 新年庆祝会](/chinese-language/School-Celebration/2020)  
+    
+*   [2019 新年庆祝会](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/jwps-learning-experience/mother-tongue/chinese-language/school-celebration/2019)  
+    
+*   [2017 新年庆祝会](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/mother-tongue/chinese-language/school-celebration/2017)  
+    
+*   [2016 新年庆祝会](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/mother-tongue/chinese-language/school-celebration/2016)  
+    
+*   [2015 新年庆祝会](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/mother-tongue/chinese-language/school-celebration/2015)
