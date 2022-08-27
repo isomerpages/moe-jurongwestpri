@@ -38,7 +38,7 @@ third_nav_title: INFORMATION SLIDES AND GUIDES
   </tr>
   <tr>
     <td style="text-align: center;">7 Feb 2022 </td>
-    <td style="text-align: center;" target = "_blank"><a href="https://youtu.be/dLXxVxwdjrk">MTP Briefing Slides - Sciences </a></td>
+    <td style="text-align: center;"><a href="https://youtu.be/dLXxVxwdjrk" target = "_blank">MTP Briefing Slides - Sciences </a></td>
   </tr>
 </tbody>
 </table>
