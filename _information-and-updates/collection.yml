@@ -2,7 +2,6 @@ collections:
   information-and-updates:
     output: true
     order:
-      - NEWS AND UPDATES.md
       - LETTERS TO PARENTS/.keep
       - LETTERS TO PARENTS/LETTERS TO PARENTS.md
       - LETTERS TO PARENTS/TEAMWORK | P1.md
@@ -20,4 +19,5 @@ collections:
       - INFORMATION SLIDES AND GUIDES/KINDNESS | P4.md
       - INFORMATION SLIDES AND GUIDES/ENTHUSIASM | P5.md
       - INFORMATION SLIDES AND GUIDES/RESILIENCE | P6.md
+      - NEWS AND UPDATES.md
       - SCHOOL HOURS.md
