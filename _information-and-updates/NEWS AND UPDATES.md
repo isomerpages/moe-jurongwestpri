@@ -22,12 +22,12 @@ See you all then!
 
 Click <a href="/images/Information%20and%20Updates/News%20and%20updates/THK%20PSP_info%20infographics.jpg" target ="_blank">here</a> or <a href="/images/Information%20and%20Updates/News%20and%20updates/THK%20PSP%20Digital%20Poster.png" target ="_blank">here</a> for more information.  
 Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20Family%20Services%20Division%20-%20Managing%20Emotional%20Health%20Book%20Digital.pdf) for Managing Emotional Health Book.  
-Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20PSP_Referral_Enquiry_2021updated%203%20Mar%202021.pdf) for Referral Enquiry.  
+Click <a href="/files/INFORMATION%20AND%20UPDATES/News%20and%20updates/THK%20PSP_Referral_Enquiry_2021updated%203%20Mar%202021.pdf" target ="_blank">here</a> for Referral Enquiry.  
   
 #### Triple P Seminar
 
-Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/Triple%20P%20Primary%20Poster%20Apr-June.pdf) for more information.  
-Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/Parents%20Letter%20Primary.pdf) to register for the seminar.  
+Click <a href="/files/INFORMATION%20AND%20UPDATES/News%20and%20updates/Triple%20P%20Primary%20Poster%20Apr-June.pdf" target ="_blank">here</a> for more information.  
+Click <a href="/files/INFORMATION%20AND%20UPDATES/News%20and%20updates/Parents%20Letter%20Primary.pdf" target ="_blank">here</a> to register for the seminar.  
 
 ### <span style = "color: #c81b1b"> <b>Getting Ready for School - Primary 1 (2021)</b></span>
 
