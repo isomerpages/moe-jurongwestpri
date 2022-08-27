@@ -4,3 +4,7 @@ permalink: /chinese-language/Dolphin-Awards/2015/semester-2
 description: ""
 third_nav_title: Dolphin Awards
 ---
+Semester 2 - Best in Class (MT)
+===============================
+
+### <span style = "color: #c81b1b"> <b>Congratulations to all!</b> </span>
