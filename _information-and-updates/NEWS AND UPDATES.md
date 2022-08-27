@@ -57,7 +57,6 @@ WE STories is a West Zone publication intended to enable primary school students
 
 Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/P1%20Orientation%20Briefing%20for%20Parents%202020.pdf) for the slides.
 
-Cyber Wellness for Parents - First Social Media Account
--------------------------------------------------------
+### <span style = "color: #c81b1b"> <b>Cyber Wellness for Parents - First Social Media Account</b></span>
 
 Please click [here](https://www.youtube.com/watch?v=LJzFWNcFi7A&feature=youtu.be&app=desktop) for video.
