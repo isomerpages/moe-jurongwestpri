@@ -35,8 +35,8 @@ Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2020%2
 
 ### <span style = "color: #c81b1b"> <b>Primary 4 SUBJECT-BASED BANDING & BYOD Briefing</b></span>
 
-Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2020%20News%20and%20Updates/P4%20SBB%20briefing%202019.pdf) for the briefing slides shared on Subject-Based Banding.  
-Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2020%20News%20and%20Updates/BYOD%20briefing.pdf) for more information about BYOD.  
+Click <a href="/files/INFORMATION%20AND%20UPDATES/News%20and%20updates/P4%20SBB%20briefing%202019.pdf" target ="_blank">here</a> for the briefing slides shared on Subject-Based Banding.  
+Click <a href="/files/INFORMATION%20AND%20UPDATES/News%20and%20updates/BYOD%20briefing.pdf" target ="_blank">here</a> for more information about BYOD.  
 
 ### <span style = "color: #c81b1b"> <b>Jurong West Primary School Virtual Tour. </b></span>
 
