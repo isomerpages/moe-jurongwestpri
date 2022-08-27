@@ -11,34 +11,34 @@ third_nav_title: INFORMATION SLIDES AND GUIDES
 <table>
 <thead>
   <tr>
-    <th>Date</th>
-    <th>Information</th>
+    <th style="text-align: center;">Date</th>
+    <th style="text-align: center;">Information</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>7 Feb 2022</td>
-    <td><a href="https://youtu.be/XRXWjPnGERY">MTP Briefing Slides - English</a></td>
+    <td style="text-align: center;">7 Feb 2022</td>
+    <td style="text-align: center;"><a href="https://youtu.be/XRXWjPnGERY">MTP Briefing Slides - English</a></td>
   </tr>
   <tr>
-    <td>7 Feb 2022 </td>
-    <td><a href="https://youtu.be/SMXzzji65AI">MTP Briefing Slides - Chinese Language </a></td>
+    <td style="text-align: center;">7 Feb 2022 </td>
+    <td style="text-align: center;"><a href="https://youtu.be/SMXzzji65AI">MTP Briefing Slides - Chinese Language </a></td>
   </tr>
   <tr>
-    <td>7 Feb 2022 </td>
-    <td><a href="https://youtu.be/EfHttLXuU0U">MTP Briefing Slides - Malay Language </a></td>
+    <td style="text-align: center;">7 Feb 2022 </td>
+    <td style="text-align: center;"><a href="https://youtu.be/EfHttLXuU0U">MTP Briefing Slides - Malay Language </a></td>
   </tr>
   <tr>
-    <td> 7 Feb 2022</td>
-    <td><a href="https://youtu.be/1jfm8gbn1pQ">MTP Briefing Slides - Tamil Language </a></td>
+    <td style="text-align: center;"> 7 Feb 2022</td>
+    <td style="text-align: center;"><a href="https://youtu.be/1jfm8gbn1pQ">MTP Briefing Slides - Tamil Language </a></td>
   </tr>
   <tr>
-    <td>7 Feb 2022 </td>
-    <td><a href="https://youtu.be/ELRXcGibcQE">MTP Briefing Slides - Mathematics </a></td>
+    <td style="text-align: center;">7 Feb 2022 </td>
+    <td style="text-align: center;"><a href="https://youtu.be/ELRXcGibcQE">MTP Briefing Slides - Mathematics </a></td>
   </tr>
   <tr>
-    <td>7 Feb 2022 </td>
-    <td><a href="https://youtu.be/dLXxVxwdjrk">MTP Briefing Slides - Sciences </a></td>
+    <td style="text-align: center;">7 Feb 2022 </td>
+    <td style="text-align: center;"><a href="https://youtu.be/dLXxVxwdjrk">MTP Briefing Slides - Sciences </a></td>
   </tr>
 </tbody>
 </table>
