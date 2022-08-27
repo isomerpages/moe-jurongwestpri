@@ -11,24 +11,24 @@ Semester 1 获奖得主
 
 #### Primary 1
 
-|    |                      |
-|----|----------------------|
-| 1A | Lu Zi Xian Chloe     |
-| 1C | Jayden Goh Zhen Xi   |
-| 1D | Tan Hui Yi           |
-| 1E | Jennifer Wang Haijie |
-| 1F | Li Yudong            |
+|    |                    |
+|----|--------------------|
+| 1A | Lu Yan Jie Lauren  |
+| 1C | Tan Si Jia         |
+| 1D | Lu Tian Zhi        |
+| 1E | Chua Yoy Jia       |
+| 1F | Yang Ya Qian       |
+| 1H | Tan Hao Xuan       |
 
 #### Primary 2
 
-|    |                     |
-|----|---------------------|
-| 2A | Wong Jia Min        |
-| 2C | Olivia Chia Yu Tong |
-| 2E | Wu Liangyu          |
-| 2E | Wong Yi De          |
-| 2E | Shyanne Ong Yu Xin  |
-| 2F | Bo Wen              |
+|    |                       |
+|----|-----------------------|
+| 2B | Yu Si Xuan, Jeanette  |
+| 2D | Liew Shi Qing         |
+| 2F | Phang Ye Siang        |
+| 2G | Yip Yu Yang, Aden     |
+| 2H | Gan Jia Xuan          |
 
 #### Primary 3
 
