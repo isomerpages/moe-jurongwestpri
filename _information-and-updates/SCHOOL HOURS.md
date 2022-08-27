@@ -21,5 +21,15 @@ All pupils are required to report to school before 7.30 a.m.
 > Pri 2, Pri 3, Pri 4 : 1:30 p.m.  
 > Pri 5, Pri 6 : 1:35 p.m.
 
-
 <u><b>Daily Recess Schedule</b></u>
+
+|      Levels      |            Time           |
+|:----------------:|:-------------------------:|
+|  Primary 1 and 6 |   9.00 a.m. to 9.30 a.m.  |
+|  Primary 2 and 5 |  9.30 a.m. to 10.00 a.m.  |
+| Primary 3 and 4  | 10.00 a.m. to 10.30 a.m.  |
+
+|             |                       |
+|:-----------:|:---------------------:|
+| Snack Break |       12:00 p.m.      |
+| Lunch Break | 1:30 p.m. - 2:00 p.m. |
