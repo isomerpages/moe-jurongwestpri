@@ -2,7 +2,6 @@ collections:
   information-and-updates:
     output: true
     order:
-      - SCHOOL HOURS.md
       - LETTERS TO PARENTS/.keep
       - LETTERS TO PARENTS/LETTERS TO PARENTS.md
       - LETTERS TO PARENTS/TEAMWORK | P1.md
@@ -12,3 +11,4 @@ collections:
       - LETTERS TO PARENTS/ENTHUSIASM | P5.md
       - LETTERS TO PARENTS/RESILIENCE | P6.md
       - BOOKLISTS 2022 (new).md
+      - SCHOOL HOURS.md
