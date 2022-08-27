@@ -2,6 +2,7 @@ collections:
   information-and-updates:
     output: true
     order:
+      - INFORMATION SLIDES AND GUIDES/INFORMATION SLIDES AND GUIDES.md
       - INFORMATION SLIDES AND GUIDES/.keep
       - LETTERS TO PARENTS/.keep
       - LETTERS TO PARENTS/LETTERS TO PARENTS.md
