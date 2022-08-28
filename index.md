@@ -22,5 +22,6 @@ sections:
   - infobar:
       title: Information on Primary 1 Registration
       description: The Virtual School Tour is up on our school website. See you all then!
-      button: Button Text
+      button: More information click here
+      url: /admission-and-forms/primary-1-registration
 ---
