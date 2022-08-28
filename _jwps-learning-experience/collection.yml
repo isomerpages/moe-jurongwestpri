@@ -2,6 +2,7 @@ collections:
   jwps-learning-experience:
     output: true
     order:
+      - CHARACTER AND CITIZENSHIP/.keep
       - ENGLISH/.keep
       - ENGLISH/ENGLISH.md
       - ENGLISH/PROGRAMMES AND ACTIVITIES.md
