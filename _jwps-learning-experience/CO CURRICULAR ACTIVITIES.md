@@ -3,6 +3,7 @@ title: CO CURRICULAR ACTIVITIES
 permalink: /jwps-learning-experience/co-curricular-activities
 description: ""
 ---
+# PAGES FOR "SPORTS, UNIFORMED GROUPS AND CULTURAL ACTIVITIES, CLUBS AND SOCIETIES ARE MADE PRIVATE and cannot be migrated
 # CO-CURRICULAR ACTIVITIES
 
 (Updated on 3 Jan 2020)
