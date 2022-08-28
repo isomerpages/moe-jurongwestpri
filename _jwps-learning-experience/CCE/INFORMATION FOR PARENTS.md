@@ -8,7 +8,6 @@ third_nav_title: CCE
  <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/tn_hand.jpg"
      style="width:50%">
 
-
 *   Collaboration with MOE Educational Psychologist, Psychologist/ Therapists in Hospital and Sped School.
 *   Consultation to teachers to facilitate better understanding of the students’ needs and how to support them.
 *   Co-ordination and contribution to case conferences in schools. (Case Management Team)
