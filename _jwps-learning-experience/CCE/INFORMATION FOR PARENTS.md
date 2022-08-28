@@ -81,7 +81,7 @@ third_nav_title: CCE
 *   NOT due to bad parenting / teaching
 
 |             |                                                      |
-|-------------|------------------------------------------------------|
+|:-------------:|:------------------------------------------------------:|
 |  **Dyspraxia**  |   **Impairment/immaturity of organization of movement**  |
 | **Dysgraphia** |       **Immature fine motor skills development**     |
 | **Dyscalculia** | **Impairment of ability to solve mathematical problems** |
