@@ -34,10 +34,33 @@ Semester 1 获奖得主
 
 #### Primary 4
 
-
+|    |                    |
+|----|--------------------|
+| K1 | Wang Yee San       |
+| K4 | Claris Toh Rui Xi  |
+| K5 | Yap Wen Xuan       |
+| K5 | Chloe Tan Min Xin  |
+| K5 | Ling Jia En Clara  |
 
 #### Primary 5
 
-
+|    |                |
+|----|----------------|
+| E1 | Lin Shiyan     |
+| E1 | Liu Zhile      |
+| E3 | Keh Zeng Zhe   |
+| E4 | Koh Jia Xuan   |
+| E4 | Josephine Tan  |
+| E6 | Wang Yee Han   |
 
 #### Primary 6
+
+|    |                       |
+|----|-----------------------|
+| R1 | Xue Jiaxin            |
+| R1 | Guo Jingyou           |
+| R2 | Sherwin Fong Xin Ying |
+| R4 | Zoe Ho Jia En         |
+| R4 | Lye Wen Wen           |
+| R5 | Heng Kai Xuan         |
+| R6 | Beverly Sng           |
