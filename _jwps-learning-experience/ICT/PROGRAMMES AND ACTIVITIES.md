@@ -29,7 +29,10 @@ This initiative greatly reduces the time and hassle of bringing students from th
 
 ICT learning can now take place beyond the boundaries of the four walls of a lab. In fact, it can take place anywhere around the school! Let us take a look at some of the lessons conducted using our Mobile Computer Labs.
 
-
+|   |   |
+|:-:|---|
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/ICT/PROGRAMMES%20AND%20ACTIVITIES/Mobile%20Computer%20Labs%20(1).png)  |  ![](/images/JWPS%20LEARNING%20EXPERIENCE/ICT/PROGRAMMES%20AND%20ACTIVITIES/Mobile%20Computer%20Labs%20(2).png)  |
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/ICT/PROGRAMMES%20AND%20ACTIVITIES/Mobile%20Computer%20Labs%20(3).png)   |  ![](/images/JWPS%20LEARNING%20EXPERIENCE/ICT/PROGRAMMES%20AND%20ACTIVITIES/Mobile%20Computer%20Labs%20(4).png)  |
 
 ### Annual E-Learning Exercise
 
