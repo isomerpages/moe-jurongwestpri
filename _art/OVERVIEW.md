@@ -25,6 +25,12 @@ description: ""
 
 <p style="text-align: justify;">Our Primary 5 students learned techniques of Acrylic Painting by understanding how to use texture, shape and colour-scheme in creating artwork based on the theme of natural landscapes. They learned and experimented with painting techniques like layering, scumbling, mixing, glazing and blending. Students were encouraged to explore their creativity and had the feel of working with acrylic as a medium in painting. They were also given an opportunity to learn about the local artists like Georgette Chen.</p>
 
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/Primary%205%20Acrylic%20(1).png)
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/Primary%205%20Acrylic%20(2).png)
+
 ###  Primary 6 Watercolour Painting Programme  
 
 <p style="text-align: justify;">Our Primary 6 students learned techniques of Watercolour by understanding how to use texture, shape and colour-scheme in creating artwork based on the theme of nature and Earth. They applied compositional techniques such as overlapping, repetition, rhythm and emphasis in portraying visuals of their work. Students were encouraged to explore their creativity and had the feel of working with watercolour as a medium in painting. Students were also given an opportunity to learn about famous artists like Leonardo Da Vinci, Rembrandt and Vincent Van Gogh. </p>
+
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/Primary%206%20Watercolour%20(1).png)
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/Primary%206%20Watercolour%20(2).png)
