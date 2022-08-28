@@ -51,3 +51,12 @@ third_nav_title: ICT
   </tr>
 </thead>
 </table>
+
+### <span style = "color: #c81b1b"> <b>P5 - To Lead is to Serve</b> </span>
+
+*   To  learn about the life of a war hero.
+*   To create a storyboard based on the life / contributions of a historical war hero
+
+<br>
+
+*   **Samples of students' work**
