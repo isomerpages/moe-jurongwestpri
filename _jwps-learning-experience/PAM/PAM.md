@@ -26,6 +26,40 @@ This programme includes planned activities incorporating a wide range of experie
 |:------------------------------------:|
 |                   -                  |
 
+<table>
+<thead>
+  <tr>
+    <th colspan="2" style="text-align: center;">Members</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">Mdm Suriati Bte Samuri<br>(ST/Art)</td>
+    <td style="text-align: center;">Miss Lau Chin Yong<br>(Year Head, P1 P2)</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Ms Chia Gek Lan Jean<br>(ST/PE)</td>
+    <td style="text-align: center;">Mrs Foong - Cindy Sim Lee Choo<br>(Health Education Coordinator) <br></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"> Mrs Cheng Mui Tiang<br></td>
+    <td style="text-align: center;">Mr Jeremy Lim Chee Beng</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"> Mr Mohammad Azli Bin Majid<br></td>
+    <td style="text-align: center;"> Mdm Doris Heng</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Ms Shermaine Chan<br></td>
+    <td style="text-align: center;">Ms Amanda Tan Wai Ting </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Ms Kelly Tan<br></td>
+    <td style="text-align: center;">Mr Joel How</td>
+  </tr>
+</tbody>
+</table>
+
 ## <span style = "color: #c81b1b"> <b>Programme Goals:</b> </span>
 
 
