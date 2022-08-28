@@ -24,9 +24,9 @@ third_nav_title: ICT
 <table>
 <thead>
   <tr>
-    <td><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnr2.jpg"
-     style="width:200%"></a></td>
-    <td><a href="/files/Announcement/2022-Term-2-Class-Timetable-10032022.pdf" target = "_blank"> <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnre1.jpg"
+    <td><a href="/files/Jwps%20learning%20experience/ICT/P3%20IPW2.pdf" target = "_blank"> <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnr2.jpg"
+     style="width:100%"></a></td>
+    <td><a href="/files/Jwps%20learning%20experience/ICT/P3%20IPW1.pdf" target = "_blank"> <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnre1.jpg"
      style="width:100%"></a></td>
   </tr>
 </thead>
