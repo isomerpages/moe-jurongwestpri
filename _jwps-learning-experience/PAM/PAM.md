@@ -30,6 +30,8 @@ This programme includes planned activities incorporating a wide range of experie
 |:------------------------------------:|
 |                   -                  |
 
+<br>
+
 <table>
 <thead>
   <tr>
