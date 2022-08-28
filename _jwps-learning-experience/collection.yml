@@ -2,7 +2,6 @@ collections:
   jwps-learning-experience:
     output: true
     order:
-      - CO CURRICULAR ACTIVITIES.md
       - ENGLISH/.keep
       - ENGLISH/ENGLISH.md
       - ENGLISH/PROGRAMMES AND ACTIVITIES.md
@@ -19,4 +18,5 @@ collections:
       - SCIENCE/PROGRAMMES AND ACTIVITIES.md
       - SCIENCE/NATURE TRAIL AND LEARNING JOURNEYS.md
       - SCIENCE/INVESTIGATIVE EXPERIMENTS AND MINI PROJECTS.md
+      - CO CURRICULAR ACTIVITIES.md
       - STUDENT MANAGEMENT DEPARTMENT.md
