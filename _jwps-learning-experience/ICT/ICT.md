@@ -26,8 +26,8 @@ The four main ICT outcomes for the department are:
 
 <br>
 
-| Subject Head |
-| --- |
+|    Subject Head    |
+|:-------------------------:|
 | Ms Ong Ying Wen Gladys |
 
 <br>
