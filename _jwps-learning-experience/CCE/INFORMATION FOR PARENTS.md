@@ -60,3 +60,21 @@ third_nav_title: CCE
 **N**eed Time to respond
 
 **E**ngage and Disengage
+
+
+ <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/tn_dyslexia.jpg"
+     style="width:50%">
+### Dyslexia
+
+#### **What is Dyslexia?**
+
+*   Is a condition that makes it very difficult for children to read, write and/or spell
+*   Often, weaknesses may be seen in areas such as of language development, memory and sequencing
+*   Having dyslexia does not mean that your child’s ability to learn is below average
+*   Biological / genetic
+*   A difference in the part of the brain that deals with language
+*   Brain processes information differently
+*   Continues throughout life
+*   Unlikely that a student will “suddenly” develop dyslexia
+*   Cannot be cured but symptoms can be reduced
+*   NOT due to bad parenting / teaching
