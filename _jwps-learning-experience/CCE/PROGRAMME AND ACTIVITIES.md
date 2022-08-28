@@ -47,3 +47,11 @@ The school leverages the Head-Hands-Heart approach in championing its VIA effort
 |   |   |
 |:-:|---|
 | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%206.png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%207.png)  |
+
+#### **Interdisciplinary Project Work (IPW)**
+
+The school leverage on IPW to develop character and citizenship education in an  integrated  manner. Students participate in different activities as they complete projects that focus on themes like Healthy Living (P3) and Embracing Diversity (P4). IPW also provides an excellent platform for students to work effectively in teams.  All students were given opportunities to share or present their work to either their own classmates or students from other levels.  This is another platform that the school provides for them to be Confident Speakers.
+
+|   |   |
+|:-:|---|
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%208.png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%209.png)  |
