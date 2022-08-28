@@ -34,3 +34,10 @@ third_nav_title: CCE
 *   As the person with ASD grows, the nature and intensity of the behaviour may change
 
 ##### <u>Core Characteristics</u>
+
+|                                                                                                                   |                                                                                                        |                                                                                                        |
+|:-----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
+|                                                 Social Interaction                                                |                                          Social Communication                                          |                                   Flexibility of Thoughts & Behaviour                                  |
+|                                                  Poor eye contact                                                 |           Echo another person’s speech (echolalia);  may confuse with pronouns “I” and “You”           | Flapping of hands, spinning or spinning objects, head banging, staring at ceiling fans for hours, etc. |
+| Prefer to be alone; may interact with others but only to obtain objects or to talk about own stereotypic interest |           May exhibit unusual speech pattern; use words without understanding their meanings           |                    Difficulty coping with changes in routines, the environment, etc.                   |
+|                                       Unable to understand other’s feelings                                       |  Use and understanding of language tend to be literal; unable to initiate and engage in a conversation |                                                                                                        |
