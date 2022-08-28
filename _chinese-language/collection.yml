@@ -2,7 +2,6 @@ collections:
   chinese-language:
     output: true
     order:
-      - WORKS OF PUPILS 学生作品/.keep
       - School Celebration/.keep
       - School Celebration/2020 新年庆祝会.md
       - School Celebration/2019 新年庆祝会.md
@@ -27,3 +26,4 @@ collections:
       - Dolphin Awards/2019 海豚奖 Semester 1 获奖得主.md
       - Dolphin Awards/2019 海豚奖 Semester 2 获奖得主.md
       - Dolphin Awards/2020 海豚奖.md
+      - WORKS OF PUPILS 学生作品/.keep
