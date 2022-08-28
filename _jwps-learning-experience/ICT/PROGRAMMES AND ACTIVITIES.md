@@ -14,8 +14,8 @@ This year, the students had the opportunity to try simple coding and work the Oz
   
 |   |   |
 |:-:|---|
-|   |   |
-|   |   |
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/ICT/PROGRAMMES%20AND%20ACTIVITIES/IMDA%20(1).png)  |![](/images/JWPS%20LEARNING%20EXPERIENCE/ICT/PROGRAMMES%20AND%20ACTIVITIES/IMDA%20(2).png)   |
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/ICT/PROGRAMMES%20AND%20ACTIVITIES/IMDA%20(3).png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/ICT/PROGRAMMES%20AND%20ACTIVITIES/IMDA%20(4).png)  |
 
 
 ### Mobile Computer Labs  
