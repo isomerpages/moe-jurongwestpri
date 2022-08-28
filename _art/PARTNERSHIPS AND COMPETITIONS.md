@@ -19,17 +19,12 @@ _Every Child is an Artist_ is an annual exhibition set up at Frontier Community
 
 
 
-  
-
-
 ### ARTWORK SHOWCASE
 #### **Collaboration with Pioneer Polyclinic**
 
 JWPS is pleased to have the opportunity to collaborate with the newly opened Pioneer Polyclinic by donating some of our students' artwork to adorn their facilities. Knowing how their artwork can be used to brighten a public area inspires students to put in their best effort to improve their artistic talents.
 
-  
 
----
 
 ### PASSIONARTS FESTIVAL PROJECTS
 #### **Celebration of National Day through the Arts**
