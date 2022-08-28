@@ -44,9 +44,9 @@ third_nav_title: ICT
 <table>
 <thead>
   <tr>
-    <td><a href="/files/Jwps%20learning%20experience/ICT/P3%20IPW2.pdf" target = "_blank"> <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnlittle%20india.jpg"
+    <td><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Departments/ICT/Little%20india.pdf" target = "_blank"> <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnlittle%20india.jpg"
      style="width:100%"></a></td>
-    <td><a href="/files/Jwps%20learning%20experience/ICT/P3%20IPW1.pdf" target = "_blank"> <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnr3.jpg"
+    <td><a href="/files/Jwps%20learning%20experience/ICT/Group%206_chinatown.pdf" target = "_blank"> <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnr3.jpg"
      style="width:100%"></a></td>
   </tr>
 </thead>
