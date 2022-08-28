@@ -9,8 +9,8 @@ description: ""
 <thead>
   <tr>
     <th></th>
-    <th>Web Titles</th>
-    <th>URL</th>
+    <th style="text-align: center;">Web Titles</th>
+    <th style="text-align: center;">URL</th>
   </tr>
 </thead>
 <tbody>
