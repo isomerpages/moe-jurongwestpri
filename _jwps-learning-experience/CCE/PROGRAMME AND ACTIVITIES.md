@@ -88,4 +88,38 @@ It is also infused in the school's CCE curriculum and programmes through the com
 Total Defence was introduced in Singapore in 1984 and is commemorated on 15 February every year. It marks the fall of Singapore to the Japanese in 1942. The commemoration of TDD seeks to remind people of the sufferings endured by our forefathers during the Japanese Occupation and reflect on how Total Defence remains our best all-round response to threats and challenges that confront Singapore. They also reflect on the continuing relevance of the 6 Total Defence Pillars and the core message of every Singaporean standing together, with each playing our part to protect Singapore and our shared way of life.
 
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2013.jpg)
-![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2014.png) 
+![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2014.png)
+
+#### **International Friendship Day**
+
+International Friendship Day falls on the 3rd Friday of Term 2. It provides students the opportunity to explore Singapore’s connection to the region and the world. We commemorate International Friendship Day for our students to reflect on the importance to Singapore of:
+
+*   an active foreign policy to maintain our international space and good relations with neighbouring countries
+
+*   openness to the international flow of trade, ideas and talent
+
+*   cross-cultural skills and a global orientation
+
+*   mutual respect and understanding to maintain social cohesion in our multicultural society
+
+  
+
+Besides, it allows us to understand the importance of our ASEAN Identity.
+
+![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2015.jpg)
+
+#### **Racial Harmony Day** 
+
+Racial Harmony Day marks the anniversary of the 1964 racial riots. It is commemorated on 21 July to celebrate Singapore as a harmonious society built on a rich diversity of cultures, requiring collaborative efforts from all to promote social cohesion and harmony.
+
+On this day, we learn that people should be treated equally regardless of their race and religion in Singapore, at any time. Students are also encouraged to be dressed in other culture's traditional clothes such as the Cheongsam, the Baju Kurung and Saree.
+
+![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2016.jpg)
+
+#### **National Day**
+
+9 August marks our separation from Malaysia in 1965 and our emergence as an independent country in a community of nations. Since 1998, schools have held an observance ceremony for students to have a greater sense of the historical importance and solemnity of National Day. Singaporean celebrates this day with flags lining the buildings, patriotic songs pervades the airwaves, people kitted out in red and white, and of course, the National Day Parade (NDP).
+
+|   |   |
+|:-:|---|
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2017.jpg)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2018.jpg)  |
