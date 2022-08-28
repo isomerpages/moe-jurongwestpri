@@ -36,3 +36,7 @@ third_nav_title: ICT
 
 *   To appreciate other races and their cultures.
 *   To create PowerPoint slides to promote an ethnic place.
+
+<br>
+
+*   **Samples of students' work**
