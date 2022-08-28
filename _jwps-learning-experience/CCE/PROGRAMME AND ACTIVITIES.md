@@ -33,3 +33,17 @@ During Assembly, a variety of sharing sessions by our teachers, our alumni and e
 |   |   |
 |:-:|---|
 | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%204.png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%205.png)  |
+
+#### **CCE (MTL) Lessons**  
+
+CCE lessons in the Primary school are taught in Mother Tongue language. It focus on the inculcation of the 3RICH values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) through fun and meaningful activities. Through activities like story-telling, groupwork, role-playing and reflection, students learn to cultivate good social and communication sklls. These skills enable them to promote harmony and social cohesion in a multiracial and multi-religious society.
+
+#### **Values In Action (VIA)**
+
+The school believes that community involvement allows students to be active contributors as well as concerned citizens in Singapore. VIA is an important component of Character and Citizenship Education Education. It promotes active citizenry by involving students in meaningful and engaging activities planned by the school.
+
+The school leverages the Head-Hands-Heart approach in championing its VIA effort. The school is mindful of the SE competencies which it seeks to engender through VIA. Keeping in mind age-activity compatibility, the VIA effort follows a progressive continuum from serving self, serving school, serving the community to serving the nation. Our We planned a variety of VIA programmes and collaborated with the departments in our school to provide opportunities for students to learn.
+
+|   |   |
+|:-:|---|
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%206.png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%207.png)  |
