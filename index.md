@@ -28,5 +28,5 @@ sections:
       title: Getting Ready for School - Primary 1 (2021)
       description: PDF FILE IS >5M AND NOT UPLOADED!!!!
       button: More information click here
-      url: /
+      url: https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2020%20Information%20Slides%20and%20Guides/Getting%20Ready%20for%20School_P1%20(2021).pdf
 ---
