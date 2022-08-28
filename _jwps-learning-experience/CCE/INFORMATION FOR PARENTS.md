@@ -64,6 +64,7 @@ third_nav_title: CCE
 
  <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/tn_dyslexia.jpg"
      style="width:50%">
+
 ### Dyslexia
 
 #### **What is Dyslexia?**
@@ -78,3 +79,9 @@ third_nav_title: CCE
 *   Unlikely that a student will “suddenly” develop dyslexia
 *   Cannot be cured but symptoms can be reduced
 *   NOT due to bad parenting / teaching
+
+|             |                                                      |
+|-------------|------------------------------------------------------|
+|  **Dyspraxia**  |   **Impairment/immaturity of organization of movement**  |
+| **Dysgraphia** |       **Immature fine motor skills development**     |
+| **Dyscalculia** | **Impairment of ability to solve mathematical problems** |
