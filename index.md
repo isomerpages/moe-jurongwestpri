@@ -19,4 +19,8 @@ sections:
         beneficiary schools to their School Library Sponsorship Programme. "
       button: More information click here
       url: https://www.straitstimes.com/singapore/parenting-education/70-primary-schools-now-part-of-library-sponsorship-programme-to-help-students-master-mother-tongue
+  - infobar:
+      title: Information on Primary 1 Registration
+      description: The Virtual School Tour is up on our school website. See you all then!
+      button: Button Text
 ---
