@@ -32,7 +32,8 @@ Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parent
 <a href="/files/Quick%20Links/Is%20Your%20Child%20A%20Responsible%20Digital%20Learner-.pdf" target = "_blank"> <img src="/images/Quick%20Links/Is%20Your%20Child%20A%20Responsible%20Digital%20Learner--page-001.jpg"
      style="width:100%"></a>
 
+<a href="/files/Quick%20Links/Tip%20Sheet%20on%20Cyber%20Bullying%20(1).pdf" target = "_blank"> <img src="/images/Quick%20Links/Tip%20Sheet%20on%20Cyber%20Bullying-1.jpg"
+     style="width:100%"></a>
 
-
-![](/images/Quick%20Links/Tip%20Sheet%20on%20Cyber%20Bullying-1.jpg)
-![](/images/Quick%20Links/Tip%20Sheet%20on%20Cyber%20Bullying-2.jpg)
+<a href="/files/Quick%20Links/Tip%20Sheet%20on%20Cyber%20Bullying.pdf" target = "_blank"> <img src="/images/Quick%20Links/Tip%20Sheet%20on%20Cyber%20Bullying-2.jpg"
+     style="width:100%"></a>
