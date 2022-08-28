@@ -5,7 +5,7 @@ description: ""
 ---
 # Students
 
-| Website | URL                                                       |                                                              |
+|  | Website                  |      URL                          |
 |---------|-----------------------------------------------------------|:------------------------------------------------------------:|
 |    1    | Cyber Wellness Portal                                     | https://ictconnection.moe.edu.sg/cyber-wellness/for-students |
 |     2   | Chinese Language Digital Instructional Resources (Xue Le) | https://xuele.moe.edu.sg/                                    |
