@@ -117,6 +117,35 @@ third_nav_title: CCE
 *   Often wrongly branded as being lazy, naughty, disruptive and mischievous
 *   Only exhibit inattentiveness and impulsivity behaviour- Attention Deficit Disorder (ADD)
 
+<table>
+<thead>
+  <tr>
+    <th colspan="3" style="text-align: center;">Main Characteristics</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">Inattentiveness</td>
+    <td style="text-align: center;">Impulsiveness</td>
+    <td style="text-align: center;">Hyperactivity</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Difficulty sustaining attention</td>
+    <td style="text-align: center;">Blurting out answers before question have been completed</td>
+    <td style="text-align: center;">Cannot sit still or remain seated as expected</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Disorganised and lose things</td>
+    <td style="text-align: center;">Difficulty in waiting for turn in tasks</td>
+    <td style="text-align: center;">Fidgeting in their seat or playing with items</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">Fail to pay close attention to details or make careless mistake</td>
+    <td style="text-align: center;">Often act before thinking</td>
+    <td style="text-align: center;">Always ‘on the go’</td>
+  </tr>
+</tbody>
+</table>
 
 ##### <u>Strategies</u>
 
