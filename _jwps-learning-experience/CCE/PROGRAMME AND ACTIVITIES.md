@@ -29,3 +29,7 @@ The school includes Zippy Friends programme into its FTGP lesson for the Lower P
 The school leverages on weekly Assembly period to inculcate values and instil citizenship in our students. Weekly Assembly programme takes place every Friday from 7.30 a.m. – 8.00 a.m.
 
 During Assembly, a variety of sharing sessions by our teachers, our alumni and external vendors are put together for our students. The highlight of the assembly programme would be the THInKER Values Talk by School Leaders. School leaders actively role model the inculcation of CCE by sharing stories related to the THInKER values, as well as the importance of having good character and sound moral values.
+
+|   |   |
+|:-:|---|
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%204.png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%205.png)  |
