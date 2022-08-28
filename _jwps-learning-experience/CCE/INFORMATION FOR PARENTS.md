@@ -107,3 +107,26 @@ third_nav_title: CCE
 
  <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/tn_adhd.jpg"
      style="width:50%">
+		 
+### Attention Deficit Hyperactivity Disorder
+
+#### **What is ADHD?**
+
+*   Neuro developmental disorder caused by chemical imbalances in the brain
+*   Affects more boys than girls
+*   Often wrongly branded as being lazy, naughty, disruptive and mischievous
+*   Only exhibit inattentiveness and impulsivity behaviour- Attention Deficit Disorder (ADD)
+
+
+##### <u>Strategies</u>
+
+*    Providing positive and timely feedback and praise
+*    Providing organization and structure environment
+*    Be clear and firm in rules
+*    Have a fixed schedule/certain way that tasks unfold
+*    Divide big assignments/tasks into manageable chunks
+*    Curbing distractibility (Seating)
+*    Helping them to follow instructions and directions
+*    Engaging multiple senses
+*    Helping child to self-monitor
+*    Carrying out discipline
