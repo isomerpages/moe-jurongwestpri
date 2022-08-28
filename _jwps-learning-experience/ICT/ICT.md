@@ -7,7 +7,8 @@ third_nav_title: ICT
 # ICT
 ### <span style = "color: #c81b1b"> <b>Department Vision and Objectives</b> </span>
 
-![](/images/JWPS%20LEARNING%20EXPERIENCE/ICT/ICT%20Vision.jpg)
+<img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/ICT%20Vision.jpg"
+     style="width:40%">
 
 In unpacking our vision, we aim to develop our students to be ethical, confident, competent and independent users of ICT.  
   
