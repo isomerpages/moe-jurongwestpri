@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PAM
 ---
 # PAM
-
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/IMG_1563.png)
 ## <span style = "color: #c81b1b"> <b>PAM</b> </span>
 
 ### Mission / Objectives Of PE Department
