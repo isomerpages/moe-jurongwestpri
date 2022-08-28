@@ -20,7 +20,8 @@ third_nav_title: CCE
 
 ### <span style = "color: #c81b1b"> <b>Characteristics of Special Needs</b> </span>
 
-![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/autism.png)
+ <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/autism.png"
+     style="width:50%">
 
 ### Autism
 
