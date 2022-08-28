@@ -104,3 +104,6 @@ third_nav_title: CCE
 *   Provide  breaks
 *   Teach organisational skills
 *   Praise everything that deserve praise no matter how small (promote their strengths not their weaknesses)
+
+ <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/tn_adhd.jpg"
+     style="width:50%">
