@@ -12,8 +12,7 @@ _For a holistic character and citizenship education, a school-based curriculum h
 
 _This is the CCE curriculum in JWPS._
 
-
-**Form Teacher Guidance Period (FTGP)**
+#### **Form Teacher Guidance Period (FTGP)**
 
 The school believes that Form Teachers play a critical role in shaping the development of the young minds, thus, we take the weekly Form Teacher Guidance Period (FTGP) seriously.   
 
