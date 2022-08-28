@@ -6,8 +6,8 @@ third_nav_title: THUMBS UP NEWSPAPER 《大拇指》
 ---
 THUMBS UP NEWSPAPER 《大拇指》
 =========================
-
-                                2015 李香颖《上海游学记》
+<p style="text-align: center;"><b><u>2015 李香颖《上海游学记》</u></b></p>
+                                
 
 
   
