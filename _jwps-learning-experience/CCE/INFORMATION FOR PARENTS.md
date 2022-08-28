@@ -5,7 +5,8 @@ description: ""
 third_nav_title: CCE
 ---
 # INFORMATION FOR PARENTS
-![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/tn_hand.jpg)
+ <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/tn_hand.jpg"
+     style="width:50%">
 
 
 *   Collaboration with MOE Educational Psychologist, Psychologist/ Therapists in Hospital and Sped School.
