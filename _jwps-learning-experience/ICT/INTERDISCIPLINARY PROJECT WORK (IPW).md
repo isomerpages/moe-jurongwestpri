@@ -4,7 +4,7 @@ permalink: /jwps-learning-experience/ICT/interdisciplinary-project-work-ipw
 description: ""
 third_nav_title: ICT
 ---
-# little india slides > 5MB
+# little india slides > 5MB (can't be uploaded)
 # INTERDISCIPLINARY PROJECT WORK (IPW)
 
 *   We use IPW for P3 to P5 students as a signature programme for Character and Development Education.
