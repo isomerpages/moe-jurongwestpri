@@ -23,7 +23,7 @@ third_nav_title: CCE
  <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/autism.png"
      style="width:50%">
 
-### Autism
+### **Autism**
 
 #### **What is Autism?**
 
@@ -65,7 +65,7 @@ third_nav_title: CCE
  <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/tn_dyslexia.jpg"
      style="width:50%">
 
-### Dyslexia
+### **Dyslexia**
 
 #### **What is Dyslexia?**
 
@@ -108,7 +108,7 @@ third_nav_title: CCE
  <img src="/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Information%20for%20parents/tn_adhd.jpg"
      style="width:50%">
 		 
-### Attention Deficit Hyperactivity Disorder
+### **Attention Deficit Hyperactivity Disorder**
 
 #### **What is ADHD?**
 
