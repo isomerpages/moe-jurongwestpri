@@ -61,4 +61,9 @@ sections:
         education for your child at home.
       button: More information click here
       url: /files/2018%20T1%20Parents%20Tip%20Sheet_pdf.pdf
+  - infobar:
+      title: MOE Sexuality Education Programme (Primary  5 and 6
+      description: Please click here for more information about the programme.
+      button: More information click here
+      url: /files/INFORMATION%20AND%20UPDATES/News%20and%20updates/Info_on_SEd_for_schs_website_Pri_2021JWPS%20Website.pdf
 ---
