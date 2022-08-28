@@ -81,3 +81,5 @@ In the conceptualisation and implementation of the CCE programmes in JWPS, the s
 We hope that the carefully planned and customised programmes will develop our students’ character and develop their 21st century competencies as well as Social and Emotional (SE) competencies. These values are fundamental in building the character and citizenship education of our students. 
 
 Moving forward, we will be tweaking our existing programmes to achieve the **CCE 2021 goals.**
+
+![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/CCE%20Front.png)
