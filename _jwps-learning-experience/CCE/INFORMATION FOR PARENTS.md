@@ -120,7 +120,7 @@ third_nav_title: CCE
 <table>
 <thead>
   <tr>
-    <th colspan="3" style="text-align: center;">Main Characteristics</th>
+    <th colspan="3" style="text-align: center;color: #c81b1b">Main Characteristics</th>
   </tr>
 </thead>
 <tbody>
