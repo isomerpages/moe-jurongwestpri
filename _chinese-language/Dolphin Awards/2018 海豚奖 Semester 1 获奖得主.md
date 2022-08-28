@@ -9,13 +9,18 @@ Semester 1 获奖得主
 
 ### <span style = "color: #c81b1b"> <b>2018 海豚奖</b> </span>
 
-#### Primary 1
-
-
 
 #### Primary 2
 
-
+|    |                    |
+|----|--------------------|
+| H1 | Chai Wei Jie David |
+| H1 | Lu Yan Jie Lauren  |
+| H4 | Dong Anqi          |
+| H5 | Regina Liu Zinuo   |
+| H7 | Liew Jing Xuan     |
+| H8 | Tan Hao Xuan       |
+| H8 | Ariz Bin Izar      |
 
 #### Primary 3
 
@@ -30,4 +35,3 @@ Semester 1 获奖得主
 
 
 #### Primary 6
-
