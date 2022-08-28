@@ -36,6 +36,6 @@ Our computer labs have gone mobile!
 
 ### Annual E-Learning Exercise
 
-<p style="text-align: justify;">The E-Learning Exercise for Primary 1 to Primary 6 students is conducted twice every year. This exercise is conducted to prepare our students in the event of an emergency which may lead to school closure. Each exercise is held over a duration of two days on our E-Learning portal ([http://www.mconline.sg](http://www.mconline.sg/)).</p>
+<p style="text-align: justify;">The E-Learning Exercise for Primary 1 to Primary 6 students is conducted twice every year. This exercise is conducted to prepare our students in the event of an emergency which may lead to school closure. Each exercise is held over a duration of two days on our E-Learning portal <a href="http://www.mconline.sg">http://www.mconline.sg</a>.</p>
 
 <p style="text-align: justify;">In these two days, students will be required to complete work assigned for all subjects, namely English, Mathematics, Mother Tongue and Science (for Primary 3, 4, 5 and 6 students only). Students who do not have computer or internet access at home may obtain permission to return to school on these two days at a specific time to complete his/her assignments.</p>
