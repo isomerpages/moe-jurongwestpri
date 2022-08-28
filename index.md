@@ -24,5 +24,5 @@ sections:
       description: "CSCF had recently added Jurong West Primary School along with 19
         beneficiary schools to their School Library Sponsorship Programme. "
       button: More information click here
-      url: /faq/
+      url: https://www.straitstimes.com/singapore/parenting-education/70-primary-schools-now-part-of-library-sponsorship-programme-to-help-students-master-mother-tongue
 ---
