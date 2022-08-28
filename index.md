@@ -55,4 +55,11 @@ sections:
         portal.
       button: More information click here
       url: /files/INFORMATION%20AND%20UPDATES/News%20and%20updates/4b%20Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf
+  - infobar:
+      title: Cyber Wellness Tip Sheet for Parents
+      subtitle: Infobar Subtitle
+      description: Please click here for some tips on how to reinforce Cyber Wellness
+        education for your child at home.
+      button: More information click here
+      url: /files/2018%20T1%20Parents%20Tip%20Sheet_pdf.pdf
 ---
