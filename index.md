@@ -20,7 +20,7 @@ sections:
       button: More information click here
       url: https://www.straitstimes.com/singapore/parenting-education/70-primary-schools-now-part-of-library-sponsorship-programme-to-help-students-master-mother-tongue
   - infobar:
-      title: Information on Primary 1 Registration
+      title: Information On Primary 1 Registration
       description: The Virtual School Tour is up on our school website. See you all then!
       button: More information click here
       url: /admission-and-forms/primary-1-registration
