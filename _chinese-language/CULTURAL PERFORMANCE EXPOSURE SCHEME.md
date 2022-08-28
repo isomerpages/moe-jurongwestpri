@@ -13,3 +13,5 @@ CULTURAL PERFORMANCE EXPOSURE SCHEME
 
 
 ### <span style = "color: #c81b1b"> <b>2014年文化之旅</b> </span>
+
+The Cultural Performance Exposure Scheme ( “文化随意门” 计划 ) aims to expose school students to Chinese language-related cultural performances and programmes by local and foreign bodies through providing schools with necessary funding grants and support. Selected pupils have watched a Shadow Puppet Show 《爱画画的小女孩》and a play《樟宜村姑妮妮》Nini In Changi Village.
