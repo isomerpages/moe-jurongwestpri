@@ -29,4 +29,10 @@ sections:
       description: PDF FILE IS >5M AND NOT UPLOADED!!!!
       button: More information click here
       url: https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/2020%20Information%20Slides%20and%20Guides/Getting%20Ready%20for%20School_P1%20(2021).pdf
+  - infobar:
+      title: P4 SUBJECT-BASED BANDING AND BYOD Briefing
+      description: ONLY 1 URL IS ALLOWED. THUS, URL CHANGED TO BRING USERS TO NEWS AND
+        UPDATES PAGE.
+      button: More information click here
+      url: /information-and-updates/news-and-updates
 ---
