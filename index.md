@@ -42,4 +42,11 @@ sections:
         STories publication. "
       button: More information click here
       url: https://drive.google.com/file/d/1yikssuFosBEXlgZaDV-6Zg1fSdJszwMl/view
+  - infobar:
+      title: President’s Award for Teachers (PAT) and
+      description: Annually, the President’s Award for Teachers (PAT) and Outstanding
+        Youth in Education Award (OYEA) are given out to teachers for their
+        professional excellence.
+      button: More information click here
+      url: /files/PAT%20&%20OYEA%202019.pdf
 ---
