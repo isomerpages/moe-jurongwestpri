@@ -55,3 +55,22 @@ The school leverage on IPW to develop character and citizenship education in an
 |   |   |
 |:-:|---|
 | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%208.png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%209.png)  |
+
+#### **Student Recognition Awards**
+
+Acknowledging and affirming students who demonstrated positive qualities in school is critical during the forming years. When the school recognises them, it can increase their self-confidence and gives them a sense of accomplishment. This will then further motivate them and spur improvement in their behaviour.
+
+In JWPS, we have these awards to recognise students.
+
+
+**a)**    **Edusave Character Award (ECHA) (National Award)**
+
+Outstanding JWPS students will be nominated by their peers and teachers for this award in Term 3. The nominated students will go through a rigorous selection process before they are qualified for award.
+
+**b)**    **The THInKER Award (Internal Award)**
+
+The THInKER Award is one of our internal platform whereby the school affirms our students of their good character. Form teachers are required to nominate two students semestrally for this award. Winners will receive a collar badge and a certificate.
+
+|   |   |
+|:-:|---|
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2010.png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2011.png)  |
