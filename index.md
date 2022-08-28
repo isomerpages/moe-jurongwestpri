@@ -24,4 +24,9 @@ sections:
       description: The Virtual School Tour is up on our school website. See you all then!
       button: More information click here
       url: /admission-and-forms/primary-1-registration
+  - infobar:
+      title: Getting Ready for School - Primary 1 (2021)
+      description: PDF FILE IS >5M AND NOT UPLOADED!!!!
+      button: More information click here
+      url: /
 ---
