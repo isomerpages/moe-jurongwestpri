@@ -35,4 +35,11 @@ sections:
         UPDATES PAGE.
       button: More information click here
       url: /information-and-updates/news-and-updates
+  - infobar:
+      title: WE STories (Choosing Your Secondary School)
+      description: "Each year, our P6 students would receive a Choosing Your Secondary
+        School Booklet. To complement this booklet, below is a link of the WE
+        STories publication. "
+      button: More information click here
+      url: https://drive.google.com/file/d/1yikssuFosBEXlgZaDV-6Zg1fSdJszwMl/view
 ---
