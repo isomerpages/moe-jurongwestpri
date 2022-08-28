@@ -6,7 +6,6 @@ third_nav_title: ICT
 ---
 # PROGRAMMES AND ACTIVITIES
 
-
 ### IMDA Lab on Wheels
 
 On 4 and 5 July 2017, our Primary 5 students participated in the IMDA Lab on Wheels activity for the second consecutive year.
