@@ -35,56 +35,56 @@ The four main ICT outcomes for the department are:
 <table>
 <thead>
   <tr>
-    <th colspan="2">Members</th>
+    <th colspan="2" style="text-align: center;">Members</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Ms Loo Pei Ling Geraldine<br>(iExams Coordinator)</td>
-    <td>Ms Loke Jye Jiun<br>(Edusave Coordinator)</td>
+    <td style="text-align: center;">Ms Loo Pei Ling Geraldine<br>(iExams Coordinator)</td>
+    <td style="text-align: center;">Ms Loke Jye Jiun<br>(Edusave Coordinator)</td>
   </tr>
   <tr>
-    <td>Mdm Sopianti Bt Abdullah<br>(ST/ML/ICT)</td>
-    <td>Mdm Noorwanie Binte Buang<br>(Cyberwellness Coordinator)</td>
+    <td style="text-align: center;">Mdm Sopianti Bt Abdullah<br>(ST/ML/ICT)</td>
+    <td style="text-align: center;">Mdm Noorwanie Binte Buang<br>(Cyberwellness Coordinator)</td>
   </tr>
   <tr>
-    <td> Ms Jamie Gu Jiazhen<br>(SH/CCA)</td>
-    <td>Mrs Seng-Liu Hongping<br>(ST/Science)</td>
+    <td style="text-align: center;"> Ms Jamie Gu Jiazhen<br>(SH/CCA)</td>
+    <td style="text-align: center;">Mrs Seng-Liu Hongping<br>(ST/Science)</td>
   </tr>
   <tr>
-    <td> Mdm Siti Nafisah Binte Sharif</td>
-    <td>Mrs Lalitha Chandrashekaran <br></td>
+    <td style="text-align: center;"> Mdm Siti Nafisah Binte Sharif</td>
+    <td style="text-align: center;">Mrs Lalitha Chandrashekaran <br></td>
   </tr>
   <tr>
-    <td>Ms Nuraznita Binte Juke <br></td>
-    <td> Mdm Norliah Binte Abdul Latif<br></td>
+    <td style="text-align: center;">Ms Nuraznita Binte Juke <br></td>
+    <td style="text-align: center;"> Mdm Norliah Binte Abdul Latif<br></td>
   </tr>
   <tr>
-    <td>Ms Siti Noraisha Binte Mohd Senin</td>
-    <td>Ms Loo Yie Yeng  </td>
+    <td style="text-align: center;">Ms Siti Noraisha Binte Mohd Senin</td>
+    <td style="text-align: center;">Ms Loo Yie Yeng  </td>
   </tr>
   <tr>
-    <td>Mdm Eliza Lim Pei Lin  <br></td>
-    <td>Mdm Phang Kee Mee  </td>
+    <td style="text-align: center;">Mdm Eliza Lim Pei Lin  <br></td>
+    <td style="text-align: center;">Mdm Phang Kee Mee  </td>
   </tr>
   <tr>
-    <td> Ms Seah Hui Yan </td>
-    <td>Ms Chew You Mei Yvonne</td>
+    <td style="text-align: center;"> Ms Seah Hui Yan </td>
+    <td style="text-align: center;">Ms Chew You Mei Yvonne</td>
   </tr>
   <tr>
-    <td>Mdm Chan Qing Yue</td>
-    <td>Mdm Tan Le-Shon </td>
+    <td style="text-align: center;">Mdm Chan Qing Yue</td>
+    <td style="text-align: center;">Mdm Tan Le-Shon </td>
   </tr>
   <tr>
-    <td> Miss Val Tan Yan Kai</td>
-    <td>Ms Tan Kai Lin  <br></td>
+    <td style="text-align: center;"> Miss Val Tan Yan Kai</td>
+    <td style="text-align: center;">Ms Tan Kai Lin  <br></td>
   </tr>
   <tr>
-    <td>Mr Yazid<br>(Desktop Engineer) <br></td>
-    <td>Mr Eugen<br>(ICT Associate)<br></td>
+    <td style="text-align: center;">Mr Yazid<br>(Desktop Engineer) <br></td>
+    <td style="text-align: center;">Mr Eugen<br>(ICT Associate)<br></td>
   </tr>
   <tr>
-    <td> Mr Kenneth<br>(ICT Coordinator)</td>
+    <td style="text-align: center;"> Mr Kenneth<br>(ICT Coordinator)</td>
     <td></td>
   </tr>
 </tbody>
