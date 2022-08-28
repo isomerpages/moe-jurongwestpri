@@ -2,8 +2,6 @@ collections:
   jwps-learning-experience:
     output: true
     order:
-      - PAM/.keep
-      - ICT/.keep
       - ENGLISH/.keep
       - ENGLISH/ENGLISH.md
       - ENGLISH/PROGRAMMES AND ACTIVITIES.md
@@ -20,5 +18,7 @@ collections:
       - SCIENCE/PROGRAMMES AND ACTIVITIES.md
       - SCIENCE/NATURE TRAIL AND LEARNING JOURNEYS.md
       - SCIENCE/INVESTIGATIVE EXPERIMENTS AND MINI PROJECTS.md
+      - PAM/.keep
+      - ICT/.keep
       - CO CURRICULAR ACTIVITIES.md
       - STUDENT MANAGEMENT DEPARTMENT.md
