@@ -88,3 +88,13 @@ third_nav_title: CCE
 
 
 ##### <u>Characteristics of Dyslexia</u>
+
+##### <u>Strategies</u>
+
+*   Multi-sensory teaching
+*   Differentiated Instructions
+*   Over –learning is essential
+*   Visual prompts
+*   Provide  breaks
+*   Teach organisational skills
+*   Praise everything that deserve praise no matter how small (promote their strengths not their weaknesses)
