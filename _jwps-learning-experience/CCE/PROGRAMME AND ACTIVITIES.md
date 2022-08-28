@@ -6,11 +6,11 @@ third_nav_title: CCE
 ---
 # PROGRAMME / ACTIVITIES
 
-_For a holistic character and citizenship education, a school-based curriculum has been specially developed by the teachers for the students. This curriculum includes mandatory Form Teachers Guidance Period (FTGP) lessons, Character and Citizenship lessons (taught in Mother Tongue language), Assembly periods as well as Other School-Based Programmes._
+**_For a holistic character and citizenship education, a school-based curriculum has been specially developed by the teachers for the students. This curriculum includes mandatory Form Teachers Guidance Period (FTGP) lessons, Character and Citizenship lessons (taught in Mother Tongue language), Assembly periods as well as Other School-Based Programmes._**
 
- _School values (THInKER) are explicitly taught through these various platforms too. Students then reflect on their learning experiences and develop critical thinking skills. Students consolidate their learning by penning down their reflections in the CCE Journal._
+**_School values (THInKER) are explicitly taught through these various platforms too. Students then reflect on their learning experiences and develop critical thinking skills. Students consolidate their learning by penning down their reflections in the CCE Journal._**
 
-_This is the CCE curriculum in JWPS._
+**_This is the CCE curriculum in JWPS._**
 
 #### **Form Teacher Guidance Period (FTGP)**
 
