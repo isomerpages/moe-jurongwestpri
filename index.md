@@ -49,4 +49,10 @@ sections:
         professional excellence.
       button: More information click here
       url: /files/PAT%20&%20OYEA%202019.pdf
+  - infobar:
+      title: Singapore Student Learning Space (SSLS)
+      description: Please click here for more instructions on using the new e-learning
+        portal.
+      button: More information click here
+      url: /files/INFORMATION%20AND%20UPDATES/News%20and%20updates/4b%20Student%20Annexes%20(Instructions%20and%20FAQs%20updated%2029%20Mar).pdf
 ---
