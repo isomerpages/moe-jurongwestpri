@@ -85,3 +85,6 @@ third_nav_title: CCE
 |  **Dyspraxia**  |   **Impairment/immaturity of organization of movement**  |
 | **Dysgraphia** |       **Immature fine motor skills development**     |
 | **Dyscalculia** | **Impairment of ability to solve mathematical problems** |
+
+
+##### <u>Characteristics of Dyslexia</u>
