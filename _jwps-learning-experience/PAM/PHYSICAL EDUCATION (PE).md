@@ -8,7 +8,7 @@ third_nav_title: PAM
 
 ### Physical Education
 
-The school focuses on providing each and every of our students with ample opportunities to participate in different physical activities and programmes throughout the year. Programmes and activities were carried out during formal and non-formal curriculum time to ensure mass participation and to encourage regular physical activities among our students.
+<p style="text-align: justify;">The school focuses on providing each and every of our students with ample opportunities to participate in different physical activities and programmes throughout the year. Programmes and activities were carried out during formal and non-formal curriculum time to ensure mass participation and to encourage regular physical activities among our students. </p>
 
   
 
