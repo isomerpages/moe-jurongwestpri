@@ -20,7 +20,11 @@ FTGP is conducted from 8.00 a.m. to 8.30 a.m. every Friday for all students. Dur
 
 The school includes Zippy Friends programme into its FTGP lesson for the Lower Primary to help them manage the transition from preschool to primary schools and to equip them with practical socio-emotional skills. This is an evidence-based programme by the Health Promotion Board and supported by Ministry of Education Guidance Branch. The students learn 12 topics. The topics include: feelings, communication, friendship, conflict resolution, problem-solving, bullying, change and loss, and adapting to new situations.
 
-**Assembly Period**
+|   |   |
+|:-:|---|
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%202.png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%203.png)  |
+
+#### **Assembly Period**
 
 The school leverages on weekly Assembly period to inculcate values and instil citizenship in our students. Weekly Assembly programme takes place every Friday from 7.30 a.m. – 8.00 a.m.
 
