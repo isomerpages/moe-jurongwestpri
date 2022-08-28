@@ -24,7 +24,7 @@ third_nav_title: CCE
 
 ### Autism
 
-**What is Autism?**
+#### **What is Autism?**
 
 *   Brain processes information differently or think differently
 *   Delay in meeting developmental milestones
@@ -32,3 +32,5 @@ third_nav_title: CCE
 *   There is no cure
 *   People with ASD can LEARN skills to adapt
 *   As the person with ASD grows, the nature and intensity of the behaviour may change
+
+##### <u>Core Characteristics</u>
