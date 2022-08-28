@@ -39,7 +39,7 @@ third_nav_title: CCE
 </thead>
 <tbody>
   <tr>
-    <td style="text-align: center;"> Teamwork<br><br><br>(Primary 1)</td>
+    <td style="text-align: center;"> Teamwork<br>(Primary 1)</td>
     <td style="text-align: center;">Ms Nuraznita Binte Juke </td>
     <td style="text-align: center;">Mrs Foong - Cindy Sim Lee Choo(PHE Coordinator) </td>
   </tr>
