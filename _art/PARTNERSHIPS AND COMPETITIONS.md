@@ -10,14 +10,17 @@ description: ""
 
 The _SYF Art Exhibition_ is a biennial event organised by the Ministry of Education (MOE) to celebrate the dedication and talents of youths in arts. It provides opportunities for students to work as a team, showcase their artistic talents and promote art appreciation in schools using their artwork.
 
-
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/Singapore%20Youth%20Festival%20(1).png)
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/Singapore%20Youth%20Festival%20(2).png)
 
 ### EVERY CHILD IS AN ARTIST
 #### **Partnership with Frontier Community Centre**
 
 _Every Child is an Artist_ is an annual exhibition set up at Frontier Community Centre that showcases the skills and techniques that our students have learned in school. It is a platform for students to share what the knowledge that they have acquired and have their artwork appreciated by the public.
 
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/Every%20Child%20is%20an%20Artist%20(1).png)
 
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/Every%20Child%20is%20an%20Artist%20(2).png)
 
 ### ARTWORK SHOWCASE
 #### **Collaboration with Pioneer Polyclinic**
