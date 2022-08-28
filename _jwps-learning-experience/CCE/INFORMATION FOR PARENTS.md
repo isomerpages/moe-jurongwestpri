@@ -17,3 +17,5 @@ third_nav_title: CCE
 *   Providing teaching and learning resources.
 *   Provision of skills training. 
 *   Provision of feedback to parents on the needs and progress of the special needs students.
+
+### <span style = "color: #c81b1b"> <b>Characteristics of Special Needs</b> </span>
