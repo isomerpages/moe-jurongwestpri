@@ -2,6 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Parents.md
       - Staff.md
       - Students.md
+      - Parents.md
