@@ -20,9 +20,9 @@ sections:
           description: ""
           url: /quick-links/Staff
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: CSCF School Library Sponsorship Programme
+      description: "CSCF had recently added Jurong West Primary School along with 19
+        beneficiary schools to their School Library Sponsorship Programme. "
+      button: More information click here
       url: /faq/
 ---
