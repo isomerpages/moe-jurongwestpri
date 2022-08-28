@@ -12,7 +12,7 @@ third_nav_title: ICT
 *   We integrate Social Studies, English, Health Education, Community Involvement Programmes (CIP) and Learning Journey into our IPW.
 *   Our purpose is to help students to find meaning and relevance in the projects that they are assigned to do.
  
-### P3 - Healthy Living
+### <span style = "color: #c81b1b"> <b>P3 - Healthy Living</b> </span> 
 
 *   To learn about healthy food choices.
 *   To create a recipe promoting healthy sandwiches
@@ -31,3 +31,8 @@ third_nav_title: ICT
   </tr>
 </thead>
 </table>
+
+### <span style = "color: #c81b1b"> <b>P4 - Embracing Diversity</b> </span>
+
+*   To appreciate other races and their cultures.
+*   To create PowerPoint slides to promote an ethnic place.
