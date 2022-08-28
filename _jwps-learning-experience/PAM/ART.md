@@ -16,3 +16,5 @@ third_nav_title: PAM
 <p style="text-align: justify;">In appreciating art, our students acquire skills and use appropriate vocabulary to discuss and interpret artworks. Students deepen their understanding of Singapore through drawing inspirations from their environment, learning about artworks and artists from local and other cultures and context to make connections and understand the values of art in their lives and society.</p>
 
 ### OVERVIEW
+
+### PARTNERSHIPS AND COMPETITIONS
