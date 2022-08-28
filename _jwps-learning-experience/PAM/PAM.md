@@ -14,6 +14,18 @@ To provide students with skills, knowledge and attitudes necessary to make activ
   
 This programme includes planned activities incorporating a wide range of experiences that are organised to meet the needs and interests of all students. The instructional component is the main focus of the physical education programme with the co-curricular activities (CCA), special events, Health and Fitness Club (HFC) and leadership programme being important and related components of the overall programme. We encourage a high level of involvement in all aspects of the programme.
 
+| Head of Department (PE & CCA/LLP) |
+|:---------------------------------:|
+|          Mr Lau Ban Hwee          |
+
+|   Subject Head (CCA)   |
+|:----------------------:|
+|  Miss Jamie Gu Jiazhen |
+
+| Subject Head (Aesthetics) - Covering |
+|:------------------------------------:|
+|                   -                  |
+
 ## <span style = "color: #c81b1b"> <b>Programme Goals:</b> </span>
 
 
