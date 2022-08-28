@@ -138,9 +138,9 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 
 #### 2019 海豚奖
 
-*   [Semester 1 获奖得主](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-1-best-in-class-mt)  
+*   [Semester 1 获奖得主](/chinese-language/Dolphin-Awards/2019/semester-1)  
     
-*   [Semester 2 获奖得主](https://jurongwestpri.moe.edu.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-2-best-in-class-mt)
+*   [Semester 2 获奖得主](/chinese-language/Dolphin-Awards/2019/semester-2)
 
 #### 2020 海豚奖
 
