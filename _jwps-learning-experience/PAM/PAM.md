@@ -18,11 +18,13 @@ This programme includes planned activities incorporating a wide range of experie
 |:---------------------------------:|
 |          Mr Lau Ban Hwee          |
 
+<br>
 
 |   Subject Head (CCA)   |
 |:----------------------:|
 |  Miss Jamie Gu Jiazhen |
 
+<br>
 
 | Subject Head (Aesthetics) - Covering |
 |:------------------------------------:|
