@@ -154,3 +154,6 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 *   [2017 学生作品](/chinese-language/WORKS-OF-PUPILS/2017)  
 *   [2016 学生作品](/chinese-language/WORKS-OF-PUPILS/2016) 
 *   [2015 学生作品](/chinese-language/WORKS-OF-PUPILS/2015)
+
+
+### [THUMBS UP NEWSPAPER 《大拇指》](/chinese-language/THUMBS-UP-NEWSPAPER/)
