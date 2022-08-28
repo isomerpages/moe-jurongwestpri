@@ -7,10 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/Homepage/image_slide.gif
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: Highlight A
