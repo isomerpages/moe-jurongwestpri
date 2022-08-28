@@ -2,7 +2,6 @@ collections:
   jwps-learning-experience:
     output: true
     order:
-      - CHARACTER AND CITIZENSHIP/.keep
       - ENGLISH/.keep
       - ENGLISH/ENGLISH.md
       - ENGLISH/PROGRAMMES AND ACTIVITIES.md
@@ -21,5 +20,6 @@ collections:
       - SCIENCE/INVESTIGATIVE EXPERIMENTS AND MINI PROJECTS.md
       - PAM/.keep
       - ICT/.keep
+      - CHARACTER AND CITIZENSHIP/.keep
       - CO CURRICULAR ACTIVITIES.md
       - STUDENT MANAGEMENT DEPARTMENT.md
