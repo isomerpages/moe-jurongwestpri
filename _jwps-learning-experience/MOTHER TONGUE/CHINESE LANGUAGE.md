@@ -157,3 +157,7 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 
 
 ### [THUMBS UP NEWSPAPER 《大拇指》](/chinese-language/THUMBS-UP-NEWSPAPER/)
+
+### SEAB MOTHER TONGUE DICTIONARY
+
+### CULTURAL PERFORMANCE EXPOSURE SCHEME
