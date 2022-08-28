@@ -144,5 +144,4 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 
 #### 2020 海豚奖
 
-*   [Semester 1 获奖得主](/chinese-language/Dolphin-Awards/2020)  
-    
+*   [2020 获奖得主](/chinese-language/Dolphin-Awards/2020)
