@@ -74,3 +74,20 @@ The THInKER Award is one of our internal platform whereby the school affirms our
 |   |   |
 |:-:|---|
 | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2010.png)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2011.png)  |
+
+#### **National Education (NE) Commemorative Events**  
+
+National Education will be anchored on the following citizenship dispositions, which enable our young to realise their part in the flourishing community and nation:
+
+![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2012.png)
+
+It is also infused in the school's CCE curriculum and programmes through the commemoration of the four core NE events namely Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. Through these events, students gain appreciation of our multi-racial and multi-religious society. Students understand how they can play a part and defend Singapore in their own little ways. This will then strengthen the Singapore spirit.
+
+#### **Total Defence Day (TDD)**
+
+Total Defence was introduced in Singapore in 1984 and is commemorated on 15 February every year. It marks the fall of Singapore to the Japanese in 1942. The commemoration of TDD seeks to remind people of the sufferings endured by our forefathers during the Japanese Occupation and reflect on how Total Defence remains our best all-round response to threats and challenges that confront Singapore. They also reflect on the continuing relevance of the 6 Total Defence Pillars and the core message of every Singaporean standing together, with each playing our part to protect Singapore and our shared way of life.
+
+
+|   |   |
+|:-:|---|
+| ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2013.jpg)  | ![](/images/JWPS%20LEARNING%20EXPERIENCE/CCE/Programme%20and%20activities/CCE%2014.png)  |
