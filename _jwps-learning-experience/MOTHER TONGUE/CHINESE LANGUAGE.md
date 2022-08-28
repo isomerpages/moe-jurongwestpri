@@ -145,3 +145,12 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 #### 2020 海豚奖
 
 *   [2020 获奖得主](/chinese-language/Dolphin-Awards/2020)
+
+
+### WORKS OF PUPILS 学生作品
+
+*   [2019 学生作品](/chinese-language/WORKS-OF-PUPILS/2019)
+*   [2018 学生作品](/chinese-language/WORKS-OF-PUPILS/2018)
+*   [2017 学生作品](/chinese-language/WORKS-OF-PUPILS/2017)  
+*   [2016 学生作品](/chinese-language/WORKS-OF-PUPILS/2016) 
+*   [2015 学生作品](/chinese-language/WORKS-OF-PUPILS/2015)
