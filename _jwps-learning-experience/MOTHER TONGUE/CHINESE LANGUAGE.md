@@ -4,6 +4,7 @@ permalink: /jwps-learning-experience/MOTHER-TONGUE/chinese-language
 description: ""
 third_nav_title: MOTHER TONGUE
 ---
+# Sub categories under [mother tongue>chinese language> (sub categories such as "School Celebration" or "Mother Tongue Fortnight" pages)] are shifted under different headers in the "Chinese Language" page itself to fit isomer template
 # CHINESE LANGUAGE
 ### Vision
 
