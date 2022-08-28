@@ -140,4 +140,5 @@ Teachers and/or vendors conducting the PAL lesson would be able to include the p
 As PAL is not an enrichment activity and it is conducted during curriculum time, students will not need to utilise any funds, for example Edusave, to pay for their participation in PAl.
 
 ### HOLISTIC APPROACH TO PAL
+
 ![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Holistic%20approach%20to%20PAL.jpg)
