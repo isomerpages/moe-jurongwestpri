@@ -36,3 +36,7 @@ JWPS is pleased to have the opportunity to collaborate with the newly opened Pio
 #### **Celebration of National Day through the Arts**
 
 _PAssionArts Festival_ is an annual festival which provides a platform for schools and the community to come together to celebrate National Day through the arts. It enables many students to have a first-time opportunity to be exposed to working on huge canvases during the events such as _Flag Art Project 2016_ and _Land Art Project 2017_.
+
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/PAssionArts%20Festival%20Projects%20(1).png)
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/PAssionArts%20Festival%20Projects%20(2).png)
+![](/images/JWPS%20LEARNING%20EXPERIENCE/PAM/Art/PAssionArts%20Festival%20Projects%20(3).png)
