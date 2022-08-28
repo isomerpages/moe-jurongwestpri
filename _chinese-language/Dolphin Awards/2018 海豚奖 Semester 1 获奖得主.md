@@ -24,7 +24,13 @@ Semester 1 获奖得主
 
 #### Primary 3
 
-
+|    |                            |
+|----|----------------------------|
+| I1 | Wei Hexin                  |
+| I3 | Chen Yi Hao                |
+| I4 | Abigail Tan Si Qin         |
+| I5 | Keagan Xander Chia Zhi Jun |
+| I6 | Zhang Xiwen                |
 
 #### Primary 4
 
