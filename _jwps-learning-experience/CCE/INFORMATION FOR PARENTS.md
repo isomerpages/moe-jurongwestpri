@@ -41,14 +41,14 @@ third_nav_title: CCE
 | Prefer to be alone; may interact with others but only to obtain objects or to talk about own stereotypic interest |           May exhibit unusual speech pattern; use words without understanding their meanings           |                    Difficulty coping with changes in routines, the environment, etc.                   |
 |                                       Unable to understand other’s feelings                                       |  Use and understanding of language tend to be literal; unable to initiate and engage in a conversation |                                                                                                        |
 
-**Other Characteristics**
+##### <u>Other Characteristics</u>
 
 *     Sensory
 *     Medical
 *     Learning style
 *     Special Talents
 
-**Strategies**
+##### <u>Strategies</u>
 
 **S**implify your language (Low, Slow and Show)
 
