@@ -40,3 +40,14 @@ third_nav_title: ICT
 <br>
 
 *   **Samples of students' work**
+
+<table>
+<thead>
+  <tr>
+    <td><a href="/files/Jwps%20learning%20experience/ICT/P3%20IPW2.pdf" target = "_blank"> <img src="!/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnlittle%20india.jpg"
+     style="width:100%"></a></td>
+    <td><a href="/files/Jwps%20learning%20experience/ICT/P3%20IPW1.pdf" target = "_blank"> <img src="/images/JWPS%20LEARNING%20EXPERIENCE/ICT/IPW/tnr3.jpg"
+     style="width:100%"></a></td>
+  </tr>
+</thead>
+</table>
