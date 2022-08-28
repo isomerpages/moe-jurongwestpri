@@ -4,7 +4,7 @@ permalink: /jwps-learning-experience/PAM/pal-at-jwps
 description: ""
 third_nav_title: PAM
 ---
-# HOLISTIC APPROACH TO PAL page is migrated to here (3rd level nav) to fit isomer template
+# content in HOLISTIC APPROACH TO PAL page is migrated to here (3rd level nav) to fit isomer template
 # PAL@JWPS
    
 ### What is PAL?
