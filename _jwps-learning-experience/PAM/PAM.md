@@ -26,9 +26,18 @@ This programme includes planned activities incorporating a wide range of experie
 
 <br>
 
-| Subject Head (Aesthetics) - Covering |
-|:------------------------------------:|
-|                   -                  |
+<table>
+<thead>
+  <tr>
+    <th style="text-align: center;">Subject Head (Aesthetics) - Covering</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align: center;">-</td>
+  </tr>
+</tbody>
+</table>
 
 <br>
 
