@@ -113,33 +113,28 @@ To Provide a Nurturing Environment that Inspires a Love for Mother Tongue Langua
 
 #### 2015 海豚奖
 
-*   [Semester 1 获奖得主](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-1-best-in-class-mt)  
+*   [Semester 1 获奖得主](/chinese-language/Dolphin-Awards/2015/semester-1)  
     
-*   [Semester 2 获奖得主](https://jurongwestpri.moe.edu.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-2-best-in-class-mt)
+*   [Semester 2 获奖得主](/chinese-language/Dolphin-Awards/2015/semester-2)
 
-#### 2015 海豚奖
-
-*   [Semester 1 获奖得主](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-1-best-in-class-mt)  
-    
-*   [Semester 2 获奖得主](https://jurongwestpri.moe.edu.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-2-best-in-class-mt)
 
 #### 2016 海豚奖
 
-*   [Semester 1 获奖得主](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-1-best-in-class-mt)  
+*   [Semester 1 获奖得主](/chinese-language/Dolphin-Awards/2016/semester-1)  
     
-*   [Semester 2 获奖得主](https://jurongwestpri.moe.edu.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-2-best-in-class-mt)
+*   [Semester 2 获奖得主](/chinese-language/Dolphin-Awards/2016/semester-2)
 
 #### 2017 海豚奖
 
-*   [Semester 1 获奖得主](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-1-best-in-class-mt)  
+*   [Semester 1 获奖得主](/chinese-language/Dolphin-Awards/2017/semester-1)  
     
-*   [Semester 2 获奖得主](https://jurongwestpri.moe.edu.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-2-best-in-class-mt)
+*   [Semester 2 获奖得主](/chinese-language/Dolphin-Awards/2017/semester-2)
 
 #### 2018 海豚奖
 
-*   [Semester 1 获奖得主](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-1-best-in-class-mt)  
+*   [Semester 1 获奖得主](/chinese-language/Dolphin-Awards/2018/semester-1)  
     
-*   [Semester 2 获奖得主](https://jurongwestpri.moe.edu.sg/departments/mother-tongue/chinese/dolphin-award/2015/semester-2-best-in-class-mt)
+*   [Semester 2 获奖得主](/chinese-language/Dolphin-Awards/2018/semester-2)
 
 #### 2019 海豚奖
 
