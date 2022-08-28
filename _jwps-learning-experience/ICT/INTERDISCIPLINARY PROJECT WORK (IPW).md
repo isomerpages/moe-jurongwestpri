@@ -13,6 +13,9 @@ third_nav_title: ICT
  
 ### P3 - Healthy Living
 
-
 *   To learn about healthy food choices.
 *   To create a recipe promoting healthy sandwiches
+
+<br>
+
+*   **Samples of students' work**
