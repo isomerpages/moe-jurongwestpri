@@ -2,6 +2,7 @@ collections:
   information-and-updates:
     output: true
     order:
+      - ADMISSION AND FORMS/WAIT LIST APPLICATION.md
       - ADMISSION AND FORMS/PRIMARY 1 REGISTRATION.md
       - ADMISSION AND FORMS/.keep
       - LEAVE OF ABSENCE.md
