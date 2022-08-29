@@ -2,6 +2,7 @@ collections:
   information-and-updates:
     output: true
     order:
+      - LEAVE OF ABSENCE.md
       - WAIT LIST APPLICATION.md
       - PRIMARY 1 REGISTRATION.md
       - LETTERS TO PARENTS/.keep
