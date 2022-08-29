@@ -2,10 +2,6 @@ collections:
   information-and-updates:
     output: true
     order:
-      - ADMISSION AND FORMS/.keep
-      - ADMISSION AND FORMS/PRIMARY 1 REGISTRATION.md
-      - ADMISSION AND FORMS/WAIT LIST APPLICATION.md
-      - ADMISSION AND FORMS/LEAVE OF ABSENCE.md
       - LETTERS TO PARENTS/.keep
       - LETTERS TO PARENTS/LETTERS TO PARENTS.md
       - LETTERS TO PARENTS/TEAMWORK | P1.md
@@ -25,5 +21,9 @@ collections:
       - INFORMATION SLIDES AND GUIDES/RESILIENCE | P6.md
       - NEWS AND UPDATES.md
       - SCHOOL HOURS.md
+      - ADMISSION AND FORMS/.keep
+      - ADMISSION AND FORMS/PRIMARY 1 REGISTRATION.md
+      - ADMISSION AND FORMS/WAIT LIST APPLICATION.md
+      - ADMISSION AND FORMS/LEAVE OF ABSENCE.md
       - Open House.md
       - MOE Kindergarten @ Jurong West.md
