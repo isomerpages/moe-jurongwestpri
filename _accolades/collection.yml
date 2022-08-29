@@ -1,6 +1,0 @@
-collections:
-  accolades:
-    output: true
-    order:
-      - ACADEMIC/.keep
-      - NON ACADEMIC/.keep
