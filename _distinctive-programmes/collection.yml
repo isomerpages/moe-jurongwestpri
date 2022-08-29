@@ -2,9 +2,9 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Accolades/.keep
       - APPLIED LEARNING PROGRAMME/.keep
       - APPLIED LEARNING PROGRAMME/APPLIED LEARNING PROGRAMME.md
       - APPLIED LEARNING PROGRAMME/PROGRAMMES AND ACTIVITIES.md
       - APPLIED LEARNING PROGRAMME/PLATFORMS.md
       - LIFE LONG PROGRAMME.md
+      - Accolades/.keep
