@@ -2,5 +2,4 @@ collections:
   admission-and-forms:
     output: true
     order:
-      - WAIT LIST APPLICATION.md
       - LEAVE OF ABSENCE.md
