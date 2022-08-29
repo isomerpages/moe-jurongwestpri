@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ACADEMIC/.keep
-      - ACADEMIC/2017.md
       - ACADEMIC/2018.md
       - ACADEMIC/2019.md
       - NON ACADEMIC/.keep
