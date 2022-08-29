@@ -1,5 +1,4 @@
 collections:
   admission-and-forms:
     output: true
-    order:
-      - LEAVE OF ABSENCE.md
+    order: []
