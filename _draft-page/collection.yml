@@ -1,4 +1,5 @@
 collections:
   draft-page:
     output: true
-    order: []
+    order:
+      - Bello Bello.md
