@@ -4,7 +4,7 @@ title: Jurong West Primary School
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: hello
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/image_slide.gif
