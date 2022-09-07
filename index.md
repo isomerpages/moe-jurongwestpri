@@ -18,7 +18,7 @@ sections:
           url: /jwps/contact-us/
         - title: Admission
           description: ""
-          url: ""
+          url: /permalink/admission
         - title: Student Care Centre
           description: ""
           url: ""
