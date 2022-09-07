@@ -1,0 +1,4 @@
+collections:
+  notice-for-parents:
+    output: true
+    order: []
