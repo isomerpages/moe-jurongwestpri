@@ -2,7 +2,6 @@ collections:
   information-and-updates:
     output: true
     order:
-      - BOOKLISTS 2022 (new).md
       - INFORMATION SLIDES AND GUIDES/.keep
       - INFORMATION SLIDES AND GUIDES/INFORMATION SLIDES AND GUIDES.md
       - INFORMATION SLIDES AND GUIDES/TEAMWORK | P1.md
