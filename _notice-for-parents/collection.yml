@@ -2,4 +2,5 @@ collections:
   notice-for-parents:
     output: true
     order:
+      - Letter to Parents/.keep
       - CALENDAR.md
