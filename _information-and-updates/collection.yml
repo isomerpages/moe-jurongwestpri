@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - LETTERS TO PARENTS/.keep
-      - LETTERS TO PARENTS/ENTHUSIASM | P5.md
       - LETTERS TO PARENTS/RESILIENCE | P6.md
       - BOOKLISTS 2022 (new).md
       - INFORMATION SLIDES AND GUIDES/.keep
