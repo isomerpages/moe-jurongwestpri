@@ -2,6 +2,7 @@ collections:
   notice-for-parents:
     output: true
     order:
+      - Letter to Parents/RESILIENCE | P6.md
       - Letter to Parents/ENTHUSIASM | P5.md
       - Letter to Parents/KINDNESS | P4.md
       - Letter to Parents/INNOVATIVENESS | P3.md
