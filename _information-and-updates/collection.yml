@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - LETTERS TO PARENTS/.keep
-      - LETTERS TO PARENTS/LETTERS TO PARENTS.md
       - LETTERS TO PARENTS/TEAMWORK | P1.md
       - LETTERS TO PARENTS/HONESTY | P2.md
       - LETTERS TO PARENTS/INNOVATIVENESS | P3.md
