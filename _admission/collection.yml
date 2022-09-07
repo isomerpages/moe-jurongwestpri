@@ -1,4 +1,5 @@
 collections:
   admission:
     output: true
-    order: []
+    order:
+      - PRIMARY 1 REGISTRATION.md
