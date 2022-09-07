@@ -10,8 +10,8 @@ links:
     collection: jwps-family
   - title: INFORMATION AND UPDATES
     collection: information-and-updates
-  - title: Draft Link
-    url: /permalink/draft page
+  - title: MK @ JWPS
+    url: /permalink/mk-at-jwps
     sublinks:
       - title: Submenu Title
         url: /permalink
