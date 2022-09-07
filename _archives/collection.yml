@@ -2,4 +2,5 @@ collections:
   archives:
     output: true
     order:
+      - FAQ.md
       - SCHOOL FACILITIES.md
