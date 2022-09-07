@@ -2,6 +2,7 @@ collections:
   notice-for-parents:
     output: true
     order:
+      - Letter to Parents/KINDNESS | P4.md
       - Letter to Parents/INNOVATIVENESS | P3.md
       - Letter to Parents/HONESTY | P2.md
       - Letter to Parents/TEAMWORK | P1.md
