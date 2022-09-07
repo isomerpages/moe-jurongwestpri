@@ -15,7 +15,7 @@ sections:
           url: /quick-links/Staff
         - title: Contact us
           description: ""
-          url: ""
+          url: /contact-us/
         - title: Admission
           description: ""
           url: ""
