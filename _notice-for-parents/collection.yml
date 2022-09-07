@@ -2,7 +2,6 @@ collections:
   notice-for-parents:
     output: true
     order:
-      - BOOKLISTS 2022 (new).md
       - Letter to Parents/.keep
       - Letter to Parents/LETTERS TO PARENTS.md
       - Letter to Parents/TEAMWORK | P1.md
@@ -11,4 +10,5 @@ collections:
       - Letter to Parents/KINDNESS | P4.md
       - Letter to Parents/ENTHUSIASM | P5.md
       - Letter to Parents/RESILIENCE | P6.md
+      - BOOKLISTS 2022 (new).md
       - CALENDAR.md
