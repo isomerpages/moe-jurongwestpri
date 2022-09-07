@@ -2,12 +2,12 @@ collections:
   notice-for-parents:
     output: true
     order:
-      - Letter to Parents/RESILIENCE | P6.md
-      - Letter to Parents/ENTHUSIASM | P5.md
-      - Letter to Parents/KINDNESS | P4.md
-      - Letter to Parents/INNOVATIVENESS | P3.md
-      - Letter to Parents/HONESTY | P2.md
-      - Letter to Parents/TEAMWORK | P1.md
-      - Letter to Parents/LETTERS TO PARENTS.md
       - Letter to Parents/.keep
+      - Letter to Parents/LETTERS TO PARENTS.md
+      - Letter to Parents/TEAMWORK | P1.md
+      - Letter to Parents/HONESTY | P2.md
+      - Letter to Parents/INNOVATIVENESS | P3.md
+      - Letter to Parents/KINDNESS | P4.md
+      - Letter to Parents/ENTHUSIASM | P5.md
+      - Letter to Parents/RESILIENCE | P6.md
       - CALENDAR.md
