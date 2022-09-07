@@ -1,4 +1,5 @@
 collections:
   mk-at-jwps:
     output: true
-    order: []
+    order:
+      - MK Staff.md
