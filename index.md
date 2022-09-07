@@ -15,7 +15,7 @@ sections:
           url: /quick-links/Staff
         - title: Contact us
           description: ""
-          url: /jwps/contact-us/
+          url: /jwps/Contact-Us/
         - title: Admission
           description: ""
           url: ""
