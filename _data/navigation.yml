@@ -11,7 +11,4 @@ links:
   - title: INFORMATION AND UPDATES
     collection: information-and-updates
   - title: MK @ JWPS
-    url: /permalink/mk-at-jwps
-    sublinks:
-      - title: MK Staff
-        url: /mk-at-jwps/mk-staff
+    collection: mk-at-jwps
