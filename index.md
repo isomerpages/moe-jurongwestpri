@@ -13,6 +13,15 @@ sections:
         - title: Quick Links
           description: ""
           url: /quick-links/Staff
+        - title: Contact us
+          description: ""
+          url: ""
+        - title: Admission
+          description: ""
+          url: ""
+        - title: Student Care Centre
+          description: ""
+          url: ""
   - infobar:
       title: CSCF School Library Sponsorship Programme
       description: "CSCF had recently added Jurong West Primary School along with 19
