@@ -1,14 +1,12 @@
 logo: /images/logo.svg
 links:
-  - title: JWPS
+  - title: Jurong West Primary School
     collection: jwps
-  - title: JWPS LEARNING EXPERIENCE
-    collection: jwps-learning-experience
-  - title: " DISTINCTIVE PROGRAMMES"
-    collection: distinctive-programmes
-  - title: JWPS FAMILY
-    collection: jwps-family
-  - title: INFORMATION AND UPDATES
-    collection: information-and-updates
+  - title: Partnership
+    collection: partnership
+  - title: Notice for Parents
+    collection: notice-for-parents
   - title: MK @ JWPS
     collection: mk-at-jwps
+  - title: Student Care Centre
+    collection: student-care-centre
