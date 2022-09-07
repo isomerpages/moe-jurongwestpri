@@ -1,4 +1,5 @@
 collections:
   archives:
     output: true
-    order: []
+    order:
+      - SCHOOL FACILITIES.md
