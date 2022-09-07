@@ -2,5 +2,6 @@ collections:
   archives:
     output: true
     order:
+      - SCHOOL SONG.md
       - FAQ.md
       - SCHOOL FACILITIES.md
