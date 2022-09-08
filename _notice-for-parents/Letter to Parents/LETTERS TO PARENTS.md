@@ -4,7 +4,6 @@ permalink: /information-and-updates/LETTERS-TO-PARENTS/
 description: ""
 third_nav_title: Letter to Parents
 ---
-
 # LETTERS TO PARENTS
 
 * <a href="/information-and-updates/LETTERS-TO-PARENTS/teamwork-p1">Teamwork | Primary 1</a>
@@ -15,6 +14,6 @@ third_nav_title: Letter to Parents
 
 * <a href="/information-and-updates/LETTERS-TO-PARENTS/kindness-p4">Kindness | Primary 4</a>
 
-* <a href="/information-and-updates/LETTERS-TO-PARENTS/enthusiasm-p5">Enthusiasm | Primary</a> 5
+* <a href="/information-and-updates/LETTERS-TO-PARENTS/enthusiasm-p5">Enthusiasm | Primary 5</a> 
 
 * <a href="/information-and-updates/LETTERS-TO-PARENTS/resilience-p6">Resilience | Primary 6</a>
