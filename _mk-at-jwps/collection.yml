@@ -2,7 +2,7 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - kCare.md
-      - Finance Links.md
-      - MK Facilities.md
       - MK Staff.md
+      - MK Facilities.md
+      - Finance Links.md
+      - kCare.md
