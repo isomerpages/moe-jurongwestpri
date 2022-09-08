@@ -23,6 +23,8 @@ sections:
           description: ""
           url: ""
       button: Open House 2023
+      title: Open House 2023
+      subtitle: Click on the button below to view
   - infobar:
       title: CSCF School Library Sponsorship Programme
       description: "CSCF had recently added Jurong West Primary School along with 19
