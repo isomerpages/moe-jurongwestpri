@@ -2,6 +2,7 @@ collections:
   jwps:
     output: true
     order:
+      - Our Staff/EXECUTIVE & ADMINISTRATION STAFF.md
       - Our Staff/TEACHING STAFF (2022).md
       - Our Staff/SCHOOL MANAGEMENT COMMITTEE.md
       - Our Staff/.keep
