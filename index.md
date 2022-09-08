@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/image_slide.gif
-      url: /contact-us/
+      url: /open-house/
       key_highlights:
         - title: Quick Links
           description: ""
