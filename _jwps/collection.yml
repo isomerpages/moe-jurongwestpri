@@ -2,7 +2,7 @@ collections:
   jwps:
     output: true
     order:
-      - MISSION,VISION,VALUES & CREST/Mission, Vision, Values & Crest.md
+      - MISSION,VISION,VALUES & CREST/MISSION, VISION, VALUES & CREST.md
       - MISSION,VISION,VALUES & CREST/SCHOOL CREST.md
       - MISSION,VISION,VALUES & CREST/MISSION, VISION AND VALUES.md
       - MISSION,VISION,VALUES & CREST/.keep
