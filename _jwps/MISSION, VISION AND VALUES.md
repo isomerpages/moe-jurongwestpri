@@ -3,7 +3,7 @@ title: MISSION, VISION AND VALUES
 permalink: /about-us/mission-vision-and-values/
 description: ""
 ---
-# VISION,MISSION AND VALUES
+# VISION, MISSION AND VALUES
 <h3> <p style = "text-align: center;"><span style="color: #c81b1b;"> <b>Our School Vision </b></span> </p></h3>
 
 <h2> <p style = "text-align: center;"><span style="color: #000000;"><b> A Learner. A THInKER. A Leader.</b></span> </p></h2>
