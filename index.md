@@ -22,6 +22,7 @@ sections:
         - title: Student Care Centre
           description: ""
           url: ""
+      button: Open House 2023
   - infobar:
       title: CSCF School Library Sponsorship Programme
       description: "CSCF had recently added Jurong West Primary School along with 19
