@@ -19,9 +19,9 @@ sections:
         - title: Admission
           description: ""
           url: /admission/
-        - title: Student Care Centre
+        - title: Quick Links
           description: ""
-          url: ""
+          url: /about-us/quick-links
       button: Open House 2023
       title: Open House 2023
       subtitle: Click on the button below to view
