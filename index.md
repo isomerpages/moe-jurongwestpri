@@ -10,12 +10,12 @@ sections:
       background: /images/Homepage/image_slide.gif
       url: /open-house/
       key_highlights:
-        - title: Calendar
-          description: ""
-          url: /about-us/calendar
         - title: Contact us
           description: ""
           url: /about-us/contact-us/
+        - title: Calendar
+          description: ""
+          url: /about-us/calendar
         - title: Admission
           description: ""
           url: /admission/
