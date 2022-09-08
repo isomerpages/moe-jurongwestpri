@@ -10,9 +10,9 @@ sections:
       background: /images/Homepage/image_slide.gif
       url: /open-house/
       key_highlights:
-        - title: Quick Links
+        - title: Calendar
           description: ""
-          url: /quick-links/Staff
+          url: /about-us/calendar
         - title: Contact us
           description: ""
           url: /about-us/contact-us/
