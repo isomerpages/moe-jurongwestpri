@@ -2,6 +2,7 @@ collections:
   jwps-family:
     output: true
     order:
+      - Key Partners/.keep
       - SCHOOL ADVISORY COMMITTEE.md
       - PARENTS SUPPORT GROUP.md
       - ALUMNI ASSOCIATION/.keep
