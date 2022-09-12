@@ -2,6 +2,7 @@ collections:
   our-department:
     output: true
     order:
+      - CCA/.keep
       - CCE/.keep
       - ICT/.keep
       - PAM/.keep
