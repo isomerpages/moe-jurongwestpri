@@ -2,8 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Leave of Absent.md
-      - Vendors.md
       - Letter to Parents/.keep
       - Letter to Parents/LETTERS TO PARENTS.md
       - Letter to Parents/TEAMWORK | P1.md
@@ -13,4 +11,6 @@ collections:
       - Letter to Parents/ENTHUSIASM | P5.md
       - Letter to Parents/RESILIENCE | P6.md
       - Calendar.md
+      - Vendors.md
+      - Leave of Absent.md
       - Booklists 2022 (NEW).md
