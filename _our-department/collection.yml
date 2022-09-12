@@ -2,12 +2,12 @@ collections:
   our-department:
     output: true
     order:
-      - STUDENT MANAGEMENT DEPT/.keep
-      - CCA/.keep
-      - CCE/.keep
-      - ICT/.keep
-      - PAM/.keep
-      - SCIENCE/.keep
-      - MOTHER TONGUE/.keep
-      - MATHEMATICS/.keep
       - ENGLISH/.keep
+      - MATHEMATICS/.keep
+      - ICT/.keep
+      - MOTHER TONGUE/.keep
+      - SCIENCE/.keep
+      - PAM/.keep
+      - CCE/.keep
+      - CCA/.keep
+      - STUDENT MANAGEMENT DEPT/.keep
