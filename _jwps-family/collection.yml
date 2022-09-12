@@ -2,6 +2,7 @@ collections:
   jwps-family:
     output: true
     order:
+      - Key Partners/CDAC.md
       - Key Partners/Lions.md
       - Key Partners/.keep
       - SCHOOL ADVISORY COMMITTEE.md
