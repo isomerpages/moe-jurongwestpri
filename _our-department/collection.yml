@@ -2,4 +2,5 @@ collections:
   our-department:
     output: true
     order:
+      - Mathematics/.keep
       - English/.keep
