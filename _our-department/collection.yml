@@ -1,4 +1,5 @@
 collections:
   our-department:
     output: true
-    order: []
+    order:
+      - English/.keep
