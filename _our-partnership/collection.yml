@@ -1,5 +1,5 @@
 collections:
-  jwps-family:
+  our-partnership:
     output: true
     order:
       - Key Partners/CDAC.md
