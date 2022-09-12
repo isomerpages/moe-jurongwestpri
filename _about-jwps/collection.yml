@@ -2,6 +2,7 @@ collections:
   about-jwps:
     output: true
     order:
+      - Our Department/English.md
       - Our Department/.keep
       - PRINCIPAL'S FOREWORD 2022.md
       - HISTORY.md
