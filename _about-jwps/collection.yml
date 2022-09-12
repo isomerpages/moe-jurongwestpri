@@ -2,7 +2,6 @@ collections:
   about-jwps:
     output: true
     order:
-      - Our Department/.keep
       - PRINCIPAL'S FOREWORD 2022.md
       - HISTORY.md
       - MISSION,VISION,VALUES & CREST/.keep
