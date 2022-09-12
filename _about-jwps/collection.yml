@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Department/.keep
-      - Our Department/English.md
       - PRINCIPAL'S FOREWORD 2022.md
       - HISTORY.md
       - MISSION,VISION,VALUES & CREST/.keep
