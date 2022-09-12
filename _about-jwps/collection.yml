@@ -1,5 +1,5 @@
 collections:
-  jwps:
+  about-jwps:
     output: true
     order:
       - PRINCIPAL'S FOREWORD 2022.md
