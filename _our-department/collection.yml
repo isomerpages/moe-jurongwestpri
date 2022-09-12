@@ -1,0 +1,4 @@
+collections:
+  our-department:
+    output: true
+    order: []
