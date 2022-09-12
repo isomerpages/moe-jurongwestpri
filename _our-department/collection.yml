@@ -2,7 +2,7 @@ collections:
   our-department:
     output: true
     order:
-      - ENGLISH/ENGLISH.md
+      - ENGLISH/permalink.md
       - ENGLISH/.keep
       - MATHEMATICS/.keep
       - ICT/.keep
