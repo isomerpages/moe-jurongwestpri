@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Leave of Adsent.md
       - Vendors.md
       - Letter to Parents/.keep
       - Letter to Parents/LETTERS TO PARENTS.md
