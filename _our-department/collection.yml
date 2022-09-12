@@ -2,9 +2,9 @@ collections:
   our-department:
     output: true
     order:
-      - ENGLISH/APPLIED LEARNING PROGRAMME.md
-      - ENGLISH/ENGLISH.md
       - ENGLISH/.keep
+      - ENGLISH/ENGLISH.md
+      - ENGLISH/APPLIED LEARNING PROGRAMME.md
       - MATHEMATICS/.keep
       - ICT/.keep
       - MOTHER TONGUE/.keep
