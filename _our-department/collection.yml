@@ -2,6 +2,7 @@ collections:
   our-department:
     output: true
     order:
+      - ENGLISH/APPLIED LEARNING PROGRAMME.md
       - ENGLISH/ENGLISH.md
       - ENGLISH/.keep
       - MATHEMATICS/.keep
