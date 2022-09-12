@@ -1,7 +1,7 @@
 logo: /images/logo.svg
 links:
-  - title: About JWPS
-    collection: jwps
+  - title: About Jwps
+    collection: about-jwps
   - title: For Parents
     collection: notice-for-parents
   - title: MK @ JWPS
