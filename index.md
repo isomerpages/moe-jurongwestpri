@@ -16,7 +16,7 @@ sections:
         - title: Calendar
           description: ""
           url: /about-us/calendar
-        - title: Admission
+        - title: New Admission
           description: ""
           url: /admission/
         - title: Quick Links
