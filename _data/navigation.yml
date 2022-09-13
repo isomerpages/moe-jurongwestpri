@@ -14,3 +14,5 @@ links:
     collection: admission
   - title: MK @ JWPS
     collection: mk-at-jwps
+  - title: For Test
+    resource_room: true
