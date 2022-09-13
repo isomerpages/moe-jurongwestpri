@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - MK STAFF.md
-      - KCARESTAFF.md
+      - KCARE STAFF.md
       - MK ADMISSION/.keep
       - MK ADMISSION/Waitlist Application.md
       - FINANCE LINKS.md
