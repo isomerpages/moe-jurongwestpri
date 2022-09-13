@@ -2,6 +2,7 @@ collections:
   about-jwps:
     output: true
     order:
+      - SCHOOL HOURS.md
       - PRINCIPAL'S FOREWORD 2022.md
       - HISTORY, SCHOOL CREST/.keep
       - HISTORY, SCHOOL CREST/HISTORY.md
