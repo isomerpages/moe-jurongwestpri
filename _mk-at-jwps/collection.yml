@@ -2,8 +2,8 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - MK Admission/Waitlist Application.md
-      - MK Admission/.keep
       - MK Staff.md
       - kCare Staff.md
+      - MK Admission/.keep
+      - MK Admission/Waitlist Application.md
       - Finance Links.md
