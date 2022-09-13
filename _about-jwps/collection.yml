@@ -2,6 +2,7 @@ collections:
   about-jwps:
     output: true
     order:
+      - HISTORY, SCHOOL CREST/.keep
       - PRINCIPAL'S FOREWORD 2022.md
       - HISTORY.md
       - MISSION,VISION AND VALUES/.keep
