@@ -2,6 +2,6 @@ collections:
   admission:
     output: true
     order:
-      - Leave of Absence.md
+      - LEAVE OF ABSENCE.md
       - WAIT LIST APPLICATION.md
       - PRIMARY 1 REGISTRATION.md
