@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Briefing Slides/.keep
       - Notice to Parents/.keep
       - Notice to Parents/LETTERS TO PARENTS.md
       - Notice to Parents/TEAMWORK | P1.md
