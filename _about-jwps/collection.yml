@@ -2,7 +2,6 @@ collections:
   about-jwps:
     output: true
     order:
-      - STUDENT CARE CENTRE.md
       - PRINCIPAL'S FOREWORD 2022.md
       - MISSION,VISION AND VALUES/.keep
       - MISSION,VISION AND VALUES/MISSION, VISION AND VALUES.md
@@ -13,6 +12,7 @@ collections:
       - OUR STAFF/SCHOOL ADMIN TEAM.md
       - OUR STAFF/TEACHING STAFF (2022).md
       - OUR STAFF/SCHOOL MANAGEMENT COMMITTEE.md
+      - STUDENT CARE CENTRE.md
       - Calendar.md
       - SCHOOL HOURS.md
       - SCHOOL RULES AND REGULATIONS.md
