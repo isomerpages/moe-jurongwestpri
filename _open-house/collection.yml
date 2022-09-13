@@ -2,4 +2,5 @@ collections:
   open-house:
     output: true
     order:
+      - Open House/.keep
       - Open House.md
