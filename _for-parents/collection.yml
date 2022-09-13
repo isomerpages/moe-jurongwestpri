@@ -2,15 +2,15 @@ collections:
   for-parents:
     output: true
     order:
-      - Notice to Parents/.keep
-      - Notice to Parents/LETTERS TO PARENTS.md
-      - Notice to Parents/TEAMWORK | P1.md
-      - Notice to Parents/HONESTY | P2.md
-      - Notice to Parents/INNOVATIVENESS | P3.md
-      - Notice to Parents/KINDNESS | P4.md
-      - Notice to Parents/ENTHUSIASM | P5.md
-      - Notice to Parents/RESILIENCE | P6.md
-      - Notice to Parents/Primary 7.md
+      - NOTICE TO PARENTS/.keep
+      - NOTICE TO PARENTS/LETTERS TO PARENTS.md
+      - NOTICE TO PARENTS/TEAMWORK | P1.md
+      - NOTICE TO PARENTS/HONESTY | P2.md
+      - NOTICE TO PARENTS/INNOVATIVENESS | P3.md
+      - NOTICE TO PARENTS/KINDNESS | P4.md
+      - NOTICE TO PARENTS/ENTHUSIASM | P5.md
+      - NOTICE TO PARENTS/RESILIENCE | P6.md
+      - NOTICE TO PARENTS/Primary 7.md
       - Booklists 2022 (NEW).md
       - Briefing Slides/.keep
       - Briefing Slides/Primary 1 (Briefing Slides).md
