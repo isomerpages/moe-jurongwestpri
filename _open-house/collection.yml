@@ -2,5 +2,4 @@ collections:
   open-house:
     output: true
     order:
-      - Open House/Open House 2023.md
       - Open House/.keep
