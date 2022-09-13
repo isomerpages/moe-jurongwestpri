@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - LEAVE OF ABSENCE.md
-      - WAIT LIST APPLICATION.md
       - PRIMARY 1 REGISTRATION.md
+      - WAIT LIST APPLICATION.md
