@@ -2,4 +2,4 @@ collections:
   vendors:
     output: true
     order:
-      - Vendors.md
+      - VENDORS.md
