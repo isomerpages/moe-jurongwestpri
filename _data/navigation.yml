@@ -2,9 +2,15 @@ logo: /images/logo.svg
 links:
   - title: About Jwps
     collection: about-jwps
+  - title: JWPS Learning Experience
+    collection: jwps-learning-experience
   - title: For Parents
     collection: for-parents
+  - title: Partners
+    collection: our-partnership
+  - title: Vendors
+    collection: art
+  - title: Admission
+    collection: admission
   - title: MK @ JWPS
     collection: mk-at-jwps
-  - title: Student Care Centre
-    collection: student-care-centre
