@@ -2,6 +2,7 @@ collections:
   our-partnership:
     output: true
     order:
+      - Lions.md
       - CDAC.md
       - SCHOOL ADVISORY COMMITTEE.md
       - PARENTS SUPPORT GROUP.md
