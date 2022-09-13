@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - MK Staff.md
-      - Finance Links.md
       - kCare Staff.md
+      - Finance Links.md
