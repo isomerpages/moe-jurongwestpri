@@ -18,3 +18,8 @@ links:
     resource_room: true
   - title: About JWPS 2
     url: /permalink/
+  - title: Test 2
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
