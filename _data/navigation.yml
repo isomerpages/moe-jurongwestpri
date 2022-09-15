@@ -1,7 +1,5 @@
 logo: /images/logo.svg
 links:
-  - title: Letter to Parents
-    resource_room: true
   - title: About JWPS
     url: /about-us/principals-foreword-2022
   - title: JWPS LEARNING EXPERIENCE
@@ -16,3 +14,5 @@ links:
     url: /admission-and-forms/primary-1-registration/
   - title: MK @ JWPS
     url: /mk-at-jwps/mk-staff/
+  - title: Letter to Parents
+    resource_room: true
