@@ -2,10 +2,10 @@ collections:
   our-partnership:
     output: true
     order:
+      - SCHOOL ADVISORY COMMITTEE.md
       - ALUMNI ASSOCIATION/.keep
       - ALUMNI ASSOCIATION/ALUMNI ASSOCIATION.md
       - ALUMNI ASSOCIATION/Membership.md
-      - CDAC.md
       - PARENTS SUPPORT GROUP.md
-      - SCHOOL ADVISORY COMMITTEE.md
+      - CDAC.md
       - THYE HUA KWAN.md
