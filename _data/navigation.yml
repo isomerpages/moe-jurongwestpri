@@ -1,17 +1,5 @@
 logo: /images/logo.svg
 links:
-  - title: JWPS Learning Experience
-    collection: jwps-learning-experience
-  - title: For Parents
-    collection: for-parents
-  - title: Partners
-    collection: our-partnership
-  - title: Vendors
-    collection: vendors
-  - title: Admission
-    collection: admission
-  - title: MK @ JWPS
-    collection: mk-at-jwps
   - title: Letter to Parents
     resource_room: true
   - title: About JWPS
