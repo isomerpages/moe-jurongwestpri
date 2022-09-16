@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - SCHOOL CREST.md
       - SCHOOL SONG.md
       - FAQ.md
       - SCHOOL FACILITIES.md
