@@ -1,4 +1,5 @@
 collections:
   student-care-centre:
     output: true
-    order: []
+    order:
+      - STUDENT CARE CENTRE.md
