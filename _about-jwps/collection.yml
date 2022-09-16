@@ -2,9 +2,9 @@ collections:
   about-jwps:
     output: true
     order:
+      - PRINCIPAL'S FOREWORD 2022.md
       - MISSION, VISION AND VALUES.md
       - HISTORY, SCHOOL CREST.md
-      - PRINCIPAL'S FOREWORD 2022.md
       - OUR STAFF/.keep
       - OUR STAFF/SCHOOL ADMIN TEAM.md
       - OUR STAFF/TEACHING STAFF (2022).md
