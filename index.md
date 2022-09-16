@@ -19,7 +19,4 @@ sections:
         - title: New Admission
           description: ""
           url: /admission/
-      button: Open House 2023
-      title: Open House 2023
-      subtitle: Click on the button below to view
 ---
