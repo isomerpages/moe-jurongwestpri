@@ -1,5 +1,5 @@
 collections:
-  about-jwps:
+  jurong-west-primary:
     output: true
     order:
       - PRINCIPAL'S FOREWORD 2022.md
