@@ -2,8 +2,8 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - Admission.md
       - MK@Jurong West.md
       - Our MK Staff.md
+      - Admission.md
       - kCare.md
       - Financial Support.md
