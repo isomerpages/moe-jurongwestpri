@@ -3,15 +3,13 @@ title: kCare
 permalink: /mk-at-jwps/kcare/
 description: ""
 ---
-If your child requires full-day service
+You can enroll your child in kCare if your child requires full-day service. 
 
-Service provider is YMCA
+At the moment, only **morning kCare** is offered. Your child will attend kCare from 7am to 1pm, then attend MK from 1pm to 5pm, and go back to kCare from 5pm to 7pm.
+
+Our kCare service provider is YMCA.
 
 Monthly fee : $360
-
-Morning kCare only : 7am to 8am. 12noon to 7pm
-
-MK from 8am to 12noon
 
 Contact : 96791940
 Email : jwkcc@ymca.edu.sg
