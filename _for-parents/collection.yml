@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - For Parents of JWPS students.md
       - NOTICE TO PARENTS/.keep
       - NOTICE TO PARENTS/LETTERS TO PARENTS.md
       - NOTICE TO PARENTS/TEAMWORK | P1.md
