@@ -3,6 +3,6 @@ title: Our MK Staff
 permalink: /mk-at-jwps/mkstaff/
 description: ""
 ---
-Group photo of MK staff
+Our MK is helmed by Ms Fairuniza, and supported by a group of dedicated MK Educators.
+
 ![MK Staff](/images/Team.jpg)
-Org chart
