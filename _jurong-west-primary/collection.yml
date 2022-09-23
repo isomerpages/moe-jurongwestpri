@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - PRINCIPAL'S FOREWORD 2022.md
-      - VISION, MISSION AND VALUES.md
+      - About JWPS.md
       - JWPS LEARNING EXPERIENCE.md
       - HISTORY, SCHOOL CREST.md
       - OUR STAFF/.keep
