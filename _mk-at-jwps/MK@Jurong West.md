@@ -8,6 +8,6 @@ MK@Jurong West started operation on 4 Jan 2022.
 Brief description about MK@Jwps
 
 
-Contact us : 9
+Contact us : 96474301
 
 Email : mk_jurongwest@moe.edu.sg
