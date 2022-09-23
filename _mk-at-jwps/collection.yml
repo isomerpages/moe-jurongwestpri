@@ -2,7 +2,7 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - MK Staff.md
+      - MK@Jurong West.md
       - KCARE STAFF.md
       - MK ADMISSION/.keep
       - MK ADMISSION/Waitlist Application.md
