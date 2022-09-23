@@ -4,9 +4,7 @@ permalink: /about-us/teaching-staff-2022/
 description: ""
 third_nav_title: OUR STAFF
 ---
-
-
-# TEACHING STAFF (2022)
+# TEACHING STAFF
 ## <span style = "color: #c81b1b"> <b>Learning Support Teachers</b> </span>
 
 |                                    |                                            |
