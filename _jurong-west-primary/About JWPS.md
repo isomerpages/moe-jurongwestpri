@@ -44,7 +44,7 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 
 # School Crest
 
-### <span style = "color: #c81b1b"> <b>School Crest</b> </span>
+>
 
 <img src="/images/About%20Us/jwps_school_crest.png" alt="School Crest" class="center" style="width:25%">
 
