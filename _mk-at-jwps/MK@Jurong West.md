@@ -3,9 +3,9 @@ title: MK@Jurong West
 permalink: /mk-at-jwps/mk/
 description: ""
 ---
-MK@Jurong West started operation on 4 Jan 2022.
+MK@Jurong West started operation on 4 Jan 2022 with 4 K1 classes.
 
-Brief description about MK@Jwps
+For more information about MK and its curriculum, please refer to the MOE MK website:
 
 
 <p style = "text-align: center; color: #4a9fe0"> Click <a href="https://moe.gov.sg/preschool/moe-kindergarten/" target = "_blank">here</a> to visit MOE's MK Website
@@ -43,5 +43,3 @@ Brief description about MK@Jwps
 
 
 <br>
-
-
