@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Partnership with Parents.md
       - Form Teachers of your child.md
       - Notices To Parents/.keep
       - Notices To Parents/LETTERS TO PARENTS.md
