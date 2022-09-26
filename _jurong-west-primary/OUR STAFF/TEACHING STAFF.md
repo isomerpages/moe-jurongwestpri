@@ -10,7 +10,7 @@ third_nav_title: OUR STAFF
 
 	
 ## <span style = "color: #c81b1b"> <b>English Department
-
+[English Dept](/ELDept/)
 ## <span style = "color: #c81b1b"> <b>Math Department
 
 ## <span style = "color: #c81b1b"> <b>Mother Tongue Department
