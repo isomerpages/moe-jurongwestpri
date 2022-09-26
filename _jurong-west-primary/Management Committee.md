@@ -3,12 +3,8 @@ title: Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-
-
-
-
 # SCHOOL MANAGEMENT COMMITTEE
-![](/images/About%20Us/IMG_1613.png)
+![smc](/images/SMC2022.jpg)
 
 |       Principal      |
 |:--------------------:|
