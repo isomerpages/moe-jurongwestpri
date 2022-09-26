@@ -2,7 +2,7 @@ collections:
   jurong-west-primary:
     output: true
     order:
-      - SCHOOL ADMIN TEAM.md
+      - Admin Team.md
       - SCHOOL MANAGEMENT COMMITTEE.md
       - PRINCIPAL'S FOREWORD 2022.md
       - History, VMV, Motto and School Crest.md
