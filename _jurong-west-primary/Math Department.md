@@ -16,6 +16,8 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 *   enhance students' learning through the explication of thinking and the development of metacognitive abilities; and
 *   instil a love for Mathematics.
 
+![Math](/images/Math2022.png)
+
 | Head of Department |
 | --- |
 | Mrs Jerica Koh |
