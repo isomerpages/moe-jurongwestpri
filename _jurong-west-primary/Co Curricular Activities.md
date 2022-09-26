@@ -3,12 +3,9 @@ title: Co Curricular Activities
 permalink: /jwps-learning-experience/co-curricular-activities/
 description: ""
 ---
+# CO-CURRICULAR ACTIVITIES (CCA)
 
-
-# PAGES FOR "SPORTS, UNIFORMED GROUPS AND CULTURAL ACTIVITIES, CLUBS AND SOCIETIES ARE MADE PRIVATE and cannot be migrated
-# CO-CURRICULAR ACTIVITIES
-
-(Updated on 3 Jan 2020)
+At the end of Primary 2, students will be invited to choose up to 3 preferred CCAs. Students from Primary 3 will be allocated a CCA.
 
 <table>
 <thead>
