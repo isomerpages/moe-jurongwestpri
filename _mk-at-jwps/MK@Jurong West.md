@@ -21,7 +21,16 @@ For more information about MK and its curriculum, please refer to the MOE MK web
 <tbody>
   <tr>
     <td style="text-align: center;"><br><br>Address</td>
-    <td><br>MK @ Jurong West<br><a href="https://www.google.com/maps/place/30%20Jurong%20West%20Street%2061" target ="_blank">30 Jurong West Street 61, S648368</a><br>This MK is located within Jurong West Primary School</td>
+    <td><br>MK @ Jurong West<br><a href="https://www.google.com/maps/place/30%20Jurong%20West%20Street%2061" target ="_blank">30 Jurong West Street 61, S648368</a><br>This MK is located within Jurong West Primary School
+		Entrance is via the MK Gate beside block 601A Multu-storey carpark.
+		
+![mkgate](/images/MK%20Gate.jpg)
+			
+		
+		</td>
+		
+		
+		
   </tr>
   <tr>
     <td style="text-align: center;">Operating hours</td>
