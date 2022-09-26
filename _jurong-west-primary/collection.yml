@@ -2,9 +2,9 @@ collections:
   jurong-west-primary:
     output: true
     order:
-      - English Department.md
       - PRINCIPAL'S FOREWORD 2022.md
       - About JWPS.md
+      - English Department.md
       - JWPS LEARNING EXPERIENCE.md
       - OUR STAFF/.keep
       - OUR STAFF/SCHOOL MANAGEMENT COMMITTEE.md
