@@ -2,11 +2,10 @@ collections:
   jurong-west-primary:
     output: true
     order:
-      - Admin Team.md
-      - Management Committee.md
       - PRINCIPAL'S FOREWORD 2022.md
       - History, VMV, Motto and School Crest.md
       - Holistic Education at JWPS.md
+      - Management Committee.md
       - CCE Department.md
       - English Department.md
       - ICT Department.md
@@ -16,6 +15,7 @@ collections:
       - Science Department.md
       - SEN Officers, Learning Support and Flexi Staff.md
       - Student Management Department.md
+      - Admin Team.md
       - SCHOOL RULES AND REGULATIONS.md
       - CALENDAR.md
       - CONTACT US.md
