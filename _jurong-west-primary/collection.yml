@@ -2,6 +2,7 @@ collections:
   jurong-west-primary:
     output: true
     order:
+      - Science Department.md
       - PRINCIPAL'S FOREWORD 2022.md
       - About JWPS.md
       - JWPS LEARNING EXPERIENCE.md
