@@ -6,9 +6,8 @@ third_nav_title: OUR STAFF
 ---
 # TEACHING STAFF
 
-## <span style = "color: #c81b1b"> <b>CCE Department
+## <span style = "color: #c81b1b"> <b>CCE Department: [CCE](/moe-jurongwestpri/folders/our-department/subfolders/CCE)
 
-[CCE](/our-department/cce)
 	
 ## <span style = "color: #c81b1b"> <b>English Department
 
@@ -49,4 +48,3 @@ third_nav_title: OUR STAFF
 |              Ms Soh Me Me             |               Ms Marilynn Lee              |
 |             Mdm Hannah Teng           |                  Mr Elijah                 |
 |                      |                                                 |
-
