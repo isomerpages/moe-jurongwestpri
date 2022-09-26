@@ -3,6 +3,8 @@ title: THYE HUA KWAN
 permalink: /our-partnership/THK/
 description: ""
 ---
+Jurong West Primary School partners with Thya Hua Kwan Family Services Centre to offer support programmes for families of our students.
+
 Click [here](https://jurongwestpri-moe-edu-sg-admin.cwp.sg/qql/slot/u363/Parents/THK/THK%20Family%20Services%20Division%20-%20Managing%20Emotional%20Health%20Book%20Digital.pdf) for more details.
 
 ![](/images/Quick%20Links/THK%20PSP_info%20infographics.jpg)
