@@ -16,6 +16,9 @@ Programme Goals:
 *   All students gain an appreciation and understanding of the importance of making good lifestyle choices.
 *   Develop a strong and positive relationship with the parents and community to help them better understand, appreciate, and encourage positive lifestyle choices in their families and community around them.
 
+![PAM](/images/PAM2022.jpg)
+
+
 | Head of Department (PE & CCA/LLP) |
 | --- |
 | Mr Lau Ban Hwee |
@@ -48,6 +51,4 @@ Programme Goals:
 | Mdm Doris Heng
 | Ms Shermaine Chan  
 | Ms Amanda Tan Wai Ting
-| Ms Kelly Tan  
-
-
+| Ms Kelly Tan
