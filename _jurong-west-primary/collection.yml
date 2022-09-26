@@ -2,7 +2,7 @@ collections:
   jurong-west-primary:
     output: true
     order:
-      - CO CURRICULAR ACTIVITIES.md
+      - Co Curricular Activities.md
       - Principal's Foreword.md
       - History, VMV, Motto and School Crest.md
       - Holistic Education at JWPS.md
