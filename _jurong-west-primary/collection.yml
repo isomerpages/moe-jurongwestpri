@@ -2,13 +2,13 @@ collections:
   jurong-west-primary:
     output: true
     order:
-      - Mother Tongue Department.md
       - PRINCIPAL'S FOREWORD 2022.md
       - About JWPS.md
       - JWPS LEARNING EXPERIENCE.md
       - CCE Department.md
       - English Department.md
       - Math Department.md
+      - Mother Tongue Department.md
       - OUR STAFF/.keep
       - OUR STAFF/SCHOOL MANAGEMENT COMMITTEE.md
       - OUR STAFF/TEACHING STAFF.md
