@@ -7,7 +7,7 @@ description: ""
 
 The school adopts a Tiered System of Support (TSS) in providing support to students with special educational and/ or additional needs. Each student’s performance and progress is used and reviewed to determine the level of needs and intensity of support required. The TSS helps with effective and efficient allocation of resources in the areas of manpower, time, physical space and finances.
 
-
+![TSS](/images/TSS.jpg)
 
 ### **SEN Officers**
 
@@ -20,6 +20,7 @@ SEN Officers provide support to students in need of additional support in thei
 5) Plan and implement individualized/ group intervention (e.g. social skills training, confidence-building, literacy and numeracy support)
 6) Work closely with the CMT in supporting the students
 
+![TSNp](/images/TSN%20support%20personnel.jpg)
 
 | Head of Department |
 | --- |
