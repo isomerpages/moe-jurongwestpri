@@ -7,15 +7,20 @@ description: ""
 
 |                                    |                                            |
 |:----------------------------------:|:------------------------------------------:|
-|  Mrs Margaret Lim<br>LSP (English) |    Ms Norlia Bte Safi'ee<br>LSM (Math)     |
-| Mdm Francis Irene<br>LSP (English) | Mr Muhammad Ali B Abdul Aziz<br>LSM (Math) |
+| Mrs Margaret Lim, LSP (English) 
+| Mdm Francis Irene, LSP (English) 
+| Ms Norlia Bte Safi'ee, LSM (Math)
+| Mr Muhammad Ali B Abdul Aziz, LSM (Math) |
 
 ## <span style = "color: #c81b1b"> <b>SEN Officers</b> </span>
 
-| Ms Lim Miao Jing - Lead SEN Officer 
-| Ms Charmaine Chee Hsieh Mei - Senior Counsellor |
-| Mdm Noor Sayyidah Binte Mohammad - SEN Officer |
-| Zul Afiq Bin Zuhri - SEN Officer        |
+|                                    |                                            |
+|:----------------------------------:|:------------------------------------------:|
+| Ms Lim Miao Jing, Lead SEN Officer
+| Ms Charmaine Chee Hsieh Mei, Senior Counsellor
+| Mdm Noor Sayyidah Binte Mohammad, SEN Officer
+| Zul Afiq Bin Zuhri, SEN Officer
+
 
 
 ## <span style = "color: #c81b1b"> <b>Contract-Adjunct</b> </span>
