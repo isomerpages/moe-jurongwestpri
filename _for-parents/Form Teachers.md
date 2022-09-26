@@ -3,9 +3,9 @@ title: Form Teachers
 permalink: /for-parents/parents/
 description: ""
 ---
+#### Lower Block Year Head: Ms Lau Chin Yong
+#### Lower Block Assistant Year Head: Ms Yvonne Chew (Covering)
 
-
-## <span style = "color: #c81b1b"> <b>Lower Block Year Head: Ms Lau Chin Yong<br>Lower Block Assistant Year Head: Ms Yvonne Chew (Covering)</b> </span>
 
 |    Class   |         Form Teacher        |    Form Teacher   |
 |:----------:|:---------------------------:|:-----------------:|
@@ -27,7 +27,8 @@ description: ""
 | Honesty 5 |    Ms Kelly Tan   |    Mdm Wang Xiaosong   |
 | Honesty 6 |   Ms Amanda Tan   |    Mdm Yu Shui Shui    |
 
-## <span style = "color: #c81b1b"> <b>Middle Block Year Head: Ms Wai Lai May<br>Middle Block Assistant Year Head: Mrs Tan-Tan Mei Ching</b> </span>
+#### Middle Block Year Head: Ms Wai Lai May
+#### Middle Block Assistant Year Head: Mrs Tan-Tan Mei Ching
 
 |       Class       |   Form Teacher   |    Form Teacher   |
 |:-----------------:|:----------------:|:-----------------:|
@@ -49,7 +50,8 @@ description: ""
 | Kindness 5 | Ms Tan Chee Keng / Mdm Suriati | Ms Chong Siew Hui |
 | Kindness 6 |         Mrs Wee Yin Ser        |  Mdm Huang Li Xia |
 
-## <span style = "color: #c81b1b"> <b>Upper Block Year Head: Mrs Sophia Ow Yong<br>Upper Block Assistant Year Head: Ms Emily Lim</b> </span>
+#### Upper Block Year Head: Mrs Sophia Ow Yong
+#### Upper Block Assistant Year Head: Ms Emily Lim
 
 |     Class    |   Form Teacher   |            Form Teacher           |
 |:------------:|:----------------:|:---------------------------------:|
