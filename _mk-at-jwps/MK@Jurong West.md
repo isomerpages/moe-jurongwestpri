@@ -29,7 +29,7 @@ For more information about MK and its curriculum, please refer to the MOE MK web
   </tr>
   <tr>
     <td style="text-align: center;">Programmes </td>
-    <td>From 2022: K1, KCare (AM Only)
+    <td>2022: K1, KCare (AM Only)
 			
 From 2023: K1, K2, KCare (AM Only)</td>
   </tr>
