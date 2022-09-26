@@ -2,7 +2,6 @@ collections:
   jurong-west-primary:
     output: true
     order:
-      - PAM Department.md
       - PRINCIPAL'S FOREWORD 2022.md
       - About JWPS.md
       - JWPS LEARNING EXPERIENCE.md
@@ -11,6 +10,7 @@ collections:
       - ICT Department.md
       - Math Department.md
       - Mother Tongue Department.md
+      - PAM Department.md
       - OUR STAFF/.keep
       - OUR STAFF/SCHOOL MANAGEMENT COMMITTEE.md
       - OUR STAFF/TEACHING STAFF.md
