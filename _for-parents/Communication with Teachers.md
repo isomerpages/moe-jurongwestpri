@@ -3,7 +3,7 @@ title: Communication with Teachers
 permalink: /for-parents/permalink/
 description: ""
 ---
-The school uses Parents Gateway application to communicate with all parents. 
+The school uses Parents Gateway application to communicate with all parents. For any clarifications, parents can call the general office (67933419) or email us at jwps@moe.edu.sg.
 
 Teachers are allowed to use their preferred mode of communications with parents (Parents Gateway app, Whatsapp, phone calls, Student handbook etc). We respect the privacy of the teachers and it is up to the teachers to decide if they wish to give their handphone numbers to parents.
 
