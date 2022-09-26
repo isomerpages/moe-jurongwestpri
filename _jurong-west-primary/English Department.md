@@ -3,7 +3,6 @@ title: English Department
 permalink: /ELDept/
 description: ""
 ---
-
 # Mission  
 
 ----------
@@ -34,6 +33,7 @@ Lead Teacher
 | Mr Kong Kum Cheong  
 
 Senior Teachers
+| 
 Mdm Beena D/O Prabhakaran  
 Mdm Margaret Lim  
 Mdm K Sunitha 
