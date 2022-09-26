@@ -2,7 +2,6 @@ collections:
   jurong-west-primary:
     output: true
     order:
-      - Co Curricular Activities.md
       - Principal's Foreword.md
       - History, VMV, Motto and School Crest.md
       - Holistic Education at JWPS.md
@@ -16,6 +15,7 @@ collections:
       - Science Department.md
       - Student Management Department.md
       - SEN Officers, Learning Support and Flexi Staff.md
+      - Co Curricular Activities.md
       - Admin Department.md
       - School Rules and Regulations.md
       - School Calendar.md
