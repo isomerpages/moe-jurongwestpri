@@ -39,7 +39,7 @@ Mdm Margaret Lim
 Mdm K Sunitha 
 
 
-|Teachers |
+|Members |
 | --- |
 Ms Shamini D/O Gopal Krishnasamy
 Mdm Tan Le-Shon
