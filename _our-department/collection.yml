@@ -2,7 +2,6 @@ collections:
   our-department:
     output: true
     order:
-      - ENGLISH/.keep
       - MATHEMATICS/.keep
       - ICT/.keep
       - MOTHER TONGUE/.keep
