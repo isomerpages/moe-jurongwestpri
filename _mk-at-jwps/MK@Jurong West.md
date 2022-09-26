@@ -27,7 +27,7 @@ For more information about MK and its curriculum, please refer to the MOE MK web
 ![mkgate](/images/MK%20Gate.jpg)
 			
 		
-		</td>
+		
 		
 		
 		
