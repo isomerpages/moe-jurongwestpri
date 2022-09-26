@@ -27,7 +27,26 @@ For more information about MK and its curriculum, please refer to the MOE MK web
 ![mkgate](/images/MK%20Gate.jpg)
 			
 		
-		
+##### MK gate opening hours
+
+The kCARE/MK staff will be at the foyer to receive/dismiss your child only at the gate opening hours:
+
+a) kCare (AM) students’ arrival : 7am to 7:15am<br>
+b) arrival of MK (AM) students : 8am to 8:15am<br>
+c) dismissal of MK (AM) students : 12pm to 12:15pm<br>
+d) arrival of MK (PM) students : 1pm to 1:15pm<br>
+e) dismissal of MK (PM) students : 5pm to 5:15pm<br>
+f) dismissal of kCare students : 5:30pm to 7pm
+
+Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 –kCare / 96474301 - MK) first.
+
+As the kCare and MK staff will be busy taking care of all the children, you may have to wait at the foyer for up to **15 minutes** if you send/fetch your child outside the above gate opening hours.
+
+The security guard’s main role is to maintain safety and security. They are **not required** to call the MK/kCARE staff on parents’ behalf.
+
+##### MK/kCare Premise: No entry for parents/caregivers
+
+For safety and security reasons, all parents/caregivers are NOT allowed to enter the MK/kCare premise. We seek your co-operation for the safety of your child and all other children.
 		
 		
 		
