@@ -30,29 +30,25 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 
 | Senior Teachers |
 | --- |
-
+Mdm Hoon Mee Ling Jessie 
 
 
 | Teachers |
 | --- |
-| Mrs Sophia Ow Yong | Mdm Hoon Mee Ling Jessie  
-(ST/Math) |
+| Mrs Sophia Ow Yong  
 |  Ms Ong Ying Wen Gladys  
-(SH, ICT) |  Ms Emily Lim Jialin  
-(Assistant Year Head, P5) |
+|  Ms Emily Lim Jialin  
 |  Ms Wai Lai May  
-(Year Head, P3) | Mdm Norlia Bte Safi'ee  
-(LSM Coordinator)  |
+| Mdm Norlia Bte Safi'ee  
 | Mr Muhammad Ali B Abdul Aziz  
-(LSM Coordinator) | Mdm Noorwanie Binte Buang  
-(Cyberwellness Coordinator) |
+| Mdm Noorwanie Binte Buang  
 | Miss Tan Chee Keng  
-(SH, CCE)  
- | Mr Png Kuan Meng Alphonsus  
-(CCE Coordinator)  
- |
-| Mdm Eliza Lim Pei Lin | Mdm Woon Hsiao Han |
-| Mdm Siti Nafisah Binte Sharif | Mrs Wee-Chai Yin Ser  
- |
-|  Ms Tan Kai Lin | Ms Hui Yin Peng  |
-| Mdm Suhaila Binte Solhan  | Ms Amanda Tan Wai Ting  |
+| Mr Png Kuan Meng Alphonsus  
+| Mdm Eliza Lim Pei Lin
+| Mdm Woon Hsiao Han
+| Mdm Siti Nafisah Binte Sharif
+| Mrs Wee-Chai Yin Ser  
+|  Ms Tan Kai Lin 
+| Ms Hui Yin Peng
+| Mdm Suhaila Binte Solhan 
+| Ms Amanda Tan Wai Ting
