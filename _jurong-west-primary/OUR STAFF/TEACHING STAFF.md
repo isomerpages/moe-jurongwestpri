@@ -6,7 +6,7 @@ third_nav_title: OUR STAFF
 ---
 # TEACHING STAFF
 
-## <span style = "color: #c81b1b"> <b>CCE Department: [CCE](/our-department/subfolders/CCE)
+## <span style = "color: #c81b1b"> <b>CCE Department
 
 	
 ## <span style = "color: #c81b1b"> <b>English Department
