@@ -29,27 +29,25 @@ The English Department aims to equip our students with the skills to speak, read
 
   
 
-| Members |
-| --- |
+Lead Teacher
 | Mr Kong Kum Cheong  
-(LT/EL) | Mdm Beena D/O Prabhakaran  
-(ST/EL) |
-| Mdm Margaret Lim  
-(ST/LSP/IMP Mentor/Assistant Year Head, P1 P2)  
- | Ms Shamini D/O Gopal Krishnasamy  
-(SH/SL - Covering) |
-| Mdm K Sunitha  
-(ST/SEN)  
- | Mdm Tan Le-Shon  
- |
-| Ms Marianne Ng Wei Ching  
-(ALP I/C) | Mdm Sakuntala D/O Kandasamy  
-(STELLAR Coordinator) |
-| Mdm Gomathi D/O Krishnan  
-(SDR Coordinator) | Ms Cindy Sim Lee Choo  
-(Health Education Coordinator) |
-| Mdm Lim Shao Leng Priscilla | Ms Nuraznita Binte Juke  
- |
-| Mdm Dina Kharismawati | Mrs George Sudha  
- |
-|  Miss Lynn Heng |   |
+
+Senior Teachers
+Mdm Beena D/O Prabhakaran  
+Mdm Margaret Lim  
+Mdm K Sunitha 
+
+
+
+Members
+Ms Shamini D/O Gopal Krishnasamy
+Mdm Tan Le-Shon
+Ms Marianne Ng Wei Ching
+Mdm Sakuntala D/O Kandasamy
+Mdm Gomathi D/O Krishnan
+Ms Cindy Sim Lee Choo
+Mdm Lim Shao Leng Priscilla
+Ms Nuraznita Binte Juke
+Mdm Dina Kharismawati
+Mrs George Sudha  
+Miss Lynn Heng
