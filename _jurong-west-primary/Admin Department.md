@@ -3,15 +3,9 @@ title: Admin Department
 permalink: /about-us/executive-n-administration-staff/
 description: ""
 ---
-
-
-
-
-
-
 # EXECUTIVE & ADMINISTRATION STAFF
+![EAS](/images/EAS2022.jpg)
 
-![](/images/About%20Us/IMG_1638.png)
 
 |             Designation            |                                                                Name                                                               |
 |:----------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
