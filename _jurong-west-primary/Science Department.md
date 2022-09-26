@@ -21,30 +21,17 @@ Inquiring learners who are able to use his senses, think, ask and reflect critic
 | --- |
 | Ms Chong Siew Hui |
 
-  
+
+| Senior Teacher |
+| --- |
+| Mrs Seng-Liu Hongping 
 
 | Members |
 | --- |
 | Mrs Nai-Ong Bee Cheng Vivienne  
-(CCE Coordinator) | Ms Siti Nur Syahirah Bte Rahamat  
-(IPW Coordinator) |
+| Ms Siti Nur Syahirah Bte Rahamat  
 |  Mdm Siti Farhana Binte Salamat  
-(FTGP Coordinator) | Mrs Seng-Liu Hongping   
-(ST) |
 |  Mr Jeremy Lim Chee Beng  
- |  Mdm Doris Heng |
-|  Mdm Raheelah Binte Abdul Manaf | Ms Val Tan Yan Kai   
- |
-
-*   [ENGLISH](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/english)
-*   [MATHEMATICS](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/mathematics)
-*   [MOTHER TONGUE](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/mother-tongue)
-*   **SCIENCE**
-
-*   [PROGRAMMES/ACTIVITIES](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/science/programmes-activities)
-
-*   [PAM](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/pam)
-*   [ICT](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/ict)
-*   [CHARACTER AND CITIZENSHIP EDUCATION](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/character-and-citizenship-education)
-*   [CO-CURRICULAR ACTIVITIES](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/co-curricular-activities)
-*   [STUDENT MANAGEMENT DEPARTMENT](https://jurongwestpri.moe.edu.sg/jwps-learning-experience/student-management-department)
+|  Mdm Doris Heng
+| Mdm Raheelah Binte Abdul Manaf 
+| Ms Val Tan Yan Kai   
