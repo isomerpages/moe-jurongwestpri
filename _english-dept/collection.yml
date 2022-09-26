@@ -1,0 +1,4 @@
+collections:
+  english-dept:
+    output: true
+    order: []
