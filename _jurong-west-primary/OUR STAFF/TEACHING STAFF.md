@@ -4,7 +4,6 @@ permalink: /about-us/teaching-staff/
 description: ""
 third_nav_title: OUR STAFF
 ---
-
 # TEACHING STAFF
 ## <span style = "color: #c81b1b"> <b>Learning Support Teachers</b> </span>
 
@@ -17,8 +16,8 @@ third_nav_title: OUR STAFF
 
 |                                            |                                                 |
 |:------------------------------------------:|:-----------------------------------------------:|
-|       Ms Lim Miao Jing - Lead AED LBS      | Ms Charmaine Chee Hsieh Mei - Senior Counsellor |
-| Mdm Noor Sayyidah Binte Mohammad - AED LBS |         Zul Afiq Bin Zuhri - SEN Officer        |
+|       Ms Lim Miao Jing - Lead SEN Officer      | Ms Charmaine Chee Hsieh Mei - Senior Counsellor |
+| Mdm Noor Sayyidah Binte Mohammad - SEN Officer |         Zul Afiq Bin Zuhri - SEN Officer        |
 |           Mdm Francis Irene - CA           |                Mdm Lisa Koh - FA                |
 |           Mr Tan Peng Yeon - FA            |                  Ms Ellya - FA                  |
 |              Ms Soh Me Me - FA             |               Ms Marilynn Lee - FA              |
