@@ -33,7 +33,7 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 Mdm Hoon Mee Ling Jessie 
 
 
-| Teachers |
+| Members |
 | --- |
 | Mrs Sophia Ow Yong  
 |  Ms Ong Ying Wen Gladys  
