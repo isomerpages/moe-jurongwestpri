@@ -28,19 +28,19 @@ The English Department aims to equip our students with the skills to speak, read
 | Ms Farhana (Covering) |
 
   
+| Lead Teacher |
+| --- |
+Mr Kong Kum Cheong  
 
-Lead Teacher
-| Mr Kong Kum Cheong  
-
-Senior Teachers
-| 
+| Senior Teacher |
+| --- |
 Mdm Beena D/O Prabhakaran  
 Mdm Margaret Lim  
 Mdm K Sunitha 
 
 
-
-Members
+|Teachers |
+| --- |
 Ms Shamini D/O Gopal Krishnasamy
 Mdm Tan Le-Shon
 Ms Marianne Ng Wei Ching
