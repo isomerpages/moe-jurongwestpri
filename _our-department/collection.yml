@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ENGLISH/.keep
-      - ENGLISH/ENGLISH.md
       - ENGLISH/APPLIED LEARNING PROGRAMME.md
       - MATHEMATICS/.keep
       - ICT/.keep
