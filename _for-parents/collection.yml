@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Communication with Teachers.md
       - Form Teachers.md
       - Notices To Parents/.keep
       - Notices To Parents/TEAMWORK | P1.md
