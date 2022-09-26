@@ -28,12 +28,14 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 | --- |
 | Ms Neo Wee Ting Esther |
 
-  
+| Senior Teachers |
+| --- |
+
+
 
 | Teachers |
 | --- |
-| Mrs Sophia Ow Yong  
-(Year Head, P6) | Mdm Hoon Mee Ling Jessie  
+| Mrs Sophia Ow Yong | Mdm Hoon Mee Ling Jessie  
 (ST/Math) |
 |  Ms Ong Ying Wen Gladys  
 (SH, ICT) |  Ms Emily Lim Jialin  
