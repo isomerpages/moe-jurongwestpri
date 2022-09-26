@@ -30,7 +30,7 @@ P3 and P4 students are dismissed at Gate 2. Students are allowed to use other ga
 
 P3 and P4 dismissal time : 1:30pm
 
-P5 and P5
+#### P5 and P6
 
 P5 and P6 are dismissed at the Polyclinic Gate. Students are allowed to use other gates to go home if it is more convenient for them.
 
