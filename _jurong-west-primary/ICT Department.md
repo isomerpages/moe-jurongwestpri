@@ -18,44 +18,34 @@ The four main ICT outcomes for the department are:
 | --- |
 | Ms Cheong Wei Siang Carol |
 
-  
-
+ 
 | Subject Head |
 | --- |
 | Ms Ong Ying Wen Gladys  
- |
 
-  
-  
-
+| Senior Teacher |
+| --- |
+| Mdm Sopianti Bt Abdullah  
+ 
 | Members |
 | --- |
 | Ms Loo Pei Ling Geraldine  
-(iExams Coordinator) | Ms Loke Jye Jiun  
-(Edusave Coordinator) |
-| Mdm Sopianti Bt Abdullah  
-(ST/ML/ICT) | Mdm Noorwanie Binte Buang  
-(Cyberwellness Coordinator) |
-|  Ms Jamie Gu Jiazhen  
-(SH/CCA) | Mrs Seng-Liu Hongping  
-(ST/Science) |
-|  Mdm Siti Nafisah Binte Sharif | Mrs Lalitha Chandrashekaran   
- |
+| Ms Loke Jye Jiun  
+| Mdm Noorwanie Binte Buang  
+| Ms Jamie Gu Jiazhen  
+| Mrs Seng-Liu Hongping  
+| Mdm Siti Nafisah Binte Sharif 
+| Mrs Lalitha Chandrashekaran   
 | Ms Nuraznita Binte Juke   
- |  Mdm Norliah Binte Abdul Latif  
- |
-| Ms Siti Noraisha Binte Mohd Senin | Ms Loo Yie Yeng   |
+| Mdm Norliah Binte Abdul Latif  
+| Ms Siti Noraisha Binte Mohd Senin 
+| Ms Loo Yie Yeng
 | Mdm Eliza Lim Pei Lin    
- | Mdm Phang Kee Mee   |
-|  Ms Seah Hui Yan  | Ms Chew You Mei Yvonne |
-| Mdm Chan Qing Yue | Mdm Tan Le-Shon  |
-|  Miss Val Tan Yan Kai | Ms Tan Kai Lin    
- |
-| Mr Yazid  
-(Desktop Engineer)   
- | Mr Eugen  
-(ICT Associate)  
- |
-|  Mr Kenneth  
-(ICT Coordinator) |   
- |
+| Mdm Phang Kee Mee
+| Ms Seah Hui Yan  
+| Ms Chew You Mei Yvonne
+| Mdm Chan Qing Yue 
+| Mdm Tan Le-Shon
+| Miss Val Tan Yan Kai 
+| Ms Tan Kai Lin    
+| Mr Eugen  
