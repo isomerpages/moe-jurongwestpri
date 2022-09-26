@@ -1,5 +1,0 @@
-collections:
-  english-dept:
-    output: true
-    order:
-      - English Dept.md
