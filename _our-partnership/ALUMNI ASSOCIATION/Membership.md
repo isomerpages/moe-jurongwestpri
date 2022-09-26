@@ -9,7 +9,7 @@ There are 2 main categories of memberships: Full Membership and Junior Membershi
 
 ### Full Membership
 
-Former students of Jurong West Primary School aged 21 years old and above are eligible for Full Membership. Full members have voting rights and are eligible to serve as office-bearers. Children of full members are also eligible for Primary 1 Phase 2A(1) registration. Full membership is free and valid for life.
+Former students of Jurong West Primary School aged 21 years old and above are eligible for Full Membership. Full members have voting rights and are eligible to serve as office-bearers. Children of full members are also eligible for Primary 1 Phase 2A registration. Full membership is free and valid for life.
 
 ### Junior Membership
 
