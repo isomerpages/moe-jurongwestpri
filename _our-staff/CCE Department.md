@@ -3,10 +3,6 @@ title: CCE Department
 permalink: /cce/
 description: ""
 ---
-
-
-
-
 # Character and Citizenship Education
 
 In JWPS, our CCE efforts focused on achieving common desired outcomes namely the school’s vision, mission and THInKER values. The school hopes to provide a student-centred and values driven education, in line with the CCE Learning Outcomes.
@@ -21,23 +17,22 @@ Moving forward, we will be tweaking our existing programmes to achieve the **CC
 
 | Head Of Department |
 | --- |
-| Mdm Nor Hazilah Bte Hasan |
+| Mdm Nor Hazilah Bte Hasan |<br>
 
-  
 
 | Subject Head |
 | --- |
-| Ms Tan Chee Keng |
+| Ms Tan Chee Keng |<br>
 
   
 
 | CCE Coordinators  |
 | --- |
 | Mr Png Kuan Meng Alphonsus
- | Mdm Siti Abesah Bte Md Yusof 
- |
+| Mdm Siti Abesah Bte Md Yusof 
+<br> 
 
- | CCE Level Representatives   |
+| CCE Level Representatives   |
 | --- |
 | Ms Nuraznita Binte Juke
 | Mrs Foong - Cindy Sim Lee Choo  
