@@ -3,9 +3,12 @@ title: Form Teachers
 permalink: /for-parents/FTs/
 description: ""
 ---
-#### Lower Block
-##### Year Head: Ms Lau Chin Yong
-##### Assistant Year Head: Ms Yvonne Chew (Covering)
+#### Lower Block (P1, P2)
+
+| Year Head | Assistant Year Head |
+| -------- | -------- |
+| Ms Lau Chin Yong    | Ms Yvonne Chew (covering)    |
+
 
 Primary 1 : Teamwork<br>
 
@@ -18,8 +21,7 @@ Primary 1 : Teamwork<br>
 | Teamwork 5 |         Mdm Suhaila         |      Mrs Rama     |
 | Teamwork 6 | Mdm Doris Heng / Ms Adriana | Mdm Francis Irene |
 
-Primary 2 : Honesty
-<br>
+Primary 2 : Honesty<br>
 
 |   Class   |    Form Teacher   |      Form Teacher      |
 |:---------:|:-----------------:|:----------------------:|
@@ -30,9 +32,13 @@ Primary 2 : Honesty
 | Honesty 5 |    Ms Kelly Tan   |    Mdm Wang Xiaosong   |
 | Honesty 6 |   Ms Amanda Tan   |    Mdm Yu Shui Shui    |
 
-#### Middle Block Year Head: Ms Wai Lai May
-#### Middle Block Assistant Year Head: Mrs Tan-Tan Mei Ching
-Primary 3 : Innovativeness
+#### Middle Block (P3, P4)
+
+| Year Head | Assistant Year Head |
+| -------- | -------- |
+| Ms Wai Lai May    | Ms Tan-Tan Mei Ching    |
+
+Primary 3 : Innovativeness<br>
 
 |       Class       |   Form Teacher   |    Form Teacher   |
 |:-----------------:|:----------------:|:-----------------:|
@@ -43,8 +49,7 @@ Primary 3 : Innovativeness
 |  Innovativeness 4 |   Mdm Nuraznita  |  Ms Lim Yan Ping  |
 |  Innovativeness 5 | Mdm Siti Farhana |  Ms Geraldine Loo |
 
-Primary 4 : Kindness
-<br>
+Primary 4 : Kindness<br>
 
 |    Class   |          Form Teacher          |    Form Teacher   |
 |:----------:|:------------------------------:|:-----------------:|
@@ -55,22 +60,24 @@ Primary 4 : Kindness
 | Kindness 5 | Ms Tan Chee Keng / Mdm Suriati | Ms Chong Siew Hui |
 | Kindness 6 |         Mrs Wee Yin Ser        |  Mdm Huang Li Xia |
 
-#### Upper Block Year Head: Mrs Sophia Ow Yong
-#### Upper Block Assistant Year Head: Ms Emily Lim
+#### Upper Block (P5, P6)
 
-Primary 5 : Enthusiasm
+| Year Head | Assistant Year Head |
+| -------- | -------- |
+| Ms Sophia Ow-Yong   | Ms Emily Lim    |
+
+Primary 5 : Enthusiasm<br>
 
 |     Class    |   Form Teacher   |            Form Teacher           |
 |:------------:|:----------------:|:---------------------------------:|
-| Enthusiasm 1 | Mdm Vivienne Ong |     Mdm Beena / Ms Gladys Ong     |
+| Enthusiasm 1 | Mdm Vivienne Ong |     Mdm Beena     |
 | Enthusiasm 2 |  Mdm Tan Le-Shon |         Mdm Chan Qing Yue         |
 | Enthusiasm 3 |  Ms Tan Kai Lin  |            Ms Yan Bing            |
-| Enthusiasm 4 |  Ms Marianne Ng  |    Ms Esther Neo / Mr Joel How    |
+| Enthusiasm 4 |  Ms Marianne Ng  |    Ms Esther Neo    |
 | Enthusiasm 5 |  Ms Andrea Chan  |            Mdm Sunitha            |
-| Enthusiasm 6 |    Ms Jamie Gu   | Mr Jasni / Mdm Sopianti (T2 - T4) |
+| Enthusiasm 6 |    Ms Jamie Gu   |  Mdm Sopianti |
 
-Primary 6 : Resilience
-<br>
+Primary 6 : Resilience<br>
 
 |     Class    |    Form Teacher   |           Form Teacher           |
 |:------------:|:-----------------:|:--------------------------------:|
