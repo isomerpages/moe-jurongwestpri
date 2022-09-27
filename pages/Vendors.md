@@ -3,19 +3,11 @@ title: Vendors
 permalink: /vendors/
 description: ""
 ---
-#### Bookshop vendor
+#### Bookshop
 Pacific Bookstore<br>
 Tel: 9048 1145<br>
 Opening Hours: Mondays to Fridays, 9.00 am - 4.00 pm<br>
 Lunch Break: 12.00 p.m - 1.00 p.m
-
-#### Bus Operator
-
-JK59 Pte Ltd<br>
-Tel: 6465 5959<br>
-Fax: 6466 5959<br>
-Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139
-
 
 #### Dental Clinic
 
@@ -31,6 +23,15 @@ Monday to Thursday - 8am to 1pm, 2pm to 530pm<br>
 Friday : 8am to 1pm, 2pm to 5pm
 
 For emergency dental treatment, you can call HPB Dental at 6435 3782.
+
+
+#### School Bus
+
+JK59 Pte Ltd<br>
+Tel: 6465 5959<br>
+Fax: 6466 5959<br>
+Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139
+
 
 
 #### School Uniform
