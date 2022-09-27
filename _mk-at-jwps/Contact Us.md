@@ -15,4 +15,4 @@ description: ""
 
 | Phone | 96791940 | 
 | -------- | -------- | 
-| Email     | jwkcc@ymca.edu.sg  |
+| Email     | <a href="mailto:jwkcc@ymca.edu.sg">jwkcc@ymca.edu.sg</a>  |
