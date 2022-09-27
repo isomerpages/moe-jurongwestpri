@@ -2,5 +2,4 @@ collections:
   chinese-language:
     output: true
     order:
-      - SEAB MOTHER TONGUE DICTIONARY.md
       - CULTURAL PERFORMANCE EXPOSURE SCHEME.md
