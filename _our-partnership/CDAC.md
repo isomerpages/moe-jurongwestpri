@@ -8,6 +8,7 @@ Jurong West Primary School has partnered with CDAC to provide to help academical
 Tuition is conducted in Jurong West Primary school on Saturday morning.
 
 1st session : 9.00am to 10.30am
+
 2nd session : 10.45am to 12.15pm
 
 For more information about CDAC tuition programme, please refer to : [CDAC Tuition](https://www.cdac.org.sg/developing-students/tuition-programme/)
