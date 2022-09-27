@@ -7,14 +7,14 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 ![TSS](/images/TSS.jpg)
 
-SEN Officers
+
 
 
 
 ![TSNp](/images/TSN%20support%20personnel.jpg)
 
 
-#### Student Development Team
+#### Case Management Team
 
 | Head of Department |
 | --- |
@@ -22,41 +22,42 @@ SEN Officers
 
   
 
-| Student Development Team ( Lower Block ) |
+| Case Management Team ( Lower Block ) |
 | --- |
 | Ms Lau Chin Yong  (Year Head) 
 | Ms Yvonne Chew  (Assistant Year Head)
 
 
-| Student Development Team ( Middle Block ) |
+| Case Development Team ( Middle Block ) |
 | --- |
 |  Ms Wai Lai May  (Year Head)  
 | Mrs Tan-Tan Mei Ching  (Assistant Year Head) 
  
  
-| Student Development Team ( Upper Block ) |
+| Case Management Team ( Upper Block ) |
 | --- |
 | Mrs Sophia Ow Yong  (Year Head) 
 | Ms Emily Lim  (Assistant Year Head)
 
 #### Learning Support
 
-|                                    |                                            |
-|:----------------------------------:|:------------------------------------------:|
+| LSP, SDR and ICAN Team |
+| --- |
 | Mrs Margaret Lim, LSP (English) 
-| Mdm Francis Irene, LSP (English) 
+| Mdm Francis Irene, LSP (English)
 | Ms Norlia Bte Safi'ee, LSM (Math)
-| Mr Muhammad Ali B Abdul Aziz, LSM (Math) |
+| Mr Muhammad Ali B Abdul Aziz, LSM (Math)
 
+### Counsellor
+
+Ms Charmaine Chee Hsieh Mei, Senior Counsellor
 
 #### SEN Officers
-
-|                                    |                                            |
-|:----------------------------------:|:------------------------------------------:|
-| Ms Lim Miao Jing, Lead SEN Officer
-| Ms Charmaine Chee Hsieh Mei, Senior Counsellor
-| Mdm Noor Sayyidah Binte Mohammad, SEN Officer
-| Zul Afiq Bin Zuhri, SEN Officer
+|  |
+| ---|
+Ms Lim Miao Jing, Lead SEN Officer
+Mdm Noor Sayyidah Binte Mohammad, SEN Officer
+Zul Afiq Bin Zuhri, SEN Officer
 
 SEN Officers provide support to students in need of additional support in their learning and/ or behavior. They will carry out the following:
 
