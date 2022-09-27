@@ -3,10 +3,9 @@ title: Arrival and Dismissal
 permalink: /for-parents/arrival/
 description: ""
 ---
-
 ## Arrival
 
-Students can enter the school via Gate 1, 2, 3 and 4 in the morning. Gate 3 will not be opened if the weather is bad.
+Students can enter the school via Gate 1, 2, 3 and 4 in the morning. Gate 3 will not be opened if the weather is bad. 
 
 ![gates](/images/School%20gates.jpg)
 
@@ -22,7 +21,7 @@ After dismissal, parents should leave with their child via the Polyclinic Gate o
 
 All parents are only allowed to stay in the basketball court. If there is a need to go to the General Office or bookshop during dismissal times, parents are required to go to Gate 1 security post to sign in and obtain a visitor pass first.
 
-P1 dismissal time : **1:20pm**
+P1 dismissal time : **1:20pm**<br>
 P2 dismissal time : 1:30pm
 
 #### P3 and P4
