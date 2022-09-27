@@ -4,7 +4,6 @@ permalink: /alumnimembership/
 description: ""
 third_nav_title: ALUMNI ASSOCIATION
 ---
-
 # Membership
 There are 2 main categories of memberships: Full Membership and Junior Membership.
 
@@ -30,4 +29,4 @@ To be eligible for the Primary 1 Phase 2A registration, you will need to be a fu
 
 
 
-For more information, visit: https://www.moe.gov.sg/admissions/primary-one-registration/phases
+For more information, visit [Phases for P1 Registration](https://www.moe.gov.sg/admissions/primary-one-registration/phases)
