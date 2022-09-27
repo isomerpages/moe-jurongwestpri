@@ -3,10 +3,6 @@ title: Math Department
 permalink: /math/
 description: ""
 ---
-
-
-
-
 Mission and Objectives of the Department:
 -----------------------------------------
 
@@ -25,12 +21,12 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 | Head of Department |
 | --- |
 | Mrs Jerica Koh |
-
   
 
 | Level Head |
 | --- |
 | Ms Neo Wee Ting Esther |
+
 
 | Senior Teachers |
 | --- |
