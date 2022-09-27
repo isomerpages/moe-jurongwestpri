@@ -2,11 +2,11 @@ collections:
   our-partnership:
     output: true
     order:
-      - Food From the Heart.md
       - School Advisory Committee.md
       - Alumni Association/.keep
       - Alumni Association/Alumni Association.md
       - Alumni Association/Membership.md
-      - Parents Support Group.md
       - CDAC.md
       - "Family Service Centre: Thye Hua Kwan.md"
+      - Food From the Heart.md
+      - Parents Support Group.md
