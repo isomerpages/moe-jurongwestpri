@@ -4,7 +4,6 @@ permalink: /alumnimembership/
 description: ""
 third_nav_title: ALUMNI ASSOCIATION
 ---
-# Membership
 There are 2 main categories of memberships: Full Membership and Junior Membership.
 
 ### Full Membership
