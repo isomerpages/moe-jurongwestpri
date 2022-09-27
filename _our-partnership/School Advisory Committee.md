@@ -5,8 +5,6 @@ description: ""
 ---
 
 
-# SCHOOL ADVISORY COMMITTEE
-
 |     Chairman     |
 |:----------------:|
 |  Mr Xu Song Qing |
