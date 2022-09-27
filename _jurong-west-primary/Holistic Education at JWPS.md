@@ -5,7 +5,9 @@ description: ""
 ---
 # Holistic education 
 
-The school recognises that it is important for our students to be equipped with the necessary knowledge, skills and dispositions to navigate the complexities of today’s fast-changing world through educating and enriching them holistically. We aim to develop in our students an intrinsic motivation to learn and acquire the 21st Century Competencies and values to thrive in the future. To achieve this, the school provides our students with a holistic education through a whole suite of programmes that support their cognitive development (Cognitive Development Package), the acquisition of the 21CC (Life Skills Package) and leadership development (Leadership Development Package). The aims of these programmes are aligned to the school’s vision of nurturing every JWPS student into becoming an engaged Learner, a reflective THInker and a selfless Leader. 
+The school recognises that it is important for our students to be equipped with the necessary knowledge, skills and dispositions to navigate the complexities of today’s fast-changing world through educating and enriching them holistically. We aim to develop in our students an intrinsic motivation to learn and acquire the 21st Century Competencies and values to thrive in the future. 
+
+To achieve this, the school provides our students with a holistic education through a whole suite of programmes that support their cognitive development (Cognitive Development Package), the acquisition of the 21CC (Life Skills Package) and leadership development (Leadership Development Package). The aims of these programmes are aligned to the school’s vision of nurturing every JWPS student into becoming an engaged Learner, a reflective THInker and a selfless Leader. 
 
 
 ### P5, P6 Bring Your Own Device (BYOD) Programme
@@ -18,7 +20,9 @@ The BYOD programme provides students with opportunities to learn at their own pa
 
 The P3 Project INNO in the English, Math, Science and Mother Tongue curricula focus on inquiry-based learning projects. These projects are based on real-life applications of key curricular concepts and create vibrant and enriching learning experiences with problem-solving opportunities. It aims for the students to take greater ownership of their own learning and for them to become more engaged and creative in exploring new knowledge.
 
-The P5 YEE learning platform is intended for the P5 students to deepen their learning, discover new information and become independent learners. Students are engaged in different activities during their English, Math, Science and Mother Tongue lessons to explore issues and perspectives related to environmental awareness. During their learning experiences, students get the opportunities to synthesise knowledge from various areas of learning and apply it to real-life situations. As the students collaborate with their peers, reflect upon their learning and communicate their ideas effectively, they exercise sound reasoning, decision-making and metacognition. Students also take ownership of their own learning as they are tasked to monitor their own learning and look for new information to help them understand lessons better.
+The P5 YEE learning platform is intended for the P5 students to deepen their learning, discover new information and become independent learners. Students are engaged in different activities during their English, Math, Science and Mother Tongue lessons to explore issues and perspectives related to environmental awareness. During their learning experiences, students get the opportunities to synthesise knowledge from various areas of learning and apply it to real-life situations. 
+
+As the students collaborate with their peers, reflect upon their learning and communicate their ideas effectively, they exercise sound reasoning, decision-making and metacognition. Students also take ownership of their own learning as they are tasked to monitor their own learning and look for new information to help them understand lessons better.
 
 ### P2 to P5 ALP - Art in Communication for Personal Excellence
 
