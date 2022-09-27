@@ -2,7 +2,7 @@ collections:
   our-partnership:
     output: true
     order:
-      - SCHOOL ADVISORY COMMITTEE.md
+      - School Advisory Committee.md
       - ALUMNI ASSOCIATION/.keep
       - ALUMNI ASSOCIATION/Alumni Association.md
       - ALUMNI ASSOCIATION/Membership.md
