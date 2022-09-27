@@ -11,8 +11,8 @@ Our kCare service provider is YMCA.
 
 Monthly fee : $360
 
-Contact : 96791940
-Email : jwkcc@ymca.edu.sg
+Contact : 96791940<br>
+Email : <a href="mailto:jwkcc@ymca.edu.sg">jwkcc@ymca.edu.sg</a>
 
 
 **Withdrawal Policy**
