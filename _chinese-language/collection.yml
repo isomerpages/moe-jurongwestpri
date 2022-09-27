@@ -2,7 +2,6 @@ collections:
   chinese-language:
     output: true
     order:
-      - Dolphin Awards/.keep
       - THUMBS UP NEWSPAPER 《大拇指》/.keep
       - THUMBS UP NEWSPAPER 《大拇指》/THUMBS UP NEWSPAPER 《大拇指》.md
       - THUMBS UP NEWSPAPER 《大拇指》/2015 李香颖《上海游学记》.md
