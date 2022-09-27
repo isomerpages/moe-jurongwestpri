@@ -3,10 +3,6 @@ title: PAM Department
 permalink: /pam/
 description: ""
 ---
-
-
-
-
 ### Mission / Objectives Of PAM Department
 
 To provide students with skills, knowledge and attitudes necessary to make active living a way of life.  
@@ -25,25 +21,23 @@ Programme Goals:
 
 | Head of Department (PE & CCA/LLP) |
 | --- |
-| Mr Lau Ban Hwee |
+| Mr Lau Ban Hwee |<br>
 
-  
 
 | Subject Head (CCA) |
 | --- |
-|  Miss Jamie Gu Jiazhen  
- |
-
+|  Miss Jamie Gu Jiazhen  |<br>
   
 
 | Subject Head (Aesthetics) - Covering |
 | --- |
-| \- |
+| \- |<br>
 
 | Senior Teacher |
 | --- |
 | Mdm Suriati Bte Samuri  
-| Ms Chia Gek Lan Jean  
+| Ms Chia Gek Lan Jean  |<br>
+
 
 | Members |
 | --- |
