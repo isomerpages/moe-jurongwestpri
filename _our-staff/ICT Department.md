@@ -3,10 +3,6 @@ title: ICT Department
 permalink: /ict/
 description: ""
 ---
-
-
-
-
 In unpacking our vision, we aim to develop our students to be ethical, confident, competent and independent users of ICT.  
   
 The four main ICT outcomes for the department are:  
@@ -20,16 +16,17 @@ The four main ICT outcomes for the department are:
 
 | Head Of Department |
 | --- |
-| Ms Cheong Wei Siang Carol |
+| Ms Cheong Wei Siang Carol |<br>
 
  
 | Subject Head |
 | --- |
-| Ms Ong Ying Wen Gladys  
+| Ms Ong Ying Wen Gladys  |<br>
 
 | Senior Teacher |
 | --- |
-| Mdm Sopianti Bt Abdullah  
+| Mdm Sopianti Bt Abdullah  |<br>
+ 
  
 | Members |
 | --- |
@@ -52,4 +49,4 @@ The four main ICT outcomes for the department are:
 | Mdm Tan Le-Shon
 | Miss Val Tan Yan Kai 
 | Ms Tan Kai Lin    
-| Mr Eugen  
+| Mr Eugen
