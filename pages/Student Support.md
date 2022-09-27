@@ -40,6 +40,7 @@ SEN Officers
 | Ms Emily Lim  (Assistant Year Head)
 
 #### Learning Support
+
 |                                    |                                            |
 |:----------------------------------:|:------------------------------------------:|
 | Mrs Margaret Lim, LSP (English) 
