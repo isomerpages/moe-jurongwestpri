@@ -14,4 +14,4 @@ The appointed operator of the student care is YMCA.
 
 Tel: 6790 7917 / 8876 3753
 
-Email: jwsc2@ymca.edu.sg
+Email: <a href="mailto:jwsc2@ymca.edu.sg">jwsc2@ymca.edu.sg</a>
