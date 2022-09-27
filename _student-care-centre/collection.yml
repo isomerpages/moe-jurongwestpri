@@ -2,4 +2,4 @@ collections:
   student-care-centre:
     output: true
     order:
-      - STUDENT CARE CENTRE.md
+      - Student Care Centre.md
