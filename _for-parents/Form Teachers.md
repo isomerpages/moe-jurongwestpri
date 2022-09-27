@@ -3,11 +3,10 @@ title: Form Teachers
 permalink: /for-parents/FTs/
 description: ""
 ---
-
 #### Lower Block Year Head: Ms Lau Chin Yong
 #### Lower Block Assistant Year Head: Ms Yvonne Chew (Covering)
 
-
+Primary 1 : Teamwork
 |    Class   |         Form Teacher        |    Form Teacher   |
 |:----------:|:---------------------------:|:-----------------:|
 | Teamwork 1 |     Mdm Cheng Mui Tiang     |    Mdm Xia Lu     |
@@ -17,6 +16,7 @@ description: ""
 | Teamwork 5 |         Mdm Suhaila         |      Mrs Rama     |
 | Teamwork 6 | Mdm Doris Heng / Ms Adriana | Mdm Francis Irene |
 
+Primary 2 : Honesty
 <br>
 
 |   Class   |    Form Teacher   |      Form Teacher      |
@@ -30,6 +30,7 @@ description: ""
 
 #### Middle Block Year Head: Ms Wai Lai May
 #### Middle Block Assistant Year Head: Mrs Tan-Tan Mei Ching
+Primary 3 : Innovativeness
 
 |       Class       |   Form Teacher   |    Form Teacher   |
 |:-----------------:|:----------------:|:-----------------:|
@@ -40,6 +41,7 @@ description: ""
 |  Innovativeness 4 |   Mdm Nuraznita  |  Ms Lim Yan Ping  |
 |  Innovativeness 5 | Mdm Siti Farhana |  Ms Geraldine Loo |
 
+Primary 4 : Kindness
 <br>
 
 |    Class   |          Form Teacher          |    Form Teacher   |
@@ -54,6 +56,8 @@ description: ""
 #### Upper Block Year Head: Mrs Sophia Ow Yong
 #### Upper Block Assistant Year Head: Ms Emily Lim
 
+Primary 5 : Enthusiasm
+
 |     Class    |   Form Teacher   |            Form Teacher           |
 |:------------:|:----------------:|:---------------------------------:|
 | Enthusiasm 1 | Mdm Vivienne Ong |     Mdm Beena / Ms Gladys Ong     |
@@ -63,6 +67,7 @@ description: ""
 | Enthusiasm 5 |  Ms Andrea Chan  |            Mdm Sunitha            |
 | Enthusiasm 6 |    Ms Jamie Gu   | Mr Jasni / Mdm Sopianti (T2 - T4) |
 
+Primary 6 : Resilience
 <br>
 
 |     Class    |    Form Teacher   |           Form Teacher           |
