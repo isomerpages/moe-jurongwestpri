@@ -2,6 +2,5 @@ collections:
   chinese-language:
     output: true
     order:
-      - THUMBS UP NEWSPAPER 《大拇指》/.keep
       - SEAB MOTHER TONGUE DICTIONARY.md
       - CULTURAL PERFORMANCE EXPOSURE SCHEME.md
