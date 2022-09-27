@@ -8,7 +8,7 @@ description: ""
 
 | Phone | 96474301 | 
 | -------- | -------- | 
-| Email     | mk_jurongwest@moe.edu.sg  |
+| Email     | <a href="mailto:mk_jurongwest@moe.edu.sg">mk_jurongwest@moe.edu.sg</a>  |
 
 
 #### kCare Contact
