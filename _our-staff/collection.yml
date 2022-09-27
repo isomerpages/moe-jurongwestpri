@@ -2,5 +2,6 @@ collections:
   our-staff:
     output: true
     order:
+      - ICT Department.md
       - English Department.md
       - CCE Department.md
