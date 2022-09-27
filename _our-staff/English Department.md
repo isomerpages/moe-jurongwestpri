@@ -3,8 +3,6 @@ title: English Department
 permalink: /ELDept/
 description: ""
 ---
-
-
 # Mission  
 
 ----------
@@ -21,36 +19,36 @@ The English Department aims to equip our students with the skills to speak, read
 
 | Head of Department |
 | --- |
-| Mdm Hamidah Binti Osman |
+| Mdm Hamidah Binti Osman |<br>
 
   
 
 | Level Head |
 | --- |
-| Ms Farhana (Covering) |
+| Ms Farhana (Covering) |<br>
 
-  
+ 
 | Lead Teacher |
 | --- |
-Mr Kong Kum Cheong  
+| Mr Kong Kum Cheong |<br> 
 
 | Senior Teacher |
 | --- |
-Mdm Beena D/O Prabhakaran  
-Mdm Margaret Lim  
-Mdm K Sunitha 
+| Mdm Beena D/O Prabhakaran
+| Mdm Margaret Lim  
+| Mdm K Sunitha 
 
 
 |Members |
 | --- |
-Ms Shamini D/O Gopal Krishnasamy
-Mdm Tan Le-Shon
-Ms Marianne Ng Wei Ching
-Mdm Sakuntala D/O Kandasamy
-Mdm Gomathi D/O Krishnan
-Ms Cindy Sim Lee Choo
-Mdm Lim Shao Leng Priscilla
-Ms Nuraznita Binte Juke
-Mdm Dina Kharismawati
-Mrs George Sudha  
-Miss Lynn Heng
+| Ms Shamini D/O Gopal Krishnasamy
+| Mdm Tan Le-Shon
+| Ms Marianne Ng Wei Ching
+| Mdm Sakuntala D/O Kandasamy
+| Mdm Gomathi D/O Krishnan
+| Ms Cindy Sim Lee Choo
+| Mdm Lim Shao Leng Priscilla
+| Ms Nuraznita Binte Juke
+| Mdm Dina Kharismawati
+| Mrs George Sudha  
+| Miss Lynn Heng
