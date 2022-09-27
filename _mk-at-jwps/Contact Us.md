@@ -13,6 +13,6 @@ description: ""
 
 #### kCare Contact
 
-| Phone | 96791940 | 
-| -------- | -------- | 
+| Phone | 96791940 |
+| -------- | -------- |
 | Email     | <a href="mailto:jwkcc@ymca.edu.sg">jwkcc@ymca.edu.sg</a>  |
