@@ -3,12 +3,10 @@ title: History, VMV, Motto and School Crest
 permalink: /about-jwps/brief/
 description: ""
 ---
-
-
-# **Brief History**
+# <p style = "text-align: center;">Brief History
 The school started holding classes at Juying Primary School on 4th January 1999 with 7 Primary One classes. It moved to its present premises on 28th June 1999. It was officially opened on 6th April 2002 by Mr Cedric Foo, Minister of State for Defence and Member of Parliament for West Coast GRC, Pioneer Division.
 
-# VISION, MISSION AND VALUES
+# <p style = "text-align: center;">VISION, MISSION AND VALUES
 <h3> <p style = "text-align: center;"><span style="color: #c81b1b;"> <b>Our School Vision </b></span> </p></h3>
 
 <h2> <p style = "text-align: center;"><span style="color: #000000;"><b> A Learner. A THInKER. A Leader.</b></span> </p></h2>
@@ -17,7 +15,7 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 
 <h3> <p style = "text-align: center;"><span style="color: #c81b1b;"><b> Our School Mission</b> </span> </p></h3>
 
-<p style = "text-align: center;"> To develop <br><br> A Confident person <br>(Believe in oneself), <br><br>An active Contributor <br>(Always giving selflessly), <br><br>A Concerned citizen <br>(A caring individual who is socially responsible, cultivates a healthy lifestyle, putting nation before self)<br><br>and<br><br> A Conscientious learner <br>(Thirst for knowledge and love for learning).</p>
+<p style = "text-align: center;"> To develop <br>A Confident person <br>An active Contributor <br>A Concerned citizen <br>and<br> A Conscientious learner <br></p>
 
 <p style = "text-align: center;"><span style="color: #000000;"><b>  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</b></span> </p>
 
@@ -39,12 +37,12 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 
 <h3> <p style = "text-align: center;"><span style="color: #c81b1b;"><b> Our School Motto </b></span> </p></h3>
 
-<p style = "text-align: center;"> 'Think and Grow'</p>
+<h4><p style = "text-align: center;"><span style="color: #4a9fe0;"> <b>'Think and Grow' </b></span> </p></h4>
 
+<br>
+<br>
 
-
-
-# School Crest
+# <p style = "text-align: center;">School Crest
 
 >
 
