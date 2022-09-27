@@ -3,26 +3,26 @@ title: History, VMV, School Motto and School Crest
 permalink: /about-jwps/brief/
 description: ""
 ---
+## Brief History
 
-# <p style = "text-align: center;">Brief History
 The school started holding classes at Juying Primary School on 4th January 1999 with 7 Primary One classes. It moved to its present premises on 28th June 1999. It was officially opened on 6th April 2002 by Mr Cedric Foo, Minister of State for Defence and Member of Parliament for West Coast GRC, Pioneer Division.
 
-# <p style = "text-align: center;">VISION, MISSION AND VALUES
-<h3> <p style = "text-align: center;"><span style="color: #c81b1b;"> <b>Our School Vision </b></span> </p></h3>
+## VISION, MISSION AND VALUES
 
-<h2> <p style = "text-align: center;"><span style="color: #000000;"><b> A Learner. A THInKER. A Leader.</b></span> </p></h2>
+### Our School Vision
 
-<p style = "text-align: center;"><span style="color: #000000;"><b>  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</b></span> </p>
+A Learner. A THInKER. A Leader
 
-<h3> <p style = "text-align: center;"><span style="color: #c81b1b;"><b> Our School Mission</b> </span> </p></h3>
+### Our School Mission
 
-<p style = "text-align: center;"> To develop <br>A Confident person <br>An active Contributor <br>A Concerned citizen <br>and<br> A Conscientious learner <br></p>
+To develop <br> A Confident person <br>An active Contributor <br>A Concerned citizen <br>and<br> A Conscientious learner <br></p>
 
-<p style = "text-align: center;"><span style="color: #000000;"><b>  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</b></span> </p>
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</b>
 
-<h3> <p style = "text-align: center;"><span style="color: #c81b1b;"> <b>School Core Values </b></span> </p></h3>
+### School Core Values
 
-<h4> <p style = "text-align: center;"><span style="color: #4a9fe0;"> <b>THInKER </b></span> </p></h4>
+
+THInKER
 
 |           |              |
 |:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -34,16 +34,15 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 |   **R**esilience   |      The spirit of persevering regardless of any challenges.                |
 
 
-<p style = "text-align: center;"><span style="color: #000000;"><b>  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</b></span> </p>
 
-<h3> <p style = "text-align: center;"><span style="color: #c81b1b;"><b> Our School Motto </b></span> </p></h3>
+## Our School Motto
 
-<h4><p style = "text-align: center;"><span style="color: #4a9fe0;"> <b>'Think and Grow' </b></span> </p></h4>
+
+'Think and Grow'
 
 <br>
-<br>
 
-# <p style = "text-align: center;">School Crest
+## 	School Crest
 
 >
 
