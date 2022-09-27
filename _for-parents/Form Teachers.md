@@ -3,10 +3,12 @@ title: Form Teachers
 permalink: /for-parents/FTs/
 description: ""
 ---
-#### Lower Block Year Head: Ms Lau Chin Yong
-#### Lower Block Assistant Year Head: Ms Yvonne Chew (Covering)
+#### Lower Block
+##### Year Head: Ms Lau Chin Yong
+##### Assistant Year Head: Ms Yvonne Chew (Covering)
 
-Primary 1 : Teamwork
+Primary 1 : Teamwork<br>
+
 |    Class   |         Form Teacher        |    Form Teacher   |
 |:----------:|:---------------------------:|:-----------------:|
 | Teamwork 1 |     Mdm Cheng Mui Tiang     |    Mdm Xia Lu     |
