@@ -54,7 +54,7 @@ For safety and security reasons, all parents/caregivers are NOT allowed to enter
 
 | Phone | 96791940 | 
 | -------- | -------- | 
-| Email     |   |
+| Email     |  jwkcc@ymca.edu.sg  |
 
 
 
