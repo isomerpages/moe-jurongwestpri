@@ -2,7 +2,6 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - Contact Us.md
       - MK@Jurong West.md
       - Our MK Staff.md
       - MK Facilities.md
@@ -10,3 +9,4 @@ collections:
       - kCare.md
       - kCare Facilities.md
       - Financial Support.md
+      - Contact Us.md
