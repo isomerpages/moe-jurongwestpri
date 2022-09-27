@@ -2,7 +2,6 @@ collections:
   chinese-language:
     output: true
     order:
-      - School Celebration/.keep
       - MOTHER TONGUE FORTNIGHT 母语双周.md
       - INTER SCHOOL COMPETITION 校际比赛/.keep
       - INTER SCHOOL COMPETITION 校际比赛/2018 校际比赛.md
