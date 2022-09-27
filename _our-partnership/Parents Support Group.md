@@ -3,8 +3,7 @@ title: Parents Support Group
 permalink: /our-partnership/parents-support-group/
 description: ""
 ---
-
-### Parents Support Group (PSG) EXCO Members
+### EXCO Members
 
 |                      PSG Advisors                      |
 |:------------------------------------------------------:|
