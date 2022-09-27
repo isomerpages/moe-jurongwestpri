@@ -2,4 +2,5 @@ collections:
   our-staff:
     output: true
     order:
+      - English Department.md
       - CCE Department.md
