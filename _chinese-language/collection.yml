@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Dolphin Awards/.keep
-      - Dolphin Awards/2015 海豚奖 Semester 1 获奖得主.md
       - Dolphin Awards/2015 海豚奖 Semester 2 获奖得主.md
       - Dolphin Awards/2016 海豚奖 Semester 1 获奖得主.md
       - Dolphin Awards/2016 海豚奖 Semester 2 获奖得主.md
