@@ -2,6 +2,7 @@ collections:
   archives:
     output: true
     order:
+      - Admin Department.md
       - CONTACT US.md
       - MISSION, VISION AND VALUES.md
       - HISTORY.md
