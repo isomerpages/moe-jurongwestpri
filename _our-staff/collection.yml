@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Mother Tongue Department.md
       - Math Department.md
       - ICT Department.md
       - English Department.md
