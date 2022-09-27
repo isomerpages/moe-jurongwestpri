@@ -3,10 +3,6 @@ title: Science Department
 permalink: /science/
 description: ""
 ---
-
-
-
-
 Vision
 ------
 
@@ -17,18 +13,18 @@ Inquiring learners who are able to use his senses, think, ask and reflect critic
 
 | Head of Department |
 | --- |
-| Mdm Goh Hwee Sung Patricia |
+| Mdm Goh Hwee Sung Patricia |<br>
 
   
 
 | Level Head |
 | --- |
-| Ms Chong Siew Hui |
+| Ms Chong Siew Hui |<br>
 
 
 | Senior Teacher |
 | --- |
-| Mrs Seng-Liu Hongping 
+| Mrs Seng-Liu Hongping |<br>
 
 | Members |
 | --- |
@@ -38,4 +34,4 @@ Inquiring learners who are able to use his senses, think, ask and reflect critic
 |  Mr Jeremy Lim Chee Beng  
 |  Mdm Doris Heng
 | Mdm Raheelah Binte Abdul Manaf 
-| Ms Val Tan Yan Kai   
+| Ms Val Tan Yan Kai
