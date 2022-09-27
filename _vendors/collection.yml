@@ -1,5 +1,0 @@
-collections:
-  vendors:
-    output: true
-    order:
-      - VENDORS.md
