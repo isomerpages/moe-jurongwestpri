@@ -27,7 +27,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ### School Core Values
 
 
-THInKER
+### <p style = "text-align: center;"><span style="color: #c81b1b;">THInKER </span></p>
 
 |           |              |
 |:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -43,7 +43,7 @@ THInKER
 ## Our School Motto
 
 
-'Think and Grow'
+### <p style = "text-align: center;"><span style="color: #c81b1b;">'Think and Grow' </span></p>
 
 <br>
 
