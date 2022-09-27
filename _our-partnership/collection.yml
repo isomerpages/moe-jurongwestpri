@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - School Advisory Committee.md
-      - ALUMNI ASSOCIATION/.keep
-      - ALUMNI ASSOCIATION/Alumni Association.md
-      - ALUMNI ASSOCIATION/Membership.md
+      - Alumni Association/.keep
+      - Alumni Association/Alumni Association.md
+      - Alumni Association/Membership.md
       - PARENTS SUPPORT GROUP.md
       - CDAC.md
       - THYE HUA KWAN.md
