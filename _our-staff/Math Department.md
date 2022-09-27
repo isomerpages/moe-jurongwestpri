@@ -20,17 +20,17 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 
 | Head of Department |
 | --- |
-| Mrs Jerica Koh |
+| Mrs Jerica Koh |<br>
   
 
 | Level Head |
 | --- |
-| Ms Neo Wee Ting Esther |
+| Ms Neo Wee Ting Esther |<br>
 
 
 | Senior Teachers |
 | --- |
-Mdm Hoon Mee Ling Jessie 
+| Mdm Hoon Mee Ling Jessie |<br>
 
 
 | Members |
