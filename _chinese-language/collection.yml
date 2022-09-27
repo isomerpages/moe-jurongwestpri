@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Dolphin Awards/.keep
-      - Dolphin Awards/2019 海豚奖 Semester 1 获奖得主.md
       - Dolphin Awards/2019 海豚奖 Semester 2 获奖得主.md
       - Dolphin Awards/2020 海豚奖.md
       - THUMBS UP NEWSPAPER 《大拇指》/.keep
