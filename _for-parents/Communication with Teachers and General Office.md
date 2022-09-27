@@ -3,7 +3,7 @@ title: Communication with Teachers and General Office
 permalink: /for-parents/comm/
 description: ""
 ---
-The school uses Parents Gateway application to communicate with all parents. For any clarifications, parents can call the general office (67933419) or email us at jwps@moe.edu.sg.
+Jurong West Primary School communicates with parents through the Parents Gateway application. For any clarifications, parents can call the general office (67933419) or email us at jwps@moe.edu.sg.
 
 Teachers are allowed to use their preferred mode of communications with parents (Parents Gateway app, Whatsapp, phone calls, Student handbook etc). We respect the privacy of the teachers and it is up to the teachers to decide if they wish to give their handphone numbers to parents.
 
