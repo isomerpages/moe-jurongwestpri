@@ -49,4 +49,4 @@ The four main ICT outcomes for the department are:
 | Mdm Tan Le-Shon
 | Miss Val Tan Yan Kai 
 | Ms Tan Kai Lin    
-| Mr Eugen
+| Mr Eugen Lim
