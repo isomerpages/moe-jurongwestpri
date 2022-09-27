@@ -4,9 +4,7 @@ permalink: /our-partnership/alumni-association/
 description: ""
 third_nav_title: ALUMNI ASSOCIATION
 ---
-
-# ALUMNI ASSOCIATION
-## <span style = "color: #c81b1b"> <b>ABOUT US</b> </span> 
+### ABOUT US
 
 ![](/images/JWPS%20Family/Group%20Photo.jpeg)
 
@@ -52,4 +50,3 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
 |                           Mr Klinsmann Soh                         |
 |                             **Member**                            |
 | Mr Bryson Lam<br>Mr Irwin Hafiz<br>Ms Soh Xian<br>Mr Low Suan Peng |
-
