@@ -53,6 +53,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 Ms Charmaine Chee Hsieh Mei, Senior Counsellor
 
 #### SEN Officers
+
 |  |
 | ---|
 Ms Lim Miao Jing, Lead SEN Officer
