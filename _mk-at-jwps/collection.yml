@@ -2,7 +2,6 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - EYC Partners.md
       - MK@Jurong West.md
       - Our MK Staff.md
       - MK Facilities.md
@@ -10,4 +9,5 @@ collections:
       - kCare.md
       - kCare Facilities.md
       - Financial Support.md
+      - EYC Partners.md
       - Contact Us.md
