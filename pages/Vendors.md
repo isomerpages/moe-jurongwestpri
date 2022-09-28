@@ -24,6 +24,11 @@ Friday : 8am to 1pm, 2pm to 5pm
 
 For emergency dental treatment, you can call HPB Dental at 6435 3782.
 
+#### Insurance
+
+NTUC Income
+
+Tel: 6346 2663
 
 #### School Bus
 
