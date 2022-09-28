@@ -1,5 +1,4 @@
 collections:
   information-and-updates:
     output: true
-    order:
-      - MOE Kindergarten @ Jurong West.md
+    order: []
