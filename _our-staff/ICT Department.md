@@ -12,20 +12,24 @@ The four main ICT outcomes for the department are:
 *   Collaborative Learner
 *   Confident Learner
 
-![ICT](/images/ICT%20Vision.jpg)
+
 
 | Head Of Department |
 | --- |
-| Ms Cheong Wei Siang Carol |<br>
+| Ms Cheong Wei Siang Carol |
+
+
 
  
 | Subject Head |
 | --- |
-| Ms Ong Ying Wen Gladys  |<br>
+| Ms Ong Ying Wen Gladys  |
+
+
 
 | Senior Teacher |
 | --- |
-| Mdm Sopianti Bt Abdullah  |<br>
+| Mdm Sopianti Bt Abdullah  |
  
  
 | Members |
