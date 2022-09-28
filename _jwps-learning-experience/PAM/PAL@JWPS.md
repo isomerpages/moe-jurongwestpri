@@ -1,10 +1,10 @@
 ---
 title: PAL@JWPS
-permalink: /jwps-learning-experience/PAM/pal-at-jwps
+permalink: /jwps-learning-experience/PAM/pal-at-jwps/
 description: ""
 third_nav_title: PAM
 ---
-# content in HOLISTIC APPROACH TO PAL page is migrated here (3rd level nav) to fit isomer template
+
 # PAL@JWPS
    
 ### What is PAL?
