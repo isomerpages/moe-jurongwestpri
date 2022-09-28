@@ -3,7 +3,7 @@ title: Your Child at MK@JWPS
 permalink: /mk-at-jwps/activities/
 description: ""
 ---
-All the fun and exciting learning activities for your child:
+##### All the fun and exciting learning activities for your child:
 
 Experiential activity - baking cookies
 ![](/images/MK/Experiential%20activity%20baking.jpeg)
