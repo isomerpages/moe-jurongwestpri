@@ -17,6 +17,8 @@ Corridor leading to the classrooms:
 
 ![Music room](/images/Music%20room.jpg)
 
+![Maker space](/images/Maker%20space.jpeg)
+
 MK students share the Primary School field for outdoor play:
 ![outdoor play](/images/Outdoor%20play%20area.jpg)
 
