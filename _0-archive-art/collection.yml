@@ -1,5 +1,5 @@
 collections:
-  archive-art:
+  0-archive-art:
     output: true
     order:
       - OVERVIEW.md
