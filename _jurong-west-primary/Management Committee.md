@@ -34,8 +34,9 @@ description: ""
 |  Physical Education and Co-Curricular Activities |  Mr Lau Ban Hwee |
 | Science  |  Mdm Patricia Goh Hwee Sung  |
 | School Staff Developer  | Ms Rena Tan  |
-|  Student Management | Ms Tay Siew Hwee  |<br>
+|  Student Management | Ms Tay Siew Hwee  |
 
+<br>
 
 
 |  |  | 
@@ -46,6 +47,7 @@ description: ""
 | Asst Year Head (Upper Block)     | Ms Emily Lim     |
 | Asst Year Head (Middle Block)     | Mrs Tan-Tan Mei Ching     |
 | Asst Year Head (Lower Block)     | Ms Yvonne Chew (Covering)     |
+
 <br>
 
 
