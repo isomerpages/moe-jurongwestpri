@@ -14,6 +14,7 @@ description: ""
 | Mr Chris Loh Kai Mun   | 
 
 
+<br>
 
 
 | Vice Principal | 
@@ -22,6 +23,7 @@ description: ""
 | Mr Pillay P Krishnan, VP Academic | 
 
 
+<br>
 
 
 | Department | Head of Department  | 
