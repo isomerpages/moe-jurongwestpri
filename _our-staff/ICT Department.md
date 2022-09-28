@@ -3,7 +3,7 @@ title: ICT Department
 permalink: /ict/
 description: ""
 ---
-In unpacking our vision, we aim to develop our students to be ethical, confident, competent and independent users of ICT.  
+We aim to develop our students to be ethical, confident, competent and independent users of ICT.  
   
 The four main ICT outcomes for the department are:  
 
