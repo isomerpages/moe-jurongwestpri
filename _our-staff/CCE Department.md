@@ -15,24 +15,22 @@ Moving forward, we will be tweaking our existing programmes to achieve the **CC
 
 | Head Of Department |
 | --- |
-| Mdm Nor Hazilah Bte Hasan |
+| Mdm Nor Hazilah Bte Hasan |<br>
 
-<br>
 
 
 | Subject Head |
 | --- |
-| Ms Tan Chee Keng |
+| Ms Tan Chee Keng |<br>
 
-<br>
   
 
 | CCE Coordinators  |
 | --- |
 | Mr Png Kuan Meng Alphonsus |
-| Mdm Siti Abesah Bte Md Yusof |
+| Mdm Siti Abesah Bte Md Yusof |<br>
 
-<br> 
+
 
 | CCE Level Representatives   |
 | --- |
