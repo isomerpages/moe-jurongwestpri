@@ -3,8 +3,6 @@ title: Math Department
 permalink: /math/
 description: ""
 ---
-Mission and Objectives of the Department:
------------------------------------------
 
 To create an enriching environment that enhances the acquisition of Mathematical knowledge and skills, the development of thinking processes, and the appreciation and interest in Math through the integration of IT, games and problem solving strategies.
 
