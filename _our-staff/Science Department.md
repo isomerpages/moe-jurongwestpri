@@ -3,10 +3,8 @@ title: Science Department
 permalink: /science/
 description: ""
 ---
-Vision
-------
 
-Inquiring learners who are able to use his senses, think, ask and reflect critically.  
+The Science Department aims to develop inquiring learners who are able to use his senses, think, ask and reflect critically.  
 
 ![SC](/images/Science2022.jpg)
 
