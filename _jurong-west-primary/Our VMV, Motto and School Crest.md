@@ -5,58 +5,15 @@ description: ""
 ---
 The school started holding classes at Juying Primary School on 4th January 1999 with 7 Primary One classes. It moved to its present premises on 28th June 1999. It was officially opened on 6th April 2002 by Mr Cedric Foo, Minister of State for Defence and Member of Parliament for West Coast GRC, Pioneer Division.
 
-## VISION, MISSION AND VALUES
+### VISION, MISSION AND VALUES
 
-### Our School Vision
-
-A Learner. A THInKER. A Leader
+![VMV](/images/VMV.jpg)
 
 
+![motto](/images/motto.jpg)
 
 
-
-### Our School Mission
-
-To develop
-
-A Confident person
-
-An active Contributor
-
-A Concerned citizen
-
-and
-
-A Conscientious learner
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-
-
-### School Core Values
-
-
-THInKER
-
-|           |              |
-|:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
-| **T**eamwork    |     The sense of togetherness and unity in working together with one another.        |
-| **H**onesty    |         The virtue of always doing the right thing and being true to oneself.            |
-| **I**nnovativeness | The courage to always question and think creatively. <br>One who takes calculated risks in coming up with ideas for the benefit of everyone.  |
-| **K**indness    |         The show of care and concern for others and the environment. <br>Always gracious in our words and actions.                  |
-| **E**nthusiasm   |          The passion and enjoyment in the things we do.               |
-| **R**esilience   |      The spirit of persevering regardless of any challenges.                |
-
-
-
-## Our School Motto
-
-
-Think and Grow' 
-
-
-
-
-## 	School Crest
+### 	                     School Crest
 
 >
 
