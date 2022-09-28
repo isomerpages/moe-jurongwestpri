@@ -6,7 +6,7 @@ description: ""
 #### MK Contact
 
 
-| Phone | 9647 4301 | 
+| Phone |    9647 4301 | 
 | --- | --- | 
 | Email     | <a href="mailto:mk_jurongwest@moe.edu.sg">mk_jurongwest@moe.edu.sg</a>  |
 
