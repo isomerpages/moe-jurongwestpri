@@ -30,17 +30,4 @@ Our goals:
 | Senior Teacher |
 | --- |
 | Mdm Suriati Bte Samuri  
-| Ms Chia Gek Lan Jean  |<br>
-
-
-| Members |
-| --- |
-| Miss Lau Chin Yong  
-| Mrs Foong - Cindy Sim Lee Choo  
-| Mrs Cheng Mui Tiang  
-| Mr Jeremy Lim Chee Beng
-| Mr Mohammad Azli Bin Majid  
-| Mdm Doris Heng
-| Ms Shermaine Chan  
-| Ms Amanda Tan Wai Ting
-| Ms Kelly Tan
+| Ms Chia Gek Lan Jean
