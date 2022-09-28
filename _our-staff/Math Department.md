@@ -25,27 +25,6 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 | Ms Neo Wee Ting Esther |<br>
 
 
-| Senior Teachers |
+| Senior Teacher |
 | --- |
-| Mdm Hoon Mee Ling Jessie |<br>
-
-
-| Members |
-| --- |
-| Mrs Sophia Ow Yong  
-|  Ms Ong Ying Wen Gladys  
-|  Ms Emily Lim Jialin  
-|  Ms Wai Lai May  
-| Mdm Norlia Bte Safi'ee  
-| Mr Muhammad Ali B Abdul Aziz  
-| Mdm Noorwanie Binte Buang  
-| Miss Tan Chee Keng  
-| Mr Png Kuan Meng Alphonsus  
-| Mdm Eliza Lim Pei Lin
-| Mdm Woon Hsiao Han
-| Mdm Siti Nafisah Binte Sharif
-| Mrs Wee-Chai Yin Ser  
-|  Ms Tan Kai Lin 
-| Ms Hui Yin Peng
-| Mdm Suhaila Binte Solhan 
-| Ms Amanda Tan Wai Ting
+| Mdm Hoon Mee Ling Jessie
