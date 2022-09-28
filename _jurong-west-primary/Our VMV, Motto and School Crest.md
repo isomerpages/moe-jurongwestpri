@@ -3,14 +3,13 @@ title: Our VMV, Motto and School Crest
 permalink: /about-jwps/brief/
 description: ""
 ---
-
 The school started holding classes at Juying Primary School on 4th January 1999 with 7 Primary One classes. It moved to its present premises on 28th June 1999. It was officially opened on 6th April 2002 by Mr Cedric Foo, Minister of State for Defence and Member of Parliament for West Coast GRC, Pioneer Division.
 
 ## VISION, MISSION AND VALUES
 
 ### Our School Vision
 
-### <p style = "text-align: center;"> <span style="color: #c81b1b;">A Learner. A THInKER. A Leader </span></p>
+### <p style = "text-align: center"> <span style="color: #c81b1b;">A Learner. A THInKER. A Leader </span></p>
 
 
 
@@ -18,7 +17,7 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 
 ### Our School Mission
 
-### <p style = "text-align: center;"><span style="color: #c81b1b;">To develop <br> A Confident person <br>An active Contributor <br>A Concerned citizen <br>and<br> A Conscientious learner <br></span></p>
+### <p style = "text-align: center"><span style="color: #c81b1b;">To develop <br> A Confident person <br>An active Contributor <br>A Concerned citizen <br>and<br> A Conscientious learner <br></span></p>
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
@@ -26,7 +25,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ### School Core Values
 
 
-### <p style = "text-align: center;"><span style="color: #c81b1b;">THInKER </span></p>
+### <p style = "text-align: center"><span style="color: #c81b1b;">THInKER </span></p>
 
 |           |              |
 |:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
