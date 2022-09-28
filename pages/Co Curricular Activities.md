@@ -4,9 +4,6 @@ permalink: /co-curricular-activities/
 description: ""
 ---
 
-
-# CO-CURRICULAR ACTIVITIES (CCA)
-
 At the end of Primary 2, students will be invited to choose up to 3 preferred CCAs. Students from Primary 3 will be allocated a CCA.
 
 <table>
