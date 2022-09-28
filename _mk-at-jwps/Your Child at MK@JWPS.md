@@ -17,3 +17,4 @@ Tricycles:
 ![](/images/MK/Tricycle.jpeg)
 
 End of term project:
+![](/images/MK/End%20of%20term%20project.jpeg)
