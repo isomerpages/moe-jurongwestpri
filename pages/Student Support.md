@@ -41,18 +41,18 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 ### Counsellor
 
-Ms Charmaine Chee Hsieh Mei, Senior Counsellor
+|  |  |
+| --- | --- |
+| Senior School Counsellor  | Ms Charmaine Chee Hsieh Mei  |
+
 
 
 
 #### SEN Officers
 
 
-|  |
-| ---|
-| Ms Lim Miao Jing, Lead SEN Officer |
-| Mdm Noor Sayyidah Binte Mohammad, SEN Officer |
-| Zul Afiq Bin Zuhri, SEN Officer |
-
-
-
+|  |  |
+| ---| --- |
+|  Lead SEN Officer  | Ms Lim Miao Jing |
+|  SEN Officer  |  Mdm Noor Sayyidah Binte Mohammad  |
+| SEN Officer | Mr Zul Afiq Bin Zuhri  |
