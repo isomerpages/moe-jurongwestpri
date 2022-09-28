@@ -17,7 +17,7 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 
 ### Our School Mission
 
-### <p style = "text-align: center"><span style="color: #c81b1b;">To develop <br> A Confident person <br>An active Contributor <br>A Concerned citizen <br>and<br> A Conscientious learner <br></span></p>
+#### <p style = "text-align: center"><span style="color: #c81b1b;">To develop <br> A Confident person <br>An active Contributor <br>A Concerned citizen <br>and<br> A Conscientious learner <br></span></p>
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
