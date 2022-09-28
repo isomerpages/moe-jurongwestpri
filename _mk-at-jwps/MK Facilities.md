@@ -6,24 +6,24 @@ description: ""
 MK@Jurong West is located at the ground floor (no need to use lift).
 
 Parents and children will wait at this indoor sheltered area when they arrive/dismiss.
-![Waiting area](/images/Waiting%20area.jpeg)
+![](/images/MK/Waiting%20area.jpeg)
 
 Corridor leading to the classrooms:
-![Corridor](/images/Corridor.jpeg)
+![](/images/MK/Corridor.jpeg)
 
-![MK classroom](/images/MK%20classroom%202.jpg)
+![](/images/MK/MK%20classroom.jpg)
 
-![MK classroom](/images/MK%20classroom%202.jpg)
+![](/images/MK/MK%20classroom%202.jpg)
 
-![Music room](/images/Music%20room.jpg)
+![](/images/MK/Music%20room.jpg)
 
-![Maker space](/images/Maker%20space.jpeg)
+![](/images/MK/Maker%20space.jpeg)
 
 MK students share the Primary School field for outdoor play:
-![outdoor play](/images/Outdoor%20play%20area.jpg)
+![](/images/MK/Outdoor%20play%20area.jpg)
 
 MK playground:
-![play ground](/images/Playground.jpeg)
+![](/images/MK/Playground.jpeg)
 
 Sensory garden:
-![Sensory garden](/images/Sensory%20garden.jpeg)
+![](/images/MK/Sensory%20garden.jpeg)
