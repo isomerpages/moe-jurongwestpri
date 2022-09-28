@@ -3,8 +3,7 @@ title: CCE Department
 permalink: /cce/
 description: ""
 ---
-
-In JWPS, our CCE efforts focused on achieving common desired outcomes namely the school’s vision, mission and THInKER values. The school hopes to provide a student-centred and values driven education, in line with the CCE Learning Outcomes.
+Our CCE efforts focused on achieving common desired outcomes namely the school’s vision, mission and THInKER values. The school hopes to provide a student-centred and values driven education, in line with the CCE Learning Outcomes.
 
 In the conceptualisation and implementation of the CCE programmes in JWPS, the school takes into consideration the inculcation of the RICH values and the school core values (THInKER; Teamwork, Honesty, Innovativeness, Kindness, Enthusiasm and Resilience).
 
