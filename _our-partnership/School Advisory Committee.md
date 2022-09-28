@@ -5,15 +5,15 @@ description: ""
 ---
 |  Chairman  |
 |---|
-|  Mr Xu Song Qing |
+|  Mr Xu Song Qing |<br>
 
 | Honorary Secretary |
 |---|
-| Mr Chris Loh Kai Mun |
+| Mr Chris Loh Kai Mun |<br>
 
 |   Honorary Treasurer    |
 |---|
-| Ms Sandra Loo Leong Swee |
+| Ms Sandra Loo Leong Swee |<br>
 
 |   Members   |
 |---|
