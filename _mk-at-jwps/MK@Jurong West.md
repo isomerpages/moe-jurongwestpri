@@ -26,7 +26,7 @@ The gate opening hours are:
 | 12pm to 12:15pm | Dismissal of MK (AM) students |
 | 1pm to 1:15pm | Arrival of MK (PM) students |
 | 5pm to 5:15pm | Dismissal of MK (PM) students |
-| 5:30pm to 7pm | Dismissal of kCare (AM) students |
+| 5:30pm to 7pm | Dismissal of KCare (AM) students |
 
 
 Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 – KCare / 96474301 - MK) first.
