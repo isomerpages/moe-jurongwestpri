@@ -13,16 +13,8 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 ![motto](/images/motto.jpg)
 
 
-### 	                     School Crest
+#### 	                     School Crest
 
->
+![Crest](/images/Crest.jpg)
 
-<img src="/images/About%20Us/jwps_school_crest.png" alt="School Crest" class="center" style="width:25%">
 
-|            |            |
-|---------------------------|--------------------------------------|
-| Green Sapling:            | Lively young child                   |
-| Yellow Circle:            | Environment of love and care         |
-| Green Concentric Circles: | Wholesome and well-rounded education |
-| White Background:         | Upright character of students        |
-| School colours:           | Blue, green and yellow               |
