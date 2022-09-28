@@ -4,8 +4,6 @@ permalink: /about-us/principals-foreword-2022/
 description: ""
 ---
 
-# PRINCIPAL'S FOREWORD 2022
-
 Dear Parents,  
 
     2020 and 2021 have been challenging years to all Singaporeans with the numerous disruptions caused by Covid-19.  JWPS had our fair share of challenging times, but I am glad all staff, students and stakeholders showed strong resilience as we unite to ride through these difficult times.  I am confident that in 2022, we will grow from strength to strength and do all we can to bring back the full suite of educational programmes whilst keeping all our students and staff safe.
