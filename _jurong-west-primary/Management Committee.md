@@ -24,7 +24,7 @@ description: ""
 
 
 
-| Department | Name of HOD | 
+| Department | Head of Department  | 
 | -------- | -------- | 
 | Character and Citizenship Education     | Mdm Nor Hazilah Bte Hasan     |
 | English  | Mdm Hamidah Binti Osman  |
