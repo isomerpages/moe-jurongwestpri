@@ -1,5 +1,5 @@
 collections:
-  archives:
+  0-archives:
     output: true
     order:
       - Admin Department.md
