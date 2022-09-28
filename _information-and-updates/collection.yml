@@ -2,6 +2,4 @@ collections:
   information-and-updates:
     output: true
     order:
-      - ADMISSION AND FORMS/.keep
-      - ADMISSION AND FORMS/LEAVE OF ABSENCE.md
       - MOE Kindergarten @ Jurong West.md
