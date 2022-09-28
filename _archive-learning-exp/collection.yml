@@ -1,5 +1,5 @@
 collections:
-  jwps-learning-experience:
+  archive-learning-exp:
     output: true
     order:
       - ENGLISH/.keep
