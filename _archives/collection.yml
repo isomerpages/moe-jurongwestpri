@@ -2,7 +2,6 @@ collections:
   archives:
     output: true
     order:
-      - SEN Officers, Learning Support and Flexi Staff.md
       - Admin Department.md
       - CONTACT US.md
       - MISSION, VISION AND VALUES.md
