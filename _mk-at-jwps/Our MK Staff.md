@@ -5,4 +5,4 @@ description: ""
 ---
 Our MK is helmed by Ms Fairuniza, and supported by a group of dedicated MK Educators.
 
-![MK Staff](/images/Team.jpg)
+![](/images/MK/Team.jpg)
