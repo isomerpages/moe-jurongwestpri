@@ -3,7 +3,7 @@ title: Holistic Education at JWPS
 permalink: /about-jwps/jwps-learning-experience/
 description: ""
 ---
-# Holistic education 
+
 
 The school recognises that it is important for our students to be equipped with the necessary knowledge, skills and dispositions to navigate the complexities of today’s fast-changing world through educating and enriching them holistically. We aim to develop in our students an intrinsic motivation to learn and acquire the 21st Century Competencies and values to thrive in the future. 
 
