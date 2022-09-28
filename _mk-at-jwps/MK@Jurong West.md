@@ -15,13 +15,13 @@ MK @ Jurong West is located within Jurong West Primary School.
 		
 ##### MK gate opening hours
 
-The entrance is via the MK Gate beside block 601A Multu-storey carpark. kCARE/MK staff will be at the foyer to receive/dismiss your child.
+The entrance is via the MK Gate beside block 601A Multu-storey carpark. KCARE/MK staff will be at the foyer to receive/dismiss your child.
 	
 The gate opening hours are:
 
 | Opening hours | Purpose |
 | -------- | -------- |
-| 7am to 7:15am     | Arrival of kCare (AM) students     |
+| 7am to 7:15am     | Arrival of KCare (AM) students     |
 | 8am to 8:15am | Arrival of MK (AM) students |
 | 12pm to 12:15pm | Dismissal of MK (AM) students |
 | 1pm to 1:15pm | Arrival of MK (PM) students |
@@ -29,19 +29,17 @@ The gate opening hours are:
 | 5:30pm to 7pm | Dismissal of kCare (AM) students |
 
 
-Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 – kCare / 96474301 - MK) first.
+Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 – KCare / 96474301 - MK) first.
 
-As the kCare and MK staff will be busy taking care of all the children, you may have to wait at the foyer for up to **15 minutes** if you send/fetch your child outside the above gate opening hours.
+As the KCare and MK staff will be busy taking care of all the children, you may have to wait at the foyer for up to **15 minutes** if you send/fetch your child outside the above gate opening hours.
 
-The security guard’s main role is to maintain safety and security. They are **not required** to call the MK/kCARE staff on parents’ behalf.
+The security guard’s main role is to maintain safety and security. They are **not required** to call the MK/KCARE staff on parents’ behalf.
 
-##### MK/kCare Premise: No entry for parents/caregivers
+##### MK/KCare Premise: No entry for parents/caregivers
 
-For safety and security reasons, all parents/caregivers are NOT allowed to enter the MK/kCare premise. We seek your co-operation for the safety of your child and all other children.
+For safety and security reasons, all parents/caregivers are NOT allowed to enter the MK/KCare premise. We seek your co-operation for the safety of your child and all other children.
 		
 For more information about MK and its curriculum, please refer to the MOE MK website:
 
 
 <p style = "text-align: center; color: #4a9fe0"> Click <a href="https://moe.gov.sg/preschool/moe-kindergarten/" target = "_blank">here</a> to visit MOE's MK Website
-
-	
