@@ -18,5 +18,5 @@ sections:
           url: /about-us/calendar
         - title: New Admission
           description: ""
-          url: /admission/
+          url: /admission-and-forms/wait-list-application/
 ---
