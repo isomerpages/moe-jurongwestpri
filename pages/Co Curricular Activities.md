@@ -3,15 +3,14 @@ title: Co Curricular Activities
 permalink: /co-curricular-activities/
 description: ""
 ---
-
 At the end of Primary 2, students will be invited to choose up to 3 preferred CCAs. Students from Primary 3 will be allocated a CCA.
 
 <table>
 <thead>
   <tr>
-    <th><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/jwps-learning-experience/co-curricular-activities/sports" target = "_blank">Sports</a></th>
-    <th><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/jwps-learning-experience/co-curricular-activities/uniformed-groups-and-cultural-activities" target = "_blank">Uniformed Groups and Cultural Activities</a></th>
-    <th><a href="https://jurongwestpri-moe-edu-sg-admin.cwp.sg/jwps-learning-experience/co-curricular-activities/clubs-and-societies" target = "_blank">Clubs and Societies</a></th>
+    <th>Sports</th>
+    <th>Uniformed Groups and Cultural Activities</th>
+    <th>Clubs and Societies</th>
   </tr>
 </thead>
 <tbody>
