@@ -2,7 +2,6 @@ collections:
   information-and-updates:
     output: true
     order:
-      - INFORMATION SLIDES AND GUIDES/.keep
       - NEWS AND UPDATES.md
       - SCHOOL HOURS.md
       - ADMISSION AND FORMS/.keep
