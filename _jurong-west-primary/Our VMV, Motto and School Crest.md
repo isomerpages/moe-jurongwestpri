@@ -8,6 +8,4 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 
 
 
-
-
-
+![](/images/Motto%20and%20crest.jpg)
