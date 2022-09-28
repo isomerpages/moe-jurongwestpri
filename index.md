@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Contact us
           description: ""
-          url: /about-us/contact-us/
+          url: /about-jwps/contact-us/
         - title: Calendar
           description: ""
           url: /about-us/calendar
