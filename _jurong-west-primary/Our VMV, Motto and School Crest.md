@@ -41,7 +41,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ## Our School Motto
 
 
-### <p style = "text-align: center;"><span style="color: #c81b1b;">'Think and Grow' </span></p>
+### <p style = "text-align: center"><span style="color: #c81b1b;">'Think and Grow' </span></p>
 
 <br>
 
