@@ -15,7 +15,7 @@ MK @ Jurong West is located within Jurong West Primary School.
 		
 ##### MK gate opening hours
 
-The entrance is via the MK Gate beside block 601A Multu-storey carpark. KCARE/MK staff will be at the foyer to receive/dismiss your child.
+The entrance is via the MK Gate beside block 601A Multi-storey carpark. KCARE/MK staff will be at the foyer to receive/dismiss your child.
 	
 The gate opening hours are:
 
