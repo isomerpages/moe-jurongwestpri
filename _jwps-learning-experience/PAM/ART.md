@@ -1,10 +1,10 @@
 ---
 title: ART
-permalink: /jwps-learning-experience/PAM/art
+permalink: /jwps-learning-experience/PAM/art/
 description: ""
 third_nav_title: PAM
 ---
-# links to Sub categories in the original site under art such as "overview" or "partnership and competition" pages are shifted under different headers in the "art" page itself to fit isomer template
+
 # ART
 ### MISSION AND OBJECTIVES
 
