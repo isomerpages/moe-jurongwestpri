@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - INFORMATION SLIDES AND GUIDES/.keep
-      - INFORMATION SLIDES AND GUIDES/RESILIENCE | P6.md
       - NEWS AND UPDATES.md
       - SCHOOL HOURS.md
       - ADMISSION AND FORMS/.keep
