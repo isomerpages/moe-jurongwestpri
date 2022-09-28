@@ -14,24 +14,17 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 | --- |
 | Ms Tay Siew Hwee  
 
-  
-
-| Case Management Team ( Lower Block ) |
-| --- |
-| Ms Lau Chin Yong  (Year Head) 
-| Ms Yvonne Chew  (Assistant Year Head)
 
 
-| Case Development Team ( Middle Block ) |
-| --- |
-|  Ms Wai Lai May  (Year Head)  
-| Mrs Tan-Tan Mei Ching  (Assistant Year Head) 
- 
- 
-| Case Management Team ( Upper Block ) |
-| --- |
-| Mrs Sophia Ow Yong  (Year Head) 
-| Ms Emily Lim  (Assistant Year Head)
+|  |  | 
+| -------- | -------- | 
+| Year Head (Upper Block)     | Mrs Sophia Ow Yong     |
+| Year Head (Middle Block)     | Ms Wai Lai May     |
+| Year Head (Lower Block)     | Ms Lau Chin Yong     |
+| Asst Year Head (Upper Block)     | Ms Emily Lim     |
+| Asst Year Head (Middle Block)     | Mrs Tan-Tan Mei Ching     |
+| Asst Year Head (Lower Block)     | Ms Yvonne Chew (Covering)     |
+
 
 
 
@@ -63,4 +56,4 @@ Ms Charmaine Chee Hsieh Mei, Senior Counsellor
 
 
 
-SEN Officers provide support to students in need of additional support in their learning and/ or behavior. 
+SEN Officers provide support to students in need of additional support in their learning and/ or behavior.
