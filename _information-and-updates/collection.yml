@@ -2,7 +2,6 @@ collections:
   information-and-updates:
     output: true
     order:
-      - SCHOOL HOURS.md
       - ADMISSION AND FORMS/.keep
       - ADMISSION AND FORMS/LEAVE OF ABSENCE.md
       - MOE Kindergarten @ Jurong West.md
