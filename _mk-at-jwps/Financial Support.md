@@ -10,6 +10,6 @@ If your child is Singaporean, you can apply for MK subsidy. For more information
 
 
 
-## Subsidy for kCare
+## Subsidy for KCare
 
-If your child is Singaporean, you can apply for kCare subsidy. For more information on kCare subsidy, please refer to this website: [kCare subsidy](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care)
+If your child is Singaporean, you can apply for KCare subsidy. For more information on KCare subsidy, please refer to this website: [KCare subsidy](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care)
