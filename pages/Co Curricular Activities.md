@@ -5,6 +5,11 @@ description: ""
 ---
 At the end of Primary 2, students will be invited to choose up to 3 preferred CCAs. Students from Primary 3 will be allocated a CCA.
 
+
+CCA practises are held on Monday, Wednesday and Friday between 2pm to 4pm (not on all 3 days - the actual schedule will be sent by the teacher-in-charge to parents via Parents Gateway app).
+
+
+
 <table>
 <thead>
   <tr>
