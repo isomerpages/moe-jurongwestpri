@@ -9,7 +9,7 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 
 ### Our School Vision
 
-### <p style = "text-align: center"> <span style="color: #c81b1b;">A Learner. A THInKER. A Leader </span></p>
+A Learner. A THInKER. A Leader
 
 
 
@@ -17,7 +17,17 @@ The school started holding classes at Juying Primary School on 4th January 1999 
 
 ### Our School Mission
 
-#### <p style = "text-align: center"><span style="color: #c81b1b;">To develop <br> A Confident person <br>An active Contributor <br>A Concerned citizen <br>and<br> A Conscientious learner <br></span></p>
+To develop
+
+A Confident person
+
+An active Contributor
+
+A Concerned citizen
+
+and
+
+A Conscientious learner
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
@@ -25,7 +35,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ### School Core Values
 
 
-### <p style = "text-align: center"><span style="color: #c81b1b;">THInKER </span></p>
+THInKER
 
 |           |              |
 |:----------------:|:-------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -41,9 +51,10 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ## Our School Motto
 
 
-### <p style = "text-align: center"><span style="color: #c81b1b;">'Think and Grow' </span></p>
+Think and Grow' 
 
-<br>
+
+
 
 ## 	School Crest
 
