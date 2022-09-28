@@ -28,4 +28,4 @@ The four main ICT outcomes for the department are:
 
 | Senior Teacher |
 | --- |
-| Mdm Sopianti Bt Abdullah
+| Mdm Sopianti Bte Abdullah
