@@ -54,11 +54,14 @@ Ms Charmaine Chee Hsieh Mei, Senior Counsellor
 
 #### SEN Officers
 
+
 |  |
 | ---|
-Ms Lim Miao Jing, Lead SEN Officer
-Mdm Noor Sayyidah Binte Mohammad, SEN Officer
-Zul Afiq Bin Zuhri, SEN Officer
+| Ms Lim Miao Jing, Lead SEN Officer |
+| Mdm Noor Sayyidah Binte Mohammad, SEN Officer |
+| Zul Afiq Bin Zuhri, SEN Officer |
+
+<br>
 
 SEN Officers provide support to students in need of additional support in their learning and/ or behavior. They will carry out the following:
 
