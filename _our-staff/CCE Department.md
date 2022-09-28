@@ -3,7 +3,6 @@ title: CCE Department
 permalink: /cce/
 description: ""
 ---
-# Character and Citizenship Education
 
 In JWPS, our CCE efforts focused on achieving common desired outcomes namely the school’s vision, mission and THInKER values. The school hopes to provide a student-centred and values driven education, in line with the CCE Learning Outcomes.
 
