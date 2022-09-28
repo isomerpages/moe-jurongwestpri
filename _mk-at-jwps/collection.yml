@@ -2,8 +2,8 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - Your Child at MK@JWPS.md
       - MK@Jurong West.md
+      - Your Child at MK@JWPS.md
       - Our MK Staff.md
       - MK Facilities.md
       - Admission.md
