@@ -3,8 +3,7 @@ title: Math Department
 permalink: /math/
 description: ""
 ---
-
-To create an enriching environment that enhances the acquisition of Mathematical knowledge and skills, the development of thinking processes, and the appreciation and interest in Math through the integration of IT, games and problem solving strategies.
+The Math department aims to create an enriching environment that enhances the acquisition of Mathematical knowledge and skills, the development of thinking processes, and the appreciation and interest in Math through the integration of IT, games and problem solving strategies.
 
   
 
