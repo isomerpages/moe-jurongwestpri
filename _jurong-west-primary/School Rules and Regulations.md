@@ -4,8 +4,6 @@ permalink: /about-us/school-rules-and-regulations/
 description: ""
 ---
 
-# SCHOOL RULES AND REGULATIONS
-
 1.  Sing the National Anthem and take the Pledge by all Singapore Citizens. Place right fist over the heart when taking the Pledge.
 2.  Wear the prescribed school uniform in school and during all school activities. Modification to the school uniform is not allowed.
 3.  Be neat in appearance. For girls, hair is to be kept neat and tidy. For boys, hair should be short, neat and well-combed. Moustache, beard and long sideburns are not permitted.
