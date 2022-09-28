@@ -56,4 +56,3 @@ Ms Charmaine Chee Hsieh Mei, Senior Counsellor
 
 
 
-SEN Officers provide support to students in need of additional support in their learning and/ or behavior.
