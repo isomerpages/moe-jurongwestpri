@@ -28,28 +28,4 @@ The four main ICT outcomes for the department are:
 
 | Senior Teacher |
 | --- |
-| Mdm Sopianti Bt Abdullah  |<br>
- 
- 
-| Members |
-| --- |
-| Ms Loo Pei Ling Geraldine  
-| Ms Loke Jye Jiun  
-| Mdm Noorwanie Binte Buang  
-| Ms Jamie Gu Jiazhen  
-| Mrs Seng-Liu Hongping  
-| Mdm Siti Nafisah Binte Sharif 
-| Mrs Lalitha Chandrashekaran   
-| Ms Nuraznita Binte Juke   
-| Mdm Norliah Binte Abdul Latif  
-| Ms Siti Noraisha Binte Mohd Senin 
-| Ms Loo Yie Yeng
-| Mdm Eliza Lim Pei Lin    
-| Mdm Phang Kee Mee
-| Ms Seah Hui Yan  
-| Ms Chew You Mei Yvonne
-| Mdm Chan Qing Yue 
-| Mdm Tan Le-Shon
-| Miss Val Tan Yan Kai 
-| Ms Tan Kai Lin    
-| Mr Eugen Lim
+| Mdm Sopianti Bt Abdullah
