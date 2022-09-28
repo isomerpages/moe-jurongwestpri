@@ -26,9 +26,6 @@ Our goals:
 |  Miss Jamie Gu Jiazhen  |<br>
   
 
-| Subject Head (Aesthetics) - Covering |
-| --- |
-| \- |<br>
 
 | Senior Teacher |
 | --- |
