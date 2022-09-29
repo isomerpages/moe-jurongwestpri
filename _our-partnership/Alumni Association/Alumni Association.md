@@ -45,6 +45,4 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
 | Mr Bryson Lam<br>Mr Irwin Hafiz<br>Ms Soh Xian<br>Mr Low Suan Peng |
 
 
-
-
-<p style="text-align: center;"><a href="/files/JWPS%20Family/Constitution%20of%20JWPS%20Alumni%20Association.pdf" target = "_blank">Constitution of JWPS Alumni Association</a></p>
+[Constitution of JWPS Alumni Association](/files/Alumni/Constitution%20of%20JWPS%20Alumni%20Association.pdf)
