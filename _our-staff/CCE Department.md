@@ -29,3 +29,7 @@ Moving forward, we will be tweaking our existing programmes to achieve the **CC
 | --- |
 | Mr Png Kuan Meng Alphonsus |
 | Mdm Siti Abesah Bte Md Yusof |<br>
+
+For more information about CCE programmes and activities in JWPS:
+
+[CCE Programmes](/CCEprog)
