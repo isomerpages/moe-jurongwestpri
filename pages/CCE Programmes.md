@@ -71,17 +71,17 @@ In JWPS, we have these awards to recognise students.
 
 
 
-a)    Edusave Character Award (ECHA) (National Award)
+a)    **Edusave Character Award** (ECHA) (National Award)
 
 Outstanding JWPS students will be nominated by their peers and teachers for this award in Term 3. The nominated students will go through a rigorous selection process before they are qualified for award.
 
  
 
-b)    The THInKER Award (Internal Award)
+b)    **The THInKER Award** (Internal Award)
 
 The THInKER Award is one of our internal platform whereby the school affirms our students of their good character. Form teachers are required to nominate two students semestrally for this award. Winners will receive a collar badge and a certificate.
 
-National Education (NE) Commemorative Events
+**National Education (NE) Commemorative Events
 
 
 
@@ -92,7 +92,7 @@ It is also infused in the school's CCE curriculum and programmes through the com
 
 
 
-Total Defence Day (TDD)
+**Total Defence Day (TDD)
 
 Total Defence was introduced in Singapore in 1984 and is commemorated on 15 February every year. It marks the fall of Singapore to the Japanese in 1942. The commemoration of TDD seeks to remind people of the sufferings endured by our forefathers during the Japanese Occupation and reflect on how Total Defence remains our best all-round response to threats and challenges that confront Singapore. They also reflect on the continuing relevance of the 6 Total Defence Pillars and the core message of every Singaporean standing together, with each playing our part to protect Singapore and our shared way of life. 
 
