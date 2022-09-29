@@ -60,3 +60,6 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 | SEN Officer | Mr Zul Afiq Bin Zuhri  |
 
 
+For more information about Student Support:
+
+
