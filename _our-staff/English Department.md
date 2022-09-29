@@ -28,4 +28,6 @@ The English Department aims to equip our students with the skills to speak, read
 | Mdm Margaret Lim
 
 
+For more information about the English programmes and activities in JWPS:
+
 [English programmes and activities](/ELprogram)
