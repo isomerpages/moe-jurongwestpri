@@ -25,4 +25,7 @@ The English Department aims to equip our students with the skills to speak, read
 | Senior Teacher |
 | --- |
 | Mdm Beena D/O Prabhakaran
-| Mdm Margaret Lim  
+| Mdm Margaret Lim
+
+
+[English programmes and activities](/ELprogram)
