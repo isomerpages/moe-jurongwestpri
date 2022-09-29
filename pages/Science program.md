@@ -41,5 +41,4 @@ Throughout a student's journey in Science from Primary 3 to 6, he/she will condu
 | Primary 3     | Boat-making and observing the life cycle of a butterfly or beetle     | 
 | Primary 4     | Using of data loggers to measure temperature and intensity of light     | 
 | Primary 5     | Making of plant and animal cell models     | 
-| Primary 6     | Investigative experiments on the conversion of energy     | 
-
+| Primary 6     | Investigative experiments on the conversion of energy     |
