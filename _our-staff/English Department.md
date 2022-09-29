@@ -26,4 +26,3 @@ The English Department aims to equip our students with the skills to speak, read
 | --- |
 | Mdm Beena D/O Prabhakaran
 | Mdm Margaret Lim  
-| Mdm K Sunitha
