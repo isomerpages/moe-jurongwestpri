@@ -123,3 +123,16 @@ Main Characteristics
 |  Disorganised and lose things |  Difficulty in waiting for turn in tasks  |  Fidgeting in their seat or playing with items |
 |  Fail to pay close attention to details or make careless mistake  |  Often act before thinking |   Always ‘on the go’ |
 
+
+Strategies
+
+*  Providing positive and timely feedback and praise
+*  Providing organization and structure environment
+*  Be clear and firm in rules
+*  Have a fixed schedule/certain way that tasks unfold
+*  Divide big assignments/tasks into manageable chunks
+*  Curbing distractibility (Seating)
+*  Helping them to follow instructions and directions
+*  Engaging multiple senses
+*  Helping child to self-monitor
+*  Carrying out discipline
