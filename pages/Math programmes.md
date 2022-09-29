@@ -3,27 +3,31 @@ title: Math programmes
 permalink: /Mathprogram/
 description: ""
 ---
-NFUSING GAMES AND ACTIVITIES IN OUR MATH LESSONS
+##### INFUSING GAMES AND ACTIVITIES IN OUR MATH LESSONS
 
-Games Infusion<br>
+**Games Infusion<br>
 
 The department believes in using games and hands-on activities to engage our students in the process of active learning. As part of the school’s effort to create a conducive learning environment for all students, our teachers have been incorporating hands-on activities using Math manipulatives in the delivery of our lessons. The use of simple and colourful manipulatives such as Play Money, Fraction discs, interlocking cubes etc, promotes students’ engagement and participation in the learning process. Opportunities are provided for students to discover, process and apply new information to make their learning authentic.
 
-Math Games Week<br>
+**Math Games Week<br>
 
 In Term 3, our students are provided with a platform to play competitively against their peers in the annual Math Games Week. Games such as Numero, Math Warrior and Fun with Tangrams provide a meaningful situation for the application of Mathematical skills. Through games, students are motivated to participate and enjoy playing. In the process, students build their confidence and develop positive attitudes towards Mathematics, reducing the fear of failures and errors.
 
-WIRELESS EXPERIENTIAL LEARNING
+##### WIRELESS EXPERIENTIAL LEARNING
 
-Bringing Authentic Context to Learning<br>
+**Bringing Authentic Context to Learning<br>
 
-In line with the department's beliefs of using hands-on activities to engage our students in the process of active learning, every Primary 4 student will have the opportunity to participate in Wireless Experiential Learning. Students will work in groups and solve problems in a real-world context and learn to explore mathematical ideas in depth. The activity aims to help students make meaningful connections between their learning and the real world, use technology to help them in their problem-solving and, most importantly, find joy in the learning of Mathematics.
+In line with the department's beliefs of using hands-on activities to engage our students in the process of active learning, every Primary 4 student will have the opportunity to participate in Wireless Experiential Learning. <br>
 
-FUNDAMATICS
+Students will work in groups and solve problems in a real-world context and learn to explore mathematical ideas in depth. The activity aims to help students make meaningful connections between their learning and the real world, use technology to help them in their problem-solving and, most importantly, find joy in the learning of Mathematics.
 
-Strengthening the Fundamentals by Having Fun with Mathematics<br>
+##### FUNDAMATICS
 
-As part of the school's initiative of implementing an active recess, the Mathematics Department has introduced an activity named FUNdamatics. FUNdamatics provides another channel for pupils to be actively and meaningfully occupied during recess through playing mathematical and logical games. The main objective of this activity is to instill fun in the process of our students' learning through the use of mathematical and logical games. The games have been carefully curated with the aim of improving students’ mathematical factual fluency. Also, our teachers hope to cultivate in students a greatest interest and love for the subject.
+**Strengthening the Fundamentals by Having Fun with Mathematics<br>
+
+As part of the school's initiative of implementing an active recess, the Mathematics Department has introduced an activity named FUNdamatics. <br>
+
+FUNdamatics provides another channel for students to be actively and meaningfully occupied during recess through playing mathematical and logical games. The main objective of this activity is to instill fun in the process of our students' learning through the use of mathematical and logical games. The games have been carefully curated with the aim of improving students’ mathematical factual fluency. Also, our teachers hope to cultivate in students a greatest interest and love for the subject.
 
 MATH OLYMPIAD
 
