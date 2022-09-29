@@ -17,6 +17,11 @@ The school believes that Form Teachers play a critical role in shaping the devel
 
 FTGP is conducted from 8.00 a.m. to 8.30 a.m. every Friday for all students. During FTGP, Form Teachers provide quality interaction time. In addition to that, Form teachers equip students with social and emotional (SEL) competencies and the school THInKER values.  Mandatory lessons on Cyber Wellness, Education and Career Guidance (ECG) as well as Sexuality Education (for Primary 5 and 6) also form part of the FTGP lessons.
 
- 
-
 The school includes Zippy Friends programme into its FTGP lesson for the Lower Primary to help them manage the transition from preschool to primary schools and to equip them with practical socio-emotional skills. This is an evidence-based programme by the Health Promotion Board and supported by Ministry of Education Guidance Branch. The students learn 12 topics. The topics include: feelings, communication, friendship, conflict resolution, problem-solving, bullying, change and loss, and adapting to new situations.
+
+
+Assembly Period
+
+The school leverages on weekly Assembly period to inculcate values and instil citizenship in our students. Weekly Assembly programme takes place every Friday from 7.30 a.m. – 8.00 a.m.
+
+During Assembly, a variety of sharing sessions by our teachers, our alumni and external vendors are put together for our students. The highlight of the assembly programme would be the THInKER Values Talk by School Leaders. School leaders actively role model the inculcation of CCE by sharing stories related to the THInKER values, as well as the importance of having good character and sound moral values.
