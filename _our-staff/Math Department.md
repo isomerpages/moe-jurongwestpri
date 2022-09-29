@@ -29,4 +29,6 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 | --- |
 | Mdm Hoon Mee Ling Jessie
 
+For more information about the Mathematics programmes and activities in JWPS:
+
 [Math programmes and activities](/Mathprogram)
