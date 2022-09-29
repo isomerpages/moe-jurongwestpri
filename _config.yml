@@ -1,8 +1,8 @@
 title: Jurong West Primary School
-url: ""
+url: https://jurongwestpri.moe.edu.sg
 favicon: /images/logo.svg
 colors:
-  primary-color: "#d8c916"
+  primary-color: "#ffffff"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
