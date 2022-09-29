@@ -19,3 +19,8 @@ P4 - Embracing Diversity<br>
 
 * To appreciate other races and their cultures.
 * To create PowerPoint slides to promote an ethnic place.
+
+P5 - To Lead is to Serve<br>
+
+* To  learn about the life of a war hero.
+* To create a storyboard based on the life / contributions of a historical war hero
