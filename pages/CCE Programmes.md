@@ -86,7 +86,7 @@ The THInKER Award is one of our internal platform whereby the school affirms our
 
 
 National Education will be anchored on the following citizenship dispositions, which enable our young to realise their part in the flourishing community and nation:
-
+![](/images/CCE%20Front.png)
 
 It is also infused in the school's CCE curriculum and programmes through the commemoration of the four core NE events namely Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. Through these events, students gain appreciation of our multi-racial and multi-religious society. Students understand how they can play a part and defend Singapore in their own little ways. This will then strengthen the Singapore spirit.  
 
