@@ -29,20 +29,3 @@ Moving forward, we will be tweaking our existing programmes to achieve the **CC
 | --- |
 | Mr Png Kuan Meng Alphonsus |
 | Mdm Siti Abesah Bte Md Yusof |<br>
-
-
-
-| CCE Level Representatives   |
-| --- |
-| Ms Nuraznita Binte Juke
-| Mrs Foong - Cindy Sim Lee Choo  
-| Mdm Noorwanie Binte Buang 
-| Ms Adriana
-| Mr Muhammad Ali B Abdul Aziz
-| Mrs George Sudha
-| Ms Eng Yew Soo
-| Mdm Sakuntala D/O Kandasamy  
-| Miss Siti Nur Syahirah Bte Rahamat  
-| Mdm Tan Le-Shon
-| Mdm Eliza Lim Pei Lin
-| Mrs Nai-Ong Bee Cheng Vivienne
