@@ -5,6 +5,7 @@ description: ""
 ---
 ##### PAL@JWPS
 ![](/images/PAL.jpg)
+
 **What is PAL?
 
 PAL stands for Programme for Active Learning. It consists of modules of activities in the two broad areas, Sports and Outdoor Education, and Performing Arts (Music and Dance) and Visual Arts, which are carried out within the curriculum time.
