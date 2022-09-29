@@ -43,7 +43,12 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 | Senior School Counsellor  | Ms Charmaine Chee Hsieh Mei  |
 
 
+#### Senior Teacher SEN
 
+
+|  |  |
+| ---| --- |
+|  ST SEN  | Ms K Sunitha |
 
 #### SEN Officers
 
