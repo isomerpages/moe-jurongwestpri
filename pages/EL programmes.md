@@ -29,8 +29,11 @@ Through DST, the school hopes to enhance competencies across many domains, and e
 
 ##### ENGLISH STUDENT LEADERS
 
-Developing Leadership Potential
-At the start of the school year, English Leaders will go through a short training on their roles and responsibilities. English Leaders are the first-line support to their English teacher. They will help to collect homework and assist in any English-related activities. This year, the leaders had the opportunity to present stories and grammar items to their classmates weekly. This provided a platform for the leaders to share their newfound grammar knowledge. By presenting in front of their peers, the leaders also developed greater confidence and knowledge of grammar items. Primary 5 and Primary 6 leaders took it one step further and shared moral stories with Primary 1 and 2 students.
+****Developing Leadership Potential<br>
+
+At the start of the school year, English Leaders will go through a short training on their roles and responsibilities. <br>
+English Leaders are the first-line support to their English teacher. They will help to collect homework and assist in any English-related activities. The leaders had the opportunity to present stories and grammar items to their classmates weekly. This provided a platform for the leaders to share their newfound grammar knowledge. By presenting in front of their peers, the leaders also developed greater confidence and knowledge of grammar items. <br>
+Primary 5 and Primary 6 leaders took it one step further and shared moral stories with Primary 1 and 2 students.
 
 
 ##### LEARNING SUPPORT PROGRAMME (LSP)
