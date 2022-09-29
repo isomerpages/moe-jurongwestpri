@@ -45,7 +45,23 @@ The school leverages the Head-Hands-Heart approach in championing its VIA effort
 
 **Interdisciplinary Project Work (IPW)
 
-The school leverage on IPW to develop character and citizenship education in an  integrated  manner. Students participate in different activities as they complete projects that focus on themes like Healthy Living (P3) and Embracing Diversity (P4). IPW also provides an excellent platform for students to work effectively in teams.  All students were given opportunities to share or present their work to either their own classmates or students from other levels.  This is another platform that the school provides for them to be Confident Speakers.
+The school leverage on IPW to develop character and citizenship education in an  integrated  manner. Students participate in different activities as they complete projects that focus on themes like Healthy Living (P3) and Embracing Diversity (P4).<br>
+IPW also provides an excellent platform for students to work effectively in teams.  All students were given opportunities to share or present their work to either their own classmates or students from other levels.  This is another platform that the school provides for them to be Confident Speakers.
+
+**P3 - Healthy Living<br>
+
+* To learn about healthy food choices.
+* To create a recipe promoting healthy sandwiches
+
+**P4 - Embracing Diversity<br>
+
+* To appreciate other races and their cultures.
+* To create PowerPoint slides to promote an ethnic place.
+
+**P5 - To Lead is to Serve<br>
+
+* To  learn about the life of a war hero.
+* To create a storyboard based on the life / contributions of a historical war hero
 
 **Student Recognition Awards
 
