@@ -40,3 +40,5 @@ For more information about PAM programmes and activities in JWPS:
 [Art programmes](/Artprog)
 
 [Music programmes](/Musicprog)
+
+[PAL programmes](/PALprog)
