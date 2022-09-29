@@ -48,7 +48,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 |  |  |
 | ---| --- |
-|  ST SEN  | Ms K Sunitha |
+|  ST SEN  | Mdm K Sunitha |
 
 #### SEN Officers
 
