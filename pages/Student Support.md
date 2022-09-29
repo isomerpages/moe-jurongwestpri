@@ -10,14 +10,11 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 #### Student Development Team
 
-| Head of Department |
-| --- |
-| Ms Tay Siew Hwee  
-
 
 
 |  |  | 
 | -------- | -------- | 
+| HOD Student Management | Ms Tay Siew Hwee |
 | Year Head (Upper Block)     | Mrs Sophia Ow Yong     |
 | Year Head (Middle Block)     | Ms Wai Lai May     |
 | Year Head (Lower Block)     | Ms Lau Chin Yong     |
