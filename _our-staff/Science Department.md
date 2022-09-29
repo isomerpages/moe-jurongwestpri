@@ -24,6 +24,6 @@ The Science Department aims to develop inquiring learners who are able to use hi
 | Mrs Seng-Liu Hongping
 
 
-For more information about the Science programmes and activities in JWPS:
+For more information about Science programmes and activities in JWPS:
 
 [Science programmes and activities](/SCprogram)
