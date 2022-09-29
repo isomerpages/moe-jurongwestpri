@@ -36,7 +36,7 @@ Primary 5 Cyber Wellness Student Ambassadors presented an assembly talk on sever
  
 Cyber Wellness STudent Ambassadors (STAR)
 
-The Cyber Wellness Student Ambassadors shared that they found the showcase to be a very fruitful experience and they had fun sharing their ideas with other people. They also gained plenty of insight into the topic of Cyber Wellness. They planned to apply their newfound knowledge to build on the plans that they initially had and they also intended to work on new ideas to continue raising awareness for Cyber Wellness among JWPS students.
+Cyber Wellness Student Ambassadors help to  raise awareness for Cyber Wellness among JWPS students.
 
 
 HELPING YOUR CHILD STAY SAFE ONLINE
