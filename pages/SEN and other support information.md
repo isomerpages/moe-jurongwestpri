@@ -56,3 +56,30 @@ Implement the correct level of prompt
 Need Time to respond
 
 Engage and Disengage
+
+
+Dyslexia
+
+What is Dyslexia?
+
+* Is a condition that makes it very difficult for children to read, write and/or spell
+* Often, weaknesses may be seen in areas such as of language development, memory and sequencing
+* Having dyslexia does not mean that your child’s ability to learn is below average
+* Biological / genetic
+* A difference in the part of the brain that deals with language
+* Brain processes information differently
+* Continues throughout life
+* Unlikely that a student will “suddenly” develop dyslexia
+* Cannot be cured but symptoms can be reduced
+* NOT due to bad parenting / teaching
+
+
+
+
+|  |  |
+| -------- | -------- | 
+| **Dyspraxia**     | **Impairment/immaturity of organization of movement**     | 
+|  **Dysgraphia** |  **Immature fine motor skills development** |
+|  **Dyscalculia** |  **Impairment of ability to solve mathematical problems** |
+
+
