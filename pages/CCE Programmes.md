@@ -25,3 +25,17 @@ Assembly Period
 The school leverages on weekly Assembly period to inculcate values and instil citizenship in our students. Weekly Assembly programme takes place every Friday from 7.30 a.m. – 8.00 a.m.
 
 During Assembly, a variety of sharing sessions by our teachers, our alumni and external vendors are put together for our students. The highlight of the assembly programme would be the THInKER Values Talk by School Leaders. School leaders actively role model the inculcation of CCE by sharing stories related to the THInKER values, as well as the importance of having good character and sound moral values.
+
+CCE (MTL) Lessons
+
+CCE lessons in the Primary school are taught in Mother Tongue language. It focus on the inculcation of the 3RICH values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) through fun and meaningful activities. Through activities like story-telling, groupwork, role-playing and reflection, students learn to cultivate good social and communication sklls. These skills enable them to promote harmony and social cohesion in a multiracial and multi-religious society.
+
+ 
+
+Values In Action (VIA)
+
+The school believes that community involvement allows students to be active contributors as well as concerned citizens in Singapore. VIA is an important component of Character and Citizenship Education Education. It promotes active citizenry by involving students in meaningful and engaging activities planned by the school.
+
+ 
+
+The school leverages the Head-Hands-Heart approach in championing its VIA effort. The school is mindful of the SE competencies which it seeks to engender through VIA. Keeping in mind age-activity compatibility, the VIA effort follows a progressive continuum from serving self, serving school, serving the community to serving the nation. Our We planned a variety of VIA programmes and collaborated with the departments in our school to provide opportunities for students to learn. 
