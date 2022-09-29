@@ -34,4 +34,4 @@ For more information about ICT programmes and activities in JWPS:
 
 [ICT programmes](/ICTprog)
 
-[Cyber Wellness](/Cyberwellness)
+[Cyber Wellness](/cyberwellness)
