@@ -93,3 +93,33 @@ What is Dyslexia?
 | Words/phrases may be foreshadowed/telescoped     | Misunderstanding the meaning of words that are within capacity of age range     | Difficulties with sequencing     |  Reverses/mirrors letters, punctuation marks |
 | Confusion whether there should be one or two words     | Difficulty with the rhythm of words, getting syllables in the wrong place     | Confusion in processing requests / informatio     |  Letters may be correct but in the wrong order |
 
+
+Strategies
+
+* Multi-sensory teaching
+* Differentiated Instructions
+* Over –learning is essential
+* Visual prompts
+* Provide  breaks
+* Teach organisational skills
+* Praise everything that deserve praise no matter how small (promote their strengths not their weaknesses)
+
+
+Attention Deficit Hyperactivity Disorder
+
+What is ADHD?
+
+* Neuro developmental disorder caused by chemical imbalances in the brain
+* Affects more boys than girls
+* Often wrongly branded as being lazy, naughty, disruptive and mischievous
+* Only exhibit inattentiveness and impulsivity behaviour- Attention Deficit Disorder (ADD)
+
+
+Main Characteristics
+
+| Inattentiveness  |  Impulsiveness  |  Hyperactivity  |
+| -------- | -------- | -------- |
+| Difficulty sustaining attention     | Blurting out answers before question have been completed     | Cannot sit still or remain seated as expected     |
+|  Disorganised and lose things |  Difficulty in waiting for turn in tasks  |  Fidgeting in their seat or playing with items |
+|  Fail to pay close attention to details or make careless mistake  |  Often act before thinking |   Always ‘on the go’ |
+
