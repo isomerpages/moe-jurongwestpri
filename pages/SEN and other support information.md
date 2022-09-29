@@ -83,3 +83,13 @@ What is Dyslexia?
 |  **Dyscalculia** |  **Impairment of ability to solve mathematical problems** |
 
 
+**Characteristics of Dyslexia**
+
+
+
+| |  |  | |
+| -------- | -------- | -------- |---|
+| Mispronunciation of words     | Confusion over similar sounding words     | Problems comprehending prepositions / connectives, information that require spatial conceptualisation     | Outline/shape of word is similar to correct word but some letters are confused  |
+| Words/phrases may be foreshadowed/telescoped     | Misunderstanding the meaning of words that are within capacity of age range     | Difficulties with sequencing     |  Reverses/mirrors letters, punctuation marks |
+| Confusion whether there should be one or two words     | Difficulty with the rhythm of words, getting syllables in the wrong place     | Confusion in processing requests / informatio     |  Letters may be correct but in the wrong order |
+
