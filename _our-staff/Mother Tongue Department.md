@@ -22,10 +22,5 @@ description: ""
 
 | Senior Teacher |
 | --- |
-| Mdm Foo Meng Leng
 | Mrs Ramachandran P
-| Mdm Suriati Bte Samuri
-| Mdm Sopianti Bt Abdullah  
-| Mdm Siti Abesah Bte Md Yusof  
-| Mdm Toh Lay Har  
-| Mdm Norliah Binte Abdul Latif
+| Mdm Sopianti Bte Abdullah 
