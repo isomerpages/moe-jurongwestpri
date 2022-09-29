@@ -31,3 +31,6 @@ Our goals:
 | --- |
 | Mdm Suriati Bte Samuri  
 | Ms Chia Gek Lan Jean
+
+
+For more information about PAM programmes and activities in JWPS:
