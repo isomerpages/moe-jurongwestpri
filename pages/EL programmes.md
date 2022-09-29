@@ -3,14 +3,14 @@ title: EL programmes
 permalink: /ELprogram/
 description: ""
 ---
-APPLIED LEARNING PROGRAMME (ALP)
+##### APPLIED LEARNING PROGRAMME (ALP)
 
-Art of Communication for Personal Excellence
+****Art of Communication for Personal Excellence
 
 
 The school believes in the potential of ALP to help it realise its school mission and vision. The school is cognisant of the growing demands and expectations of having students who are future ready and well anchored on sound moral values. As such, ALP is poised to bring about these two aspects which are also incidentally encapsulated in our mission statement.
 
-Outcomes of ALP
+****Outcomes of ALP
 
 * To reaise confident communicators and creative individuals who are well anchored on the school core values and capable to lead self and others; and
 * To ensure the pervasiveness and sustainability of ALP via infusion into the school-based curriculum, namely PAL, NE and IPW.
@@ -18,26 +18,28 @@ Outcomes of ALP
 In line with the GiFT approach in student development, the school has been very focused and comprehensive in its first tier of General student development via ALP. In the area of Focused Training, the school will further streamline its processes in identifying the potential students for Tier 2 development. In the case of Talent management, the school will be looking at possible platforms for the students to be further stretched in their potential via school ambassadorship.
 
 
-DIGITAL STORYTELLING (DST)
+##### DIGITAL STORYTELLING (DST)
 
-Alignment with the MOE English Syllabus<br>
+****Alignment with the MOE English Syllabus<br>
 
 DST was launched in response to the fast-changing and multi-faceted way of learning in the educational landscape. The programme was aligned to the school’s vision and mission and ICT was employed extensively. To quote Michael Fullen, “Pedagogy is the driver. Technology is the accelerator." We hope to deepen and enhance the writing processes of the students, as well as make writing a pleasurable experience for them. DST is not an add-on. Instead, it is meant as a complement to the school's STELLAR writing programme in alignment with the MOE English Syllabus.
 
 Through DST, the school hopes to enhance competencies across many domains, and expose teachers and students to the possibilities of using Web2.0 tools for teaching and learning. A number of teaching periods were allocated to DST in the Primary 3 English curriculum. Through DST, our students learnt to use tools such as Google Slides, Google Documents, Linoit and PowerPoint to write and share about their experiences. As a form of self-directed learning, students were taught features of recount writing and encouraged to create their own digital stories.
 
 
-ENGLISH STUDENT LEADERS
+##### ENGLISH STUDENT LEADERS
 
 Developing Leadership Potential
 At the start of the school year, English Leaders will go through a short training on their roles and responsibilities. English Leaders are the first-line support to their English teacher. They will help to collect homework and assist in any English-related activities. This year, the leaders had the opportunity to present stories and grammar items to their classmates weekly. This provided a platform for the leaders to share their newfound grammar knowledge. By presenting in front of their peers, the leaders also developed greater confidence and knowledge of grammar items. Primary 5 and Primary 6 leaders took it one step further and shared moral stories with Primary 1 and 2 students.
 
 
-LEARNING SUPPORT PROGRAMME (LSP)
+##### LEARNING SUPPORT PROGRAMME (LSP)
 
-Early Literacy Intervention for Primary 1 and 2 Students<br>
+****Early Literacy Intervention for Primary 1 and 2 Students<br>
 
-LSP is an early literacy intervention programme which aims to provide learning support to Primary 1 and 2 students who have weak language, reading and spelling skills. They are identified for this programme through the Early Literacy Indicators Test which is administered at the beginning of Primary 1. The students are taught by the LSCs, Mrs Margaret Tan and Mrs Farihin, in groups of ten for one period every day. The curriculum includes the teaching of phonemic awareness, phonics, vocabulary, reading and spelling skills. The students are given much support and encouragement and are taught in a conducive and well-decorated classroom. At the end of the year, students who meet the twin-discharge criteria, namely age-appropriate reading age and a pass in overall English Language, are discharged from the programme. They are awarded certificates of achievement for attaining a pass in the English Language and making progress in their reading.
+LSP is an early literacy intervention programme which aims to provide learning support to Primary 1 and 2 students who have weak language, reading and spelling skills.<br>
+They are identified for this programme through the Early Literacy Indicators Test which is administered at the beginning of Primary 1. The students are taught in groups of ten for one period every day. The curriculum includes the teaching of phonemic awareness, phonics, vocabulary, reading and spelling skills. The students are given much support and encouragement and are taught in a conducive and well-decorated classroom.<br>
+At the end of the year, students who meet the twin-discharge criteria, namely age-appropriate reading age and a pass in overall English Language, are discharged from the programme. They are awarded certificates of achievement for attaining a pass in the English Language and making progress in their reading.
 
 Learning Support Games Day<br>
 
