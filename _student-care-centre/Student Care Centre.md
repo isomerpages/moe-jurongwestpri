@@ -3,7 +3,7 @@ title: Student Care Centre
 permalink: /student-care-centre/
 description: ""
 ---
-A dedicated air-con student care centre with a capacity of 60 students is located within Jurong West Primary School. 
+A dedicated air-con student care centre with a capacity for 60 students is located within Jurong West Primary School. 
 
 The SCC is set up to provide:
 
