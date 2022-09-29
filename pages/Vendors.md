@@ -12,7 +12,7 @@ Lunch Break: 12.00 p.m - 1.00 p.m
 #### Dental Clinic
 
 Health Promotion Board<br>
-Tel: 67919700<br>
+
 HP: 9114 8995<br>
 
 The dental nurse will work with the teachers to conduct routine dental checks for your child throughout the year (they will start with the upper primary students). There is no need for you to call the dental clinic to book appointment for such routine checks.<br>
