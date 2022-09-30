@@ -100,10 +100,10 @@ Total Defence was introduced in Singapore in 1984 and is commemorated on 15 Febr
 
 International Friendship Day falls on the 3rd Friday of Term 2. It provides students the opportunity to explore Singapore’s connection to the region and the world. We commemorate International Friendship Day for our students to reflect on the importance to Singapore of:
 
-an active foreign policy to maintain our international space and good relations with neighbouring countries
-openness to the international flow of trade, ideas and talent
-cross-cultural skills and a global orientation
-mutual respect and understanding to maintain social cohesion in our multicultural society
+* an active foreign policy to maintain our international space and good relations with neighbouring countries
+* openness to the international flow of trade, ideas and talent
+* cross-cultural skills and a global orientation
+* mutual respect and understanding to maintain social cohesion in our multicultural society
 
 
 Besides, it allows us to understand the importance of our ASEAN Identity.
