@@ -4,14 +4,14 @@ permalink: /vendors/
 description: ""
 ---
 #### Bookshop
-Pacific Bookstore<br>
+**Pacific Bookstore**<br>
 Tel: 9048 1145<br>
 Opening Hours: Mondays to Fridays, 9.00 am - 4.00 pm<br>
 Lunch Break: 12.00 p.m - 1.00 p.m
 
 #### Dental Clinic
 
-Health Promotion Board<br>
+**Health Promotion Board**<br>
 
 HP: 9114 8995<br>
 
@@ -26,13 +26,13 @@ For emergency dental treatment, you can call HPB Dental at 6435 3782.
 
 #### Insurance
 
-NTUC Income
+**NTUC Income**
 
 Tel: 6346 2663
 
 #### School Bus
 
-JK59 Pte Ltd<br>
+**JK59 Pte Ltd**<br>
 Tel: 6465 5959<br>
 Fax: 6466 5959<br>
 Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139
@@ -41,7 +41,7 @@ Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139
 
 #### School Uniform
 
-Yang Tze Kiang Tailor  
+**Yang Tze Kiang Tailor**  
  
 Tel: 6769 1260
  
