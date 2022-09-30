@@ -117,3 +117,5 @@ On this day, we learn that people should be treated equally regardless of their 
 **National Day**
 
 9 August marks our separation from Malaysia in 1965 and our emergence as an independent country in a community of nations. Since 1998, schools have held an observance ceremony for students to have a greater sense of the historical importance and solemnity of National Day. Singaporean celebrates this day with flags lining the buildings, patriotic songs pervades the airwaves, people kitted out in red and white, and of course, the National Day Parade (NDP).
+
+![](/images/NDP.jpg)
