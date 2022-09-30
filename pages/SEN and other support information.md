@@ -3,6 +3,8 @@ title: SEN and other support information
 permalink: /SENinfo/
 description: ""
 ---
+##### Strategies Adopted in JWPS to Support Students
+
 * Collaboration with MOE Educational Psychologist, Psychologist/ Therapists in Hospital and Sped School.
 * Consultation to teachers to facilitate better understanding of the students’ needs and how to support them.
 * Co-ordination and contribution to case conferences in schools. (Case Management Team)
@@ -14,9 +16,9 @@ description: ""
 * Provision of feedback to parents on the needs and progress of the special needs students.
 
 
-Autism
+##### Autism
 
-What is Autism?
+**What is Autism?**
 
 * Brain processes information differently or think differently
 * Delay in meeting developmental milestones
@@ -26,7 +28,7 @@ What is Autism?
 * As the person with ASD grows, the nature and intensity of the behaviour may change
 
 
-Core Characteristics
+**Core Characteristics**
 
 
 
@@ -37,7 +39,7 @@ Core Characteristics
 |  Unable to understand other’s feelings | Use and understanding of language tend to be literal; unable to initiate and engage in a conversation  |  |
 
 
-Other Characteristics
+**Other Characteristics**
 
 *   Sensory
 *   Medical
@@ -45,7 +47,7 @@ Other Characteristics
 *   Special Talents
  
 
-Strategies
+**Strategies**
 
 Simplify your language (Low, Slow and Show)
 
@@ -58,9 +60,9 @@ Need Time to respond
 Engage and Disengage
 
 
-Dyslexia
+##### Dyslexia
 
-What is Dyslexia?
+**What is Dyslexia?**
 
 * Is a condition that makes it very difficult for children to read, write and/or spell
 * Often, weaknesses may be seen in areas such as of language development, memory and sequencing
@@ -78,9 +80,9 @@ What is Dyslexia?
 
 |  |  |
 | -------- | -------- | 
-| **Dyspraxia**     | **Impairment/immaturity of organization of movement**     | 
-|  **Dysgraphia** |  **Immature fine motor skills development** |
-|  **Dyscalculia** |  **Impairment of ability to solve mathematical problems** |
+| Dyspraxia     | Impairment/immaturity of organization of movement     | 
+|  Dysgraphia |  Immature fine motor skills development |
+|  Dyscalculia |  Impairment of ability to solve mathematical problems |**
 
 
 **Characteristics of Dyslexia**
@@ -94,7 +96,7 @@ What is Dyslexia?
 | Confusion whether there should be one or two words     | Difficulty with the rhythm of words, getting syllables in the wrong place     | Confusion in processing requests / informatio     |  Letters may be correct but in the wrong order |
 
 
-Strategies
+**Strategies**
 
 * Multi-sensory teaching
 * Differentiated Instructions
@@ -105,9 +107,9 @@ Strategies
 * Praise everything that deserve praise no matter how small (promote their strengths not their weaknesses)
 
 
-Attention Deficit Hyperactivity Disorder
+##### Attention Deficit Hyperactivity Disorder
 
-What is ADHD?
+**What is ADHD?**
 
 * Neuro developmental disorder caused by chemical imbalances in the brain
 * Affects more boys than girls
@@ -115,7 +117,7 @@ What is ADHD?
 * Only exhibit inattentiveness and impulsivity behaviour- Attention Deficit Disorder (ADD)
 
 
-Main Characteristics
+**Main Characteristics**
 
 | Inattentiveness  |  Impulsiveness  |  Hyperactivity  |
 | -------- | -------- | -------- |
@@ -124,7 +126,7 @@ Main Characteristics
 |  Fail to pay close attention to details or make careless mistake  |  Often act before thinking |   Always ‘on the go’ |
 
 
-Strategies
+**Strategies**
 
 *  Providing positive and timely feedback and praise
 *  Providing organization and structure environment
