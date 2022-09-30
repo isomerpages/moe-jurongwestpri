@@ -25,17 +25,6 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 
 
-#### Learning Support
-
-| LSP, SDR and ICAN Team |
-| --- |
-| Mrs Margaret Lim, LSP (English) 
-| Mdm Francis Irene, LSP (English)
-| Ms Norlia Bte Safi'ee, LSM (Math)
-| Mr Muhammad Ali B Abdul Aziz, LSM (Math)
-
-
-
 ### Counsellor
 
 |  |  |
@@ -48,6 +37,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 |  |  |
 | ---| --- |
+| ST EL | Mrs Margaret Lim  | 
 |  ST SEN  | Mdm K Sunitha |
 
 #### SEN Officers
