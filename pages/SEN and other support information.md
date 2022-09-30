@@ -3,7 +3,7 @@ title: SEN and other support information
 permalink: /SENinfo/
 description: ""
 ---
-##### Strategies Adopted in JWPS to Support Students
+##### Processes/Systems in JWPS to Support Students
 
 * Collaboration with MOE Educational Psychologist, Psychologist/ Therapists in Hospital and Sped School.
 * Consultation to teachers to facilitate better understanding of the students’ needs and how to support them.
@@ -55,12 +55,14 @@ Have Visual support for communication
 
 Implement the correct level of prompt
 
-Need Time to respond
+Give Time to respond
 
 Engage and Disengage
 
 
 ##### Dyslexia
+
+**Specific Learning Difficulties in Reading and Writing**
 
 **What is Dyslexia?**
 
@@ -77,6 +79,7 @@ Engage and Disengage
 
 
 
+**Other Specific Learning Difficulties**
 
 |  |  |
 | -------- | -------- | 
@@ -128,13 +131,13 @@ Engage and Disengage
 
 **Strategies**
 
-*  Providing positive and timely feedback and praise
-*  Providing organization and structure environment
+*  Provide positive and timely feedback and praise
+*  Provide organization and structure environment
 *  Be clear and firm in rules
 *  Have a fixed schedule/certain way that tasks unfold
 *  Divide big assignments/tasks into manageable chunks
-*  Curbing distractibility (Seating)
-*  Helping them to follow instructions and directions
-*  Engaging multiple senses
-*  Helping child to self-monitor
-*  Carrying out discipline
+*  Curb distractibility (Seating)
+*  Help them to follow instructions and directions
+*  Engage multiple senses
+*  Help child to self-monitor
+*  Carry out discipline
