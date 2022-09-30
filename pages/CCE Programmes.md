@@ -41,7 +41,7 @@ The school believes that community involvement allows students to be active cont
 
  
 
-The school leverages the Head-Hands-Heart approach in championing its VIA effort. The school is mindful of the SE competencies which it seeks to engender through VIA. Keeping in mind age-activity compatibility, the VIA effort follows a progressive continuum from serving self, serving school, serving the community to serving the nation. We planned a variety of VIA programmes and collaborated with the departments in our school to provide opportunities for students to learn.
+The school leverages the Head-Hands-Heart approach in championing its VIA effort. The school is mindful of the SE competencies which it seeks to engender through VIA. Keeping in mind age-activity compatibility, the VIA effort follows a progressive continuum from serving self, serving school, serving the community to serving the nation. We planned a variety of VIA programmes and collaborated with the community partners and departments in our school to provide opportunities for students to learn.
 
 **Interdisciplinary Project Work (IPW)**
 
