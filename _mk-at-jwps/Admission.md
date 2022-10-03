@@ -13,4 +13,4 @@ For more information about MK registration, please refer to:
 ## Waiting List application
 
 
-If you wish to enroll your child in MK@Jurong West, please submit your waiting list application via this url: [go.gov.sg/mkjwwait](http://go.gov.sg/mkjwwait)
+If you wish to enroll your child in MK@Jurong West (after the end of online registration exercise), please submit your waiting list application via this url: [go.gov.sg/mkjwwait](http://go.gov.sg/mkjwwait)
