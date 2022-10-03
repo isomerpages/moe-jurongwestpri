@@ -7,8 +7,6 @@ description: ""
 
 K1 registration through online registration exercise and is typically held in February.
 
-Online registration for the 2023 K1 admissions has closed. 
-
 For more information about MK registration, please refer to: 
 [Register for MOE Kindergarten | MOE](https://www.moe.gov.sg/preschool/moe-kindergarten/register/)
 
