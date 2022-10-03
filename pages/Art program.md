@@ -4,15 +4,6 @@ permalink: /Artprog/
 description: ""
 ---
 
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| ![](/images/SCC1.jpeg)     | ![](/images/SCC2.jpeg)     | Text     |
-
-
-
-
 JWPS Art program aims to provide students with skills, knowledge and attitudes necessary to see, express and appreciate art in their daily lives.
 
 In **seeing** art, our students observe their surrounding closely, and analyse and reflect on their visual and other experiences. The focus will be on recording and interpreting as means towards developing students’ observation and visual inquiry. Students will be equipped with tools such as drawing to capture and reflect on their observations and experiences.
