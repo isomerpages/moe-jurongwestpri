@@ -12,7 +12,7 @@ description: ""
 * Case conferences with teachers and within the Case Management team to discuss support for students
 * Capacity building sessions for teachers and workshops for parents
 * Close home-school collaboration between teachers and parents
-* Collaboration with and/ or referral to MOE Educational Psychologists, eternal agencies and hospitals, and special schools
+* Collaboration with and/ or referral to MOE Educational Psychologists, external agencies and hospitals, and special schools
 
 
 
