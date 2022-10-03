@@ -25,10 +25,6 @@ Moving forward, we will be tweaking our existing programmes to achieve the **CC
 
   
 
-| CCE Coordinators  |
-| --- |
-| Mr Png Kuan Meng Alphonsus |
-| Mdm Siti Abesah Bte Md Yusof |<br>
 
 For more information about CCE programmes and activities in JWPS:
 
