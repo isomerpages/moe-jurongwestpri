@@ -108,7 +108,7 @@ International Friendship Day falls on the 3rd Friday of Term 2. It provides stud
 ![](/images/CCE%20activities/IFD%202.jpeg) ![](/images/CCE%20activities/IFD%203.jpeg)
 Besides, it allows us to understand the importance of our ASEAN Identity.
 
-**Racial Harmony Day **
+**Racial Harmony Day**
 
 Racial Harmony Day marks the anniversary of the 1964 racial riots. It is commemorated on 21 July to celebrate Singapore as a harmonious society built on a rich diversity of cultures, requiring collaborative efforts from all to promote social cohesion and harmony.
 
