@@ -46,8 +46,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 |  |  |
 | ---| --- |
 |  Lead SEN Officer  | Ms Lim Miao Jing |
-|  SEN Officer  |  Mdm Noor Sayyidah Binte Mohammad  |
-| SEN Officer | Mr Zul Afiq Bin Zuhri  |
+
 
 
 For more information about Student Support:
