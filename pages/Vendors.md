@@ -16,7 +16,7 @@ Lunch Break: 12.00 p.m - 1.00 p.m
 HP: 9114 8995<br>
 
 The dental nurse will work with the teachers to conduct routine dental checks for your child throughout the year (they will start with the upper primary students). There is no need for you to call the dental clinic to book appointment for such routine checks.<br>
-You should only call to book appointment for your child if your child requires dental treatment (tooth ache etc). The dental clinic's number is 67919700 (only manned during dental clinic opening dates and hours). Parents cannot accompany their child to the dental clinic during curriculum time (7:30am to 1:30pm).<br>
+You should only call to book appointment for your child if your child requires dental treatment (tooth ache etc). The dental clinic's number is only manned during dental clinic opening dates and hours. Parents cannot accompany their child to the dental clinic during curriculum time (7:30am to 1:30pm).<br>
 
 The clinic operating hours:<br>
 Monday to Thursday - 8am to 1pm, 2pm to 530pm<br>
