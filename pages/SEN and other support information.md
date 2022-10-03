@@ -60,9 +60,7 @@ Give Time to respond
 Engage and Disengage
 
 
-##### Dyslexia
-
-**Specific Learning Difficulties in Reading and Writing**
+##### Dyslexia (Specific Learning Difficulties in Reading and Writing)
 
 **What is Dyslexia?**
 
