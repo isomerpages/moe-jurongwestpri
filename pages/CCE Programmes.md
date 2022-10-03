@@ -105,7 +105,7 @@ International Friendship Day falls on the 3rd Friday of Term 2. It provides stud
 * cross-cultural skills and a global orientation
 * mutual respect and understanding to maintain social cohesion in our multicultural society
 
-
+![](/images/CCE%20activities/IFD%202.jpeg) ![](/images/CCE%20activities/IFD%203.jpeg)
 Besides, it allows us to understand the importance of our ASEAN Identity.
 
 **Racial Harmony Day **
