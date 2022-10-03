@@ -97,13 +97,15 @@ description: ""
 
 **Strategies**
 
-* Multi-sensory teaching
-* Differentiated Instructions
-* Over –learning is essential
-* Visual prompts
-* Provide  breaks
+* Include multi-sensory instructions
+* Provide differentiated Instructions
+* Include repetition in teaching
+* Provide visual prompts 
+* Provide movement breaks
 * Teach organisational skills
-* Praise everything that deserve praise no matter how small (promote their strengths not their weaknesses)
+* Praise everything that deserve praise no matter how small 
+* Build on the child’s strengths
+
 
 
 ##### Attention Deficit Hyperactivity Disorder
@@ -127,13 +129,11 @@ description: ""
 
 **Strategies**
 
-*  Provide positive and timely feedback and praise
-*  Provide organization and structure environment
-*  Be clear and firm in rules
-*  Have a fixed schedule/certain way that tasks unfold
-*  Divide big assignments/tasks into manageable chunks
-*  Curb distractibility (Seating)
-*  Help them to follow instructions and directions
-*  Engage multiple senses
-*  Help child to self-monitor
-*  Carry out discipline
+* Provide positive and timely feedback and praise
+* Teach organizational skills 
+* Be clear and firm in rules
+* Have a fixed schedule/routine to help the child start on tasks
+* Break down big assignments/tasks into manageable chunks
+* Curb distractibility (such as seating away from doors/ windows)
+* Include multi-sensory instructions
+* Teach self-monitor skills
