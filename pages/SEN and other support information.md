@@ -5,15 +5,15 @@ description: ""
 ---
 ##### Processes/Systems in JWPS to Support Students
 
-* Collaboration with MOE Educational Psychologist, Psychologist/ Therapists in Hospital and Sped School.
+* Withdrawal, in-class and recess support, specialised remediation for students in the areas of learning, behavioural, as well as social emotional needs
+* Implementation of Individual Education Plans for students with high needs
+* Data-driven decision-making processes to inform students’ support and progress
 * Consultation to teachers to facilitate better understanding of the students’ needs and how to support them.
-* Co-ordination and contribution to case conferences in schools. (Case Management Team)
-* Set up and maintenance of records on special needs students
-* Conduct workshop and sharing sessions.
-* Provision of Withdrawal, In-Class and Recess Support, Specialised Remediation and implementation of Individual Education Plans.
-* Providing teaching and learning resources.
-* Provision of skills training. 
-* Provision of feedback to parents on the needs and progress of the special needs students.
+* Case conferences with teachers and within the Case Management team to discuss support for students
+* Capacity building sessions for teachers and workshops for parents
+* Close home-school collaboration between teachers and parents
+* Collaboration with and/ or referral to MOE Educational Psychologists, eternal agencies and hospitals, and special schools
+
 
 
 ##### Autism
@@ -49,13 +49,11 @@ description: ""
 
 **Strategies**
 
-Simplify your language (Low, Slow and Show)
+* Simplify your language (Low, Slow and Show)
+* Incorporate visual support for communication
+* Provide appropriate level of prompt according to the need
+* Allow time to respond
 
-Have Visual support for communication
-
-Implement the correct level of prompt
-
-Give Time to respond
 
 
 
