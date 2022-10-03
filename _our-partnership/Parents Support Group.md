@@ -6,19 +6,19 @@ description: ""
 ### EXCO Members
 
 |                      PSG Advisors                      |
-|:------------------------------------------------------:|
+|-------------------------------------|
 | Mr Phang Siew Eng, Charlie<br>Mdm Sim Hong Suan, Nancy |
 
 |   Chairperson   |
-|:---------------:|
+|--------|
 | Ms Siti Taharah |
 
 | Vice Chairperson |
-|:----------------:|
+|---------|
 |   Ms Selena Yeo  |
 
 |    Secretary   |
-|:--------------:|
+|-------|
 | Ms Doreen Chow |
 
 |                                                Members                                                                 |
