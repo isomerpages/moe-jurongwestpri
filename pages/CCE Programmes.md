@@ -5,7 +5,7 @@ description: ""
 ---
 ##### CCE Curriculum
 
-For a holistic character and citizenship education, a school-based curriculum has been specially developed by the teachers for the students. This curriculum includes mandatory Form Teachers Guidance Period (FTGP) lessons, Character and Citizenship lessons (taught in Mother Tongue language), Assembly periods as well as Other School-Based Programmes.
+For a holistic character and citizenship education, a school-based curriculum has been specially developed by the teachers for the students. This curriculum includes mandatory CCE (Form Teachers Guidance Period) lessons, CCE (Mother Tongue Language) lessons, Assembly periods as well as Other School-Based initiatives and Key Student Development Experiences.
 
  School values (THInKER) are explicitly taught through these various platforms too. Students then reflect on their learning experiences and develop critical thinking skills. Students consolidate their learning by penning down their reflections in the CCE Journal.
 
@@ -13,7 +13,7 @@ This is the CCE curriculum in JWPS.
 
 **Form Teacher Guidance Period CCE (FTGP)**
 
-The school believes that Form Teachers play a critical role in shaping the development of the young minds, thus, we take the weekly Form Teacher Guidance Period CCE (FTGP) seriously.   
+The school believes that Form Teachers play a critical role in shaping the development of the young minds, thus, we take the weekly CCE (FTGP) seriously.   
 
  
 
@@ -26,11 +26,11 @@ The school includes Zippy Friends programme into its CCE (FTGP) lesson for the L
 
 The school leverages on weekly Assembly period to inculcate values and instil citizenship in our students. Weekly Assembly programme takes place every Friday from 7.30 a.m. – 8.00 a.m.
 
-During Assembly, a variety of sharing sessions by our teachers, our alumni and external vendors are put together for our students. The highlight of the assembly programme would be the THInKER Values Talk by School Leaders. School leaders actively role model the inculcation of CCE by sharing stories related to the THInKER values, as well as the importance of having good character and sound moral values.
+During Assembly, a variety of sharing sessions by our teachers, our alumni and external vendors are put together for our students. The highlight of the assembly programme would be the THInKER Values Talk by School Leaders and Student Leaders. They actively role model the inculcation of CCE by sharing stories related to the THInKER values, as well as the importance of having good character and sound moral values.
 
 **CCE (MTL) Lessons**
 
-CCE lessons in the Primary school are taught in Mother Tongue language. It focus on the inculcation of the 3RICH values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) through fun and meaningful activities.<br>
+CCE (MTL) lessons in the Primary school are taught in Mother Tongue language. It focus on the inculcation of the 3RICH values (Respect, Responsibility, Resilience, Integrity, Care and Harmony) through fun and meaningful activities.<br>
 Through activities like story-telling, groupwork, role-playing and reflection, students learn to cultivate good social and communication sklls. These skills enable them to promote harmony and social cohesion in a multiracial and multi-religious society.
 
  
@@ -58,16 +58,12 @@ IPW also provides an excellent platform for students to work effectively in team
 * To learn about the different settlers from different races and cultures.
 * To identify a settler and describe their contributions to Singapore.
 
-**P5 - To Lead is to Serve**<br>
-
-* To  learn about the life of a war hero.
-* To create a storyboard based on the life / contributions of a historical war hero
 
 **Student Recognition Awards**
 
 Acknowledging and affirming students who demonstrated positive qualities in school is critical during the forming years. When the school recognises them, it can increase their self-confidence and gives them a sense of accomplishment. This will then further motivate them and spur improvement in their behaviour.
 
-In JWPS, we have these awards to recognise students.
+In JWPS, we have these awards to recognise students who display good values and character.
 
 
 
