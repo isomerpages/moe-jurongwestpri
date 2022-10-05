@@ -92,7 +92,7 @@ It is also infused in the school's CCE curriculum and programmes through the com
 
 Total Defence was introduced in Singapore in 1984 and is commemorated on 15 February every year. It marks the fall of Singapore to the Japanese in 1942. The commemoration of TDD seeks to remind people of the sufferings endured by our forefathers during the Japanese Occupation and reflect on how Total Defence remains our best all-round response to threats and challenges that confront Singapore. They also reflect on the continuing relevance of the 6 Total Defence Pillars and the core message of every Singaporean standing together, with each playing our part to protect Singapore and our shared way of life. 
 
-**International Friendship Day**
+**International Friendship Day (IFD)**
 
 International Friendship Day falls on the 3rd Friday of Term 2. It provides students the opportunity to explore Singapore’s connection to the region and the world. We commemorate International Friendship Day for our students to reflect on the importance to Singapore of:
 
@@ -104,7 +104,7 @@ International Friendship Day falls on the 3rd Friday of Term 2. It provides stud
 ![](/images/CCE%20activities/IFD%202.jpeg) ![](/images/CCE%20activities/IFD%203.jpeg)
 Besides, it allows us to understand the importance of our ASEAN Identity.
 
-**Racial Harmony Day**
+**Racial Harmony Day (RHD)**
 
 Racial Harmony Day marks the anniversary of the 1964 racial riots. It is commemorated on 21 July to celebrate Singapore as a harmonious society built on a rich diversity of cultures, requiring collaborative efforts from all to promote social cohesion and harmony.
 
