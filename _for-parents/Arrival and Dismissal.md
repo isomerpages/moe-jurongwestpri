@@ -5,11 +5,26 @@ description: ""
 ---
 ## Arrival
 
+#### Pedestrian
+
 Students can enter the school via Gate 1, 2, 3 and 4 in the morning. Gate 3 will not be opened if the weather is bad. 
 
 ![gates](/images/School%20gates.jpg)
 
+#### Vehicles
+
+Parents who send their child to school by car should follow the instructions of the 2 guards stationed at the main gate and enter the school as illustrated below:
+
+![](/images/AM%20car%20arrival.jpg)
+
+
+Parents should not park along Jurong West Street 61 and let their child alight by the roadside.
+
 ## Dismissal
+
+**No parents are allowed to drive into the school during dismissal time**. 
+
+Parents should park at the nearby multi-storey carpark and not park along Jurong West Street 61 to wait for their child. 
 
 #### P1 and P2
 
