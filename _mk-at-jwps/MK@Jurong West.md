@@ -39,7 +39,4 @@ The security guard’s main role is to maintain safety and security. They are **
 
 For safety and security reasons, all parents/caregivers are NOT allowed to enter the MK/KCare premise. We seek your co-operation for the safety of your child and all other children.
 		
-For more information about MK and its curriculum, please refer to the MOE MK website:
-
-
-<p style = "text-align: center; color: #4a9fe0"> Click <a href="https://moe.gov.sg/preschool/moe-kindergarten/" target = "_blank">here</a> to visit MOE's MK Website
+For more information about MK and its curriculum, please refer to the [MOE MK website](https://moe.gov.sg/preschool/moe-kindergarten/).
