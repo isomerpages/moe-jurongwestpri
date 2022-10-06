@@ -17,8 +17,6 @@ To ensure the pervasiveness and sustainability of its ALP, the school has delibe
 
 
 
-
-
 ##### DIGITAL STORYTELLING (DST)
 
 **Alignment with the MOE English Syllabus**<br>
@@ -57,16 +55,6 @@ The curriculum includes the teaching of phonemic awareness, phonics, vocabulary,
 All Primary 1 and Primary 2 LSP students will have a chance to participate in creative and team-building activities on the annual Learning Support Games Day. They get the opportunity to apply their knowledge of letter sounds and decoding strategies learnt during LSP lessons as they engage in phonics and word games during the event.
 
 
-##### READING CULTURE LIBRARY
-
-**Cultivating Love for Reading**<br>
-
-We hope to constantly innovate and develop a cosy and conducive environment for our students to invite them to the world of books. Stories are told often and students are introduced to popular authors in the library. Our library has beautifully-curated thematic book displays to encourage students to explore books based on an array of themes. <br>
-
-Library readership is monitored monthly and certificates are given out to students and classes with the highest readership. To inculcate the habit of reading, the school has implemented a few initiatives. Students are encouraged to read extensively and tokens are given out every term to readers as rewards to encourage them to continue reading. The school hopes to expand the reading experience in our school by collaborating with the National Library Board to bring in more engaging and enriching library programmes for our students.<br>
-
-
-
 ##### SCHOOL-BASED DYSLEXIA REMEDIATION PROGRAMME (SDR)
 
 **Explicit Teaching of Phonemic Awareness, Reading Recognition and Comprehension**<br>
@@ -76,3 +64,11 @@ SDR is a two-year intervention programme for Primary 3 and Primary 4 students co
 This year, we have a new SDR 2.0 programme for Primary 3 students. The programme has been simplified further to better cater the students. After one semester, the SDR teacher conducts testing to decide the level of reading of each student. Then, students will be taught according to their appropriate level. Resources will also be catered to the level. In semester 2, specific comprehension skills are taught to the students. This is also new in the Primary SDR 2.0 scheme of work. The students who went through the Primary 3 2021 programme have improved vastly this year. <br>
 
 In JWPS, this programme is conducted on every Tuesday to Thursday for one hour throughout the whole year. Following a two-year programme, students display immense improvement in reading and understanding comprehension skills. They are also able to practise the comprehension skills taught in their own learning. Students’ progress and achievements are communicated to their parents regularly and at the end every term, a progress report is given to each student. <br>
+
+##### READING CULTURE LIBRARY
+
+**Cultivating Love for Reading**<br>
+
+We hope to constantly innovate and develop a cosy and conducive environment for our students to invite them to the world of books. Stories are told often and students are introduced to popular authors in the library. Our library has beautifully-curated thematic book displays to encourage students to explore books based on an array of themes. <br>
+
+Library readership is monitored monthly and certificates are given out to students and classes with the highest readership. To inculcate the habit of reading, the school has implemented a few initiatives. Students are encouraged to read extensively and tokens are given out every term to readers as rewards to encourage them to continue reading. The school hopes to expand the reading experience in our school by collaborating with the National Library Board to bring in more engaging and enriching library programmes for our students.<br>
