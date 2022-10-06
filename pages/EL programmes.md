@@ -92,3 +92,5 @@ In JWPS, this programme is conducted on every Tuesday to Thursday for one hour t
 We hope to constantly innovate and develop a cosy and conducive environment for our students to invite them to the world of books. Stories are told often and students are introduced to popular authors in the library. Our library has beautifully-curated thematic book displays to encourage students to explore books based on an array of themes. <br>
 
 Library readership is monitored monthly and certificates are given out to students and classes with the highest readership. To inculcate the habit of reading, the school has implemented a few initiatives. Students are encouraged to read extensively and tokens are given out every term to readers as rewards to encourage them to continue reading. The school hopes to expand the reading experience in our school by collaborating with the National Library Board to bring in more engaging and enriching library programmes for our students.<br>
+
+![](/images/EL%20Dept/EL%20Love%20to%20Read2.jpg)
