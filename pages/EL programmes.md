@@ -71,11 +71,12 @@ Library readership is monitored monthly and certificates are given out to studen
 
 **Explicit Teaching of Phonemic Awareness, Reading Recognition and Comprehension**<br>
 
-SDR is a two-year intervention programme for Primary 3 and Primary 4 students. It is conducted specially for students diagnosed with Dyslexia as the development of reading and spelling skills in these students are delayed and thus, they will benefit from smaller group teaching. SDR explicitly teaches phonemic awareness, higher reading recognition and comprehension within a controlled group. These students are identified for support through a systematic screening process for Dyslexia conducted at the end of Primary 2.<br>
+SDR is a two-year intervention programme for Primary 3 and Primary 4 students conducted by English Language teachers who have received specialised training. It is a programme especially for students diagnosed with Dyslexia as the development of reading and spelling skills in these students are delayed. SDR explicitly teaches phonemic awareness, higher reading recognition and comprehension within a controlled group. These students are identified for support through a systematic screening process for Dyslexia conducted at the end of Primary 2. <br>
 
-In JWPS, this programme conducted on every Tuesday to Thursday for one hour throughout the whole year. Following a two-year programme, students display a vast improvement in reading and understanding comprehension skills. They are also able to practise the comprehension skills taught in their own learning. The programme is conducted in small groups by trained school personnel using a remediation curriculum designed by MOE Reading Specialists. <br>
+This year, we have a new SDR 2.0 programme for Primary 3 students. The programme has been simplified further to better cater the students. After one semester, the SDR teacher conducts testing to decide the level of reading of each student. Then, students will be taught according to their appropriate level. Resources will also be catered to the level. In semester 2, specific comprehension skills are taught to the students. This is also new in the Primary SDR 2.0 scheme of work. The students who went through the Primary 3 2021 programme have improved vastly this year. <br>
 
-At the end every term, a progress report is given to each student and his or her progress and achievements are communicated to their parents.
+In JWPS, this programme is conducted on every Tuesday to Thursday for one hour throughout the whole year. Following a two-year programme, students display immense improvement in reading and understanding comprehension skills. They are also able to practise the comprehension skills taught in their own learning. Students’ progress and achievements are communicated to their parents regularly and at the end every term, a progress report is given to each student. <br>
+
 
 
 ##### VALUES EDUCATION
