@@ -7,15 +7,16 @@ description: ""
 
 **Art of Communication for Personal Excellence**
 
+The school believes in the potential of ALP to help it realise its school mission and vision. The school is cognisant of the growing demands and expectations of having students who are future-ready and well-anchored on sound moral values. As such, ALP is poised to bring about these two aspects which are also purposefully-encapsulated in our mission statement.<br>
 
-The school believes in the potential of ALP to help it realise its school mission and vision. The school is cognisant of the growing demands and expectations of having students who are future ready and well anchored on sound moral values. As such, ALP is poised to bring about these two aspects which are also incidentally encapsulated in our mission statement.
+The objective of the ALP of the school is to raise confident communicators and creative individuals who are well-anchored on the school core values and are capable to lead self and others. The programme seeks to enhance the depth of learning for students from Primary Two to Primary Five in the area of communication by providing them with opportunities to undergo training in Choral Reading, Reader’s Theatre, Storytelling and Public Speaking.<br>
 
-**Outcomes of ALP**
+In line with the GiFT approach in student development, the school has been very focused and comprehensive in its first tier of General student development via ALP. In the area of Focused Training, the school further streamlines its processes in identifying the potential students for Tier 2 development. In the case of Talent management, the school looks at possible platforms for the students to be further stretched in their potential via school ambassadorship. Students who possess aptitude and interest are identified for Tier 2 development whereby specialised training in the area of reporting and presenting is its key focus.<br>
 
-* To reaise confident communicators and creative individuals who are well anchored on the school core values and capable to lead self and others; and
-* To ensure the pervasiveness and sustainability of ALP via infusion into the school-based curriculum, namely PAL, NE and IPW.
+To ensure the pervasiveness and sustainability of its ALP, the school has deliberately infused it into its school-based curriculum. Formalised platforms, through inter-departmental collaboration, are also put in place for students to share their experiences and opinions related to current affairs, racial harmony, science learning, outdoor education and healthy living with different audiences for different purposes. In order for the school to integrate ICT into ALP, students also underwent ALP online training via Zoom.
 
-In line with the GiFT approach in student development, the school has been very focused and comprehensive in its first tier of General student development via ALP. In the area of Focused Training, the school will further streamline its processes in identifying the potential students for Tier 2 development. In the case of Talent management, the school will be looking at possible platforms for the students to be further stretched in their potential via school ambassadorship.
+
+
 
 
 ##### DIGITAL STORYTELLING (DST)
@@ -25,6 +26,12 @@ In line with the GiFT approach in student development, the school has been very 
 DST was launched in response to the fast-changing and multi-faceted way of learning in the educational landscape. The programme was aligned to the school’s vision and mission and ICT was employed extensively. To quote Michael Fullen, “Pedagogy is the driver. Technology is the accelerator." We hope to deepen and enhance the writing processes of the students, as well as make writing a pleasurable experience for them. DST is not an add-on. Instead, it is meant as a complement to the school's STELLAR writing programme in alignment with the MOE English Syllabus.
 
 Through DST, the school hopes to enhance competencies across many domains, and expose teachers and students to the possibilities of using Web2.0 tools for teaching and learning. A number of teaching periods were allocated to DST in the Primary 3 English curriculum. Through DST, our students learnt to use tools such as Google Slides, Google Documents, Linoit and PowerPoint to write and share about their experiences. As a form of self-directed learning, students were taught features of recount writing and encouraged to create their own digital stories.
+
+##### MyON
+
+All students in Jurong West Primary school has access to hundreds of digital storybooks through MyON website.  The website complements English lesson in class by providing students access to similarly-themed books that can expand students' vocabulary. Two terms in a year, students are scheduled to access MyON in school using school-provided iPads. As students each have username and password for the website, they can take the initiative to read more e-books at home after school too! <br>
+
+Have difficulty reading? Fret not! Students can opt to get the sentences in the book read to them. This way, even students who need more help with reading can get personal help and expand their vocabulary. There are books on different themes and topics as well as books that introduce students to different places in the world. The books provided are updated regularly so there is always a new one for everyone. Through reading the books, students learn to expand their knowledge and take the first step to be responsible for their learning progress.<br>
 
 
 ##### ENGLISH STUDENT LEADERS
