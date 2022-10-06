@@ -31,19 +31,33 @@ DST was launched in response to the fast-changing and multi-faceted way of learn
 
 Through DST, the school hopes to enhance competencies across many domains, and expose teachers and students to the possibilities of using Web2.0 tools for teaching and learning. A number of teaching periods were allocated to DST in the Primary 3 English curriculum. Through DST, our students learnt to use tools such as Google Slides, Google Documents, Linoit and PowerPoint to write and share about their experiences. As a form of self-directed learning, students were taught features of recount writing and encouraged to create their own digital stories.
 
+![](/images/EL%20Dept/EL%20DST.jpg)
+
 ##### MyON
 
 All students in Jurong West Primary school has access to hundreds of digital storybooks through MyON website.  The website complements English lesson in class by providing students access to similarly-themed books that can expand students' vocabulary. Two terms in a year, students are scheduled to access MyON in school using school-provided iPads. As students each have username and password for the website, they can take the initiative to read more e-books at home after school too! <br>
 
 Have difficulty reading? Fret not! Students can opt to get the sentences in the book read to them. This way, even students who need more help with reading can get personal help and expand their vocabulary. There are books on different themes and topics as well as books that introduce students to different places in the world. The books provided are updated regularly so there is always a new one for everyone. Through reading the books, students learn to expand their knowledge and take the first step to be responsible for their learning progress.<br>
 
+![](/images/EL%20Dept/EL%20MyON.jpg)
+
 ##### Extensive Reading 
 
 Extensive Reading is conducted once a fortnight for all Primary 1 and Primary 2 LSP students during LSP curriculum time and once a week for selected LSP students outside curriculum time. The objective of Extensive Reading is to provide opportunities for the LSP students to practise and consolidate their reading skills taught during LSP lessons. It also nurtures the reading habit in them. They are provided with a wide range of reading materials which include decodable books, graded readers and trade books. They also get a chance to play early literacy games with their peers.<br>
 
+![](/images/EL%20Dept/EL%20Extensive%20Reading.jpg)
+
 ##### KidsRead Programme
 
 The KidsRead programme at JWPS is conducted in collaboration with National Library Board (NLB). This reading programme aims at cultivating the love of reading in students. The students are engaged in a fun and interactive activities carried out by trained volunteers. During our sessions, the volunteers read stories to the students and use story-related activities to spark students’ imagination and creativity. Here are some pictures of our volunteers, students and teachers in action. Students also get to experience KidsRead via Zoom as part of the school’s effort to integrate ICT into the programme. 
+
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+|    ![](/images/EL%20Dept/EL%20KidsRead.jpg)
+  |  ![](/images/EL%20Dept/EL%20KidsRead2.jpg)     | ![](/images/EL%20Dept/EL%20KidsRead3.jpg)     |
 
 
 
