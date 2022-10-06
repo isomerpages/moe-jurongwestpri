@@ -33,6 +33,17 @@ Through DST, the school hopes to enhance competencies across many domains, and e
 
 ![](/images/EL%20Dept/EL%20DST.jpg)
 
+
+##### READING CULTURE LIBRARY
+
+**Cultivating Love for Reading**<br>
+
+We hope to constantly innovate and develop a cosy and conducive environment for our students to invite them to the world of books. Stories are told often and students are introduced to popular authors in the library. Our library has beautifully-curated thematic book displays to encourage students to explore books based on an array of themes. <br>
+![](/images/EL%20Dept/EL%20Love%20to%20Read.jpg)
+Library readership is monitored monthly and certificates are given out to students and classes with the highest readership. To inculcate the habit of reading, the school has implemented a few initiatives. Students are encouraged to read extensively and tokens are given out every term to readers as rewards to encourage them to continue reading. The school hopes to expand the reading experience in our school by collaborating with the National Library Board to bring in more engaging and enriching library programmes for our students.<br>
+
+![](/images/EL%20Dept/EL%20Love%20to%20Read2.jpg)
+
 ##### MyON
 
 All students in Jurong West Primary school has access to hundreds of digital storybooks through MyON website.  The website complements English lesson in class by providing students access to similarly-themed books that can expand students' vocabulary. Two terms in a year, students are scheduled to access MyON in school using school-provided iPads. As students each have username and password for the website, they can take the initiative to read more e-books at home after school too! <br>
@@ -85,12 +96,3 @@ This year, we have a new SDR 2.0 programme for Primary 3 students. The programme
 
 In JWPS, this programme is conducted on every Tuesday to Thursday for one hour throughout the whole year. Following a two-year programme, students display immense improvement in reading and understanding comprehension skills. They are also able to practise the comprehension skills taught in their own learning. Students’ progress and achievements are communicated to their parents regularly and at the end every term, a progress report is given to each student. <br>
 
-##### READING CULTURE LIBRARY
-
-**Cultivating Love for Reading**<br>
-
-We hope to constantly innovate and develop a cosy and conducive environment for our students to invite them to the world of books. Stories are told often and students are introduced to popular authors in the library. Our library has beautifully-curated thematic book displays to encourage students to explore books based on an array of themes. <br>
-![](/images/EL%20Dept/EL%20Love%20to%20Read.jpg)
-Library readership is monitored monthly and certificates are given out to students and classes with the highest readership. To inculcate the habit of reading, the school has implemented a few initiatives. Students are encouraged to read extensively and tokens are given out every term to readers as rewards to encourage them to continue reading. The school hopes to expand the reading experience in our school by collaborating with the National Library Board to bring in more engaging and enriching library programmes for our students.<br>
-
-![](/images/EL%20Dept/EL%20Love%20to%20Read2.jpg)
