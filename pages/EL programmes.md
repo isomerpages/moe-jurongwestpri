@@ -76,13 +76,3 @@ SDR is a two-year intervention programme for Primary 3 and Primary 4 students co
 This year, we have a new SDR 2.0 programme for Primary 3 students. The programme has been simplified further to better cater the students. After one semester, the SDR teacher conducts testing to decide the level of reading of each student. Then, students will be taught according to their appropriate level. Resources will also be catered to the level. In semester 2, specific comprehension skills are taught to the students. This is also new in the Primary SDR 2.0 scheme of work. The students who went through the Primary 3 2021 programme have improved vastly this year. <br>
 
 In JWPS, this programme is conducted on every Tuesday to Thursday for one hour throughout the whole year. Following a two-year programme, students display immense improvement in reading and understanding comprehension skills. They are also able to practise the comprehension skills taught in their own learning. Students’ progress and achievements are communicated to their parents regularly and at the end every term, a progress report is given to each student. <br>
-
-
-
-##### VALUES EDUCATION
-
-**Imparting of Values**<br>
-
-Values education is the process by which teachers impart moral values to the young minds of JWPS students. <br>
-
-In JWPS, we give utmost importance to instilling values through English lessons. We explicitly teach students on values through stories read in class, videos on values, interaction between teachers and students on the values taught and reflection activities at the end of the lesson. In JWPS, we already impart our school values, **THInKER**, throughout the whole journey of their primary years in JWPS. Values education is an advancement to the existing values taught in school. Values Education is incorporated into English lessons. Posters on different values are also put up around the school and in the classrooms so that students will always have a visual reminder on the values taught to them.
