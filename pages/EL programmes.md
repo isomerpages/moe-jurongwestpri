@@ -33,27 +33,28 @@ All students in Jurong West Primary school has access to hundreds of digital sto
 
 Have difficulty reading? Fret not! Students can opt to get the sentences in the book read to them. This way, even students who need more help with reading can get personal help and expand their vocabulary. There are books on different themes and topics as well as books that introduce students to different places in the world. The books provided are updated regularly so there is always a new one for everyone. Through reading the books, students learn to expand their knowledge and take the first step to be responsible for their learning progress.<br>
 
+##### Extensive Reading 
 
-##### ENGLISH STUDENT LEADERS
+Extensive Reading is conducted once a fortnight for all Primary 1 and Primary 2 LSP students during LSP curriculum time and once a week for selected LSP students outside curriculum time. The objective of Extensive Reading is to provide opportunities for the LSP students to practise and consolidate their reading skills taught during LSP lessons. It also nurtures the reading habit in them. They are provided with a wide range of reading materials which include decodable books, graded readers and trade books. They also get a chance to play early literacy games with their peers.<br>
 
-**Developing Leadership Potential**<br>
+##### KidsRead Programme
 
-At the start of the school year, English Leaders will go through a short training on their roles and responsibilities. <br>
-English Leaders are the first-line support to their English teacher. They will help to collect homework and assist in any English-related activities. The leaders had the opportunity to present stories and grammar items to their classmates weekly. This provided a platform for the leaders to share their newfound grammar knowledge. By presenting in front of their peers, the leaders also developed greater confidence and knowledge of grammar items. <br>
-Primary 5 and Primary 6 leaders took it one step further and shared moral stories with Primary 1 and 2 students.
+The KidsRead programme at JWPS is conducted in collaboration with National Library Board (NLB). This reading programme aims at cultivating the love of reading in students. The students are engaged in a fun and interactive activities carried out by trained volunteers. During our sessions, the volunteers read stories to the students and use story-related activities to spark students’ imagination and creativity. Here are some pictures of our volunteers, students and teachers in action. Students also get to experience KidsRead via Zoom as part of the school’s effort to integrate ICT into the programme. 
+
 
 
 ##### LEARNING SUPPORT PROGRAMME (LSP)
 
 **Early Literacy Intervention for Primary 1 and 2 Students**<br>
 
-LSP is an early literacy intervention programme which aims to provide learning support to Primary 1 and 2 students who have weak language, reading and spelling skills.<br>
-They are identified for this programme through the Early Literacy Indicators Test which is administered at the beginning of Primary 1. The students are taught in groups of ten for one period every day. The curriculum includes the teaching of phonemic awareness, phonics, vocabulary, reading and spelling skills. The students are given much support and encouragement and are taught in a conducive and well-decorated classroom.<br>
-At the end of the year, students who meet the twin-discharge criteria, namely age-appropriate reading age and a pass in overall English Language, are discharged from the programme. They are awarded certificates of achievement for attaining a pass in the English Language and making progress in their reading.
+LSP is an early literacy intervention programme which aims to provide learning support to Primary 1 and 2 students who have weak language, reading and spelling skills. They are identified for this programme through the Early Literacy Indicators Test which is administered at the beginning of Primary 1. The students are taught by the LSCs, Mrs Margaret Tan and Mrs Thamby, in groups of ten for one period every day. 
+
+The curriculum includes the teaching of phonemic awareness, phonics, vocabulary, reading and spelling skills. The students are given much support and encouragement and are taught in a conducive and well-decorated classroom. At the end of the year, students who meet the twin-discharge criteria, namely age-appropriate reading age and a pass in overall English Language, are discharged from the programme. They are awarded certificates of achievement for attaining a pass in the English Language and making progress in their reading.
+
 
 **Learning Support Games Day**<br>
 
-All Primary 1 and Primary 2 LSP students will have a chance to participate in creative and fun activities on the annual Learning Support Games Day. They play phonics games and also engage in team-building activities during the event.
+All Primary 1 and Primary 2 LSP students will have a chance to participate in creative and team-building activities on the annual Learning Support Games Day. They get the opportunity to apply their knowledge of letter sounds and decoding strategies learnt during LSP lessons as they engage in phonics and word games during the event.
 
 ##### LITERATURE PROGRAMME
 
