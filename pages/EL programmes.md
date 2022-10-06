@@ -16,6 +16,12 @@ In line with the GiFT approach in student development, the school has been very 
 To ensure the pervasiveness and sustainability of its ALP, the school has deliberately infused it into its school-based curriculum. Formalised platforms, through inter-departmental collaboration, are also put in place for students to share their experiences and opinions related to current affairs, racial harmony, science learning, outdoor education and healthy living with different audiences for different purposes. In order for the school to integrate ICT into ALP, students also underwent ALP online training via Zoom.
 
 
+|P2 Choral Reading| P3 Reader's Theatre | P4 Storytelling |  P5 Public Speaking |
+| -------- | -------- | -------- |---|
+| ![P2 Choral Reading](/images/EL%20Dept/EL%20P2%20ALP%20Choral%20Reading.jpg)     | ![P3 Reader's Theatre](/images/EL%20Dept/EL%20P3%20ALP%20Reader's%20Theatre.jpg)     | ![P4 Storytelling](/images/EL%20Dept/EL%20P4%20ALP%20Storytelling.jpg)     | ![P5 Public Speaking](/images/EL%20Dept/EL%20P5%20ALP%20Public%20Speaking.jpg)  |
+
+
+
 
 ##### DIGITAL STORYTELLING (DST)
 
