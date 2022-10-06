@@ -56,24 +56,15 @@ The curriculum includes the teaching of phonemic awareness, phonics, vocabulary,
 
 All Primary 1 and Primary 2 LSP students will have a chance to participate in creative and team-building activities on the annual Learning Support Games Day. They get the opportunity to apply their knowledge of letter sounds and decoding strategies learnt during LSP lessons as they engage in phonics and word games during the event.
 
-##### LITERATURE PROGRAMME
-
-**Enjoyment of Reading and Language Learning**<br>
-
-Our school embarked on the Literature Programme for Primary 3 and Primary 4 students in 2016. <br>
-Through this programme, we hope to instil the love of reading in our students. The books, Charlotte’s Web and Charlie and the Chocolate Factory, have very interesting plots and characters that provide opportunities for engaging classroom discussions. Such discussions include values on friendship, kindness, compassion and generosity. Students often are able to link real life experiences to the story, hence making the whole process meaningful. The classroom activities also explore creative expressions in the form of poetry writing and poster design. The learning of English language is thus seamlessly weaved into this programme.<br>
-
-We hope that through the guidance of the English teachers and the learning experience they gain from the programme, students are better skilled and are able to enjoy in greater depths the books that they pick up to read in future.
 
 ##### READING CULTURE LIBRARY
 
 **Cultivating Love for Reading**<br>
 
-We hope to innovate constantly and develop a cosy and conducive library for our students to lure them to the world of books. Stories are told very often and students are introduced to popular authors in the library. The library has very colourful thematic book displays to encourage them to explore books based on those themes. Library readership is monitored monthly and certificates are given out to students and classes with the highest readership. <br>
+We hope to constantly innovate and develop a cosy and conducive environment for our students to invite them to the world of books. Stories are told often and students are introduced to popular authors in the library. Our library has beautifully-curated thematic book displays to encourage students to explore books based on an array of themes. <br>
 
-To inculcate the habit of reading, the school has implemented a few initiatives. Students are encouraged to read extensively and badges are given out every month to readers as rewards to inspire them. Besides role modelling by teachers, a group of enthusiastic parents lends their support to our school reading journey by being “parentellers”. They share stories regularly with students during recesses. Thus far, they have been very well received as their presentations were often engaging. <br>
+Library readership is monitored monthly and certificates are given out to students and classes with the highest readership. To inculcate the habit of reading, the school has implemented a few initiatives. Students are encouraged to read extensively and tokens are given out every term to readers as rewards to encourage them to continue reading. The school hopes to expand the reading experience in our school by collaborating with the National Library Board to bring in more engaging and enriching library programmes for our students.<br>
 
-The school hopes to extend the reading experiences in our school by collaborating with the National Library Board to bring in more engaging and enriching library programmes for our students.
 
 
 ##### SCHOOL-BASED DYSLEXIA REMEDIATION PROGRAMME (SDR)
