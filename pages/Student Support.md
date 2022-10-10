@@ -17,7 +17,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 | HOD Student Management | Ms Tay Siew Hwee |
 | Year Head (Upper Block)     | Mrs Sophia Ow Yong     |
 | Year Head (Middle Block)     | Ms Wai Lai May     |
-| Year Head (Lower Block)     | Ms Lau Chin Yong     |
+| Year Head (Lower Block)     | Ms Jerica Lim     |
 | Asst Year Head (Upper Block)     | Ms Emily Lim     |
 | Asst Year Head (Middle Block)     | Mrs Tan-Tan Mei Ching     |
 | Asst Year Head (Lower Block)     | Ms Yvonne Chew (Covering)     |
@@ -29,7 +29,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 |  |  |
 | --- | --- |
-| Senior School Counsellor  | Ms Charmaine Chee Hsieh Mei  |
+| School Counsellor  |    |
 
 
 #### Senior Teacher
