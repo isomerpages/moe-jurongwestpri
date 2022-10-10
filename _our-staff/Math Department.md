@@ -17,7 +17,7 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 
 | Head of Department |
 | --- |
-| Mrs Jerica Koh |<br>
+| Ms  |<br>
   
 
 | Level Head |
