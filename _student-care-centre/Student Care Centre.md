@@ -11,8 +11,14 @@ The SCC is set up to provide:
 2. a structured before and after school care programme that caters to the developmental needs of the students.
 3. support for families, thus strengthening home-school partnerships.
 
-![SCC1](/images/SCC1.jpeg)
-![SCC2](/images/SCC2.jpeg)
+
+
+ ![SCC2](/images/SCC2.jpeg)  
+
+<br>
+
+![](/images/SCC1.jpeg)
+
 
 Classrooms have been allocated for the operator to admit more students who need after school care.
 
