@@ -127,5 +127,4 @@ On this day, we learn that people should be treated equally regardless of their 
 
 |   |   | 
 | -------- | -------- | 
-| ![](/images/CCE%20activities/NDP%202.jpeg) |  |
-
+| ![](/images/CCE%20activities/NDP%202.jpeg) | ![](/images/CCE%20activities/NDP.jpg) |
