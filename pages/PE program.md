@@ -16,12 +16,11 @@ Our goals:
 
 Programme:
 * Lower Primary Games Day
-* •	Upper Primary Sports Carnival
-* •	P3 One-Day Camp (LLP)
-* •	P4 High Elements / Sports Module (LLP)
-* •	3D 2N P5 Adventure Camp (LLP)
-* •	P6 Rafting (LLP)
-* •	6 Sports CCAs
-* •	P5 and P6 Year-End Games
-* •	Active Recess Programme
-
+* Upper Primary Sports Carnival
+* P3 One-Day Camp (LLP)
+* P4 High Elements / Sports Module (LLP)
+* P5 Adventure Camp (LLP)
+* P6 Rafting (LLP)
+* 6 Sports CCAs
+* P5 and P6 Year-End Games
+* Active Recess Programme
