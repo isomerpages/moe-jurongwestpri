@@ -3,35 +3,21 @@ title: Art program
 permalink: /Artprog/
 description: ""
 ---
+In Jurong West Primary school, the Art programme is a key component in nurturing the holistic development of a child.  Our curriculum aims to provide a solid foundation for our young learners to understand and appreciate the arts, by cultivating a love for visual expression throughout their learning journey.<br>
 
-JWPS Art program aims to provide students with skills, knowledge and attitudes necessary to see, express and appreciate art in their daily lives.
+Our programme delivers a wide range of experiences ranging from traditional mediums like Batik and Acrylic painting, to modern art forms such as Digital art and Typography. We believe that through exposure of various art forms, students will gradually advance to being informed audiences in our ever-changing, globalized world. <br>
 
-In **seeing** art, our students observe their surrounding closely, and analyse and reflect on their visual and other experiences. The focus will be on recording and interpreting as means towards developing students’ observation and visual inquiry. Students will be equipped with tools such as drawing to capture and reflect on their observations and experiences.
+By following the **Art Inquiry** model which consists of the 5 inquiry steps: Connect and wonder, Investigate, Make, Express and Reflect, students are provided with various opportunities to make personal connections, and generate new meanings in their own art making.<br>
 
-In **expressing** art, our students generate ideas from what they see and explore ways to create and communicate through the use of various conventional and unconventional materials and tools, art forms and media. Students also experiment and innovate with visual elements, qualities of materials, tools and artistic processes in order to meet an artistic intention. 
+Our goals:
+1. To equip students with Art as a visual language to express their ideas
+2. For students to recognize the importance of art and the relevancy in their everyday life
+3. For students to have perseverance and a reflective mindset of an artist
+<br>
 
-In **appreciating** art, our students acquire skills and use appropriate vocabulary to discuss and interpret artworks. Students deepen their understanding of Singapore through drawing inspirations from their environment, learning about artworks and artists from local and other cultures and context to make connections and understand the values of art in their lives and society.
-
-**Primary 1 Fruit Faces**
-
-Our Primary 1 students were introduced to the artwork of Giuseppe Arcimboldo. Arcimboldo is best known for his use of fruits and vegetables in portraits. In this lesson, students learned that complex forms can be created using simple items. Students were encouraged to study images of fruits and vegetables. They also brought real fruits and vegetables to class to talk about their shapes and colours. For their final work, students had the opportunity to compose their portraits using outlines to draw the head.
-
-**Primary 2 Hundertwasser**
-
-Our Primary 2 students were introduced to Hundertwasser. Hundertwasser is best known for his use of bright, dark colours and organic lines including spiral shapes. In this lesson, students were taught warm and cool colours, along with patterns and lines. Students explored the elements in the art of Hundertwasser like drawing onion domes, lollipop streets, rows of houses, teardrops, floating eyeballs, colourful spirals, hidden faces and lines of analogous colours. Their final work was a drawing on buildings.
-
-**Primary 3 Cubism Painting Programme**
-
-Our Primary 3 students were introduced to Cubism with reference to work by Picasso. They worked on portrait themes and depicting portraits of themselves in different shapes and style. Their final pieces were done using corrugated papers. They also learnt layering techniques. They use oil pastels to enhance the beauty of their artwork. Students were encouraged to use their imagination to create faces using shapes and colours in Cubism. This thus encouraged them to see themselves in an abstract manner.
-
-**Primary 4 Metal Tooling Programme**
-
-Our Primary 4 students learned techniques of Metal Tooling with the essential understanding of using a soft metal with a rounded tool on the back in order to create a raised design on the front. Metal tooling is also known as Repousse or embossing. Students created their artwork based on the theme of flowers. They had the opportunity to learn and experiment with metal tooling techniques like embossing. Students were allowed to explore their creativity and had the feel of working with soft metal pieces.
-
-**Primary 5 Acrylic Painting Programme**
-
-Our Primary 5 students learned techniques of Acrylic Painting by understanding how to use texture, shape and colour-scheme in creating artwork based on the theme of natural landscapes. They learned and experimented with painting techniques like layering, scumbling, mixing, glazing and blending. Students were encouraged to explore their creativity and had the feel of working with acrylic as a medium in painting. They were also given an opportunity to learn about the local artists like Georgette Chen.
-
-**Primary 6 Watercolour Painting Programme**
-
-Our Primary 6 students learned techniques of Watercolour by understanding how to use texture, shape and colour-scheme in creating artwork based on the theme of nature and Earth. They applied compositional techniques such as overlapping, repetition, rhythm and emphasis in portraying visuals of their work. Students were encouraged to explore their creativity and had the feel of working with watercolour as a medium in painting. Students were also given an opportunity to learn about famous artists like Leonardo Da Vinci, Rembrandt and Vincent Van Gogh.
+Programmes:
+* P4 Museum Based Learning Journey
+* Opportunities to participate in external competitions
+* Art Recess Interlude
+* Wide range of artworks across different mediums
+* Art Club
