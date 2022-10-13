@@ -14,7 +14,7 @@ Our goals:
 2.	Every student will gain an appreciation and understanding of the importance of making good lifestyle choices.
 3.	Every student to develop strong and positive relationships with their peers and the community.
 
-Programme:
+Programmes:
 * Lower Primary Games Day
 * Upper Primary Sports Carnival
 * P3 One-Day Camp (LLP)
