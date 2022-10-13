@@ -3,6 +3,12 @@ title: Music program
 permalink: /Musicprog/
 description: ""
 ---
-JWPS Music program aims to provide students with skills, knowledge and attitudes necessary to develop awareness and appreciation of music in various cultures and daily lives, ability for creative expression through music and the basis of an informed and life-long involvement in music.
+In Jurong West Primary School (JWPS), we believe that every child is musical and that they have the capability to learn the elements and concepts of music successfully so as to enjoy/create music with deeper appreciation, understanding and applications. <br>
 
-Students will be provided with opportunities to express themselves through the exposure of an array of music repertoire, a range of music instruments and showcases. Through musical activities, students will apply the musical skills and concepts that they have acquired through listening and performing in their creative processes and compositions. Active listening developed from these processes will raise students’ awareness in music and provide the basis to evaluate and describe the qualities of the music heard, giving them a platform to reflect and respond on their own compositions and those of peers and other musicians. With the essential skills, knowledge and learning experience, students will develop an understanding on the role of music in different cultures and its value. Hence, these will deepen their musical capacities and appreciation for music of various cultures.
+The department aims to get all children on board to embrace music as part of their daily lives, to become life-long active learners, practitioners, patrons and supporter of music with the ability to exert a positive influence on people around them.<br>
+
+##### Curriculum / pedagogical approach
+
+Music curriculum in JWPS are designed and delivered guided by the following over-arching approaches: Exposure, Concept and Application.<br>
+
+Throughout their 6 years in JWPS, the children are exposed to various instruments with different timbres. Singing activities also permeate the 6-year music curriculum. Through these activities, music elements and concepts are weaved. Opportunities are provided, where appropriate to allow children to apply what they had learnt in the classroom.
