@@ -11,7 +11,6 @@ Your child will attend KCare from 7am to 1pm, join MK from 1pm to 5pm before goi
 
 Our KCare service provider is YMCA.
 
-Monthly fee : $360
 
 Contact : 96791940<br>
 Email : <a href="mailto:jwkcc@ymca.edu.sg">jwkcc@ymca.edu.sg</a>
