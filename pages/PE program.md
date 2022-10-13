@@ -6,11 +6,22 @@ description: ""
 ##### Physical Education
 
 
-The school focuses on providing each and every of our students with ample opportunities to participate in different physical activities and programmes throughout the year. Programmes and activities were carried out during formal and non-formal curriculum time to ensure mass participation and to encourage regular physical activities among our students.
+The PE department aims to provide students with the skills, knowledge and attitudes necessary to make active living a way of life.
+We have programmes incorporating a wide range of experiences that are organised to meet the needs and interests of all our students. Students will learn and perform fundamental movement skills as well as important games concepts in their PE lessons. They will also gain an understanding of good health practices and choices through the Physical Health and Fitness module. Together with our co-curricular activities (CCAs), special events and Learning for Life Programme (LLP), we seek to develop self-directed learners who will continue to find meaning in pursuing an active and healthy lifestyle.<br>
 
-##### Highlights of our PE Programmes<br>
+Our goals:
+1. Every student will leave our programme with the fundamental movement skills and fitness level that is required to participate in a variety of healthy lifestyle, recreational, or competitive activities.
+2.	Every student will gain an appreciation and understanding of the importance of making good lifestyle choices.
+3.	Every student to develop strong and positive relationships with their peers and the community.
 
-1. All our Primary 1 to 3 students will go through the “Lower Primary Games Day” while the Primary 4 to 6 students participate in the “Sports Carnival”.
-2. The school have a total of 17 different CCAs for students to choose from (7 Sports CCAs, 4 Clubs and Societies, 1 Uniform Group, 5 Performing Arts Clubs).
-3. Our Primary 6 students will have a chance to participate in the 3 days 2 nights Adventure Camp.
-4. The P5 and P6 Inter-Class Year-End Games are conducted after the exams in Term 4.
+Programme:
+* Lower Primary Games Day
+* •	Upper Primary Sports Carnival
+* •	P3 One-Day Camp (LLP)
+* •	P4 High Elements / Sports Module (LLP)
+* •	3D 2N P5 Adventure Camp (LLP)
+* •	P6 Rafting (LLP)
+* •	6 Sports CCAs
+* •	P5 and P6 Year-End Games
+* •	Active Recess Programme
+
