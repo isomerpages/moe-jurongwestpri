@@ -47,10 +47,11 @@ FUNdamatics provides another channel for students to be actively and meaningfull
 
 ![](/images/Math%20prog/Math%20fundamatic%202.jpg)<br>
 
+##### STRETCHING STUDENTS’ POTENTIAL AND ACHIEVING GREATER HEIGHTS
 
-##### MATH OLYMPIAD
 
-**Stretching Students' Potential and Achieving Greater Heights**<br>
+**MATH OLYMPIAD**<br>
+
 
 Math Olympiad is an enrichment programme for selected Primary 4 to Primary 6 students with high aptitude and interest in Mathematics. It is conducted by qualified trainers engaged by the school. The students go through rigorous training which will enable them to pick up important non-routine Mathematical concepts and be able to explain and apply them. It also aims to equip the students with the ability to respond critically and accurately to mathematical questions both in class and in Math Olympiad competitions. The training will help to prepare the students for competitions such as Singapore Mathematical Olympiad for Primary Schools (SMOPS), National Mathematics Olympiad of Singapore (NMOS), Singapore and Asian Schools Math Olympiad (SASMO) and Annual Mathlympics. Our students have consistently done well in these competitions, achieving gold, silver and bronze awards.<br>
 
