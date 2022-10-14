@@ -3,7 +3,7 @@ title: Math Programmes
 permalink: /Mathprogram/
 description: ""
 ---
-##### INFUSING GAMES AND ACTIVITIES IN OUR MATH LESSONS
+##### INFUSING GAMES AND HANDS-ON ACTIVITIES IN OUR MATHEMATICS LESSONS
 
 **Games Infusion**<br>
 
@@ -27,9 +27,8 @@ In Term 3, our Primary 1 to Primary 5 students are provided with a platform to p
 ![](/images/Math%20prog/Math%20games%20week%203.jpg)<br>
 
 
-##### WIRELESS EXPERIENTIAL LEARNING
+**Wireless Experiential Learning**<br>
 
-**Bringing Authentic Context to Learning**<br>
 
 Primary 4 students will work in groups to solve problems in a real-world context and learn to explore mathematical ideas in depth. The activity aims to help students make meaningful connections between their learning and the real world, use technology to help them in their problem-solving and, most importantly, find joy in the learning of Mathematics.<br>
 
@@ -75,8 +74,6 @@ To help our Primary 4 low progress learners, we have implemented the ICAN progra
 
 ##### ENHANCING PARENT-SCHOOL PARTNERSHIP 
 
-
-##### MATHEMATICS WORKSHOPS FOR PARENTS
 
 **Mathematics Workshops for Parents**<br>
 
