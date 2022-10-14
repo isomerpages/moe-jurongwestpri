@@ -7,23 +7,48 @@ description: ""
 
 **Games Infusion**<br>
 
-The department believes in using games and hands-on activities to engage our students in the process of active learning. As part of the school’s effort to create a conducive learning environment for all students, our teachers have been incorporating hands-on activities using manipulatives in the delivery of our lessons. The use of manipulatives such as Play Money, Fraction discs, interlocking cubes etc. promotes students’ engagement and participation in the learning process. Opportunities are provided for students to discover, process, and apply new information to make their learning authentic.
+The department believes in using games and hands-on activities to engage our students in the process of active learning. As part of the school’s effort to create a conducive learning environment for all students, our teachers have been incorporating hands-on activities using manipulatives in the delivery of our lessons. The use of manipulatives such as Play Money, Fraction discs, interlocking cubes etc. promotes students’ engagement and participation in the learning process. Opportunities are provided for students to discover, process, and apply new information to make their learning authentic.<br>
+
+![](/images/Math%20prog/Math%201.jpg)<br>
+
+![](/images/Math%20prog/Math%202.jpg)<br>
+
+![](/images/Math%20prog/Math%203.jpg)
+
 
 **Math Games Week**<br>
 
-In Term 3, our Primary 1 to Primary 5 students are provided with a platform to play competitively against their peers in the annual Math Games Week. Games such as Numero, Math Warrior and Fun with Tangrams provide a meaningful situation for the application of mathematical skills. Through games, students build their confidence and develop positive attitudes towards Mathematics, reducing the fear of failures and errors.
+In Term 3, our Primary 1 to Primary 5 students are provided with a platform to play competitively against their peers in the annual Math Games Week. Games such as Numero, Math Warrior and Fun with Tangrams provide a meaningful situation for the application of mathematical skills. Through games, students build their confidence and develop positive attitudes towards Mathematics, reducing the fear of failures and errors.<br>
+
+![](/images/Math%20prog/Math%20games%20week.jpg)<br>
+
+![](/images/Math%20prog/Math%20games%20week%202.jpg)<br>
+
+![](/images/Math%20prog/Math%20games%20week%203.jpg)<br>
+
 
 ##### WIRELESS EXPERIENTIAL LEARNING
 
 **Bringing Authentic Context to Learning**<br>
 
-Primary 4 students will work in groups to solve problems in a real-world context and learn to explore mathematical ideas in depth. The activity aims to help students make meaningful connections between their learning and the real world, use technology to help them in their problem-solving and, most importantly, find joy in the learning of Mathematics.
+Primary 4 students will work in groups to solve problems in a real-world context and learn to explore mathematical ideas in depth. The activity aims to help students make meaningful connections between their learning and the real world, use technology to help them in their problem-solving and, most importantly, find joy in the learning of Mathematics.<br>
+
+![](/images/Math%20prog/Math%20wireless%201.jpg)<br>
+
+![](/images/Math%20prog/Math%20wireless%202.jpg)<br>
+
+
 
 ##### FUNDAMATICS
 
 **Strengthening the Fundamentals by Having Fun with Mathematics**<br>
 
-FUNdamatics provides another channel for students to be actively and meaningfully occupied during recess. The games have been carefully curated with the aim of improving students’ factual fluency. We also hope to inculcate in students a greater interest and love for the subject.
+FUNdamatics provides another channel for students to be actively and meaningfully occupied during recess. The games have been carefully curated with the aim of improving students’ factual fluency. We also hope to inculcate in students a greater interest and love for the subject.<br>
+
+![](/images/Math%20prog/Math%20fundamatic%201.jpg)<br>
+
+![](/images/Math%20prog/Math%20fundamatic%202.jpg)<br>
+
 
 ##### MATH OLYMPIAD
 
@@ -58,4 +83,3 @@ To help our Primary 4 low progress learners, we have implemented the ICAN progra
 The department organises a Parents’ Engagement Session with video recordings sent to the students’ Student Learning Space for Primary 1 to Primary 4. The workshop aims to encourage parent-child conversations and to better engage parents to support their child’s mathematical educational journey. This workshop also provides tips on how parents could guide their child in problem-solving using heuristics skills, relate Mathematics to real life situations and find ways to motivate their child. The recordings are deliberately designed to assimilate how the concepts are scaffolded and taught explicitly in class so that there could be coherence with what is being emphasised at home. Through the strong collaboration between our school and parents, we can help our students discover their strengths and interests in Mathematics. <br>
 
 To support our graduating cohort in their revision, a series of Math Clinic are conducted and hosted on Zoom Webinar in Term 3 by the Mathematics teachers. Essential heuristics questions commonly tested in examinations will be discussed during the sessions. Our students are encouraged to participate and parents are welcome to join in as well.
-
