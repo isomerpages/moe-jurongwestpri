@@ -13,10 +13,7 @@ Music curriculum in JWPS are designed and delivered guided by the following over
 
 Throughout their 6 years in JWPS, the children are exposed to various instruments with different timbres. Singing activities also permeate the 6-year music curriculum. Through these activities, music elements and concepts are weaved. Opportunities are provided, where appropriate to allow children to apply what they had learnt in the classroom.
 
-**Music Programmes**<br>
-
-
-1. Curriculum<br>
+**Curriculum**<br>
 
 Learn to play:
 * Ukulele (2-year cycle), 
@@ -28,9 +25,10 @@ Learn to play:
 * Classroom percussion instruments e.g. triangle, castanets, shakers, claves etc.
 <br>
 
-Learn to sing in: unison, canon, solo or in parts, partner songs<br>
+Learn to sing in: unison, canon, solo or in parts, partner songs<br> 
 
-2. Recess Interlude / Active Recess<br>
+**Recess Interlude / Active Recess**<br>
 
-Performances by students during their own recess timing on volunteer basis. 
+Performances by students during their own recess timing on volunteer basis. <br>
+
 Music instruments with various resources are also placed at designated corner of the school for students to engage in music making on their own.
