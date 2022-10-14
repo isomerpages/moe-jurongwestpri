@@ -16,6 +16,15 @@ PAL is an initiative to address the greater emphasis on non-academic programmes 
 
 ![](/images/PAL.jpg)
 
+
+
+|  |  |
+| -------- | -------- |
+|  ![](/images/PAL/PAL%201.jpg)    |   ![](/images/PAL/PAL%202.jpg)   |
+| ![](/images/PAL/PAL%203.jpg) |  ![](/images/PAL/PAL%204.jpg)|
+
+
+
 **What are PAL objectives?**<br>
 
 * Provide broad exposure through fun and varied activities in Sports and Outdoor Education, Performing and Visual Arts 
