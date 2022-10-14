@@ -36,11 +36,10 @@ Primary 4 students will work in groups to solve problems in a real-world context
 
 ![](/images/Math%20prog/Math%20wireless%202.jpg)<br>
 
+##### STRENGTHENING THE FUNDAMENTALS BY HAVING FUN WITH MATHEMATICS
 
+**FUNDAMATICS**<br>
 
-##### FUNDAMATICS
-
-**Strengthening the Fundamentals by Having Fun with Mathematics**<br>
 
 FUNdamatics provides another channel for students to be actively and meaningfully occupied during recess. The games have been carefully curated with the aim of improving students’ factual fluency. We also hope to inculcate in students a greater interest and love for the subject.<br>
 
