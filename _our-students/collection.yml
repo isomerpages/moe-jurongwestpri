@@ -2,5 +2,6 @@ collections:
   our-students:
     output: true
     order:
+      - Co Curricular Activities.md
       - CCE Programmes.md
       - Art Programmes.md
