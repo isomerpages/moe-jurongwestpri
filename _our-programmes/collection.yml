@@ -1,5 +1,5 @@
 collections:
-  our-students:
+  our-programmes:
     output: true
     order:
       - PE Programmes.md
