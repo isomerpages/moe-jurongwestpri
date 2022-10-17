@@ -2,15 +2,15 @@ collections:
   our-programmes:
     output: true
     order:
-      - PE Programmes.md
+      - Art Programmes.md
+      - CCE Programmes.md
+      - Co Curricular Activities.md
       - Cyber Wellness.md
-      - IPW Project Work.md
-      - PAL Programmes.md
-      - Science Programmes.md
-      - Music Programmes.md
-      - Math Programmes.md
       - EL Programmes.md
       - ICT Programmes.md
-      - Co Curricular Activities.md
-      - CCE Programmes.md
-      - Art Programmes.md
+      - IPW Project Work.md
+      - Math Programmes.md
+      - Music Programmes.md
+      - PAL Programmes.md
+      - PE Programmes.md
+      - Science Programmes.md
