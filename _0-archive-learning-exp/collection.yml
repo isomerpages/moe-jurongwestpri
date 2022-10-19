@@ -2,8 +2,6 @@ collections:
   0-archive-learning-exp:
     output: true
     order:
-      - MATHEMATICS/.keep
-      - MATHEMATICS/PROGRAMMES AND ACTIVITIES.md
       - MOTHER TONGUE LANGUAGE/.keep
       - MOTHER TONGUE LANGUAGE/CHINESE LANGUAGE.md
       - MOTHER TONGUE LANGUAGE/TAMIL LANGUAGE.md
