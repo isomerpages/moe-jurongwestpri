@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - APPLIED LEARNING PROGRAMME/.keep
-      - APPLIED LEARNING PROGRAMME/PLATFORMS.md
       - LIFE LONG PROGRAMME.md
       - ACCOLADES/.keep
       - ACCOLADES/Academic Accolades 2017.md
