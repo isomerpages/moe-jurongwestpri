@@ -2,7 +2,6 @@ collections:
   0-archive-alp-llp:
     output: true
     order:
-      - APPLIED LEARNING PROGRAMME/.keep
       - LIFE LONG PROGRAMME.md
       - ACCOLADES/.keep
       - ACCOLADES/Academic Accolades 2017.md
