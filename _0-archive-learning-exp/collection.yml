@@ -2,7 +2,6 @@ collections:
   0-archive-learning-exp:
     output: true
     order:
-      - ENGLISH/.keep
       - MATHEMATICS/.keep
       - MATHEMATICS/PROGRAMMES AND ACTIVITIES.md
       - MOTHER TONGUE LANGUAGE/.keep
