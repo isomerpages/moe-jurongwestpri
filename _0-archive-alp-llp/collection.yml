@@ -1,9 +1,4 @@
 collections:
   0-archive-alp-llp:
     output: true
-    order:
-      - ACCOLADES/.keep
-      - ACCOLADES/Academic Accolades 2017.md
-      - ACCOLADES/Academic Accolades 2018.md
-      - ACCOLADES/Academic Accolades 2019.md
-      - ACCOLADES/Non Academic Accolades 2017.md
+    order: []
