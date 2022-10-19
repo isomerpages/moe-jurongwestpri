@@ -1,7 +1,4 @@
 collections:
   0-archive-learning-exp:
     output: true
-    order:
-      - MOTHER TONGUE LANGUAGE/.keep
-      - MOTHER TONGUE LANGUAGE/CHINESE LANGUAGE.md
-      - MOTHER TONGUE LANGUAGE/TAMIL LANGUAGE.md
+    order: []
