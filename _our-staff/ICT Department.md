@@ -32,6 +32,6 @@ The four main ICT outcomes for the department are:
 
 For more information about ICT programmes and activities in JWPS:
 
-[ICT programmes](/ICTprog)
+[ICT Programmes](/ICTprog)
 
 [Cyber Wellness](/Cyberwellness)
