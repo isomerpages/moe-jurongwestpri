@@ -35,10 +35,10 @@ Our goals:
 
 For more information about PAM programmes and activities in JWPS:
 
-[PE programmes](/PEprog)
+[PE Programmes](/PEprog)
 
-[Art programmes](/Artprog)
+[Art Programmes](/Artprog)
 
-[Music programmes](/Musicprog)
+[Music Programmes](/Musicprog)
 
-[PAL programmes](/PALprog)
+[PAL Programmes](/PALprog)
