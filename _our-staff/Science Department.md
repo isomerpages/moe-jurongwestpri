@@ -26,4 +26,4 @@ The Science Department aims to develop inquiring learners who are able to use hi
 
 For more information about Science programmes and activities in JWPS:
 
-[Science programmes and activities](/SCprogram)
+[Science Programmes](/SCprogram)
