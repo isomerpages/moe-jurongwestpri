@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - MTL CL Programmes.md
       - Art Programmes.md
       - CCE Programmes.md
       - Co Curricular Activities.md
@@ -11,6 +10,7 @@ collections:
       - ICT Programmes.md
       - IPW Project Work.md
       - Math Programmes.md
+      - MTL CL Programmes.md
       - Music Programmes.md
       - PAL Programmes.md
       - PE Programmes.md
