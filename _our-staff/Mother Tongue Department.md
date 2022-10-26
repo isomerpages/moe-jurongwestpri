@@ -23,8 +23,10 @@ description: ""
 
 | Senior Teacher |
 | --- |
-| Mrs Ramachandran P
-| Mdm Sopianti Bte Abdullah  |<br>
+| Mrs Ramachandran P |
+| Mdm Sopianti Bte Abdullah  |
+ 
+ <br>
 
 <br>
 [Chinese Programmes](/our-programmes/MTLCL/)
