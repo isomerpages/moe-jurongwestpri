@@ -26,4 +26,4 @@ description: ""
 | Mdm Sopianti Bte Abdullah  |
 
 <br>
-[Chinese Programmes](/our-programmes/MTLCL/)
+[Chinese Programmes](/MTLCL/)
