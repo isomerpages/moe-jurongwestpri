@@ -6,10 +6,14 @@ description: ""
 ##### Lunar New Year Celebration and MT Fortnight Activities
 <br>
 
-Every year, JWPS welcomes the Lunar New Year with a series of fun-filled activities and a spectacular celebration in school. 
-Teachers and students are charmed by the energetic stage performances like Wushu, Chinese Orchestra, acrobatic stunts, and many more. The highlight of this yearly event is the much anticipated performance by our very own JWPS Chinese Dance Club. 
-Students also get to try their hands on a variety of classroom activities, like designing their own DIY Lunar New Year Cards and origami folding of the Zodiac Animal of the Year using red packets, so that they can send their sincere wishes to family and friends.
+Every year, JWPS welcomes the Lunar New Year with a series of fun-filled activities and a spectacular celebration in school. <br>
+
+Teachers and students are charmed by the energetic stage performances like Wushu, Chinese Orchestra, acrobatic stunts, and many more. The highlight of this yearly event is the much anticipated performance by our very own JWPS Chinese Dance Club. <br>
+
+Students also get to try their hands on a variety of classroom activities, like designing their own DIY Lunar New Year Cards and origami folding of the Zodiac Animal of the Year using red packets, so that they can send their sincere wishes to family and friends.<br>
+
 In line with MT Fortnight, our school also organises many hands-on activities as part of the recess interlude. These carefully curated activities and cultural programmes aim to deepen our students' sense of belonging by understanding their social roles in their respective cultures and promote the learning of MT languages in a fun and engaging way.
+<br>
 
 ##### Reading Mums
 <br>
@@ -30,5 +34,4 @@ We hope our students can pick up the love for reading during their 6 years educa
 <br>
 
 In JWPS, our students are given opportunities to participate in various internal and external competitions such as calligraphy, writing competitions, video production and online quizzes. These competitions provide the platforms for our students to showcase their talents, gain confidence and interest in learning the language and also display our school’s THInKER values. 
-For the past few years, our students have been actively participating in many well-established competitions such as the International Chinese Language (ICLC), National Chinese Challenge, National Memory Games Challenge, National Picture-book Creation and Cluster Chinese Calligraphy Competition.  They have achieved a number of awards and recognitions from these experiences and have learnt to interact and make friends with their peers from other schools. 
-
+For the past few years, our students have been actively participating in many well-established competitions such as the International Chinese Language (ICLC), National Chinese Challenge, National Memory Games Challenge, National Picture-book Creation and Cluster Chinese Calligraphy Competition.  They have achieved a number of awards and recognitions from these experiences and have learnt to interact and make friends with their peers from other schools.
