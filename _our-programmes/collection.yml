@@ -2,7 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
-      - MTL Programmes.md
+      - MTL CL Programmes.md
       - Art Programmes.md
       - CCE Programmes.md
       - Co Curricular Activities.md
