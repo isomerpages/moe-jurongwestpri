@@ -42,6 +42,7 @@ Students are also given differentiated support at various points of instruction 
 | Mdm Margaret Lim
 
 
+<br>
 For more information about English programmes and activities in JWPS:
 
 [English programmes and activities](/ELprogram)
