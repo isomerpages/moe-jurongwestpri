@@ -11,9 +11,9 @@ The lower block students did Agal Vilakku painting (lamp painting) while Rangoli
 
 ##### Collaboration with Sinda
 
-We collaborated with Sinda to conduct a virtual motivational talk for Primary 6 students on ‘Power Study Habits’ - tips to stay motivated and study smart. Students found it informative and helpful, especially during their crucial PSLE year. <br>
+We have been collaborating with Sinda to provide additional support to our students. <br>
 
-The speaker shared many useful tips that will help students with their time management and overcome the challenges they face.<br>
+One of the programmes is conducting motivational talk for Primary 6 students on ‘Power Study Habits’ - tips to stay motivated and study smart. Students found it informative and helpful, especially during their crucial PSLE year. The speaker shared many useful tips that will help students with their time management and overcome the challenges they face.<br>
 
 ##### Deepavali Recess Interlude Activities for All students
 <br>
