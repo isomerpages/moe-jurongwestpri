@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/SchWebsite_Gif_2.gif
+      background: /images/Homepage/image_slide.gif
       url: /open-house/
       key_highlights:
         - title: Contact us
