@@ -30,4 +30,7 @@ description: ""
 [Chinese Programmes](/MTLCL)
 
 <br>
+[Malay Programmes](/MTLML)
+
+<br>
 [Tamil Programmes](/MTLTL)
