@@ -11,4 +11,4 @@ third_nav_title: Notices To Parents
 
 | Date | Notice | 
 | -------- | -------- |
-|      |      |
+|    6 Oct 2022  |   072 CCA Recruitment 2022.pdf   |
