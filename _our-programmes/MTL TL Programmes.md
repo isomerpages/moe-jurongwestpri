@@ -15,3 +15,7 @@ We collaborated with Sinda to conduct a virtual motivational talk for Primary 6 
 
 The speaker shared many useful tips that will help students with their time management and overcome the challenges they face.<br>
 
+##### Deepavali Recess Interlude Activities for All students
+<br>
+Deepavali celebrations in our school engage students of all races to experience and learn about the Indian culture through recess interlude activities. These activities include henna drawing, playing and learning about musical instruments and kolam and murukku making. It was heartening to see our students appreciate a culture different from theirs.
+
