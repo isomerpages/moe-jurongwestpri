@@ -26,7 +26,8 @@ You shall not make any deletions, additions, adjustments, alterations, adaptatio
 
 Except as expressly permitted by these Terms of Use, you shall not reproduce, publish, upload, post, display, transmit or otherwise distribute this Website or any of the Contents in any manner or in any form, without the prior written permission of GovTech. You acknowledge and agree that any use of the Contents otherwise than in accordance with these Terms of Use is a violation of intellectual property rights subsisting therein
 
-Disclaimers against Warranties, Representations and Liability
+##### Disclaimers against Warranties, Representations and Liability
+
 This Website and the Contents are provided on an “as is” and “as available” basis without warranties of any kind. To the fullest extent permitted by law, GovTech does not make any representations or warranties whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:<br>
 
 a. any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality or fitness for any particular purpose of the Contents of this Website; and<br>
