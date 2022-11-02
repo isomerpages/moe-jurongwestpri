@@ -2,7 +2,6 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - P1 Admission for MK Students.md
       - MK@Jurong West.md
       - Your Child at MK@JWPS.md
       - Our MK Staff.md
@@ -14,4 +13,5 @@ collections:
       - KCare Facilities.md
       - Financial Support.md
       - EYC Partners.md
+      - P1 Admission for MK Students.md
       - Contact Us.md
