@@ -17,6 +17,9 @@ You can refer to the [brochure]() for more information about MK curriculum and e
 ##### MK gate opening hours
 
 The entrance is via the MK Gate beside block 601A Multi-storey carpark. KCARE/MK staff will be at the foyer to receive/dismiss your child.
+
+Authorisation Passes are required for parents/caregivers to have access to the  foyer during arrival and dismissal times.<br>
+
 ![](/images/MK/Waiting%20area.jpeg)
 The gate opening hours are:
 
@@ -32,7 +35,7 @@ The gate opening hours are:
 
 Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 – KCare / 96474301 - MK) first.<br>
 
-Authorisation Passes are required for parents/caregiver to have access to the  foyer during arrival and dismissal times.<br>
+
 
 As the KCare and MK staff will be busy taking care of all the children, you may have to wait at the foyer for up to **15 minutes** if you send/fetch your child outside the above gate opening hours.
 
