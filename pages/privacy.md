@@ -23,7 +23,7 @@ permalink: /privacy/
 
 6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-7. Please contact 67933419 or  if you:<br>
+7. Please contact 67933419 or email us at <a href="mailto:jwsc2@ymca.edu.sg">jwps@moe.edu.sg</a> if you:<br>
 
 (a) have any enquires or feedback on our data protection policies and procedures,<br>
 
