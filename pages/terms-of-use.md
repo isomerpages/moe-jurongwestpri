@@ -2,7 +2,6 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-
 Thank you for visiting JurongWestPri.moe.edu.sg. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
 <br>
 
@@ -21,7 +20,7 @@ Thank you for visiting JurongWestPri.moe.edu.sg. By accessing and using this web
 
 **Privacy Policy**
 
-4. Click here to review this website Privacy Statement.
+4. Click here to review this website  [Privacy Statement](/privacy).
 
 <br>
 
