@@ -2,13 +2,13 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - MK Uniform.md
       - MK@Jurong West.md
       - Your Child at MK@JWPS.md
       - Our MK Staff.md
       - MK Facilities.md
       - Admission.md
       - Withdrawal from MK.md
+      - MK Uniform.md
       - KCare.md
       - KCare Facilities.md
       - Financial Support.md
