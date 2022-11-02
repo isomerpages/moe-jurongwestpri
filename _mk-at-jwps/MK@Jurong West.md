@@ -43,9 +43,9 @@ The security guard’s main role is to maintain safety and security. They are **
 
 For safety and security reasons, all parents/caregivers are NOT allowed to enter the MK/KCare premise. We seek your co-operation for the safety of your child and all other children.
 
-##### Park at Blk 601A Multi-storey Carpark only
+##### Park at Blk 601A Multi-storey Carpark
 
-For parents or caregivers who drive, you are strongly encouraged to park at Block 601A multi-storey carpark. 
+For parents or caregivers who drive, you are strongly encouraged to park at the visitor lots inside block 601A multi-storey carpark. 
 
 
 		
