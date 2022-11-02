@@ -10,4 +10,5 @@ Depending on the availability of P1 vacancies during phase 2A, your child may or
 There is no guarantee that your child will be admitted to JWPS under phase 2A. If your child is unsuccessful under phase 2A, you can apply under phase 2C.
 <br>
 
-Please refer to the MOE P1 registration website for more information.
+For information on Primary 1 Registration Exercise, please visit:  
+<a href="https://www.moe.gov.sg/primary/p1-registration" target = "_blank">https://www.moe.gov.sg/primary/p1-registration</a>
