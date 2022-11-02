@@ -16,7 +16,7 @@ You can refer to the [brochure]() for more information about MK curriculum and e
 		
 ##### MK gate opening hours
 
-The entrance is via the MK Gate beside block 601A Multi-storey carpark. KCARE/MK staff will be at the foyer to receive/dismiss your child.
+The entrance is via the MK Gate beside block 601A multi-storey carpark. KCARE/MK staff will be at the foyer to receive/dismiss your child.
 
 Authorisation Passes are required for parents/caregivers to have access to the  foyer during arrival and dismissal times.<br>
 
