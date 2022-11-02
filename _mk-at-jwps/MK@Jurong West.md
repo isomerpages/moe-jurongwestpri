@@ -35,8 +35,6 @@ The gate opening hours are:
 
 Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 – KCare / 96474301 - MK) first.<br>
 
-
-
 As the KCare and MK staff will be busy taking care of all the children, you may have to wait at the foyer for up to **15 minutes** if you send/fetch your child outside the above gate opening hours.
 
 The security guard’s main role is to maintain safety and security. They are **not required** to call the MK/KCARE staff on parents’ behalf.
