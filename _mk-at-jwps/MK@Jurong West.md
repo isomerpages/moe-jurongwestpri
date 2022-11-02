@@ -41,5 +41,11 @@ The security guard’s main role is to maintain safety and security. They are **
 ##### MK/KCare Premise: No entry for parents/caregivers
 
 For safety and security reasons, all parents/caregivers are NOT allowed to enter the MK/KCare premise. We seek your co-operation for the safety of your child and all other children.
+
+##### Park at Blk 601A Multi-storey Carpark only
+
+For parents or caregivers who drive, you are strongly encouraged to park at Block 601A multi-storey carpark. 
+
+
 		
 For more information about MK and its curriculum, please refer to the [MOE MK website](https://moe.gov.sg/preschool/moe-kindergarten/).
