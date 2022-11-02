@@ -30,7 +30,9 @@ The gate opening hours are:
 | 5:30pm to 7pm | Dismissal of KCare (AM) students |
 
 
-Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 – KCare / 96474301 - MK) first.
+Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 – KCare / 96474301 - MK) first.<br>
+
+Authorisation Passes are required for parents/caregiver to have access to the designated entry point in the school during drop-off and dismissal times.<br>
 
 As the KCare and MK staff will be busy taking care of all the children, you may have to wait at the foyer for up to **15 minutes** if you send/fetch your child outside the above gate opening hours.
 
