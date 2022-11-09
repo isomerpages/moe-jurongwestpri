@@ -13,6 +13,10 @@ We aim to nurture our students to be:<br>
 
 * Digital learners who leverage technology for learning and can find, think, apply and digitally create, navigate space in a safe and responsible way.<br>
 
+**Technology-enriched Programmes**
+<br>
+![](/images/ICTprog/ICT%20prog.png)
+
 
 **Bring-Your-Own-Device Programme** (For Primary 5 and Primary 6 students)<br>
 
@@ -22,11 +26,16 @@ The school recognizes the need to prepare students for a rapidly changing world 
 
 Students will bring their personal laptop to school and learning can take place any time, anywhere, online and offline!  This enhances the learning experiences for our students as we carefully integrate technology into the curriculum.<br>
 
+![](/images/ICTprog/BYOD1.jpg)
+<br>
+![](/images/ICTprog/BYOD2.jpg)
 
 **Code For Fun Programme**
 
 
 The Code For Fun Enrichment Programme aims to increase primary school students' knowledge of computational thinking, coding and making. The Code For Fun Enrichment Programme (offered jointly by IMDA and MOE) is offered to all MOE primary schools.<br>
+
+![](/images/ICTprog/Code%20for%20Fun.png)
 
 In this programme, students learnt more about Computational thinking and how it can be applied to other aspects of their life.<br>
 
