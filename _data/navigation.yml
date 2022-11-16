@@ -1,15 +1,22 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/About Us/jwps_school_crest.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About JWPS
+    url: /about-us/principals-foreword-2022
+  - title: Our Staff
+    url: /cce/
+  - title: For Parents
+    url: /for-parents/comm/
+  - title: Student Support
+    url: /uplift/
+  - title: CCA
+    url: /co-curricular-activities/
+  - title: Partners
+    url: /our-partnership/school-advisory-committee/
+  - title: Vendors
+    url: /vendors/
+  - title: Admission
+    url: /admission-and-forms/primary-1-registration/
+  - title: Student Care Centre
+    url: /student-care-centre/
+  - title: MOE Kindergarten
+    url: /mk-at-jwps/mk/

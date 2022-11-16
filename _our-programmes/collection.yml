@@ -1,0 +1,19 @@
+collections:
+  our-programmes:
+    output: true
+    order:
+      - Art Programmes.md
+      - CCE Programmes.md
+      - Co Curricular Activities.md
+      - Cyber Wellness.md
+      - EL Programmes.md
+      - ICT Programmes.md
+      - IPW Project Work.md
+      - Math Programmes.md
+      - MTL CL Programmes.md
+      - MTL ML Programmes.md
+      - MTL TL Programmes.md
+      - Music Programmes.md
+      - PAL Programmes.md
+      - PE Programmes.md
+      - Science Programmes.md

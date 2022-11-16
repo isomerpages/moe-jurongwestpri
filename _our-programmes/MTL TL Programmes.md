@@ -1,0 +1,20 @@
+---
+title: MTL TL Programmes
+permalink: /MTLTL/
+description: ""
+---
+##### MT Fortnight Activities for TL students
+
+Every year, a series of Tamil cultural activities are conducted for our Tamil students as post-exam activities to create a deeper understanding about their culture and history. Conducted in Tamil by facilitators, these hands-on tasks also provide an immersive environment for students to learn and use the language.<br>
+
+The lower block students did Agal Vilakku painting (lamp painting) while Rangoli kolam design were done by the middle block students. The P5 students on the other hand did copper tooling which is a form of Indian metal art. Students were engaged and had fun during these activities. <br>
+
+##### Collaboration with Sinda
+
+We have been collaborating with Sinda to provide additional support to our students. <br>
+
+One of the programmes is conducting motivational talk for Primary 6 students on ‘Power Study Habits’ - tips to stay motivated and study smart. Students found it informative and helpful, especially during their crucial PSLE year. The speaker shared many useful tips that will help students with their time management and overcome the challenges they face.<br>
+
+##### Deepavali Recess Interlude Activities for All students
+<br>
+Deepavali celebrations in our school engage students of all races to experience and learn about the Indian culture through recess interlude activities. These activities include henna drawing, playing and learning about musical instruments and kolam and murukku making. It was heartening to see our students appreciate a culture different from theirs.

@@ -1,0 +1,21 @@
+collections:
+  for-parents:
+    output: true
+    order:
+      - Communication with Teachers and General Office.md
+      - Form Teachers.md
+      - Notices To Parents/.keep
+      - Notices To Parents/TEAMWORK | P1.md
+      - Notices To Parents/HONESTY | P2.md
+      - Notices To Parents/INNOVATIVENESS | P3.md
+      - Notices To Parents/KINDNESS | P4.md
+      - Notices To Parents/ENTHUSIASM | P5.md
+      - Notices To Parents/RESILIENCE | P6.md
+      - Arrival and Dismissal.md
+      - Booklists.md
+      - Other Information/.keep
+      - Other Information/Primary 1 (Briefing Slides).md
+      - Other Information/SLS Getting Started.md
+      - Other Information/Cyber Wellness.md
+      - Other Information/MOE Sexuality Education.md
+      - "Other Information/WE Stories : Secondary schools in West Zone.md"
