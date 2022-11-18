@@ -17,7 +17,7 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 
 | Head of Department |
 | --- |
-| Ms  |<br>
+| Ms Wai Lai May |<br>
   
 
 | Level Head |
