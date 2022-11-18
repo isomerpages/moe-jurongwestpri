@@ -3,7 +3,6 @@ title: Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-
 ![smc](/images/SMC2022.jpg)
 
 
@@ -31,7 +30,7 @@ description: ""
 | Character and Citizenship Education     | Mdm Nor Hazilah Bte Hasan     |
 | English  | Mdm Hamidah Binti Osman  |
 | Information & Communication Technology | Ms Carol Cheong Wei Siang  |
-| Mathematics |  Mrs Jerica Koh - Lim Pei Cheng |
+| Mathematics |  Ms Wai Lai May |
 |  Mother Tongue  |  Ms Wong Sheau Yun |
 |  Physical Education and Co-Curricular Activities |  Mr Lau Ban Hwee |
 | Science  |  Mdm Patricia Goh Hwee Sung  |
@@ -44,11 +43,11 @@ description: ""
 |  |  | 
 | -------- | -------- | 
 | Year Head (Upper Block)     | Mrs Sophia Ow Yong     |
-| Year Head (Middle Block)     | Ms Wai Lai May     |
-| Year Head (Lower Block)     | Ms Lau Chin Yong     |
+| Year Head (Middle Block)     | Ms Lau Chin Yong     |
+| Year Head (Lower Block)     | Ms Jerica Koh     |
 | Asst Year Head (Upper Block)     | Ms Emily Lim     |
 | Asst Year Head (Middle Block)     | Mrs Tan-Tan Mei Ching     |
-| Asst Year Head (Lower Block)     | Ms Yvonne Chew (Covering)     |
+| Asst Year Head (Lower Block)     | Ms Yvonne Chew / Ms Seah Hui Yan     |
 
 <br>
 
