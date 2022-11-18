@@ -7,36 +7,38 @@ description: ""
 
 | Year Head | Assistant Year Head |
 | -------- | -------- |
-| Ms Lau Chin Yong    | Ms Yvonne Chew (covering)    |
+| Ms Jerica Koh    | Ms Yvonne Chew / Ms Seah Hui Yan    |
 
 
 Primary 1 : Teamwork<br>
 
-|    Class   |         Form Teacher        |    Form Teacher   |
-|:----------:|:---------------------------:|:-----------------:|
-| Teamwork 1 |     Mdm Cheng Mui Tiang     |    Mdm Xia Lu     |
-| Teamwork 2 |        Mdm Noorwanie        |  Mdm Siti Abesah  |
-| Teamwork 3 |         Mdm Gomathi         |   Ms Yvonne Chew  |
-| Teamwork 4 |           Mdm Dina          |  Mrs Margaret Lim |
-| Teamwork 5 |         Mdm Suhaila         |      Mrs Rama     |
-| Teamwork 6 | Mdm Doris Heng / Ms Adriana | Mdm Francis Irene |
+|   Class   |    Form Teacher   |      Form Teacher      |
+|:---------:|:-----------------:|:----------------------:|
+| Teamwork 1 | Mdm Priscilla Lim |    Mdm Phang Kee Mee   |
+| Teamwork 2 |   Mdm Cindy Sim   |       Mdm Lalitha      |
+| Teamwork 3 |  Mdm Hui Yin Peng |     Mdm Toh Lay Har    |
+| Teamwork 4 |  Mdm Tan Li Ping  | Mrs Lew-Wong Mei Foong |
+| Teamwork 5 |    Ms Kelly Tan   |    Mdm Wang Xiaosong   |
+| Teamwork 6 |   Ms Amanda Tan   |    Mdm Yu Shui Shui    |
+
 
 Primary 2 : Honesty<br>
 
-|   Class   |    Form Teacher   |      Form Teacher      |
-|:---------:|:-----------------:|:----------------------:|
-| Honesty 1 | Mdm Priscilla Lim |    Mdm Phang Kee Mee   |
-| Honesty 2 |   Mdm Cindy Sim   |       Mdm Lalitha      |
-| Honesty 3 |  Mdm Hui Yin Peng |     Mdm Toh Lay Har    |
-| Honesty 4 |  Mdm Tan Li Ping  | Mrs Lew-Wong Mei Foong |
-| Honesty 5 |    Ms Kelly Tan   |    Mdm Wang Xiaosong   |
-| Honesty 6 |   Ms Amanda Tan   |    Mdm Yu Shui Shui    |
+
+|    Class   |         Form Teacher        |    Form Teacher   |
+|:----------:|:---------------------------:|:-----------------:|
+| Honesty 1 |     Mdm Cheng Mui Tiang     |    Mdm Xia Lu     |
+| Honesty 2 |        Mdm Noorwanie        |  Mdm Siti Abesah  |
+| Honesty 3 |         Mdm Gomathi         |   Ms Yvonne Chew  |
+| Honesty 4 |           Mdm Dina          |  Mrs Margaret Lim |
+| Honesty 5 |         Mdm Suhaila         |      Mrs Rama     |
+| Honesty 6 | Mdm Doris Heng / Ms Adriana | Mdm Francis Irene |
 
 #### Middle Block (P3, P4)
 
 | Year Head | Assistant Year Head |
 | -------- | -------- |
-| Ms Wai Lai May    | Ms Tan-Tan Mei Ching    |
+| Ms Lau Chin Yong    | Ms Tan-Tan Mei Ching    |
 
 Primary 3 : Innovativeness<br>
 
