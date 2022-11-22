@@ -67,7 +67,7 @@ description: ""
 | Chinese  |  Mdm Pua Chia Wei    |
 | English  |  Ms Farhana (Covering)   |
 | Mathematics  |  Ms Esther Neo  |
-| Science  |  Ms Chong Siew Hui  | 
+| Science  |    | 
 
 <br>
 
