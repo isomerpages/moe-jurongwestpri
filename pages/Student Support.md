@@ -40,12 +40,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 | ST LSP | Mrs Margaret Lim  | 
 |  ST SEN  | Mdm K Sunitha |
 
-#### SEN Officers
 
-
-|  |  |
-| ---| --- |
-|  Lead SEN Officer  | Ms Lim Miao Jing |
 
 
 
