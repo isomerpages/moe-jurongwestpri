@@ -16,11 +16,11 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 | -------- | -------- | 
 | HOD Student Management | Ms Tay Siew Hwee |
 | Year Head (Upper Block)     | Mrs Sophia Ow Yong     |
-| Year Head (Middle Block)     | Ms Wai Lai May     |
+| Year Head (Middle Block)     | Ms Lau Chin Yong     |
 | Year Head (Lower Block)     | Ms Jerica Koh     |
 | Asst Year Head (Upper Block)     | Ms Emily Lim     |
 | Asst Year Head (Middle Block)     | Mrs Tan-Tan Mei Ching     |
-| Asst Year Head (Lower Block)     | Ms Yvonne Chew (Covering)     |
+| Asst Year Head (Lower Block)     | Ms Yvonne Chew / Seah Hui Yan     |
 
 
 
@@ -40,12 +40,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 | ST LSP | Mrs Margaret Lim  | 
 |  ST SEN  | Mdm K Sunitha |
 
-#### SEN Officers
 
-
-|  |  |
-| ---| --- |
-|  Lead SEN Officer  | Ms Lim Miao Jing |
 
 
 

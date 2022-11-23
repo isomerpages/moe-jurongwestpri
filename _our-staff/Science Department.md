@@ -16,7 +16,7 @@ The Science Department aims to develop inquiring learners who are able to use hi
 
 | Level Head |
 | --- |
-| Ms Chong Siew Hui |<br>
+|  |<br>
 
 
 | Senior Teacher |

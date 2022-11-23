@@ -17,7 +17,7 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 
 | Head of Department |
 | --- |
-| Ms  |<br>
+| Ms Wai Lai May |<br>
   
 
 | Level Head |
@@ -27,7 +27,7 @@ Based on the Framework of the Singapore Mathematics Curriculum, we aim to :
 
 | Senior Teacher |
 | --- |
-| Mdm Hoon Mee Ling Jessie
+| Mrs Teow-Hoon Mee Ling Jessie
 
 For more information about Mathematics programmes and activities in JWPS:
 
