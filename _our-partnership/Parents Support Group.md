@@ -26,4 +26,4 @@ description: ""
 | Ms Zaleha<br>Ms Celine Hia<br>Ms Annie Kamma Punyada<br>Ms Bridget Tan<br>Ms Ivy Yip<br>Ms Karen Loo<br>Ms Sivasankari<br>Ms Kathy Quek |
 
 ![](/images/CCE%20activities/NDP%201.jpeg)
-To join us, please complete our [PSG Form](go.gov.sg/jwpspsg).
+To join us, please complete our [PSG Form](https://go.gov.sg/jwpspsg).
