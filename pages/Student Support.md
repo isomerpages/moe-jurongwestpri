@@ -20,7 +20,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 | Year Head (Lower Block)     | Ms Jerica Koh     |
 | Asst Year Head (Upper Block)     | Ms Emily Lim     |
 | Asst Year Head (Middle Block)     | Mrs Tan-Tan Mei Ching     |
-| Asst Year Head (Lower Block)     | Ms Yvonne Chew / Seah Hui Yan     |
+| Asst Year Head (Lower Block)     | Ms Yvonne Chew / Ms Seah Hui Yan     |
 
 
 
@@ -29,7 +29,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 |  |  |
 | --- | --- |
-| School Counsellor  |    |
+| School Counsellor  |  Ms Chang Xue Li Sherry  |
 
 
 #### Senior Teacher
