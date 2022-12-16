@@ -3,9 +3,6 @@ title: Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-![smc](/images/SMC2022.jpg)
-
-
 
 
 | Principal | 
@@ -19,7 +16,7 @@ description: ""
 | Vice Principal | 
 | -------- | 
 | Mr Lim Chin Guan, VP Admin
-| Mr Pillay P Krishnan, VP Academic | 
+| Ms Tan Wan Kheng, VP Academic | 
 
 
 <br>

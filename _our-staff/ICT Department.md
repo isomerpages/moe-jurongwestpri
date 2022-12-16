@@ -3,17 +3,6 @@ title: ICT Department
 permalink: /ict/
 description: ""
 ---
-We aim to develop our students to be ethical, confident, competent and independent users of ICT.  
-  
-The four main ICT outcomes for the department are:  
-
-*   Safe and ethical ICT user
-*   Self-directed Learner
-*   Collaborative Learner
-*   Confident Learner
-
-
-
 | Head Of Department |
 | --- |
 | Ms Cheong Wei Siang Carol |<br>
@@ -30,6 +19,19 @@ The four main ICT outcomes for the department are:
 | --- |
 | Mdm Sopianti Bte Abdullah
 
+<br>
+We aim to develop our students to be ethical, confident, competent and independent users of ICT.  
+ <br>
+ 
+The four main ICT outcomes for the department are:  
+<br>
+
+*   Safe and ethical ICT user
+*   Self-directed Learner
+*   Collaborative Learner
+*   Confident Learner
+
+<br>
 For more information about ICT programmes and activities in JWPS:
 
 [ICT Programmes](/ICTprog)

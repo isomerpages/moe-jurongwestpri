@@ -3,7 +3,6 @@ title: Mother Tongue Department
 permalink: /mtl/
 description: ""
 ---
-![MTL](/images/MTL2022.jpg)
 
 | Head of Department |
 | --- |
