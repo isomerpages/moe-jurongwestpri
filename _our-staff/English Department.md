@@ -3,7 +3,6 @@ title: English Department
 permalink: /ELDept/
 description: ""
 ---
-
 | Head of Department |
 | --- |
 | Mdm Hamidah Binti Osman |<br>
@@ -26,6 +25,8 @@ description: ""
 
 <br>
 The English Department aims to facilitate the acquisition of English proficiency in students by providing them with opportunities to integrate listening, speaking, reading, viewing and writing into the language learning process.
+<br>
+
 To achieve our goals, the school’s EL curriculum is developed from MOE’s English Syllabus 2020 and closely aligned to the STELLAR (Strategies for English Language Learning and Reading) programme. In addition to that, the school-based curriculum caters to the learning needs of our student profile.
 <br>
 
