@@ -3,7 +3,6 @@ title: ICT Department
 permalink: /ict/
 description: ""
 ---
-
 | Head Of Department |
 | --- |
 | Ms Cheong Wei Siang Carol |<br>
@@ -21,7 +20,6 @@ description: ""
 | Mdm Sopianti Bte Abdullah
 
 <br>
-
 We aim to develop our students to be ethical, confident, competent and independent users of ICT.  
  <br>
  
