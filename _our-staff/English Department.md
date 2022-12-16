@@ -19,7 +19,6 @@ As students progress across the levels, they learn to make the transition from l
 
 Students are also given differentiated support at various points of instruction to optimise their learning. Teachers carry out Differentiated Instruction by designing appropriate activities to support, reinforce and extend their learning. They also harness e-Pedagogy design learning experiences that enhance student engagement, subject mastery and help students acquire and strengthen their 21st Century Competencies.
 
-![EL](/images/EL2022.jpg)
 
 | Head of Department |
 | --- |
