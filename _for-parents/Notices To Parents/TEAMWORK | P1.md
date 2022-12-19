@@ -13,4 +13,4 @@ third_nav_title: Notices To Parents
 
 | Date | Notice |
 | --- | ----- |
-|     |      |
+|  19 Dec 2022   |  [First Day of School for P1/2023](/files/Letter%20to%20parents/001%20For%20P1%20first%202%20days.pdf)    |
