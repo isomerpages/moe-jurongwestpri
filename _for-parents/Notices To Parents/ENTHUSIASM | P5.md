@@ -11,4 +11,6 @@ third_nav_title: Notices To Parents
 
 | Date | Notice |
 | --- | ----- |
-|     |      |
+|  19 Dec 2022   |  [First Day of School for P5/2023](/files/Letter%20to%20parents/005%20For%20P5%20first%20day%20of%20school.pdf)    |
+| 19 Dec 2022  | [Things to bring on 4 Jan 2023](/files/Letter%20to%20parents/P2-P6%20Things%20to%20bring%202023.pdf)  |
+|   |   |
