@@ -1,9 +1,10 @@
 ---
-title: TEAMWORK | P1
+title: Teamwork | P1
 permalink: /NoticesP1/
 description: ""
 third_nav_title: Notices To Parents
 ---
+
 #### Please check your **Parents Gateway** app for the latest Notices and Forms.
 
 

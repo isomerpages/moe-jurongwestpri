@@ -9,7 +9,7 @@ MK @ Jurong West is located within Jurong West Primary School.
 
 | Programmes | 2023 |
 | -------- |  -------- |
-| MK     |  AM and PM     |
+| MK (K1 and K2)     |  AM and PM     |
 | KCare | AM only |
 
 You can refer to the [brochure]() for more information about MK curriculum and experience.
