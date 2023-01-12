@@ -216,6 +216,6 @@ Term 4 Week 9
 
 8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](files/files%2FSlides%20and%20info/2023%20Info%20on%20SEd%20for%20schs%20website%20(Primary%20Schools).pdf). The completed opt-out form is to be submitted by 16/01/2023.
+9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here]. The completed opt-out form is to be submitted by 16/01/2023.
 
 10.       Parents can contact the school at 67933419 for discussion or to seek clarification about the school’s Sexuality Education programme.
