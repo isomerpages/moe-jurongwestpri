@@ -15,5 +15,5 @@ third_nav_title: Notices To Parents
 |  19 Dec 2022   |  [Things to bring on 4 Jan 2023](/files/Letter%20to%20parents/P2-P6%20Things%20to%20bring%202023.pdf)    |
 |  11 Jan 2023   |  [VIA Prog: Pledge Cards & Community Services Projects for Lions Club of Singapore Nanyang](/files/Letter%20to%20parents/Term%201/017%20Lions%20Club%20Donation%20Cards%202023.pdf)    |
 | 19 Jan 2023 | [P4 Learning Journey to Road Safety Park](/files/Letter%20to%20parents/Term%201/027%20P4%20Road%20Safety%20Park%20Education.pdf) |
-| 25 Jan 2023 |  |
+| 25 Jan 2023 | [P4 Modes of Assessments](/files/Letter%20to%20parents/Term%201/024%20P4%20Modes%20of%20Assessments.pdf) |
 |  |  |
