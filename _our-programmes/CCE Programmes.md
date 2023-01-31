@@ -3,7 +3,6 @@ title: CCE Programmes
 permalink: /CCEprog/
 description: ""
 ---
-
 ##### CCE Curriculum
 
 For a holistic character and citizenship education, a school-based curriculum has been specially developed by the teachers for the students. This curriculum includes mandatory CCE (Form Teachers Guidance Period) lessons, CCE (Mother Tongue Language) lessons, Assembly periods as well as Other School-Based initiatives and Key Student Development Experiences.
@@ -12,15 +11,21 @@ For a holistic character and citizenship education, a school-based curriculum ha
 
 This is the CCE curriculum in JWPS.
 
+
 **Form Teacher Guidance Period CCE (FTGP)**
 
-The school believes that Form Teachers play a critical role in shaping the development of the young minds, thus, we take the weekly CCE (FTGP) seriously.   
+The school believes that Form Teachers play a critical role in shaping the development of the young minds, thus, weekly CCE (FTGP) is essential in imparting values and skills relevant in guiding our students to navigate the world around them.
 
- 
+CCE (FTGP) is conducted from 8.00 a.m. to 8.30 a.m. every Friday for P1 to P3 students and 8 a.m. to 9 a.m. for P4 to P6 students. During CCE (FTGP) lesson, time is used on:
 
-CCE (FTGP) is conducted from 8.00 a.m. to 8.30 a.m. every Friday for all students. During CCE (FTGP), Form Teachers provide quality interaction time. In addition to that, Form teachers equip students with social and emotional (SEL) competencies and the school **THInKER** values.  Mandatory lessons on Cyber Wellness, Education and Career Guidance (ECG) as well as Sexuality Education (for Primary 5 and 6) also form part of the CCE (FTGP) lessons.
+(i)                  explicit teaching of values, and social and emotional skills, which addresses the holistic developmental needs of students, e.g. understanding emotions and how to regulate them, learning how to manage relationships, and developing skills for responsible decision-making and deepening moral values.
 
-The school includes Zippy Friends programme into its CCE (FTGP) lesson for the Lower Primary to help them manage the transition from preschool to primary schools and to equip them with practical socio-emotional skills. This is an evidence-based programme by the Health Promotion Board and supported by Ministry of Education Guidance Branch. The students learn 12 topics. The topics include: feelings, communication, friendship, conflict resolution, problem-solving, bullying, change and loss, and adapting to new situations.
+(ii)                equipping students with knowledge and skills to better understand and navigate the real-world, e.g. understand mental health issues, navigate cyberspace responsibly, make appropriate educational and career choices, appreciate family life, understand Singapore’s racial and religious diversity; and
+
+(iii)              providing opportunities for contribution to family, school and community through Values in Action (VIA) projects.
+
+Form Teachers also provide quality interaction time, imparting our school **THInKER** values. Mandatory lessons on Cyber Wellness, Education and Career Guidance (ECG) as well as [Sexuality Education](https://www.jurongwestpri.moe.edu.sg/moe-sexuality-education/) (for Primary 5 and 6) also form part of the CCE (FTGP) lessons.
+
 
 
 **Assembly Period**
