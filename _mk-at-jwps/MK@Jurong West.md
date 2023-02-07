@@ -3,9 +3,14 @@ title: MK@Jurong West
 permalink: /mk-at-jwps/mk/
 description: ""
 ---
-##### [UPDATE!] MK Open House on 11 Februay 2023
+##### MK@JWPS Open House 2023, 11 February 
 
-Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/2023-open-house) to sign up now!
+Timing: 9:00 a.m. - 1:00 p.m.<br>
+Briefing: 10:00 a.m. <br>
+Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/2023-open-house) to sign up now! <br>
+
+
+-------------------------------------------------
 
 MK@Jurong West started operation on 4 Jan 2022 with 4 K1 classes.
 
