@@ -5,7 +5,7 @@ description: ""
 ---
 ##### [UPDATE!] MK Open House on 11 Februay 2023
 
-
+Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/2023-open-house) to sign up now!
 
 MK@Jurong West started operation on 4 Jan 2022 with 4 K1 classes.
 
