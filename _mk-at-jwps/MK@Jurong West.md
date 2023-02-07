@@ -5,7 +5,7 @@ description: ""
 ---
 ##### MK@JW Open House 2023
 
-Date: 11 February 2023
+Date: 11 February 2023 <br>
 Timing: 9:00 a.m. - 1:00 p.m.<br>
 Briefing: 10:00 a.m. <br>
 Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/2023-open-house) to sign up now! <br>
