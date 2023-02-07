@@ -3,6 +3,10 @@ title: MK@Jurong West
 permalink: /mk-at-jwps/mk/
 description: ""
 ---
+##### [UPDATE!] MK Open House on 11 Februay 2023
+
+
+
 MK@Jurong West started operation on 4 Jan 2022 with 4 K1 classes.
 
 MK @ Jurong West is located within Jurong West Primary School. 
