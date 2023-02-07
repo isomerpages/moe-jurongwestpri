@@ -8,7 +8,9 @@ description: ""
 Timing: 9:00 a.m. - 1:00 p.m.<br>
 Briefing: 10:00 a.m. <br>
 Click [here](https://www.moe.gov.sg/preschool/moe-kindergarten/2023-open-house) to sign up now! <br>
-
+![](/images/MK/OpenHouse/2023/2023%20MK%20OH%20Flyer1024_1.jpg)
+![](/images/MK/OpenHouse/2023/2023%20MK%20OH%20Flyer1024_2.jpg) 
+<br>
 
 -------------------------------------------------
 
