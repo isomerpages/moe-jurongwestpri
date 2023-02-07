@@ -21,5 +21,5 @@ sections:
           url: /admission-and-forms/wait-list-application/
       subtitle: " Open House 2023"
       button: Register here!
-      title: MK@JWPS
+      title: MK@JW
 ---
