@@ -3,7 +3,7 @@ title: MK@Jurong West
 permalink: /mk-at-jwps/mk/
 description: ""
 ---
-##### MK@JW Open House 2023 @ 11 February 
+##### MK@JW Open House 2023 on 11 February 
 
 Timing: 9:00 a.m. - 1:00 p.m.<br>
 Briefing: 10:00 a.m. <br>
