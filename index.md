@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/SchWebsite_Gif_7.gif
-      url: /mk-at-jwps/mk/
       key_highlights:
         - title: Contact us
           description: ""
@@ -19,7 +18,4 @@ sections:
         - title: New Admission
           description: ""
           url: /admission-and-forms/wait-list-application/
-      subtitle: " Open House 2023"
-      button: Register here!
-      title: MK@JW
 ---
