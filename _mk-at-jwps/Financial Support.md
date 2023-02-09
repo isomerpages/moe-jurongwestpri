@@ -5,7 +5,7 @@ description: ""
 ---
 ## Subsidy for MK
 
-If your child is Singaporean, you can apply for MK subsidy. For more information on MK subsidy, please refer to this website: [MK subsidy](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS)
+If your child is Singaporean, you can apply for MK subsidy. For more information on MK subsidy, please refer to this website: [MK subsidy](https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS)
 
 
 
