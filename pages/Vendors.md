@@ -13,14 +13,20 @@ Lunch Break: 12.00 p.m - 1.00 p.m
 
 **Health Promotion Board**<br>
 
-HP: 9114 8995<br>
+
 
 The dental nurse will work with the teachers to conduct routine dental checks for your child throughout the year (they will start with the upper primary students). There is no need for you to call the dental clinic to book appointment for such routine checks.<br>
 You should only call to book appointment for your child if your child requires dental treatment (tooth ache etc). The dental clinic's number is only manned during dental clinic opening dates and hours. Parents cannot accompany their child to the dental clinic during curriculum time (7:30am to 1:30pm).<br>
 
+The dental clinic is open on the second and fourth week of each month only. 
+
 The clinic operating hours:<br>
 Monday to Thursday - 8am to 1pm, 2pm to 530pm<br>
 Friday : 8am to 1pm, 2pm to 5pm
+
+HP: 9114 8995<br>
+
+For urgent cases during the clinic closure, you may call 91146562 (Frontier Primary Dental clinic) or 98326884 (Xingnan Primary Dental clinic).
 
 For emergency dental treatment, you can call HPB Dental at 6435 3782.
 
