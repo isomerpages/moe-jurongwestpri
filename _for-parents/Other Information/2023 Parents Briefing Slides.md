@@ -13,7 +13,7 @@ third_nav_title: Other Information
 3.
 4.
 5.
-6.
+6. [P1 Tamil Briefing Slides](https://youtu.be/K-ulAK-2_gA)
 
 ------------------------------------
 
@@ -24,7 +24,7 @@ third_nav_title: Other Information
 3.
 4.
 5.
-6.
+6. [P2 Tamil Briefing Slides](https://youtu.be/qyroQfIW7wA)
 
 ------------------------------------
 
@@ -35,7 +35,7 @@ third_nav_title: Other Information
 3.
 4.
 5.
-6.
+6. [P3 Tamil Briefing Slides](https://youtu.be/JbGZi7HgQZA)
 
 ------------------------------------
 
@@ -46,7 +46,7 @@ third_nav_title: Other Information
 3.
 4.
 5.
-6.
+6. [P4 Tamil Briefing Slides](https://youtu.be/6orKXbXv-p8)
 
 ------------------------------------
 
@@ -57,7 +57,7 @@ third_nav_title: Other Information
 3.
 4.
 5.
-6.
+6. [P5 Tamil Briefing Slides](https://youtu.be/aVjcZQclu8M)
 
 ------------------------------------
 
@@ -68,6 +68,6 @@ third_nav_title: Other Information
 3.
 4.
 5.
-6.
+6. [P6 Tamil Briefing Slides](https://youtu.be/UO-Id4qOJ88)
 
 ------------------------------------
