@@ -64,7 +64,7 @@ third_nav_title: Other Information
 ##### Primary 6 
 
 1. [P6 English Briefing Slides](https://youtu.be/vC8LiFB1p0g)
-2.
+2. 
 3.
 4.
 5.
