@@ -11,6 +11,8 @@ third_nav_title: Notices To Parents
 
 [School Hours, School Terms and Holidays for 2023](/files/Letter%20to%20parents/007%20School%20Hours,%20School%20Terms%20and%20Holidays%20for%202023.pdf)
 
+[Meet the Parents' Briefing Slides 2023](/for-parents/Other-Information/2023parentsbriefingslides/)
+
 | Date | Notice |
 | --- | ----- |
 | 19 Dec 2022 |  [First Day of School for P1/2023](/files/Letter%20to%20parents/001%20For%20P1%20first%202%20days.pdf)    |
