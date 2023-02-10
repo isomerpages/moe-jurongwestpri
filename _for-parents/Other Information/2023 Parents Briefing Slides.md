@@ -12,7 +12,7 @@ third_nav_title: Other Information
 2. [P1 Mathematics Briefing Slides](https://youtu.be/AYfCDNFLCwA)
 3.
 4.
-5.
+5. [P1 Malay Briefing Slides](https://youtu.be/OsySkEb5J7c)
 6. [P1 Tamil Briefing Slides](https://youtu.be/K-ulAK-2_gA)
 
 ------------------------------------
@@ -23,7 +23,7 @@ third_nav_title: Other Information
 2. [P2 Mathematics Briefing Slides](https://youtu.be/hzRaboqiNR4)
 3.
 4.
-5.
+5. [P2 Malay Briefing Slides](https://youtu.be/ejwxjdRqjVk)
 6. [P2 Tamil Briefing Slides](https://youtu.be/qyroQfIW7wA)
 
 ------------------------------------
@@ -34,7 +34,7 @@ third_nav_title: Other Information
 2. [P3 Mathematics Briefing Slides](https://youtu.be/Kru4bLJJ0UU)
 3.
 4.
-5.
+5. [P3 Malay Briefing Slides](https://youtu.be/SBCIRdzaF30)
 6. [P3 Tamil Briefing Slides](https://youtu.be/JbGZi7HgQZA)
 
 ------------------------------------
@@ -45,7 +45,7 @@ third_nav_title: Other Information
 2. [P4 Mathematics Briefing Slides](https://youtu.be/jJbTFNFeJDE)
 3.
 4.
-5.
+5. [P4 Malay Briefing Slides](https://youtu.be/BHcNqLHW2ng)
 6. [P4 Tamil Briefing Slides](https://youtu.be/6orKXbXv-p8)
 
 ------------------------------------
@@ -56,7 +56,7 @@ third_nav_title: Other Information
 2. [P5 Mathematics Briefing Slides](https://youtu.be/5suwAjUaAZA)
 3.
 4.
-5.
+5. [P5 Malay Briefing Slides](https://youtu.be/p6DWjo4zeuY)
 6. [P5 Tamil Briefing Slides](https://youtu.be/aVjcZQclu8M)
 
 ------------------------------------
@@ -67,7 +67,7 @@ third_nav_title: Other Information
 2. [P6 Mathematics Briefing Slides](https://youtu.be/o6JcjumXa4M)
 3.
 4.
-5.
+5. [P6 Malay Briefing Slides](https://youtu.be/CKI4qI8zCLA)
 6. [P6 Tamil Briefing Slides](https://youtu.be/UO-Id4qOJ88)
 
 ------------------------------------
