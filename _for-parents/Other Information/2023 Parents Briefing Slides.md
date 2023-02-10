@@ -6,9 +6,9 @@ third_nav_title: Other Information
 ---
 ### [2023] Parents Briefing Slides
 
-##### Primary 1 Briefing Slides
+##### Primary 1 
 
-1.
+1. [P1 English Briefing Slides](https://youtu.be/6WBYQDYgTVw)
 2.
 3.
 4.
@@ -17,9 +17,9 @@ third_nav_title: Other Information
 
 ------------------------------------
 
-##### Primary 2 Briefing Slides
+##### Primary 2 
 
-1.
+1. [P2 English Briefing Slides](https://youtu.be/q7n22ZjGKn4)
 2.
 3.
 4.
@@ -28,9 +28,9 @@ third_nav_title: Other Information
 
 ------------------------------------
 
-##### Primary 3 Briefing Slides
+##### Primary 3
 
-1.
+1. [P3 English Briefing Slides](https://youtu.be/B69ij2hyUg8)
 2.
 3.
 4.
@@ -39,9 +39,9 @@ third_nav_title: Other Information
 
 ------------------------------------
 
-##### Primary 4 Briefing Slides
+##### Primary 4 
 
-1.
+1. [P4 English Briefing Slides](https://youtu.be/hdEr3jAIx2w)
 2.
 3.
 4.
@@ -50,9 +50,9 @@ third_nav_title: Other Information
 
 ------------------------------------
 
-##### Primary 5 Briefing Slides
+##### Primary 5 
 
-1.
+1. [P5 English Briefing Slides](https://youtu.be/kzN5qyV8mTw)
 2.
 3.
 4.
@@ -61,9 +61,9 @@ third_nav_title: Other Information
 
 ------------------------------------
 
-##### Primary 6 Briefing Slides
+##### Primary 6 
 
-1.
+1. [P6 English Briefing Slides](https://youtu.be/vC8LiFB1p0g)
 2.
 3.
 4.
