@@ -8,6 +8,7 @@ third_nav_title: Notices To Parents
 
 [School Hours, School Terms and Holidays for 2023](/files/Letter%20to%20parents/007%20School%20Hours,%20School%20Terms%20and%20Holidays%20for%202023.pdf)
 
+[Meet the Parents' Briefing Slides 2023](/for-parents/Other-Information/2023parentsbriefingslides/)
 
 | Date | Notice |
 | --- | ----- |
