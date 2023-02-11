@@ -4,8 +4,7 @@ permalink: /for-parents/Other-Information/2023parentsbriefingslides/
 description: ""
 third_nav_title: Other Information
 ---
-
-### [2023] P1 to P6 Parents' Briefing Slides
+### [2023] P1 to P6 Subject Based Briefing Slides For Parents
 
 ##### Primary 1 
 
