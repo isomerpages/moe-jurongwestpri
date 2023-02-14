@@ -29,7 +29,7 @@ third_nav_title: Other Information
 ##### Primary 3
 
 1. [P3 English Briefing Slides](https://youtu.be/B69ij2hyUg8)
-2. [P3 Mathematics Briefing Slides](https://youtu.be/ZwNUYAoMk8w)
+2. [P3 Mathematics Briefing Slides](https://youtu.be/Cg1JpYz9hIU)
 3. [P3 Science Briefing Slides](https://youtu.be/rIe8gdY6_aM)
 4. [P3 Chinese Language Briefing Slides](https://youtu.be/JAdXdzU8j78)
 5. [P3 Malay Language Briefing Slides](https://youtu.be/SBCIRdzaF30)
