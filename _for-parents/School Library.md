@@ -9,4 +9,4 @@ description: ""
 **Opening Hours: 8:00 a.m. to 4:00 p.m** <br>
 
 
-Click on [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/jurongwestpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to view on library books available in school.
+Click on [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/jurongwestpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) to view available library books.
