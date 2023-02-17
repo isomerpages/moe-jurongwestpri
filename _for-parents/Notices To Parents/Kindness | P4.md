@@ -18,3 +18,5 @@ third_nav_title: Notices To Parents
 | 19 Jan 2023 | [P4 Learning Journey to Road Safety Park](/files/Letter%20to%20parents/Term%201/027%20P4%20Road%20Safety%20Park%20Education.pdf) |
 | 25 Jan 2023 | [P4 Modes of Assessments](/files/Letter%20to%20parents/Term%201/024%20P4%20Modes%20of%20Assessments.pdf) |
 | 31 Jan 2023 | [Mathematics Parents Engagement Session for P4 Parents](/files/Letter%20to%20parents/Term%201/031%20Maths%20Parents%20Engagement%20Session_%20P4_2023.pdf) |
+| 17 Feb 2023 | [Museum-based Learning Experience for P4 students](/files/Letter%20to%20parents/Term%201/034%20Museum-based%20Learning%20experience%20for%20P4%20students.pdf) |
+|  |  |
