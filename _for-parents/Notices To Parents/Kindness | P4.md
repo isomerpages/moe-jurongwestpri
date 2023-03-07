@@ -19,4 +19,5 @@ third_nav_title: Notices To Parents
 | 25 Jan 2023 | [P4 Modes of Assessments](/files/Letter%20to%20parents/Term%201/024%20P4%20Modes%20of%20Assessments.pdf) |
 | 31 Jan 2023 | [Mathematics Parents Engagement Session for P4 Parents](/files/Letter%20to%20parents/Term%201/031%20Maths%20Parents%20Engagement%20Session_%20P4_2023.pdf) |
 | 17 Feb 2023 | [Museum-based Learning Experience for P4 students](/files/Letter%20to%20parents/Term%201/034%20Museum-based%20Learning%20experience%20for%20P4%20students.pdf) |
+| 6 Mar 2023 | [P4 Geylang Serai Heritage Gallery Learning Journey](/files/Letter%20to%20parents/Term%202/039%20P4%20Geylang%20Serai%20Heritage%20Gallery%20Learning%20Journey.pdf) |
 |  |  |
