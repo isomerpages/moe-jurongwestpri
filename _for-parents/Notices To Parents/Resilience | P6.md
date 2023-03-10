@@ -18,4 +18,5 @@ third_nav_title: Notices To Parents
 | 4 Jan 2023    |  [ P6 Term 1 Supplementary Lessons](/files/Letter%20to%20parents/Term%201/011%20P6%20Term%201%20supp.pdf)   |
 | 11 Jan 2023    | [VIA Prog: Pledge Cards & Community Services Projects for Lions Club of Singapore Nanyang](/files/Letter%20to%20parents/Term%201/017%20Lions%20Club%20Donation%20Cards%202023.pdf)     |
 | 25 Jan 2023 | [P6 Modes of Assessments](/files/Letter%20to%20parents/Term%201/024%20P6%20Modes%20of%20Assessments.pdf) |
+| 10 Mar 2023 | [P6 Term 2 Supplementary Lesson Schedule](/files/Letter%20to%20parents/Term%202/042%20P6%20Supplementary%20Lesson%20Schedule%20for%20Term%202.pdf) |
 |  |  |
