@@ -6,10 +6,10 @@ third_nav_title: Alumni Association
 ---
 ### ABOUT US
 
-![](/images/JWPS%20Family/Group%20Photo.jpeg)
+![](/images/JWPS%20Family/2023%20Mar%20Alumi.jpg)
 
-**Front (L-R):** Mr Derrick Chin, Mr Suah Boon Choong, Ms Guo Huicong, Ms Seah Hui Yan.<br>
-**Back (L-R):** Mr Irwin Hafiz, Ms Seng Jia Ying, Ms Karen Ho, Mr Bryson Lam.
+**Front (L-R):** Ms Soh Xian, Mr Bryson Lam, Ms Karen Ho, Ms Kimberly Tay.<br>
+**Back (L-R):** Mr Klinsmann Soh, Mr Suah Boon Choong, Ms Seah Hui Yan, Ms Guo Huicong, Mr Irwin Hafiz, Mr Jishreean.
 
   
 The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd August 2018 in conjunction with the school’s 20th Anniversary celebrations. It serves as a platform for our ex-students to stay connected with each other and contribute back to our alma mater.
