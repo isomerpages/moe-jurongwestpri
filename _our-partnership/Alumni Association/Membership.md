@@ -25,4 +25,4 @@ To be eligible for the Primary 1 Phase 2A registration, you will need to be a fu
 
 
 
-For more information, visit [Phases for P1 Registration]((https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2A](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2A))
+For more information, visit [Phases for P1 Registration](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2A)
