@@ -14,4 +14,5 @@ third_nav_title: Notices To Parents
 | --- | ----- |
 |  25 Jan 2023   |   [P3 Modes of Assessments](/files/Letter%20to%20parents/Term%201/024%20P3%20Modes%20of%20Assessments.pdf)   |
 |  31 Jan 2023   |   [Mathematics Parents Engagement Sessions for P3 Parents](/files/Letter%20to%20parents/Term%201/031%20Maths%20Parents%20Engagement%20Session_%20P3_2023.pdf)   |
+| 19 Apr 2023 | [P3 Learning Journey to Singapore Sustainable Gallery on 12 May 2023](/files/Letter%20to%20parents/Term%202/050%20p3%20learning%20journey%20to%20singapore%20sustainable%20gallery_12may.pdf) |
 |     |      |
