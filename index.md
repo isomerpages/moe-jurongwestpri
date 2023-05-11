@@ -15,13 +15,10 @@ sections:
         - title: Calendar
           description: ""
           url: /about-us/calendar
-        - title: New Admission
+        - title: Open House 2023
           description: ""
-          url: /admission-and-forms/wait-list-application/
-  - infobar:
-      title: Open House 2023
-      subtitle: JWPS
-      description: 5th July 2023
-      button: Click here to sign up
-      url: /admission/openhouse2023
+          url: /admission/openhouse2023
+        - title: Kindergarten Visits 2023
+          description: ""
+          url: /admission/kindergartenvisits2023
 ---
