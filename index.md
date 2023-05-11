@@ -16,9 +16,9 @@ sections:
           description: ""
           url: /about-us/calendar
         - title: Open House 2023
-          description: Click here to register
+          description: Register Now!
           url: /admission/openhouse2023/
         - title: Kindergarten Visits 2023
-          description: Click here to register
+          description: ""
           url: /admission/kindergartenvisits2023/
 ---
