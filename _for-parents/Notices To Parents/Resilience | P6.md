@@ -16,4 +16,5 @@ third_nav_title: Notices To Parents
 | 25 Jan 2023 | [P6 Modes of Assessments](/files/Letter%20to%20parents/Term%201/024%20P6%20Modes%20of%20Assessments.pdf) |
 | 10 Mar 2023 | [P6 Term 2 Supplementary Lesson Schedule](/files/Letter%20to%20parents/Term%202/042%20P6%20Supplementary%20Lesson%20Schedule%20for%20Term%202.pdf) |
 | 28 Mar 2023 | [P6 Learning Journey to Asian Civilisations Museum](/files/Letter%20to%20parents/Term%202/045%20P6%20Asian%20Civilisations%20Museum%20Cohort%20Learning%20Journey.pdf) |
+| 11 May 2023 | [P6 June Holidays Supplementary Schedule 2023](/files/Letter%20to%20parents/Term%202/055%20p6%20june%20holidays%20supp%202023.pdf) |
 |  |  |
