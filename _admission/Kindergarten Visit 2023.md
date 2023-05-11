@@ -7,4 +7,4 @@ description: ""
 **Registration Link click [here](https://go.gov.sg/jwps-kindergartenvisits2023).** 
 
 
-![](/images/Open%20House/kindergarten%20visit%202023.JPG)
+![](/images/Open%20House/kindergarten%20visits%202023.JPG)
