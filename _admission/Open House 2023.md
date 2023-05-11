@@ -5,6 +5,6 @@ description: ""
 ---
 # **Open House on 5th July 2023**
 
-**Registration Link:** https://go.gov.sg/jwps-openhouse2023
+**Registration Link click [here](https://go.gov.sg/jwps-openhouse2023).** 
 
 ![](/images/Open%20House/open%20house%202023.JPG)
