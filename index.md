@@ -18,4 +18,10 @@ sections:
         - title: New Admission
           description: ""
           url: /admission-and-forms/wait-list-application/
+  - infobar:
+      title: Open House 2023
+      subtitle: JWPS
+      description: 5th July 2023
+      button: Click here to sign up
+      url: /admission/openhouse2023
 ---
