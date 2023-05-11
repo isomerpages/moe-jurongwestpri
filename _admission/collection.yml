@@ -2,8 +2,8 @@ collections:
   admission:
     output: true
     order:
-      - Kindergarten Visit 2023.md
-      - Open House 2023.md
       - Primary 1 Registration.md
       - Leave of Absence.md
       - Wait List Application.md
+      - Open House 2023.md
+      - Kindergarten Visit 2023.md
