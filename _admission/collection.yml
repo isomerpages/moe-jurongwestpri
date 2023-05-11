@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Open House 2023.md
       - Primary 1 Registration.md
       - Leave of Absence.md
       - Wait List Application.md
