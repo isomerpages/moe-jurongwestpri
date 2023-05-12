@@ -15,7 +15,10 @@ sections:
         - title: Calendar
           description: ""
           url: /about-us/calendar
-        - title: New Admission
+        - title: Open House 2023
+          description: Register Now!
+          url: /admission/openhouse2023/
+        - title: Kindergarten Visits 2023
           description: ""
-          url: /admission-and-forms/wait-list-application/
+          url: /admission/kindergartenvisits2023/
 ---

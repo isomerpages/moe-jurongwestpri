@@ -29,7 +29,7 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 
 |  |  |
 | --- | --- |
-| School Counsellor  |  Ms Chang Xue Li Sherry  |
+| School Counsellor  |  Ms Wyn Lim Chieng Yong  |
 
 
 #### Senior Teacher
