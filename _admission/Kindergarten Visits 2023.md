@@ -1,6 +1,6 @@
 ---
-title: Kindergarten Visit 2023
-permalink: /admission/kindergartenvisit2023/
+title: Kindergarten Visits 2023
+permalink: /admission/kindergartenvisits2023/
 description: ""
 ---
 # **Kindergarten Visits on 6 & 7 July 2023**
