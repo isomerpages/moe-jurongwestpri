@@ -11,8 +11,6 @@ Parents can use the new online [P1 Registration Portal](https://www.moe.gov.sg/p
 For information on Primary 1 Registration Exercise, please visit:  
 <a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>
 
-MOE will also publish data from the preceding year’s P1 Registration Exercise to better support parents in their selection of primary schools. Parents may refer to [past vacancies and balloting data](www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data) for last year’s P1 Registration Exercise data, which will include last year’s available vacancies, registration applicants, and balloting information in the relevant phases for each school.
-
 
 For information on school vacancies by phases, please visit:  
 <a href="https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting" target="_blank">https://www.moe.gov.sg/primary/p1-registration/vacancies-and-balloting</a>
