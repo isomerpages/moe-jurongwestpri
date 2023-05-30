@@ -7,10 +7,10 @@ MK@Jurong West started operation on 4 Jan 2022 with 4 K1 classes.
 
 MK @ Jurong West is located within Jurong West Primary School. 
 
-| Programmes | 2023 |
-| -------- |  -------- |
-| MK (K1 and K2)     |  AM and PM     |
-| KCare | AM only |
+| Programmes | 2023 | 2024 |
+| -------- |  -------- | ------ |
+| MK (K1 and K2)     |  AM and PM     | AM and PM |
+| KCare | AM only | AM and PM |
 
 You can refer to the [brochure](/files/MK/MOE%20Brochure%20English%202022.pdf) for more information about MK curriculum and experience.
 		
@@ -25,12 +25,12 @@ The gate opening hours are:
 
 | Opening hours | Purpose |
 | -------- | -------- |
-| 7am to 7:15am     | Arrival of KCare (AM) students     |
+| 7am to 7:15am     | Arrival of KCare students     |
 | 8am to 8:15am | Arrival of MK (AM) students |
 | 12pm to 12:15pm | Dismissal of MK (AM) students |
 | 1pm to 1:15pm | Arrival of MK (PM) students |
 | 5pm to 5:15pm | Dismissal of MK (PM) students |
-| 5:30pm to 7pm | Dismissal of KCare (AM) students |
+| 5:30pm to 7pm | Dismissal of KCare students |
 
 
 Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 – KCare / 96474301 - MK) first.<br>
