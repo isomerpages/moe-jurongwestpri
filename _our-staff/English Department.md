@@ -9,9 +9,7 @@ description: ""
 
   
 
-| Level Head |
-| --- |
-| Ms Farhana (Covering) |<br>
+
 
  
 | Lead Teacher |
@@ -32,7 +30,7 @@ To achieve our goals, the school’s EL curriculum is developed from MOE’s Eng
 
 * To provide challenging and stimulating assignments and projects beyond the curriculum to enrich the learning experience of the English Language
 * To infuse critical and creative thinking strategies through literature and oracy programme
-* To identify and develop pupils’ talent in speaking & writing
+* To identify and develop pupils’ talent in speaking &amp; writing
 
 <br>
 
