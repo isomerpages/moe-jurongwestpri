@@ -8,13 +8,13 @@ description: ""
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-1. [Call for Proposal](http://ATTACHMENT%201%20Call%20for%20Proposals%20by%20School%20(Version%20June%202023)_JWPS%201Jan24%20-%2031Dec25.pdf)
+1. [Call for Proposal](/files/School%20Bus%20Advertisement%20Forms/attachment%201%20call%20for%20proposals%20by%20school%20(version%20june%202023)_jwps%201jan24%20-%2031dec25.pdf)
 
-2. [Agreement for Appointment of School Bus Operator](http://ATTACHMENT%203%20Agreement%20for%20Appointment%20of%20School%20Bus%20Operator%20(V)
+2. [Agreement for Appointment of School Bus Operator](/files/School%20Bus%20Advertisement%20Forms/attachment%202%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023)%20jwps%201jan24-31dec25.pdf)
 
 **Application Procedure**
 
-1. Complete the [Call for Proposal - Annex A](http://ATTACHMENT%202%20Call%20for%20Proposal%20-%20Annex%20A%20(Version%20June%202023)%20JWPS%201Jan24-31Dec25)
+1. Complete the [Call for Proposal - Annex A](/files/School%20Bus%20Advertisement%20Forms/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator(version%20june%202023)%20jwps%201jan24-31dec25.pdf)
 
 2. Submit the completed Call for Proposal – Annex A by closing date, 11 June 2023 to the School’s General Office.
 
