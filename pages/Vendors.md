@@ -43,7 +43,8 @@ Tel: 6465 5959<br>
 Fax: 6466 5959<br>
 Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139
 
-
+###### School Bus Advertisement <br>
+Click 
 
 #### School Uniform
 
