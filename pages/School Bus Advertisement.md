@@ -16,7 +16,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1. Complete the [Call for Proposal - Annex A](/files/School%20Bus%20Advertisement%20Forms/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator(version%20june%202023)%20jwps%201jan24-31dec25.pdf)
 
-2. Submit the completed Call for Proposal – Annex A by closing date, 11 June 2023 to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023 to the School’s General Office.
 
 * Address: 30 Jurong West Street 61 S648368
 * Contact No: 6793 3419
