@@ -14,3 +14,5 @@ third_nav_title: Notices To Parents
 | --- | ----- |
 | 25 Jan 2023 | [P5 Modes of Assessments](/files/Letter%20to%20parents/Term%201/024%20P5%20Modes%20of%20Assessments.pdf) |
 | 26 May 2023 | [Values-In-Action (VIA) Activity – Collection of Recycled Items](/files/Letter%20to%20parents/Term%202/059%20collection%20of%20recycled%20items.pdf) |
+| 5 Jul 2023 | [P5 National Education (NE) Show, 15 Jul Sat](/files/Letter%20to%20parents/Term%203/069%20ne%20show%2015%20july%202023.pdf) |
+|  |  |
