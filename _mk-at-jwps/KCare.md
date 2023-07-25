@@ -16,13 +16,7 @@ Contact : 96791940<br>
 Email : <a href="mailto:jwkcc@ymca.edu.sg">jwkcc@ymca.edu.sg</a>
 
 
-**Kindergarten Care (KCare) fees**
 
-* Singapore Citizen - $210 (fee after $150 basic subsidy for Singapore Citizens). A deposit of $360 is required.
-
-* Permanent Resident - $360 per month. A deposit of $360 is required.
-
-An additional subsidy for KCare (applicable to Singapore Citizen children only) is also available and this is tiered according to income levels.
 
 **Withdrawal Policy**
 
