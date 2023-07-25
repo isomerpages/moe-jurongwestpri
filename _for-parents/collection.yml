@@ -2,7 +2,6 @@ collections:
   for-parents:
     output: true
     order:
-      - Recess.md
       - Communication with Teachers and General Office.md
       - Form Teachers.md
       - Notices To Parents/.keep
@@ -13,6 +12,7 @@ collections:
       - Notices To Parents/Enthusiasm | P5.md
       - Notices To Parents/Resilience | P6.md
       - Arrival and Dismissal.md
+      - Recess.md
       - Booklists.md
       - School Library.md
       - Other Information/.keep
