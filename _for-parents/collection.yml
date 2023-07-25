@@ -2,6 +2,7 @@ collections:
   for-parents:
     output: true
     order:
+      - Recess.md
       - Communication with Teachers and General Office.md
       - Form Teachers.md
       - Notices To Parents/.keep
