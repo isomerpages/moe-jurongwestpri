@@ -10,14 +10,12 @@ description: ""
 * Singapore Citizen - $160 per month
 * Permanent Resident - $320 per month
 
-If your child is a Singapore Citizen, they may qualify for financial assistance under the Kindergarten Fee Assistance Scheme (KiFAS). KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees.
-
-If your child is Singaporean, you can apply for MK subsidy. For more information on MK subsidy, please refer to this website: [MK subsidy](https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS)
+If your child is a Singapore Citizen, they may qualify for financial assistance under the Kindergarten Fee Assistance Scheme (KiFAS). KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees. For more information on MK subsidy, please refer to this website: [MK subsidy](https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS)
 
 
 
 
-## Subsidy for KCare
+## KCare Fees and Subsidy for KCare
 
 **Kindergarten Care (KCare) fees**
 
