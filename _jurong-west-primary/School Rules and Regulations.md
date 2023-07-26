@@ -19,7 +19,7 @@ description: ""
 
 ### Attire and Appearance
 
-1.  All students are expected to have their name tags ironed on/sewn on the school uniform. Name tags are available for sale from the school uniform supplier and bookshop.
+1.  All students are expected to have their name tags ironed on/sewn on the school T-shirt. Name tags are available for sale from the school uniform supplier and bookshop.
 2.  All students coming to school for CCA or any time outside curriculum time must be in school attire.
 3.  **Footwear:** Students are to wear white-based canvas shoes and white socks together with the school uniform during school activities. Branded shoes should not be worn. At no time should students be in slippers or sandals without valid reason.
 4.  **Hair:** Hair should be kept neat, tidy and simply styled. Hair touching the collar must be either tied up or cut. No dyeing, tinting or highlighting of hair is allowed. Students are not to gel their hair into any untidy/ fanciful styles. Students with unacceptable, modified, punk or distracting hairstyles will have to revert to acceptable hairstyles. 
