@@ -26,7 +26,7 @@ description: ""
 
 	 *  Hair fringes over the forehead should not touch the eyebrows.
 	 *   Only black and dark blue hair accessories are permitted.    
-	 *   Boys' hair must be kept simple, short and should not touch their eyebrows, ears and the collar of the school shirt/PE T-shirt. · 
+	 *   Boys' hair must be kept simple, short and should not touch their eyebrows, ears and the collar of the school T-shirt. 
 	 *   Boys are not allowed to keep facial hair and boys with facial hair will be required to be clean-shaven.
 	 *   Girls with shoulder-length hair must neatly plait or tie their hair up.
 	 *   Girls are not to sport any fanciful hairstyles, including hair extensions
