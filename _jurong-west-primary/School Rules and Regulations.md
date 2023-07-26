@@ -67,7 +67,7 @@ To arrange for an appointment with teachers, write a short note in the student h
 *   ensuring our students do not bring excessive pocket money to school;  
     
 *   advising our students not to carry expensive items for their safety;
-*   discouraging students from bringing mobile phones to school as there are public coin telephones available at the school canteen for students to use;
+*   discouraging students from bringing mobile phones to school as there is a public coin telephone available at the school canteen for students to use;
 *   refraining students from carrying sharp objects such as pen knives, metal rulers or any other objects with the potential of causing hurt or injury (such objects, if brought to school, will be confiscated);  
     
 *   ensuring our students’ school/CCA attendance is regular;  
