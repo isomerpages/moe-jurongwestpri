@@ -3,8 +3,6 @@ title: Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
 ---
-
-
 | Principal | 
 | -------- |
 | Mr Chris Loh Kai Mun   | 
@@ -26,7 +24,7 @@ description: ""
 | -------- | -------- | 
 | Character and Citizenship Education     | Mdm Nor Hazilah Bte Hasan     |
 | English  | Mdm Hamidah Binti Osman  |
-| Information & Communication Technology | Ms Carol Cheong Wei Siang  |
+| Information &amp; Communication Technology | Ms Carol Cheong Wei Siang  |
 | Mathematics |  Ms Wai Lai May |
 |  Mother Tongue  |  Ms Wong Sheau Yun |
 |  Physical Education and Co-Curricular Activities |  Mr Lau Ban Hwee |
@@ -52,7 +50,7 @@ description: ""
 
 | Subject Head | Name | 
 | -------- | -------- | 
-| Character & Citizenship Education     | Ms Tan Chee Keng     |
+| Character &amp; Citizenship Education     | Ms Tan Chee Keng     |
 | ICT  | Ms Ong Ying Wen Gladys |
 | Malay  |  Mr Jasni Bin Ibrahim  |
 | PE and CCA  | Ms Jamie Gu  |
@@ -62,9 +60,8 @@ description: ""
 | Level Head | Name |
 | -------- | -------- |
 | Chinese  |  Mdm Pua Chia Wei    |
-| English  |  Ms Farhana (Covering)   |
 | Mathematics  |  Ms Esther Neo  |
-| Science  |    | 
+
 
 <br>
 
