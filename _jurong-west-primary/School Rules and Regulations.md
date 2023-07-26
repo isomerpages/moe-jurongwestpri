@@ -31,9 +31,11 @@ description: ""
 	 *   Girls with shoulder-length hair must neatly plait or tie their hair up.
 	 *   Girls are not to sport any fanciful hairstyles, including hair extensions
 
-6.  **Fingernails:** Fingernails should be kept short and clean for hygiene and safety purposes. Nails should not be coloured.
-7.  **Jewellery/Ornaments/Hair accessories:** Jewellery, ornaments and accessories are not permitted to be worn. Only one pair of small and simple ear-studs may be worn for girls. Only black and dark blue hair accessories are permitted.
-8.  **Electronic Equipment:** Students are discouraged from bringing mobile phones to school. They should not bring electronic equipment that are not required for educational purposes.
+5.  **Fingernails:** Fingernails should be kept short and clean for hygiene and safety purposes. Nails should not be coloured.
+
+6.  **Jewellery/Ornaments/Hair accessories:** Jewellery, ornaments and accessories are not permitted to be worn. Only one pair of small and simple ear-studs may be worn for girls. Only black and dark blue hair accessories are permitted. Boys are not allowed to wear any jewellery, ornaments or accessories.
+
+7.  **Electronic Equipment:** Students are discouraged from bringing mobile phones to school. They should not bring electronic equipment that are not required for educational purposes.
 
 Teachers will conduct periodic checks on students’ attire and grooming and their parents will be informed if there are any infringements.  
 
