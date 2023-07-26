@@ -49,7 +49,7 @@ Students are to wear the prescribed school uniform in school and during school a
 
 *   Name tag is to be ironed on/sewn above school badge.  
     
-*   Shirt is to be neatly tucked in.  
+*   T-shirt is to be neatly tucked in.  
     
 *   White-based canvas shoes and white socks.  
     
