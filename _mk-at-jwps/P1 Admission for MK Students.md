@@ -3,12 +3,10 @@ title: P1 Admission for MK Students
 permalink: /mk-at-jwps/p1admission/
 description: ""
 ---
-For P1 registration, MK students will be under phase 2A. 
+MK students are eligible for P1 phase 2A registration. 
 <br>
-Depending on the availability of P1 vacancies during phase 2A, your child may or may not be admitted to Jurong West Primary School (JWPS). 
+Depending on the availability of P1 vacancies during phase 2A, your child may or may not be admitted to Jurong West Primary School. 
 <br>  
-There is no guarantee that your child will be admitted to JWPS under phase 2A. 
-<br>
 
 
 For information on Primary 1 Registration Exercise, please visit:  
