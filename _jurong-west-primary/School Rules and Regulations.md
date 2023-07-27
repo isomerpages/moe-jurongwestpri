@@ -19,21 +19,23 @@ description: ""
 
 ### Attire and Appearance
 
-1.  All students are expected to have their name tags ironed on/sewn on the school uniform. Name tags are available for sale from the school uniform supplier and bookshop.
+1.  All students are expected to have their name tags ironed on/sewn on the school T-shirt. Name tags are available for sale from the school uniform supplier and bookshop.
 2.  All students coming to school for CCA or any time outside curriculum time must be in school attire.
 3.  **Footwear:** Students are to wear white-based canvas shoes and white socks together with the school uniform during school activities. Branded shoes should not be worn. At no time should students be in slippers or sandals without valid reason.
 4.  **Hair:** Hair should be kept neat, tidy and simply styled. Hair touching the collar must be either tied up or cut. No dyeing, tinting or highlighting of hair is allowed. Students are not to gel their hair into any untidy/ fanciful styles. Students with unacceptable, modified, punk or distracting hairstyles will have to revert to acceptable hairstyles. 
 
 	 *  Hair fringes over the forehead should not touch the eyebrows.
 	 *   Only black and dark blue hair accessories are permitted.    
-	 *   Boys' hair must be kept simple, short and should not touch their eyebrows, ears and the collar of the school shirt/PE T-shirt. · 
+	 *   Boys' hair must be kept simple, short and should not touch their eyebrows, ears and the collar of the school T-shirt. 
 	 *   Boys are not allowed to keep facial hair and boys with facial hair will be required to be clean-shaven.
 	 *   Girls with shoulder-length hair must neatly plait or tie their hair up.
 	 *   Girls are not to sport any fanciful hairstyles, including hair extensions
 
-6.  **Fingernails:** Fingernails should be kept short and clean for hygiene and safety purposes. Nails should not be coloured.
-7.  **Jewellery/Ornaments/Hair accessories:** Jewellery, ornaments and accessories are not permitted to be worn. Only one pair of small and simple ear-studs may be worn for girls. Only black and dark blue hair accessories are permitted.
-8.  **Electronic Equipment:** Students are discouraged from bringing mobile phones to school. They should not bring electronic equipment that are not required for educational purposes.
+5.  **Fingernails:** Fingernails should be kept short and clean for hygiene and safety purposes. Nails should not be coloured.
+
+6.  **Jewellery/Ornaments/Hair accessories:** Jewellery, ornaments and accessories are not permitted to be worn. Only one pair of small and simple ear-studs may be worn for girls. Only black and dark blue hair accessories are permitted. Boys are not allowed to wear any jewellery, ornaments or accessories.
+
+7.  **Electronic Equipment:** Students are discouraged from bringing mobile phones to school. They should not bring electronic equipment that are not required for educational purposes.
 
 Teachers will conduct periodic checks on students’ attire and grooming and their parents will be informed if there are any infringements.  
 
@@ -47,7 +49,7 @@ Students are to wear the prescribed school uniform in school and during school a
 
 *   Name tag is to be ironed on/sewn above school badge.  
     
-*   Shirt is to be neatly tucked in.  
+*   T-shirt is to be neatly tucked in.  
     
 *   White-based canvas shoes and white socks.  
     
@@ -65,7 +67,7 @@ To arrange for an appointment with teachers, write a short note in the student h
 *   ensuring our students do not bring excessive pocket money to school;  
     
 *   advising our students not to carry expensive items for their safety;
-*   discouraging students from bringing mobile phones to school as there are public coin telephones available at the school canteen for students to use;
+*   discouraging students from bringing mobile phones to school as there is a public coin telephone available at the school canteen for students to use;
 *   refraining students from carrying sharp objects such as pen knives, metal rulers or any other objects with the potential of causing hurt or injury (such objects, if brought to school, will be confiscated);  
     
 *   ensuring our students’ school/CCA attendance is regular;  
