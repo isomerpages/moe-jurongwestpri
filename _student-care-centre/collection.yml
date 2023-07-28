@@ -2,4 +2,5 @@ collections:
   student-care-centre:
     output: true
     order:
+      - SCC Fees.md
       - Student Care Centre.md
