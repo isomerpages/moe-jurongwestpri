@@ -5,7 +5,7 @@ description: ""
 ---
 #### School Library
 
-**School Librarian:** Madam Avia <br>
+
 **Opening Hours: 8:00 a.m. to 4:00 p.m** <br>
 
 
