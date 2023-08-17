@@ -19,4 +19,5 @@ third_nav_title: Notices To Parents
 | 24 Mar 2023 | [Mathematics Parents Engagement Sessions for P1](/files/Letter%20to%20parents/Term%202/031%20Maths%20Parents%20Engagement%20Session_%20P1_2023.pdf) |
 | 26 May 2023 | [Values-In-Action (VIA) Activity – Collection of Recycled Items](/files/Letter%20to%20parents/Term%202/059%20collection%20of%20recycled%20items.pdf) |
 | 15 Aug 2023 | [T2 & T5 Learning Journey to Jurong Lake Gardens on 22 Aug 2023](/files/Letter%20to%20parents/Term%203/082%20t2%20and%20t5%20learning%20journey%20to%20jurong%20lake%20gardens.pdf) |
+| 17 Aug 2023 | [Edusave Character Award 2023](/files/Letter%20to%20parents/Term%203/081%20edusave%20character%20award%202023.pdf) |
 |  |  |

@@ -16,4 +16,5 @@ third_nav_title: Notices To Parents
 | 31 Jan 2023 | [Mathematics Parents Engagement Session for P4 Parents](/files/Letter%20to%20parents/Term%201/031%20Maths%20Parents%20Engagement%20Session_%20P4_2023.pdf) |
 | 26 May 2023 | [Values-In-Action (VIA) Activity – Collection of Recycled Items](/files/Letter%20to%20parents/Term%202/059%20collection%20of%20recycled%20items.pdf) |
 | 14 Aug 2023 | [P4 VIA Activity - Estate Cleaning on 25 Aug, Fri](/files/Letter%20to%20parents/Term%203/079%20p4%20values%20in%20action%20estate%20cleaning.pdf) |
+| 17 Aug 2023 | [Edusave Character Award 2023](/files/Letter%20to%20parents/Term%203/081%20edusave%20character%20award%202023.pdf) |
 |  |  |
