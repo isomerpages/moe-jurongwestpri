@@ -30,25 +30,29 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
 
 
 
-| **President** | 
-| -------- | 
-| Mr Irwin Hafiz     | <br>
+**President**
+<br>
+Mr Irwin Hafiz
+<br>
 
-| **Vice-President** | 
-| -------- | 
-| Mr Jermain Eu    | <br>
+**Vice-President**
+<br>
+Mr Jermain Eu
+<br>
 
-| **Treasurer** | 
-| -------- | 
-| Mr Alwyn Ang  | <br>
+**Treasurer**
+<br>
+Mr Alwyn Ang
+<br>
 
-| **Secretary** | 
-| -------- | 
-| Ms Seah Hui Yan    | <br>
+**Secretary**
+<br>
+Ms Seah Hui Yan
+<br>
 
 
-
-**Members**<br>
+**Members**
+<br>
 
 |  |  |  |
 | -------- | -------- | -------- |
