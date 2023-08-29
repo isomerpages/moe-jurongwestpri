@@ -26,18 +26,34 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
     
 ##### Executive Committee Members (August 2023 - August 2025)
 
-|                           **President**                           |
-|-------------------------------------------------|
-|                         Mr Irwin Hafiz                     |
-|                         **Vice-President**                        |
-|             Mr Jermain Eu            |
-|                           **Treasurer**                           |
-|                           Mr Alwyn Ang                         |
-|                           **Secretary**                           |
-|                           Ms Seah Hui Yan                           
 <br>
 
+
+
+**President**
+<br>
+Mr Irwin Hafiz
+<br>
+
+**Vice-President**
+<br>
+Mr Jermain Eu
+<br>
+
+**Treasurer**
+<br>
+Mr Alwyn Ang
+<br>
+
+**Secretary**
+<br>
+Ms Seah Hui Yan
+<br>
+
+
 **Members**
+<br>
+
 |  |  |  |
 | -------- | -------- | -------- |
 | Mr Andy Sim Wei Xiang     | Mr Kenogi Cheong     | Mr Suah Boon Choong    |
@@ -45,7 +61,8 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
 | Ms Guo Huicong  | Ms Nur Atiqah Ramli | Mr Klinsmann Soh  |
 | Mr Jishreean Janan Ramesh  | Mr Tay Zhi Peng  | Ms Kimberly Tay |
 | Ms Soh Xian |  Mr Sean Tang Shao An  |  Ms Darin Shifa |
-| Mr Joel Chan | Ms Zara Ang Yu Jia |  Mr Koh Ghim Hong |
+| Mr Joel Chan | Ms Zara Ang Yu Jia |  Mr Koh Ghim Hong |<br>
+
 
 
 
