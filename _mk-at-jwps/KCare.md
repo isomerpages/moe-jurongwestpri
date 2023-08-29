@@ -5,9 +5,14 @@ description: ""
 ---
 You can enroll your child in KCare if your child requires full-day service. 
 
-At the moment, only **morning KCare** is offered. 
+Your child will enjoy the following modular activities in KCare:
 
-Your child will attend KCare from 7am to 1pm, join MK from 1pm to 5pm before going back to KCare from 5pm to 7pm.
+* Art &amp; Craft
+* Gardening
+* Sand &amp; Water Play
+* Music, Movement &amp; Dramatization
+* Tinkering
+* Cookery
 
 Our KCare service provider is YMCA.
 
