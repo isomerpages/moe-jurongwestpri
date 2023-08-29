@@ -24,25 +24,30 @@ The Jurong West Primary School Alumni Association (JWPSAA) was formed on 3rd Aug
     
 4.  To foster the spirit of service to the school.
     
-##### Executive Committee Members (August 2021 - August 2023)
+##### Executive Committee Members (August 2023 - August 2025)
 
 |                           **President**                           |
 |-------------------------------------------------|
-|                         Mr Suah Boon Choong                        |
+|                         Mr Irwin Hafiz                     |
 |                         **Vice-President**                        |
-|             Ms Guo Huicong<br>Mr Jishreean Janan Ramesh            |
+|             Mr Jermain Eu            |
 |                           **Treasurer**                           |
-|                           Mr Derrick Chin                          |
-|                        **Vice-Treasurer**                        |
-|                            Ms Kimberly Tay                         |
+|                           Mr Alwyn Ang                         |
 |                           **Secretary**                           |
-|                           Ms Seah Hui Yan                          |
-|                        **Liaison Officer**                        |
-|                             Ms Karen Ho                            |
-|                     **Social Media Officer**                     |
-|                           Mr Klinsmann Soh                         |
-|                             **Member**                            |
-| Mr Bryson Lam<br>Mr Irwin Hafiz<br>Ms Soh Xian<br>Mr Low Suan Peng |
+|                           Ms Seah Hui Yan                           
+<br>
+
+**Members**
+|  |  |  |
+| -------- | -------- | -------- |
+| Mr Andy Sim Wei Xiang     | Mr Kenogi Cheong     | Mr Suah Boon Choong    |
+| Mr Derrick Chin | Ms Karen Ho | Mr Bryson Lam |
+| Ms Guo Huicong  | Ms Nur Atiqah Ramli | Mr Klinsmann Soh  |
+| Mr Jishreean Janan Ramesh  | Mr Tay Zhi Peng  | Ms Kimberly Tay |
+| Ms Soh Xian |  Mr Sean Tang Shao An  |  Ms Darin Shifa |
+| Mr Joel Chan | Ms Zara Ang Yu Jia |  Mr Koh Ghim Hong |
+
+
 
 
 [Constitution of JWPS Alumni Association](/files/Alumni/Constitution%20of%20JWPS%20Alumni%20Association.pdf)
