@@ -40,7 +40,7 @@ Parents who send/fetch their child outside the above gate opening hours are advi
 
 As the KCare and MK staff will be busy taking care of all the children, you may have to wait at the foyer for up to **15 minutes** if you send/fetch your child outside the above gate opening hours.
 
-The security guard’s main role is to maintain safety and security. They are **not required** to call the MK/KCARE staff on parents’ behalf.
+The security guard’s main role is to maintain safety and security. They are **not required** to call the MK/KCare staff on parents’ behalf.
 
 ##### MK/KCare Premise: No entry for parents/caregivers
 
