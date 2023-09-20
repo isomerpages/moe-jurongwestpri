@@ -5,4 +5,4 @@ description: ""
 ---
 **Art Club**
 
-To watch introduction video click .
+To watch introduction video click [here](https://youtu.be/GH6PbtZ5qLI).
