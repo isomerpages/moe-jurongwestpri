@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Art Club.md
       - Inforcom Club.md
       - Science Technology Engineering Maths Club.md
       - Scouts.md
