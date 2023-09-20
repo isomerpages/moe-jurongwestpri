@@ -16,11 +16,11 @@ You can refer to the [brochure](/files/MK/MOE%20Brochure%20English%202022.pdf) f
 		
 ##### MK gate opening hours
 
-The entrance is via the MK Gate beside block 601A multi-storey carpark. KCARE/MK staff will be at the foyer to receive/dismiss your child.
+The entrance is via the MK Gate beside block 601A multi-storey carpark. KCare/MK staff will be at the foyer to receive/dismiss your child.
+<br>
+![MK Entrance](/images/MK/mk%20entrance1.jpg)
+<br>
 
-Authorisation Passes are required for parents/caregivers to have access to the  foyer during arrival and dismissal times.<br>
-
-![](/images/MK/Waiting%20area.jpeg)
 The gate opening hours are:
 
 | Opening hours | Purpose |
@@ -32,12 +32,15 @@ The gate opening hours are:
 | 5pm to 5:15pm | Dismissal of MK (PM) students |
 | 5:30pm to 7pm | Dismissal of KCare students |
 
+Authorisation Passes are required for parents/caregivers to have access to the  foyer during arrival and dismissal times.<br>
 
+![](/images/MK/Waiting%20area.jpeg)
+<br>
 Parents who send/fetch their child outside the above gate opening hours are advised to call/WhatsApp the respective numbers (96791940 – KCare / 96474301 - MK) first.<br>
 
 As the KCare and MK staff will be busy taking care of all the children, you may have to wait at the foyer for up to **15 minutes** if you send/fetch your child outside the above gate opening hours.
 
-The security guard’s main role is to maintain safety and security. They are **not required** to call the MK/KCARE staff on parents’ behalf.
+The security guard’s main role is to maintain safety and security. They are **not required** to call the MK/KCare staff on parents’ behalf.
 
 ##### MK/KCare Premise: No entry for parents/caregivers
 

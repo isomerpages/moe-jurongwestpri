@@ -1,0 +1,19 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Badminton.md
+      - Basketball.md
+      - Football.md
+      - Hockey.md
+      - Netball.md
+      - Track & Field.md
+      - Concert Band.md
+      - Choir.md
+      - Chinese Dance.md
+      - Modern Dance (Hip Hop).md
+      - Drama Club.md
+      - Art Club.md
+      - InfoComm Club.md
+      - Science Technology Engineering Maths Club.md
+      - Scouts.md
