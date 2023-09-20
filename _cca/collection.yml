@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Football.md
       - Basketball.md
       - Badminton.md
