@@ -15,7 +15,7 @@ JWPS offers a total of 15 different CCAs, which can be grouped into 4 broad cate
 | -------- | -------- | -------- | ---- |
 | [Badminton](https://jurongwestpri.moe.edu.sg/cca/badminton/)    |  [Concert Band](https://jurongwestpri.moe.edu.sg/cca/band/)     | [Art Club](https://jurongwestpri.moe.edu.sg/cca/artclub/)     | [Scouts](https://jurongwestpri.moe.edu.sg/cca/scouts/) |
 |  [Basketball](https://jurongwestpri.moe.edu.sg/cca/basketball/)  |  [Choir](https://jurongwestpri.moe.edu.sg/cca/choir/)   |  [Infocom Club](https://jurongwestpri.moe.edu.sg/cca/infocommclub/) | |
-| [Hockey](https://jurongwestpri.moe.edu.sg/cca/hockey/)  | [Chinese Dance](https://jurongwestpri.moe.edu.sg/cca/chinesedance/) <br>[Performances](https://youtu.be/bg8mVB1CFF4) |  [Drama Club](https://jurongwestpri.moe.edu.sg/cca/dramaclub/) | |
+| [Hockey](https://jurongwestpri.moe.edu.sg/cca/hockey/)  | [Chinese Dance](https://jurongwestpri.moe.edu.sg/cca/chinesedance/) <br>[Performances](https://jurongwestpri.moe.edu.sg/cca/chinesedance/) |  [Drama Club](https://jurongwestpri.moe.edu.sg/cca/dramaclub/) | |
 | [Netball](https://jurongwestpri.moe.edu.sg/cca/netball/) | [Modern Dance (Hip Hop)](https://jurongwestpri.moe.edu.sg/cca/moderndance/)  |  [S.T.E.M Club (Science. Technology. Engineering. Maths)](https://jurongwestpri.moe.edu.sg/cca/stemclub/)  | |
 | [Football](https://jurongwestpri.moe.edu.sg/cca/football/)  |   |   | |
 | [Track and Field](https://jurongwestpri.moe.edu.sg/cca/trackandfield/) |   |   |
