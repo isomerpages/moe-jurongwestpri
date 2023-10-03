@@ -12,11 +12,6 @@ third_nav_title: Notices To Parents
 
 | Date | Notice |
 | --- | ----- |
-| 25 Jan 2023 | [P6 Modes of Assessments](/files/Letter%20to%20parents/Term%201/024%20P6%20Modes%20of%20Assessments.pdf) |
-| 26 May 2023 | [Values-In-Action (VIA) Activity – Collection of Recycled Items](/files/Letter%20to%20parents/Term%202/059%20collection%20of%20recycled%20items.pdf) |
-| 3 Aug 2023 | [PSLE Oral and LC 2023](/files/Letter%20to%20parents/Term%203/077%20psle%20oral%20and%20lc%202023%20v1.pdf)
 | 17 Aug 2023 | [Edusave Character Award 2023](/files/Letter%20to%20parents/Term%203/081%20edusave%20character%20award%202023.pdf) |
-| 29 Aug 2023 | [Term 4 Primary 6 Supplementary Lessons](/files/Letter%20to%20parents/Term%203/085%20p6%20term%204%20supplementary%20lessons.pdf) |
-| 12 Sep 2023 | [P6 3-day study break from 25 Sep to 27 Sep](/files/Letter%20to%20parents/Term%204/086%203daystudybreak%20(25to%2027%20sep)_2023.pdf)  |
 | 3 Oct 2023 | [P6 Rafting](/files/Letter%20to%20parents/Term%204/088%20p6%20rafting%202023.pdf)  |
 | | |
