@@ -18,4 +18,5 @@ third_nav_title: Notices To Parents
 | 17 Aug 2023 | [Edusave Character Award 2023](/files/Letter%20to%20parents/Term%203/081%20edusave%20character%20award%202023.pdf) |
 | 29 Aug 2023 | [Term 4 Primary 6 Supplementary Lessons](/files/Letter%20to%20parents/Term%203/085%20p6%20term%204%20supplementary%20lessons.pdf) |
 | 12 Sep 2023 | [P6 3-day study break from 25 Sep to 27 Sep](/files/Letter%20to%20parents/Term%204/086%203daystudybreak%20(25to%2027%20sep)_2023.pdf)  |
+| 3 Oct 2023 |  [](/files/Letter%20to%20parents/Term%204/088%20p6%20rafting%202023.pdf) |
 | | |
