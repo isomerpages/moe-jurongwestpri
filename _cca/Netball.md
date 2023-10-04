@@ -15,6 +15,6 @@ Netball trainings are conducted weekly by experienced coaches where students wil
 
 For our girls, JWPS Netball is more than a CCA; it is our second home. Join the JWPS Netball family now!
 
-Training Days: Monday/Friday
+Training Days: Monday/Wednesday
 
 Only accepting Girls in JWPS Netball

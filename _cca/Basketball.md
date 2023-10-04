@@ -19,6 +19,6 @@ Basketball trains you in physical skills such as running and jumping, dribbling,
 
 Apart from physical fitness and skills, you will also learn to develop the mental acuity required to observe the flow of the game to know when and how to position yourself during a match. There are always new ways to play the game and Basketball is the place to be if you want to have fun, be healthy and fit and make new friends along the way.
 
-Training Days: Wednesday/Friday
+Training Days: Monday/Wednesday
 
 Only accepting Boys in JWPS Basketball

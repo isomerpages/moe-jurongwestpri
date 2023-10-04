@@ -29,4 +29,4 @@ Our achievements include:
 
 2022       NSG Hockey Junior 2 Division Boys Tier 1 3rd place
 
-Training Days: Wednesday/Friday
+Training Days: Monday/Wednesday

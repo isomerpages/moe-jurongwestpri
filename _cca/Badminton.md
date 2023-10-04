@@ -13,4 +13,4 @@ The JWPS Badminton Club provides members with opportunities to learn the proper 
 
 In the course of nurturing future sportsmen and pursuing sporting excellence, we aim to inculcate in our students leadership, sportsmanship as well as our school values -- Teamwork, Honesty, Innovativeness, Kindness, Enthusiasm and Resilience -- through the activities during CCA.
 
-Training Days: Monday/Wednesday/Friday
+Training Days: Monday/Wednesday
