@@ -25,7 +25,7 @@ JWPS offers a total of 15 different CCAs, which can be grouped into 4 broad cate
 |  |   |   | |
 
 <br>
-CCA sessions are held after school on either Mondays, Wednesdays and/or Fridays, from 2 p.m. to 4 p.m. The respective CCA Teachers-in-charge will provide more details via Parent Gateway app (PG).
+CCA sessions are held after school on either Mondays and/or Wednesdays, from 2 p.m. to 4 p.m. or 5 p.m. The respective CCA Teachers-in-charge will provide more details via Parent Gateway app (PG).
 
 **CCA Attendance and Transfer Policy**
 
