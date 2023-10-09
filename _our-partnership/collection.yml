@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Advisory Committee.md
+      - Alumni Association/Organisation Chart.md
       - Alumni Association/.keep
       - Alumni Association/About Us.md
       - Alumni Association/Membership.md
