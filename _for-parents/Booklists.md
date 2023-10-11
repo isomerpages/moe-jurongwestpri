@@ -5,7 +5,7 @@ description: ""
 ---
 | Level | Booklist |
 | -------- | -------- |
-| Primary 1 2024     |     |
+| Primary 1 2024     |  [P1 2024 booklist](/files/Booklist/p1_2024.pdf)   |
 | Primary 2  |   |
 |Primary 3  |    |
 | Primary 4  |  |
