@@ -1,5 +1,5 @@
 ---
-title: Alumni Association
+title: About Us
 permalink: /our-partnership/alumni-association/
 description: ""
 third_nav_title: Alumni Association
