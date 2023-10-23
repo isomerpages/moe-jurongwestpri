@@ -14,6 +14,7 @@ description: ""
 | Vice Principal | 
 | -------- | 
 | Mr Lim Chin Guan, VP Admin
+| Ms Patricia Sim Ee Koon, VP Academic
 | Ms Tan Wan Kheng, VP Academic | 
 
 
