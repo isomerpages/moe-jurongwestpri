@@ -16,4 +16,5 @@ third_nav_title: Notices To Parents
 | 31 Jan 2023 | [Mathematics Parents Engagement Session for P4 Parents](/files/Letter%20to%20parents/Term%201/031%20Maths%20Parents%20Engagement%20Session_%20P4_2023.pdf) |
 | 17 Aug 2023 | [Edusave Character Award 2023](/files/Letter%20to%20parents/Term%203/081%20edusave%20character%20award%202023.pdf) |
 | 24 Oct 2023 | [P4 Purchase of Calculators at School Bookshop on 1 Nov](/files/Letter%20to%20parents/Term%204/096%20p4%20purchase%20of%20calculators.pdf) |
+| 1 Nov 2023 | [P4 Learning Journey to Kreta Ayer Heritage Gallery](/files/Letter%20to%20parents/Term%204/098%20p4%20learning%20journey%20to%20kreta%20ayer%20heritage%20gallery.pdf) |
 |  |  |
