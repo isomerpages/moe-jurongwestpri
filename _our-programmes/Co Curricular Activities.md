@@ -2,6 +2,7 @@
 title: Co Curricular Activities
 permalink: /co-curricular-activities/
 description: ""
+variant: markdown
 ---
 **CO-CURRICULAR ACTIVITIES IN JWPS**
 
@@ -14,14 +15,14 @@ The soft skills and social-emotional competencies developed during CCAs sessions
 JWPS offers a total of 15 different CCAs, which can be grouped into 4 broad categories listed below.<br>
 
 
-| Sports | Performing Arts | Clubs and Societies | Uniformed Groups |
+| Sports | Visual/Performing Arts | Clubs and Societies | Uniformed Groups |
 | -------- | -------- | -------- | ---- |
-| [Badminton](https://jurongwestpri.moe.edu.sg/cca/badminton/)    |  [Concert Band](https://jurongwestpri.moe.edu.sg/cca/band/)     | [Art Club](https://jurongwestpri.moe.edu.sg/cca/artclub/)     | [Scouts](https://jurongwestpri.moe.edu.sg/cca/scouts/) |
-|  [Basketball](https://jurongwestpri.moe.edu.sg/cca/basketball/)  |  [Choir](https://jurongwestpri.moe.edu.sg/cca/choir/)   |  [Infocom Club](https://jurongwestpri.moe.edu.sg/cca/infocommclub/) | |
-| [Hockey](https://jurongwestpri.moe.edu.sg/cca/hockey/)  | [Chinese Dance](https://jurongwestpri.moe.edu.sg/cca/chinesedance/) <br>[Performances](https://jurongwestpri.moe.edu.sg/cca/chinesedance/) |  [Drama Club](https://jurongwestpri.moe.edu.sg/cca/dramaclub/) | |
-| [Netball](https://jurongwestpri.moe.edu.sg/cca/netball/) | [Modern Dance (Hip Hop)](https://jurongwestpri.moe.edu.sg/cca/moderndance/)  |  [S.T.E.M Club (Science. Technology. Engineering. Maths)](https://jurongwestpri.moe.edu.sg/cca/stemclub/)  | |
-| [Football](https://jurongwestpri.moe.edu.sg/cca/football/)  |   |   | |
-| [Track and Field](https://jurongwestpri.moe.edu.sg/cca/trackandfield/) |   |   |
+| [Badminton](https://jurongwestpri.moe.edu.sg/cca/badminton/)    |  [Art Club](https://jurongwestpri.moe.edu.sg/cca/artclub/)     |   [Infocom Club](https://jurongwestpri.moe.edu.sg/cca/infocommclub/)  | [Scouts](https://jurongwestpri.moe.edu.sg/cca/scouts/) |
+|  [Basketball](https://jurongwestpri.moe.edu.sg/cca/basketball/)  | [Concert Band](https://jurongwestpri.moe.edu.sg/cca/band/)   | [S.T.E.M Club (Science. Technology. Engineering. Maths)](https://jurongwestpri.moe.edu.sg/cca/stemclub/) | |
+| [Hockey](https://jurongwestpri.moe.edu.sg/cca/hockey/)  | [Choir](https://jurongwestpri.moe.edu.sg/cca/choir/)  |  | |
+| [Netball](https://jurongwestpri.moe.edu.sg/cca/netball/) |  [Chinese Dance](https://jurongwestpri.moe.edu.sg/cca/chinesedance/) <br>[Performances](https://jurongwestpri.moe.edu.sg/cca/chinesedance/) |    | |
+| [Football](https://jurongwestpri.moe.edu.sg/cca/football/)  |   [Drama Club](https://jurongwestpri.moe.edu.sg/cca/dramaclub/) |   | |
+| [Track and Field](https://jurongwestpri.moe.edu.sg/cca/trackandfield/) |  [Modern Dance (Hip Hop)](https://jurongwestpri.moe.edu.sg/cca/moderndance/)  |   |
 |  |   |   | |
 
 <br>
