@@ -2,6 +2,7 @@
 title: Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
+variant: markdown
 ---
 | Principal | 
 | -------- |
@@ -26,9 +27,9 @@ description: ""
 | Character and Citizenship Education     | Mdm Nor Hazilah Bte Hasan     |
 | English  | Mdm Hamidah Binti Osman  |
 | Information &amp; Communication Technology | Ms Carol Cheong Wei Siang  |
-| Mathematics |  Ms Wai Lai May |
+| Mathematics |  Ms Jerica Koh |
 |  Mother Tongue  |  Ms Wong Sheau Yun |
-|  Physical Education and Co-Curricular Activities |  Mr Lau Ban Hwee |
+|  Physical Education and Co-Curricular Activities |   |
 | Science  |  Mdm Patricia Goh Hwee Sung  |
 | School Staff Developer  | Ms Rena Tan  |
 |  Student Management | Ms Tay Siew Hwee  |
@@ -38,12 +39,12 @@ description: ""
 
 |  |  | 
 | -------- | -------- | 
-| Year Head (Upper Block)     | Mrs Sophia Ow Yong     |
-| Year Head (Middle Block)     | Ms Lau Chin Yong     |
-| Year Head (Lower Block)     | Ms Jerica Koh     |
-| Asst Year Head (Upper Block)     | Ms Emily Lim     |
-| Asst Year Head (Middle Block)     | Mrs Tan-Tan Mei Ching     |
-| Asst Year Head (Lower Block)     | Ms Yvonne Chew / Ms Seah Hui Yan     |
+| Year Head (Upper Block)     | Ms Wai Lai May     |
+| Year Head (Middle Block)     | Mrs Sophia Ow Yong     |
+| Year Head (Lower Block)     | Ms Lau Chin Yong     |
+| Asst Year Head (Upper Block)     | Mrs Tan-Tan Mei Ching     |
+| Asst Year Head (Middle Block)     | Ms Emily Lim     |
+| Asst Year Head (Lower Block)     | Ms Yvonne Chew     |
 
 <br>
 
@@ -52,7 +53,7 @@ description: ""
 | Subject Head | Name | 
 | -------- | -------- | 
 | Character &amp; Citizenship Education     | Ms Tan Chee Keng     |
-| ICT  | Ms Ong Ying Wen Gladys |
+| ICT  |  |
 | Malay  |  Mr Jasni Bin Ibrahim  |
 | PE and CCA  | Ms Jamie Gu  |
 
