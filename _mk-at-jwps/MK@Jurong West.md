@@ -2,15 +2,16 @@
 title: MK@Jurong West
 permalink: /mk-at-jwps/mk/
 description: ""
+variant: markdown
 ---
 MK@Jurong West started operation on 4 Jan 2022.
 
 MK @ Jurong West is located within Jurong West Primary School. 
 
-| Programmes | 2023 | 
+| Programmes | 2024 | 
 | -------- |  -------- | 
 | MK     |  AM and PM     |
-| KCare | AM only |
+| KCare | AM and PM |
 
 You can refer to the [brochure](/files/MK/MOE%20Brochure%20English%202022.pdf) for more information about MK curriculum and experience.
 		
