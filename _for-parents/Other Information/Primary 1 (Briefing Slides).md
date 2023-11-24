@@ -7,3 +7,5 @@ variant: markdown
 ---
 ##### P1 Orientation Slides
 
+
+[P1 2024 Orientation Slides](/files/Slides%20and%20info/P1_2024_Orientation_Slides.pdf)
