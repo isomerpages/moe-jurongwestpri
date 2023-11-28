@@ -4,10 +4,6 @@ permalink: /mtl/
 description: ""
 variant: markdown
 ---
-| Head of Department |
-| --- |
-|  |<br>
-
  
 | Level Head |
 | --- |
