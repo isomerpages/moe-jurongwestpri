@@ -20,16 +20,19 @@ The students will be trained by a very dedicated coach, Miss Luo Yingying, who i
 <br>
 
 Our achievements include:
+<br>
 
-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NSG Hockey Junior 2 Division Boys Tier 3 2nd place
+2019 
+* NSG Hockey Junior 2 Division Boys Tier 3 2nd place
 
-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NSG Hockey Junior 1 Division Boys Tier 1 1st place
+* NSG Hockey Junior 1 Division Boys Tier 1 1st place
 
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NSG Hockey Senior Boys Division Boys 5th place
+2022 
+* NSG Hockey Senior Boys Division Boys 5th place
 
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NSG Hockey Junior 1 Division Boys Tier 2 1st place
+* NSG Hockey Junior 1 Division Boys Tier 2 1st place
 
-2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NSG Hockey Junior 2 Division Boys Tier 1 3rd place
+* NSG Hockey Junior 2 Division Boys Tier 1 3rd place
 
 <br>
 
