@@ -2,6 +2,7 @@
 title: Hockey
 permalink: /cca/hockey/
 description: ""
+variant: markdown
 ---
 **Hockey**
 
@@ -12,8 +13,6 @@ Our Hockey CCA comprises of the CCA team and the school team. Our CCA team is ma
 The training sessions provide members the opportunity to achieve their true potential and develop their character. Hockey CCA activities include daily morning practice sessions for the passionate players, weekly training sessions (parents can opt to have your child attend one or two sessions a week) and the Inter-Primary Hockey tournament.
 
 The students will be trained by a very dedicated coach, Miss Luo Yingying, who is a former PE teacher and SEA Games medalist.
-
-Under Coach Yingying and Mr Lau Ban Hwee’s tutelage, our team has continued to do us proud at national interschool games.
 
 Our achievements include:
 
