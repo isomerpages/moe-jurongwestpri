@@ -2,16 +2,15 @@
 title: ICT Department
 permalink: /ict/
 description: ""
+variant: markdown
 ---
 | Head Of Department |
 | --- |
-| Ms Cheong Wei Siang Carol |<br>
+| Ms&nbsp;Cheong Wei Siang&nbsp;Carol |<br>
 
 
  
-| Subject Head |
-| --- |
-| Ms Ong Ying Wen Gladys  |<br>
+
 
 
 
