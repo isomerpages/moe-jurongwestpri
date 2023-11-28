@@ -10,6 +10,38 @@ Tel: 9048 1145<br>
 Opening Hours: Mondays to Fridays, 9.00 am - 4.00 pm<br>
 Lunch Break: 12.00 p.m - 1.00 p.m
 
+Online store : [Pacific Bookstore online store](https://www.pacificbookstores.com/)
+
+
+#### School Uniform
+
+**Yang Tze Kiang Tailor**  
+ 
+Tel: 6769 1260
+ 
+Address: Blk 26 Teck Whye Lane, #01-180, Singapore 680026
+
+To buy the uniform online and for information on school uniform size chart, please click on this link: [Uniform Size Chart](https://www.yangtzekiang.com.sg/eshop/size-chart/)
+
+
+
+#### School Bus
+
+**JK59 Pte Ltd**<br>
+Tel: 6465 5959<br>
+Fax: 6466 5959<br>
+Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139
+
+Monthly Fees:
+
+
+
+| Distance | 1 way | 2 way |
+| -------- | -------- | -------- |
+| Up to 2km     | $140     | $145     |
+| 2 to 4 km | $325 | $330 |
+
+
 #### Dental Clinic
 
 **Health Promotion Board**<br>
@@ -31,36 +63,8 @@ For urgent cases during the clinic closure, you may call 91146562 (Frontier Prim
 
 For emergency dental treatment, you can call HPB Dental at 6435 3782.
 
-#### Insurance
-
-**NTUC Income**
-
-Tel: 6346 2663
-
-#### School Bus
-
-**JK59 Pte Ltd**<br>
-Tel: 6465 5959<br>
-Fax: 6466 5959<br>
-Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139
-
-Monthly Fees:
 
 
 
-| Distance | 1 way | 2 way |
-| -------- | -------- | -------- |
-| Up to 2km     | $140     | $145     |
-| 2 to 4 km | $325 | $330 |
 
 
-
-#### School Uniform
-
-**Yang Tze Kiang Tailor**  
- 
-Tel: 6769 1260
- 
-Address: Blk 26 Teck Whye Lane, #01-180, Singapore 680026
-
-For information on school uniform size chart, please click on this link: [Uniform Size Chart](https://www.yangtzekiang.com.sg/eshop/size-chart/)
