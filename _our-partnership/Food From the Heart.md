@@ -2,6 +2,7 @@
 title: Food From the Heart
 permalink: /our-partnership/FFTH/
 description: ""
+variant: markdown
 ---
 We have partnered Food From the Heart (FTTH) since 2018.
 
@@ -9,6 +10,6 @@ The School Goodie Bag programme by FTTH focuses on providing underprivileged pri
 
 The programme supplements the meals of needy children and their families and reduces their financial burden. 
 
-Each month, food items from FTTH are delivered to the school and distributed by the school to 50 underprivileged families.
+Each month, food items from FTTH are delivered to the school and distributed by the school to selected underprivileged families.
 
 ![FTTH](/images/FTTH.png)
