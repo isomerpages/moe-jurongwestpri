@@ -2,6 +2,7 @@
 title: Student Support
 permalink: /uplift/
 description: ""
+variant: markdown
 ---
 The school adopts a Tiered System of Support (TSS) in providing support to students with special educational and/ or additional needs. Each student’s performance and progress is used and reviewed to determine the level of needs and intensity of support required. The TSS helps with effective and efficient allocation of resources in the areas of manpower, time, physical space and finances.
 
@@ -15,12 +16,12 @@ The school adopts a Tiered System of Support (TSS) in providing support to stude
 |  |  | 
 | -------- | -------- | 
 | HOD Student Management | Ms Tay Siew Hwee |
-| Year Head (Upper Block)     | Mrs Sophia Ow Yong     |
-| Year Head (Middle Block)     | Ms Lau Chin Yong     |
-| Year Head (Lower Block)     | Ms Jerica Koh     |
-| Asst Year Head (Upper Block)     | Ms Emily Lim     |
-| Asst Year Head (Middle Block)     | Mrs Tan-Tan Mei Ching     |
-| Asst Year Head (Lower Block)     | Ms Yvonne Chew / Ms Seah Hui Yan     |
+| Year Head (Upper Block)     | Ms Lau Chin Yong     |
+| Year Head (Middle Block)     |  Mrs Sophia Ow Yong    |
+| Year Head (Lower Block)     | Ms Wai Lai May     |
+| Asst Year Head (Upper Block)     | Ms Yvonne Chew     |
+| Asst Year Head (Middle Block)     |   Ms Emily Lim   |
+| Asst Year Head (Lower Block)     | Mrs Tan-Tan Mei Ching     |
 
 
 
