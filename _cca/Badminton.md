@@ -6,6 +6,8 @@ variant: markdown
 ---
 **Badminton**
 
+<br>
+
 To watch the introduction video click [here](https://youtu.be/V8cMn9Hen9Q).
 
 <br>
