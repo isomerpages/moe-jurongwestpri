@@ -5,11 +5,12 @@ description: ""
 variant: markdown
 ---
 **Choir**
+<br>
 
 To watch introduction video click [here](https://youtu.be/UB9juRjqa9M).
 <br>
 
-“**_When words fail, music speaks_**” – Hans Christian Henderson
+***When words fail, music speaks*** – Hans Christian Henderson
 
 <br>
 
@@ -18,6 +19,7 @@ Jwps Choir has a share sense of purpose- to spread the love of music and the pas
 <br>
 
 Events:
+<br>
 
 * Singapore Youth Festival (SYF)
 
