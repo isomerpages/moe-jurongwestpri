@@ -28,7 +28,7 @@ variant: markdown
 | English  | Mdm Hamidah Binti Osman  |
 | Information &amp; Communication Technology | Ms Carol Cheong Wei Siang  |
 | Mathematics |  Ms Jerica Koh |
-|  Mother Tongue  |  Ms Wong Sheau Yun |
+|  Mother Tongue  |   |
 |  Physical Education and Co-Curricular Activities |   |
 | Science  |  Mdm Patricia Goh Hwee Sung  |
 | School Staff Developer  | Ms Rena Tan  |
