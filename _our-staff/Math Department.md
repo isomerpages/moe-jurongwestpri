@@ -2,11 +2,11 @@
 title: Math Department
 permalink: /math/
 description: ""
+variant: markdown
 ---
-
 | Head of Department |
 | --- |
-| Ms Wai Lai May |<br>
+| Ms Jerica Koh |<br>
   
 
 | Level Head |
