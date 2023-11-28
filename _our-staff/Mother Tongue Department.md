@@ -2,11 +2,11 @@
 title: Mother Tongue Department
 permalink: /mtl/
 description: ""
+variant: markdown
 ---
-
 | Head of Department |
 | --- |
-| Ms Wong Sheau Yun |<br>
+|  |<br>
 
  
 | Level Head |
@@ -22,7 +22,6 @@ description: ""
 
 | Senior Teacher |
 | --- |
-| Mrs Ramachandran P
 | Mdm Sopianti Bte Abdullah
  
 <br>
