@@ -2,15 +2,16 @@
 title: PAM Department
 permalink: /pam/
 description: ""
+variant: markdown
 ---
-| Head of Department (PE & CCA/LLP) |
+| Head of Department (PE &amp; CCA/LLP) |
 | --- |
-| Mr Lau Ban Hwee |<br>
+|  |<br>
 
 
 | Subject Head (CCA) |
 | --- |
-|  Miss Jamie Gu Jiazhen  |<br>
+| &nbsp;Miss Jamie Gu Jiazhen  |<br>
   
 
 | Senior Teacher |
