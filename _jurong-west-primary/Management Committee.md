@@ -28,8 +28,6 @@ variant: markdown
 | English  | Mdm Hamidah Binti Osman  |
 | Information &amp; Communication Technology | Ms Carol Cheong Wei Siang  |
 | Mathematics |  Ms Jerica Koh |
-|  Mother Tongue  |   |
-|  Physical Education and Co-Curricular Activities |   |
 | Science  |  Mdm Patricia Goh Hwee Sung  |
 | School Staff Developer  | Ms Rena Tan  |
 |  Student Management | Ms Tay Siew Hwee  |
@@ -53,7 +51,6 @@ variant: markdown
 | Subject Head | Name | 
 | -------- | -------- | 
 | Character &amp; Citizenship Education     | Ms Tan Chee Keng     |
-| ICT  |  |
 | Malay  |  Mr Jasni Bin Ibrahim  |
 | PE and CCA  | Ms Jamie Gu  |
 
