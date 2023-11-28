@@ -2,6 +2,7 @@
 title: Scouts
 permalink: /cca/scouts/
 description: ""
+variant: markdown
 ---
 ***Scouts***
 
@@ -13,6 +14,6 @@ The Scouting's purpose is to help young people to develop their full physical, i
 
 Our Mission is to contribute to the education of young people, through a value system based on the Scout Promise and Law: _To help build a better world where people are self-fulfilled as individuals and play a constructive role in society_.
 
-Our CCA Activities include Annual Camps, Outdoor Cooking, Campfires, Value-In-Action – initiated by the scouts and more. Our Achievements include the Frank Cooper Sands Award (Gold) 2017 – 2019
+Our CCA Activities include Annual Camps, Outdoor Cooking, Campfires, Value-In-Action – initiated by the scouts and more. Our Achievements include the Frank Cooper Sands Award (Gold) 2017 – 2019, 2022.
 
 CCA Day: Monday
