@@ -2,6 +2,7 @@
 title: Vendors
 permalink: /vendors/
 description: ""
+variant: markdown
 ---
 #### Bookshop
 **Pacific Bookstore**<br>
@@ -43,8 +44,16 @@ Tel: 6465 5959<br>
 Fax: 6466 5959<br>
 Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139
 
-**School Bus Services**<br>
-Click [here](/schoolbusservices/) to get the details. 
+Monthly Fees:
+
+
+
+| Distance | 1 way | 2 way |
+| -------- | -------- | -------- |
+| Up to 2km     | $140     | $145     |
+| 2 to 4 km | $325 | $330 |
+
+
 
 #### School Uniform
 
