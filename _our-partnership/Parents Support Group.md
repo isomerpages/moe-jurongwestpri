@@ -18,4 +18,3 @@ variant: markdown
 
 <br>
 
-![](/images/CCE%20activities/NDP%201.jpeg)
