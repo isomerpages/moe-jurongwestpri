@@ -4,10 +4,6 @@ permalink: /pam/
 description: ""
 variant: markdown
 ---
-| Head of Department (PE &amp; CCA/LLP) |
-| --- |
-|  |<br>
-
 
 | Subject Head (CCA) |
 | --- |
