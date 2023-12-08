@@ -2,40 +2,6 @@
 title: Contact Us
 permalink: /about-jwps/contact-us/
 description: ""
+variant: tiptap
 ---
-
-<table>
-<thead>
-  <tr>
-    <th>Address:</th>
-    <th>30, JURONG WEST ST 61  S(648368)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Tel :</td>
-    <td>6793 3419</td>
-  </tr>
-  <tr>
-    <td>Fax :</td>
-    <td>6793 6593</td>
-  </tr>
-  <tr>
-    <td>e-Mail :</td>
-    <td><a href="mailto:jwps@moe.edu.sg">jwps@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td>Bus Services :</td>
-    <td>192</td>
-  </tr>
-  <tr>
-    <td>Nearest MRT Station :</td>
-    <td>Pioneer MRT Station</td>
-  </tr>
-  <tr>
-    <td>Map</td>
-    <td><a href="https://www.streetdirectory.com/sg/jurong-west/30-jurong-west-street-61-648368/4412_116196.html" target = "_blank"> <img src="/images/About%20Us/Contact%20Us/jwps%20map.jpg"
-     style="width:100%"></a><br>(Please click on the map above)</td>
-  </tr>
-</tbody>
-</table>
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Address:</p></th><th rowspan="1" colspan="1"><p>30, JURONG WEST ST 61 S(648368)</p></th></tr><tr><td rowspan="1" colspan="1"><p>Tel :</p></td><td rowspan="1" colspan="1"><p>6793 3419</p></td></tr><tr><td rowspan="1" colspan="1"><p>Fax :</p></td><td rowspan="1" colspan="1"><p>6793 6593</p></td></tr><tr><td rowspan="1" colspan="1"><p>e-Mail :</p></td><td rowspan="1" colspan="1"><p><a href="mailto:jwps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jwps@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Bus Services :</p></td><td rowspan="1" colspan="1"><p>192</p></td></tr><tr><td rowspan="1" colspan="1"><p>Nearest MRT Station :</p></td><td rowspan="1" colspan="1"><p>Pioneer MRT Station</p></td></tr><tr><td rowspan="1" colspan="1"><p>Map</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img height="auto" width="100%" src="/images/About%20Us/Contact%20Us/jwps%20map.jpg"></div><p><br>(Please click on the map above)</p></td></tr></tbody></table><p></p>
