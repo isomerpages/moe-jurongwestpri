@@ -6,7 +6,7 @@ variant: markdown
 ---
 | Principal | 
 | -------- |
-| Mr Chris Loh Kai Mun   | 
+| Mrs Christina Tan-Lim Lay Leng   | 
 
 
 <br>
