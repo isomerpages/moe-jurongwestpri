@@ -2,40 +2,6 @@
 title: Your Child at MK@JWPS
 permalink: /mk-at-jwps/activities/
 description: ""
+variant: tiptap
 ---
-##### All the fun and exciting learning activities for your child:
-
-Experiential activity - baking cookies
-![](/images/MK/Experiential%20activity%20baking.jpeg)
-
-Experiential activity - making Ondeh-Ondeh
-![](/images/MK/Experiential%20activity%20ondeh.jpeg)
-
-Learning 'Loud and Soft' with rhythm sticks
-![](/images/MK/Learning%20loud%20and%20soft%20with%20rhythm%20sticks.jpeg)
-
-Let's pretend - MK clinic
-![](/images/MK/MK%20clinic2.jpeg)
-
-![](/images/MK/MK%20clinic1.jpeg)
-
-
-Sensorial garden
-![](/images/MK/Sensorial%20gardem.jpeg)
-
-
-Water play:
-![](/images/MK/Water%20play.jpeg)
-
-
-Sand play:
-![](/images/MK/Sand%20play.jpeg)
-
-Outdoor painting:
-![](/images/MK/Outdoor%20painting.jpeg)
-
-Tricycles:
-![](/images/MK/Tricycle.jpeg)
-
-End of term project:
-![](/images/MK/End%20of%20term%20project.jpeg)
+<h5>All the fun and exciting learning activities for your child:</h5><p>Experiential activity - baking cookies</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/Experiential%20activity%20baking.jpeg"></div><p>Experiential activity - making Ondeh-Ondeh</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/Experiential%20activity%20ondeh.jpeg"></div><p>Learning 'Loud and Soft' with rhythm sticks</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/Learning%20loud%20and%20soft%20with%20rhythm%20sticks.jpeg"></div><p>Let's pretend - MK clinic</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/MK%20clinic2.jpeg"></div><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/MK%20clinic1.jpeg"></div><p>Sensorial garden</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/Sensorial%20gardem.jpeg"></div><p>Water play:</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/Water%20play.jpeg"></div><p>Sand play:</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/Sand%20play.jpeg"></div><p>Outdoor painting:</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/Outdoor%20painting.jpeg"></div><p>Tricycles:</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/Tricycle.jpeg"></div><p>End of term project:</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/MK/End%20of%20term%20project.jpeg"></div><p></p>
