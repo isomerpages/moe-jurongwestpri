@@ -3,12 +3,6 @@ title: Kindness | P4
 permalink: /NoticesP4/
 description: ""
 third_nav_title: Notices To Parents
-variant: markdown
+variant: tiptap
 ---
-#### Please check your **Parents Gateway** app for the latest Notices and Forms.
-
-
-
-| Date | Notice |
-| --- | ----- |
-|  |  |
+<h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Date</p></th><th rowspan="1" colspan="1"><p>Notice</p></th></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
