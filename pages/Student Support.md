@@ -2,49 +2,6 @@
 title: Student Support
 permalink: /uplift/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-The school adopts a Tiered System of Support (TSS) in providing support to students with special educational and/ or additional needs. Each student’s performance and progress is used and reviewed to determine the level of needs and intensity of support required. The TSS helps with effective and efficient allocation of resources in the areas of manpower, time, physical space and finances.
-
-
-
-
-#### Student Development Team
-
-
-
-|  |  | 
-| -------- | -------- | 
-| HOD Student Management | Ms Tay Siew Hwee |
-| Year Head (Upper Block)     | Ms Lau Chin Yong     |
-| Year Head (Middle Block)     |  Mrs Sophia Ow Yong    |
-| Year Head (Lower Block)     | Ms Wai Lai May     |
-| Asst Year Head (Upper Block)     | Ms Yvonne Chew     |
-| Asst Year Head (Middle Block)     |   Ms Emily Lim   |
-| Asst Year Head (Lower Block)     | Mrs Tan-Tan Mei Ching     |
-
-
-
-
-### Counsellor
-
-|  |  |
-| --- | --- |
-| School Counsellor  |  Ms Wyn Lim Chieng Yong  |
-
-
-#### Senior Teacher
-
-
-|  |  |
-| ---| --- |
-| ST LSP | Mrs Margaret Lim  | 
-|  ST SEN  | Mdm K Sunitha |
-
-
-
-
-
-For more information about Student Support:
-
-[SEN and other support information](/SENinfo)
+<p>The school adopts a Tiered System of Support (TSS) in providing support to students with special educational and/ or additional needs. Each student’s performance and progress is used and reviewed to determine the level of needs and intensity of support required. The TSS helps with effective and efficient allocation of resources in the areas of manpower, time, physical space and finances.</p><h4>Student Development Team</h4><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>HOD Student Management</p></td><td rowspan="1" colspan="1"><p>Ms Tay Siew Hwee</p></td></tr><tr><td rowspan="1" colspan="1"><p>Year Head (Upper Block)</p></td><td rowspan="1" colspan="1"><p>Ms Lau Chin Yong</p></td></tr><tr><td rowspan="1" colspan="1"><p>Year Head (Middle Block)</p></td><td rowspan="1" colspan="1"><p>Mrs Sophia Ow Yong</p></td></tr><tr><td rowspan="1" colspan="1"><p>Year Head (Lower Block)</p></td><td rowspan="1" colspan="1"><p>Ms Wai Lai May</p></td></tr><tr><td rowspan="1" colspan="1"><p>Asst Year Head (Upper Block)</p></td><td rowspan="1" colspan="1"><p>Ms Yvonne Chew</p></td></tr><tr><td rowspan="1" colspan="1"><p>Asst Year Head (Middle Block)</p></td><td rowspan="1" colspan="1"><p>Ms Emily Lim</p></td></tr><tr><td rowspan="1" colspan="1"><p>Asst Year Head (Lower Block)</p></td><td rowspan="1" colspan="1"><p>Mrs Tan-Tan Mei Ching</p></td></tr></tbody></table><h3>Counsellor</h3><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>School Counsellor</p></td><td rowspan="1" colspan="1"><p>Ms Wyn Lim Chieng Yong</p></td></tr></tbody></table><h4>Senior Teacher</h4><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>ST LSP</p></td><td rowspan="1" colspan="1"><p>Mrs Margaret Lim</p></td></tr><tr><td rowspan="1" colspan="1"><p>ST SEN</p></td><td rowspan="1" colspan="1"><p>Mdm K Sunitha</p></td></tr></tbody></table><p>For more information about Student Support:</p><p><a href="/SENinfo" rel="noopener noreferrer nofollow" target="_blank">SEN and other support information</a></p>
