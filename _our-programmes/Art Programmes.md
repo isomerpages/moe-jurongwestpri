@@ -2,25 +2,6 @@
 title: Art Programmes
 permalink: /Artprog/
 description: ""
+variant: tiptap
 ---
-
-
-
-In Jurong West Primary school, the Art programme is a key component in nurturing the holistic development of a child.  Our curriculum aims to provide a solid foundation for our young learners to understand and appreciate the arts, by cultivating a love for visual expression throughout their learning journey.<br>
-
-Our programme delivers a wide range of experiences ranging from traditional mediums like Batik and Acrylic painting, to modern art forms such as Digital art and Typography. We believe that through exposure of various art forms, students will gradually advance to being informed audiences in our ever-changing, globalized world. <br>
-
-By following the **Art Inquiry** model which consists of the 5 inquiry steps: Connect and wonder, Investigate, Make, Express and Reflect, students are provided with various opportunities to make personal connections, and generate new meanings in their own art making.<br>
-
-Our goals:
-1. To equip students with Art as a visual language to express their ideas
-2. For students to recognize the importance of art and the relevancy in their everyday life
-3. For students to have perseverance and a reflective mindset of an artist
-<br>
-
-Programmes:
-* P4 Museum Based Learning Journey
-* Opportunities to participate in external competitions
-* Art Recess Interlude
-* Wide range of artworks across different mediums
-* Art Club
+<p>In Jurong West Primary school, the Art programme is a key component in nurturing the holistic development of a child. Our curriculum aims to provide a solid foundation for our young learners to understand and appreciate the arts, by cultivating a love for visual expression throughout their learning journey.<br></p><p>Our programme delivers a wide range of experiences ranging from traditional mediums like Batik and Acrylic painting, to modern art forms such as Digital art and Typography. We believe that through exposure of various art forms, students will gradually advance to being informed audiences in our ever-changing, globalized world. <br></p><p>By following the <strong>Art Inquiry</strong> model which consists of the 5 inquiry steps: Connect and wonder, Investigate, Make, Express and Reflect, students are provided with various opportunities to make personal connections, and generate new meanings in their own art making.<br></p><p>Our goals:</p><ol data-tight="true" class="tight"><li><p>To equip students with Art as a visual language to express their ideas</p></li><li><p>For students to recognize the importance of art and the relevancy in their everyday life</p></li><li><p>For students to have perseverance and a reflective mindset of an artist <br></p></li></ol><p>Programmes:</p><ul data-tight="true" class="tight"><li><p>P4 Museum Based Learning Journey</p></li><li><p>Opportunities to participate in external competitions</p></li><li><p>Art Recess Interlude</p></li><li><p>Wide range of artworks across different mediums</p></li><li><p>Art Club</p></li></ul><p></p>
