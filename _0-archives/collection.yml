@@ -1,5 +1,4 @@
 collections:
   0-archives:
     output: true
-    order:
-      - Admin Department.md
+    order: []

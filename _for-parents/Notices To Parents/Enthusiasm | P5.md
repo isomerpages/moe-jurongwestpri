@@ -3,15 +3,6 @@ title: Enthusiasm | P5
 permalink: /NoticesP5/
 description: ""
 third_nav_title: Notices To Parents
+variant: tiptap
 ---
-#### Please check your **Parents Gateway** app for the latest Notices and Forms.
-
-[School Hours, School Terms and Holidays for 2023](/files/Letter%20to%20parents/007%20School%20Hours,%20School%20Terms%20and%20Holidays%20for%202023.pdf)
-
-[Meet the Parents' Briefing Slides 2023](/for-parents/Other-Information/2023parentsbriefingslides/)
-
-| Date | Notice |
-| --- | ----- |
-| 25 Jan 2023 | [P5 Modes of Assessments](/files/Letter%20to%20parents/Term%201/024%20P5%20Modes%20of%20Assessments.pdf) |
-| 17 Aug 2023 | [Edusave Character Award 2023](/files/Letter%20to%20parents/Term%203/081%20edusave%20character%20award%202023.pdf) |
-|  |  |
+<h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Date</p></th><th rowspan="1" colspan="1"><p>Notice</p></th></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>

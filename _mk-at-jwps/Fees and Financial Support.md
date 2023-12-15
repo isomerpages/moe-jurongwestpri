@@ -2,24 +2,6 @@
 title: Fees and Financial Support
 permalink: /mk-at-jwps/finance-links/
 description: ""
+variant: tiptap
 ---
-## MK Fees and Subsidy for MK
-
-**MOE Kindergarten (MK) fees**
-
-* Singapore Citizen - $160 per month
-* Permanent Resident - $320 per month
-
-If your child is a Singapore Citizen, they may qualify for financial assistance under the Kindergarten Fee Assistance Scheme (KiFAS). KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees. For more information on MK subsidy, please refer to this website: [MK subsidy](https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS)
-
-
-
-
-## KCare Fees and Subsidy for KCare
-
-**Kindergarten Care (KCare) fees**
-
-* Singapore Citizen - $210 per month (fee after $150 basic subsidy for Singapore Citizens). A deposit of $360 is required.
-* Permanent Resident - $360 per month. A deposit of $360 is required.
-
-An additional subsidy for KCare (applicable to Singapore Citizen children only) is also available and this is tiered according to income levels. For more information on KCare subsidy, please refer to this website: [KCare subsidy](https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care)
+<h2>MK Fees and Subsidy for MK</h2><p><strong>MOE Kindergarten (MK) fees</strong></p><ul data-tight="true" class="tight"><li><p>Singapore Citizen - $160 per month</p></li><li><p>Permanent Resident - $320 per month</p></li></ul><p>If your child is a Singapore Citizen, they may qualify for financial assistance under the Kindergarten Fee Assistance Scheme (KiFAS). KiFAS is provided by the Early Childhood Development Agency (ECDA) and applies only to MK school fees. For more information on MK subsidy, please refer to this website: <a href="https://www.ecda.gov.sg/parents/subsidies-financial-assistance#KIFAS" rel="noopener noreferrer nofollow" target="_blank">MK subsidy</a></p><h2>KCare Fees and Subsidy for KCare</h2><p><strong>Kindergarten Care (KCare) fees</strong></p><ul data-tight="true" class="tight"><li><p>Singapore Citizen - $210 per month (fee after $150 basic subsidy for Singapore Citizens). A deposit of $360 is required.</p></li><li><p>Permanent Resident - $360 per month. A deposit of $360 is required.</p></li></ul><p>An additional subsidy for KCare (applicable to Singapore Citizen children only) is also available and this is tiered according to income levels. For more information on KCare subsidy, please refer to this website: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank">KCare subsidy</a></p>

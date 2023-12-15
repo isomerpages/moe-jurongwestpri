@@ -2,45 +2,6 @@
 title: Science Programmes
 permalink: /SCprogram/
 description: ""
+variant: tiptap
 ---
-
-
-The school uses an integrated and holistic approach in the areas of teaching and learning of Science. It aims to nurture students to be self-directed, independent, collaborative and confident problem solvers. It is also aimed at building the confidence of our students to enable them to communicate their thoughts, ideas and feelings visually and verbally using a variety of media forms.
- 
-In JWPS, the Science curriculum is supported and enriched by the following activities :
-
-1. Investigative Experiments
-2. Nature Trail and Learning Journeys
-3. Science Competitions: 
-* Singapore Primary Science Olympiad (NUS High) SPSO
-* Raffles Science Olympiad
-* International Young Whizzes Competition organised by ACJC
-* Abbott Young Scientist Award
-
-
-##### LEARNING JOURNEYS
-
-**Science Centre**<br>
-
-During the June holidays, the Primary 6 students went on learning journeys to the Science Centre. In one of the learning journeys, the students were taught field techniques to catch and observe a variety of aquatic organisms which make up the pond community. In the process, they learned about the relationships between organisms, such as food web, in the pond ecosystem.
-
-**Leaf Litter Community**<br>
-
-During their learning journey to learn about the leaf litter community, the Primary 6 students investigated the organisms responsible for the decay and breakdown of plant and animal matter in the leaf litter community. This learning journey provides the students with an opportunity to sharpen their skills in finding and observing the animals that they had caught, as well as gain an understanding of how recycling of nutrients works in nature.
-
-**Zoo**<br>
-
-The Primary 3 students embarked on a learning journey to the Zoo during their September holidays. They had fun collaborating with their friends and using their iPads to complete different activities about the animals that they had seen.
-
-##### INVESTIGATIVE EXPERIMENTS AND MINI-PROJECTS
-
-Throughout a student's journey in Science from Primary 3 to 6, he/she will conduct different investigative experiments and mini-projects in order to develop important scientific processing skills. The following table lists some of the different activities and experiments specific to the different levels: 
-
-
-
-| Level | Activities and Experiments | 
-| -------- | -------- | 
-| Primary 3     | Boat-making and observing the life cycle of a butterfly or beetle     | 
-| Primary 4     | Using of data loggers to measure temperature and intensity of light     | 
-| Primary 5     | Making of plant and animal cell models     | 
-| Primary 6     | Investigative experiments on the conversion of energy     |
+<p>The school uses an integrated and holistic approach in the areas of teaching and learning of Science. It aims to nurture students to be self-directed, independent, collaborative and confident problem solvers. It is also aimed at building the confidence of our students to enable them to communicate their thoughts, ideas and feelings visually and verbally using a variety of media forms.</p><p>In JWPS, the Science curriculum is supported and enriched by the following activities :</p><ol data-tight="true" class="tight"><li><p>Investigative Experiments</p></li><li><p>Nature Trail and Learning Journeys</p></li><li><p>Science Competitions:</p></li></ol><ul data-tight="true" class="tight"><li><p>Singapore Primary Science Olympiad (NUS High) SPSO</p></li><li><p>Raffles Science Olympiad</p></li><li><p>International Young Whizzes Competition organised by ACJC</p></li><li><p>Abbott Young Scientist Award</p></li></ul><h5>LEARNING JOURNEYS</h5><p><strong>Science Centre</strong><br></p><p>During the June holidays, the Primary 6 students went on learning journeys to the Science Centre. In one of the learning journeys, the students were taught field techniques to catch and observe a variety of aquatic organisms which make up the pond community. In the process, they learned about the relationships between organisms, such as food web, in the pond ecosystem.</p><p><strong>Leaf Litter Community</strong><br></p><p>During their learning journey to learn about the leaf litter community, the Primary 6 students investigated the organisms responsible for the decay and breakdown of plant and animal matter in the leaf litter community. This learning journey provides the students with an opportunity to sharpen their skills in finding and observing the animals that they had caught, as well as gain an understanding of how recycling of nutrients works in nature.</p><p><strong>Zoo</strong><br></p><p>The Primary 3 students embarked on a learning journey to the Zoo during their September holidays. They had fun collaborating with their friends and using their iPads to complete different activities about the animals that they had seen.</p><h5>INVESTIGATIVE EXPERIMENTS AND MINI-PROJECTS</h5><p>Throughout a student's journey in Science from Primary 3 to 6, he/she will conduct different investigative experiments and mini-projects in order to develop important scientific processing skills. The following table lists some of the different activities and experiments specific to the different levels:</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Activities and Experiments</p></th></tr><tr><td rowspan="1" colspan="1"><p>Primary 3</p></td><td rowspan="1" colspan="1"><p>Boat-making and observing the life cycle of a butterfly or beetle</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 4</p></td><td rowspan="1" colspan="1"><p>Using of data loggers to measure temperature and intensity of light</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 5</p></td><td rowspan="1" colspan="1"><p>Making of plant and animal cell models</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 6</p></td><td rowspan="1" colspan="1"><p>Investigative experiments on the conversion of energy</p></td></tr></tbody></table><p></p>

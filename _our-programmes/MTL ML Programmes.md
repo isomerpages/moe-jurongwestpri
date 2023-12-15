@@ -2,20 +2,6 @@
 title: MTL ML Programmes
 permalink: /MTLML/
 description: ""
+variant: tiptap
 ---
-##### Hari Raya Celebration
-
-Every year, JWPS observes Hari Raya with a number of enjoyable events and a grand school celebration. The vibrant stage performances, such as the Malay dance, Silat performances, or traditional Malay musical instruments, enchant teachers and students. 
-Additionally, students get the opportunity to participate in a range of classroom activities, including making their own Hari Raya cards, folding paper, and learning how to weave ketupats. <br>
-
-Our school also plans a lot of practical activities as part of the recess interlude in keeping with MT Fortnight. By helping our students understand their social roles in their individual cultures, these carefully chosen events and cultural programs hope to improve their sense of belonging while encouraging the acquisition of MT languages in a fun and interesting way.
-
-##### Level Activities
-
-The department conducted level activities for their post-exam activities, such as learning to play traditional games and using traditional musical instruments. Level competitions for translation and spelling were also organized. Despite not being included in the curriculum, the students will nonetheless stay in touch with the culture through these activities.
-
-##### Cluster Activities
-
-Through writing competitions in class, the upper primary kids were given the chance to demonstrate their creative writing abilities. Following that, the top scripts were submitted to the West 3 Cluster writing competition. Each student received a book including a compilation of the students' efforts.
-
-
+<h5>Hari Raya Celebration</h5><p>Every year, JWPS observes Hari Raya with a number of enjoyable events and a grand school celebration. The vibrant stage performances, such as the Malay dance, Silat performances, or traditional Malay musical instruments, enchant teachers and students. Additionally, students get the opportunity to participate in a range of classroom activities, including making their own Hari Raya cards, folding paper, and learning how to weave ketupats. <br></p><p>Our school also plans a lot of practical activities as part of the recess interlude in keeping with MT Fortnight. By helping our students understand their social roles in their individual cultures, these carefully chosen events and cultural programs hope to improve their sense of belonging while encouraging the acquisition of MT languages in a fun and interesting way.</p><h5>Level Activities</h5><p>The department conducted level activities for their post-exam activities, such as learning to play traditional games and using traditional musical instruments. Level competitions for translation and spelling were also organized. Despite not being included in the curriculum, the students will nonetheless stay in touch with the culture through these activities.</p><h5>Cluster Activities</h5><p>Through writing competitions in class, the upper primary kids were given the chance to demonstrate their creative writing abilities. Following that, the top scripts were submitted to the West 3 Cluster writing competition. Each student received a book including a compilation of the students' efforts.</p>

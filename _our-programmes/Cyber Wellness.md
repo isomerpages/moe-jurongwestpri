@@ -2,46 +2,6 @@
 title: Cyber Wellness
 permalink: /Cyberwellness/
 description: ""
+variant: tiptap
 ---
-
-##### CYBER WELLNESS @ JWPS
-
-The school follows the following Cyber Wellness Framework which is adapted from the Ministry of Education (MOE).
-
-![](/images/cyberwellness.jpg)
-
-Cyber Wellness @ JWPS is driven by two key principles: **Respect for Self and Others** and **Safe and Responsible Use**. It aims to equip all students with an awareness of the social, emotional and ethical impacts of the use of ICT. As part of the school's holistic approach in promoting cyber wellness, it is integrated into the formal curriculum, such as during Form Teacher Guidance Period (FTGP) lessons, Interdisciplinary Project Work (IPW) and other school-based programmes.
-
-The structured FTGP lessons cover all six themes.
-
-
-| |  | 
-| -------- | -------- | 
-| Primary 1 | Computer Security |
-| Primary 2  | Netiquette and Danger of Cyber Contacts |
-| Primary 3  |  Cyber Bullying |
-| Primary 4  |  Copyright  |
-| Primary 5  | Handling Inappropriate Content  |
-| Primary 6  |  Gaming and Internet Addiction |
-
-
-
-These efforts as a whole comprehensively enable JWPS students to become safe and ethical harnessers of ICT.
-
-##### Programmes and Activities
-
-* Form Teacher Guidance Period (FTGP) lessons
-* Assembly talks
-* Weekly reading of Cyber Wellness messages by ICT Leaders
-* Integrated Project Work (IPW) lessons
-* Playing of Cyber Wellness videos produced by Infocomm Club members
-
-##### Cyber Wellness Assembly Presentation
-
-Primary 5 Cyber Wellness Student Ambassadors will present assembly talk on several Cyber Wellness issues, namely Cyber Bullying, Netiquette, Gaming Addiction and current Cyber Wellness trends. The audience were effectively engaged when the students presented their slides which also included a video. The audience responded positively and were able to relate to what was being presented.
-
- 
-##### Cyber Wellness STudent Ambassadors (STAR)
-
-Cyber Wellness Student Ambassadors help to  raise awareness for Cyber Wellness among JWPS students.
-
+<h5>CYBER WELLNESS @ JWPS</h5><p>The school follows the following Cyber Wellness Framework which is adapted from the Ministry of Education (MOE).</p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/cyberwellness.jpg"></div><p>Cyber Wellness @ JWPS is driven by two key principles: <strong>Respect for Self and Others</strong> and <strong>Safe and Responsible Use</strong>. It aims to equip all students with an awareness of the social, emotional and ethical impacts of the use of ICT. As part of the school's holistic approach in promoting cyber wellness, it is integrated into the formal curriculum, such as during Form Teacher Guidance Period (FTGP) lessons, Interdisciplinary Project Work (IPW) and other school-based programmes.</p><p>The structured FTGP lessons cover all six themes.</p><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p>Primary 1</p></td><td rowspan="1" colspan="1"><p>Computer Security</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 2</p></td><td rowspan="1" colspan="1"><p>Netiquette and Danger of Cyber Contacts</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 3</p></td><td rowspan="1" colspan="1"><p>Cyber Bullying</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 4</p></td><td rowspan="1" colspan="1"><p>Copyright</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 5</p></td><td rowspan="1" colspan="1"><p>Handling Inappropriate Content</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 6</p></td><td rowspan="1" colspan="1"><p>Gaming and Internet Addiction</p></td></tr></tbody></table><p>These efforts as a whole comprehensively enable JWPS students to become safe and ethical harnessers of ICT.</p><h5>Programmes and Activities</h5><ul data-tight="true" class="tight"><li><p>Form Teacher Guidance Period (FTGP) lessons</p></li><li><p>Assembly talks</p></li><li><p>Weekly reading of Cyber Wellness messages by ICT Leaders</p></li><li><p>Integrated Project Work (IPW) lessons</p></li><li><p>Playing of Cyber Wellness videos produced by Infocomm Club members</p></li></ul><h5>Cyber Wellness Assembly Presentation</h5><p>Primary 5 Cyber Wellness Student Ambassadors will present assembly talk on several Cyber Wellness issues, namely Cyber Bullying, Netiquette, Gaming Addiction and current Cyber Wellness trends. The audience were effectively engaged when the students presented their slides which also included a video. The audience responded positively and were able to relate to what was being presented.</p><h5>Cyber Wellness STudent Ambassadors (STAR)</h5><p>Cyber Wellness Student Ambassadors help to raise awareness for Cyber Wellness among JWPS students.</p>

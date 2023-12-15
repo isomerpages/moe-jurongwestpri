@@ -2,27 +2,6 @@
 title: PE Programmes
 permalink: /PEprog/
 description: ""
+variant: tiptap
 ---
-
-
-##### Physical Education
-
-
-The PE department aims to provide students with the skills, knowledge and attitudes necessary to make active living a way of life.
-We have programmes incorporating a wide range of experiences that are organised to meet the needs and interests of all our students. Students will learn and perform fundamental movement skills as well as important games concepts in their PE lessons. They will also gain an understanding of good health practices and choices through the Physical Health and Fitness module. Together with our co-curricular activities (CCAs), special events and Learning for Life Programme (LLP), we seek to develop self-directed learners who will continue to find meaning in pursuing an active and healthy lifestyle.<br>
-
-Our goals:
-1. Every student will leave our programme with the fundamental movement skills and fitness level that is required to participate in a variety of healthy lifestyle, recreational, or competitive activities.
-2.	Every student will gain an appreciation and understanding of the importance of making good lifestyle choices.
-3.	Every student to develop strong and positive relationships with their peers and the community.
-
-Programmes:
-* Lower Primary Games Day
-* Upper Primary Sports Carnival
-* P3 One-Day Camp (LLP)
-* P4 High Elements / Sports Module (LLP)
-* P5 Adventure Camp (LLP)
-* P6 Rafting (LLP)
-* 6 Sports CCAs
-* P5 and P6 Year-End Games
-* Active Recess Programme
+<h5>Physical Education</h5><p>The PE department aims to provide students with the skills, knowledge and attitudes necessary to make active living a way of life. We have programmes incorporating a wide range of experiences that are organised to meet the needs and interests of all our students. Students will learn and perform fundamental movement skills as well as important games concepts in their PE lessons. They will also gain an understanding of good health practices and choices through the Physical Health and Fitness module. Together with our co-curricular activities (CCAs), special events and Learning for Life Programme (LLP), we seek to develop self-directed learners who will continue to find meaning in pursuing an active and healthy lifestyle.<br></p><p>Our goals:</p><ol data-tight="true" class="tight"><li><p>Every student will leave our programme with the fundamental movement skills and fitness level that is required to participate in a variety of healthy lifestyle, recreational, or competitive activities.</p></li><li><p>Every student will gain an appreciation and understanding of the importance of making good lifestyle choices.</p></li><li><p>Every student to develop strong and positive relationships with their peers and the community.</p></li></ol><p>Programmes:</p><ul data-tight="true" class="tight"><li><p>Lower Primary Games Day</p></li><li><p>Upper Primary Sports Carnival</p></li><li><p>P3 One-Day Camp (LLP)</p></li><li><p>P4 High Elements / Sports Module (LLP)</p></li><li><p>P5 Adventure Camp (LLP)</p></li><li><p>P6 Rafting (LLP)</p></li><li><p>6 Sports CCAs</p></li><li><p>P5 and P6 Year-End Games</p></li><li><p>Active Recess Programme</p></li></ul><p></p>
