@@ -2,7 +2,6 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - Parents Appreciation.md
       - MK@Jurong West.md
       - Your Child at MK@JWPS.md
       - Our MK Staff.md
@@ -15,4 +14,5 @@ collections:
       - Fees and Financial Support.md
       - Early Years Centre Partners.md
       - P1 Admission for MK Students.md
+      - Parents Appreciation.md
       - Contact Us.md
