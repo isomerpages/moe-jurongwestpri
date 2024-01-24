@@ -1,0 +1,7 @@
+---
+title: Booklists
+permalink: /information-and-updates/booklists/
+description: ""
+variant: tiptap
+---
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Level</p></th><th rowspan="1" colspan="1"><p>Booklist</p></th></tr><tr><td rowspan="1" colspan="1"><p>Primary 1 2024</p></td><td rowspan="1" colspan="1"><p><a href="/files/Booklist/p1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 2024 booklist</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 2</p></td><td rowspan="1" colspan="1"><p><a href="/files/Booklist/JWPS_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 2024 booklist</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 3</p></td><td rowspan="1" colspan="1"><p><a href="/files/Booklist/JWPS_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 2024 booklist</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 4</p></td><td rowspan="1" colspan="1"><p><a href="/files/Booklist/JWPS_2024_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 2024 booklist</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 5</p></td><td rowspan="1" colspan="1"><p>Custom booklists given to students. Spare copies available at the General Office</p></td></tr><tr><td rowspan="1" colspan="1"><p>Primary 6</p></td><td rowspan="1" colspan="1"><p>Custom booklists given to students. Spare copies available at the General Office</p></td></tr></tbody></table><p></p>

@@ -1,0 +1,11 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - CCE Department.md
+      - English Department.md
+      - ICT Department.md
+      - Math Department.md
+      - Mother Tongue Department.md
+      - PAM Department.md
+      - Science Department.md
