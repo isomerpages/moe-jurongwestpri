@@ -7,7 +7,7 @@ variant: tiptap
 <h5>All the fun and exciting learning activities for your child:</h5>
 <p>Courage - AM Session</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yayj9nm4SAA?si=LfDMIMWn8bQLLUIT"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yayj9nm4SAA?si=DTwX_QkorJPKH7LD"></iframe>
 </div>
 <p>Courage - PM Session</p>
 <div class="iframe-wrapper">
