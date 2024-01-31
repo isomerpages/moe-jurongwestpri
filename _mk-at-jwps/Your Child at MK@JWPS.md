@@ -26,6 +26,10 @@ variant: tiptap
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MEOjvL6wGzs?si=jjQJFG9_QiSa4ztS"></iframe>
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yfN5ShpV1bg?si=9zw0VXUBQ4GkBdWr"></iframe>
+</div>
+<p></p>
 <p>Experiential activity - baking cookies</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Experiential%20activity%20baking.jpeg">
