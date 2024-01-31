@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p>Courage - AM Session</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yayj9nm4SAA?si=DTwX_QkorJPKH7LD"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M3pLNAdpAgk?si=Vv-miDfjNP-HXhW-"></iframe>
 </div>
 <p>Courage - PM Session</p>
 <div class="iframe-wrapper">
