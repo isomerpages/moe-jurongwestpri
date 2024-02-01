@@ -216,6 +216,14 @@ variant: tiptap
 <p>Ms Jamie Gu</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information &amp; Communication Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seah Hui Yan</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
@@ -237,14 +245,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Pua Chia Wei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Information &amp; Communication Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Seah Hui Yan</p>
 </td>
 </tr>
 <tr>
