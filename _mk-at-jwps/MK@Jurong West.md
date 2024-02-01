@@ -43,8 +43,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>You can refer to the brochure for more information about MK curriculum
-and experience.</p>
+<p>You can refer to the <a href="/files/MK/briefing_slides_NoVideo.pdf" rel="noopener noreferrer nofollow" target="_blank">brochure</a> for more information
+about MK curriculum and experience.</p>
 <h5>MK gate opening hours</h5>
 <p>The entrance is via the MK Gate beside block 601A multi-storey carpark.
 KCare/MK staff will be at the foyer to receive/dismiss your child.
@@ -53,9 +53,7 @@ KCare/MK staff will be at the foyer to receive/dismiss your child.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MK Entrance" src="/images/MK/mk%20entrance1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p>The gate opening hours are:</p>
 <table>
 <tbody>
