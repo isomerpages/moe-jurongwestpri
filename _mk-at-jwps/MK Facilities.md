@@ -19,11 +19,20 @@ arrive/dismiss.</p>
 <p>MK Facilities and Events</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/MK/MK_LEARNING_ENVIRONMENT.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Learning Environment</a>
+</p>
+</li>
+<li>
 <p><a href="/files/MK/Centre_based_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Centre Based Programme</a>
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/MK/Events_and_Celebration.pdf" rel="noopener noreferrer nofollow" target="_blank">Event &amp; Celebrations</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MK/Partnerships___Collaborations.pdf" rel="noopener noreferrer nofollow" target="_blank">Partnerships &amp; Collaborations</a>
+</p>
 </li>
 </ul>
 <p></p>
