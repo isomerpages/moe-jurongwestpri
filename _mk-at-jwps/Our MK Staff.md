@@ -4,7 +4,7 @@ permalink: /mk-at-jwps/mkstaff/
 description: ""
 variant: tiptap
 ---
-<p>Our MK is helmed by Ms Fairuniza, and supported by a group of dedicated
+<p>Our MK is helmed by Mdm Fairuniza, and supported by a group of dedicated
 MK Educators.</p>
 <p></p>
 <div class="isomer-image-wrapper">

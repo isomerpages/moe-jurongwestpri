@@ -9,10 +9,6 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t7xNlEU2FrM?si=kU71fjQNEpnn2D2-"></iframe>
 </div>
-<p>Courage - AM Session</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yayj9nm4SAA?si=DTwX_QkorJPKH7LD"></iframe>
-</div>
 <p>Courage - PM Session</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qNmNbwe4qhQ?si=ZGCgPTcUvELZG7lb"></iframe>
@@ -24,6 +20,10 @@ variant: tiptap
 <p>Respect - PM Session</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MEOjvL6wGzs?si=jjQJFG9_QiSa4ztS"></iframe>
+</div>
+<p>Video Montage</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yfN5ShpV1bg?si=9zw0VXUBQ4GkBdWr"></iframe>
 </div>
 <p></p>
 <p>Experiential activity - baking cookies</p>

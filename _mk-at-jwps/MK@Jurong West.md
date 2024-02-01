@@ -43,8 +43,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>You can refer to the brochure for more information about MK curriculum
-and experience.</p>
+<p>You can refer to the <a href="/files/MK/briefing_slides_NoVideo.pdf" rel="noopener noreferrer nofollow" target="_blank">brochure</a> for more information
+about MK curriculum and experience.</p>
+<p>A Day At An MOE Kindergarten - <a href="https://www.youtube.com/watch?v=QXvV21a-TqE&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p>MK Curriculum - <a href="https://youtu.be/EU00qf7iumE" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <h5>MK gate opening hours</h5>
 <p>The entrance is via the MK Gate beside block 601A multi-storey carpark.
 KCare/MK staff will be at the foyer to receive/dismiss your child.
@@ -53,9 +57,7 @@ KCare/MK staff will be at the foyer to receive/dismiss your child.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MK Entrance" src="/images/MK/mk%20entrance1.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <p>The gate opening hours are:</p>
 <table>
 <tbody>
@@ -122,7 +124,7 @@ to the foyer during arrival and dismissal times.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Waiting%20area.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_facilities___Foyer_2.jpeg">
 </div>
 <p>
 <br>Parents who send/fetch their child outside the above gate opening hours
