@@ -16,7 +16,7 @@ arrive/dismiss.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_Facilities___Corridor_leading_to_classrooms_2.jpeg">
 </div>
 <p></p>
-<p>MK Facilities and Events</p>
+<p>MK Facilities and Activities</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/MK/MK_LEARNING_ENVIRONMENT.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Learning Environment</a>
