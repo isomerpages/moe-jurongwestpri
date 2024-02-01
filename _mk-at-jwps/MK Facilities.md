@@ -4,6 +4,7 @@ permalink: /mk-at-jwps/facilities/
 description: ""
 variant: tiptap
 ---
+<h4>MK Facilities</h4>
 <p>MK@Jurong West is located at the ground floor (no need to use lift).</p>
 <p>Parents and children will wait at this indoor sheltered area when they
 arrive/dismiss.</p>
