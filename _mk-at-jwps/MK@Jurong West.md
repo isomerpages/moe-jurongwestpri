@@ -122,7 +122,7 @@ to the foyer during arrival and dismissal times.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Waiting%20area.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_facilities___Foyer_2.jpeg">
 </div>
 <p>
 <br>Parents who send/fetch their child outside the above gate opening hours
