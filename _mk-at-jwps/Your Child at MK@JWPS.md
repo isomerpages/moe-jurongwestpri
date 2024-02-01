@@ -21,7 +21,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MEOjvL6wGzs?si=jjQJFG9_QiSa4ztS"></iframe>
 </div>
-<p></p>
+<p>Video Montage</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yfN5ShpV1bg?si=9zw0VXUBQ4GkBdWr"></iframe>
 </div>
