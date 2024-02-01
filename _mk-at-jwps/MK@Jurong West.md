@@ -45,6 +45,9 @@ variant: tiptap
 </table>
 <p>You can refer to the <a href="/files/MK/briefing_slides_NoVideo.pdf" rel="noopener noreferrer nofollow" target="_blank">brochure</a> for more information
 about MK curriculum and experience.</p>
+<p>A Day At An MOE Kindergarten - <a href="https://www.youtube.com/watch?v=QXvV21a-TqE&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
+<p></p>
 <h5>MK gate opening hours</h5>
 <p>The entrance is via the MK Gate beside block 601A multi-storey carpark.
 KCare/MK staff will be at the foyer to receive/dismiss your child.
