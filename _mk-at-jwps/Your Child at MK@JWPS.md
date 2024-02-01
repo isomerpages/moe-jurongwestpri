@@ -9,10 +9,6 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t7xNlEU2FrM?si=kU71fjQNEpnn2D2-"></iframe>
 </div>
-<p>Courage - AM Session</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M3pLNAdpAgk?si=82WO0MUJSdlX3d52"></iframe>
-</div>
 <p>Courage - PM Session</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qNmNbwe4qhQ?si=ZGCgPTcUvELZG7lb"></iframe>
