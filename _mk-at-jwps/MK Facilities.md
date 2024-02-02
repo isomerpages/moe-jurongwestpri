@@ -15,28 +15,25 @@ arrive/dismiss.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_Facilities___Corridor_leading_to_classrooms_2.jpeg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK%20classroom.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK%20classroom%202.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Music%20room.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Maker%20space.jpeg">
-</div>
-<p>MK students share the Primary School field for outdoor play:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Outdoor%20play%20area.jpg">
-</div>
-<p>MK playground:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Playground.jpeg">
-</div>
-<p>Sensory garden:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Sensory%20garden.jpeg">
-</div>
+<p></p>
+<p>MK Facilities and Activities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/MK/MK_LEARNING_ENVIRONMENT.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Learning Environment</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MK/Centre_based_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Centre Based Programme</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MK/Events_and_Celebration.pdf" rel="noopener noreferrer nofollow" target="_blank">Event &amp; Celebrations</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MK/Partnerships___Collaborations.pdf" rel="noopener noreferrer nofollow" target="_blank">Partnerships &amp; Collaborations</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
