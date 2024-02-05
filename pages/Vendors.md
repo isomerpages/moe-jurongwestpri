@@ -7,8 +7,8 @@ variant: tiptap
 <h4>Bookshop</h4>
 <p><strong>Pacific Bookstore</strong> 
 <br>Tel: 9048 1145
-<br>Opening Hours: Mondays to Fridays, 9.00 am - 4.00 pm
-<br>Lunch Break: 12.00 p.m - 1.00 p.m</p>
+<br>Opening Hours: Mondays to Fridays, 9:00 am - 4:00 pm
+<br>Lunch Break: 12:00 pm - 1:00 pm</p>
 <p>Online store : <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">Pacific Bookstore online store</a>
 </p>
 <h4>School Uniform</h4>
