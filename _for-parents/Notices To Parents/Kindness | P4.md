@@ -73,6 +73,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Feb 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/037_Total_Defence_Day_15_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day on 15 Feb 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Feb 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/JWPS_2024_P4_Modes_of_Assessments_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Modes of Assessments</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
