@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4>Bookshop</h4>
-<p><strong>Pacific Bookstore</strong>
+<p><strong>Pacific Bookstore</strong> 
 <br>Tel: 9048 1145
 <br>Opening Hours: Mondays to Fridays, 9.00 am - 4.00 pm
 <br>Lunch Break: 12.00 p.m - 1.00 p.m</p>
@@ -14,7 +14,8 @@ variant: tiptap
 <h4>School Uniform</h4>
 <p><strong>Yang Tze Kiang Tailor</strong>
 </p>
-<p>Tel: 6769 1260</p>
+<p>Tel: 6769 1260 / 8697 1660
+<br>SMS &amp; Whatsapp: 8697 1660</p>
 <p>New Address wef 2 Feb 2024:
 <br>51 Bukit Batok Crescent #05-14 Unity Centre&nbsp;Singapore 658077</p>
 <p>Operating hours: Mon-Fri 9am - 5:30pm; Sat 9am - 3:30pm
@@ -25,7 +26,7 @@ or from their shop at Unity Centre.</p>
 please click on this link: <a href="https://www.yangtzekiang.com.sg/eshop/size-chart/" rel="noopener noreferrer nofollow" target="_blank">Uniform Size Chart</a>
 </p>
 <h4>School Bus</h4>
-<p><strong>JK59 Pte Ltd</strong>
+<p><strong>JK59 Pte Ltd</strong> 
 <br>Tel: 6465 5959
 <br>Fax: 6466 5959
 <br>Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139</p>
@@ -68,7 +69,7 @@ please click on this link: <a href="https://www.yangtzekiang.com.sg/eshop/size-c
 </tbody>
 </table>
 <h4>Dental Clinic</h4>
-<p><strong>Health Promotion Board</strong>
+<p><strong>Health Promotion Board</strong> 
 <br>
 </p>
 <p>The dental nurse will work with the teachers to conduct routine dental
