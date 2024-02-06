@@ -5,6 +5,52 @@ description: ""
 third_nav_title: Notices To Parents
 variant: tiptap
 ---
+<h4>Primary 1 Meet The Parents Slides</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Title</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/uXCZ-7jD4XI" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 1 Parents' Briefing Slides English</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/3qL5knAmzLE" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 1 Briefing for Parents'  Mathematics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/DWxn8Dpr60o" rel="noopener noreferrer nofollow" target="_blank">1. [2024] Primary 1 Meet The Parents' Briefing Slides Chinese Language</a>
+</p>
+<p><a href="https://youtu.be/wfAVrqH0lxk" rel="noopener noreferrer nofollow" target="_blank">2. [2024] Primary 1 Meet The Parents' Briefing Slides Malay Language</a>
+</p>
+<p><a href="https://youtu.be/ekD5jAve3tg" rel="noopener noreferrer nofollow" target="_blank">3. [2024] Primary 1 Meet The Parents' Briefing Slides Tamil Language</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
 <table>
 <tbody>
