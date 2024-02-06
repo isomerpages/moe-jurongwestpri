@@ -32,20 +32,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>
 <br>We aim to develop our students to be ethical, confident, competent and
 independent users of ICT.
