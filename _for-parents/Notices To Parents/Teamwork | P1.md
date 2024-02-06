@@ -23,7 +23,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/uXCZ-7jD4XI" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 1 Parents' Briefing Slides English</a>
+<p><a href="https://youtu.be/uXCZ-7jD4XI" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 1 Meet The Parents' Briefing Slides English</a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/3qL5knAmzLE" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 1 Briefing for Parents'  Mathematics</a>
+<p><a href="https://youtu.be/3qL5knAmzLE" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 1 Briefing for Parents' Mathematics</a>
 </p>
 </td>
 </tr>
