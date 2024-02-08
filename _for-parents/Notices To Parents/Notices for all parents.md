@@ -5,10 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Notices To Parents
 ---
-<p>Jurong West Primary School communicates with parents through the Parents
-Gateway application. For any clarifications, parents can call the general
-office (67933419) or email us at <a href="mailto:jwsc2@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jwps@moe.edu.sg</a>
-</p>
 <table>
 <tbody>
 <tr>
@@ -49,6 +45,10 @@ office (67933419) or email us at <a href="mailto:jwsc2@ymca.edu.sg" rel="noopene
 </tbody>
 </table>
 <p></p>
+<p>Jurong West Primary School communicates with parents through the Parents
+Gateway application. For any clarifications, parents can call the general
+office (67933419) or email us at <a href="mailto:jwsc2@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jwps@moe.edu.sg</a>
+</p>
 <p>Teachers are allowed to use their preferred mode of communications with
 parents (Parents Gateway app, Whatsapp, phone calls, Student handbook etc).
 We respect the privacy of the teachers and it is up to the teachers to
