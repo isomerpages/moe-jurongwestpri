@@ -28,7 +28,16 @@ and sustained partnerships with the community, we are confident that Jurong
 West Primary School will be a place where every JWPS student can thrive
 and reach their full potential. Together, we will create an environment
 that enables our JWPS students to Think and Grow!</p>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Mrs Christina Tan-Lim Lay Leng</p>
 <p>Principal</p>
 <p>Jurong West Primary School</p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
