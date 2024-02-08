@@ -2,6 +2,7 @@ collections:
   jurong-west-primary:
     output: true
     order:
+      - Principal's Foreword.md
       - Our VMV, Motto and School Crest.md
       - Holistic Education at JWPS.md
       - Management Committee.md

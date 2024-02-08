@@ -5,6 +5,51 @@ description: ""
 third_nav_title: Notices To Parents
 variant: tiptap
 ---
+<h4>Primary 2 Meet the Parents' Slides</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subjects</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/tEJsNu4AVWU" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 2 Meet The Parents' Briefing Slides English</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/B1aiKueXEj0" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 2 Meet The Parents' Briefing Slides Mathematics</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://youtu.be/MXADcRicF8s" rel="noopener noreferrer nofollow" target="_blank">1. [2024] Primary 2 Meet The Parents' Briefing Slides Chinese Language</a>
+</p>
+<p><a href="https://youtu.be/H1svY5ZomJY" rel="noopener noreferrer nofollow" target="_blank">2. [2024] Primary 2 Meet The Parents' Briefing Slides Malay Language</a>
+</p>
+<p><a href="https://youtu.be/aK38xzU46N8" rel="noopener noreferrer nofollow" target="_blank">3. [2024] Primary 2 Meet The Parents' Briefing Slides Tamil Language</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
 <table>
 <tbody>
@@ -18,39 +63,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/001a_School_Hours__School_Terms_and_Holidays_for_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">School hours, school terms and school holidays 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>20 Dec 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/003_For_P2_first_day_of_school.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 first day of school</a>
 </p>
 <p><a href="/files/Letter to parents/Term 1/002a_P2_P6_Things_to_bring_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Things to bring</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Feb 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/036_Letter_to_parents_screen_free.pdf" rel="noopener noreferrer nofollow" target="_blank">Safer Internet Day: screen-free this weekend (3 Feb to 4 Feb)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Feb 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/037_Total_Defence_Day_15_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Total Defence Day on 15 Feb 2024</a>
 </p>
 </td>
 </tr>
