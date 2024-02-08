@@ -67,15 +67,6 @@ variant: tiptap
 <p>19 Dec 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/001a_School_Hours__School_Terms_and_Holidays_for_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">School hours, school terms and school holidays 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/002a_For_P1_first_2_days_of_school.pdf" rel="noopener noreferrer nofollow" target="_blank">First 2 days of school</a>
 </p>
 </td>
