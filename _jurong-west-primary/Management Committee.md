@@ -171,7 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head (Lower Block)</p>
+<p>Asst Year Head (Lower Block, covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yvonne Chew</p>
