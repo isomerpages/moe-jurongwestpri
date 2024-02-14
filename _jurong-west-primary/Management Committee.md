@@ -171,7 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head (Lower Block)</p>
+<p>Asst Year Head (Lower Block, covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yvonne Chew</p>
@@ -202,14 +202,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Jasni Bin Ibrahim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>PE and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -218,7 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information &amp; Communication Technology</p>
+<p>Information &amp; Communication Technology (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Seah Hui Yan</p>
