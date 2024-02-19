@@ -35,12 +35,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><a href="/MTLCL/" rel="noopener noreferrer nofollow" target="_blank">Chinese Programmes</a>
 </p>
-<p></p>
 <p><a href="/MTLML/" rel="noopener noreferrer nofollow" target="_blank">Malay Programmes</a>
+<br>
 </p>
-<p>
-<br><a href="/MTLTL/" rel="noopener noreferrer nofollow" target="_blank">Tamil Programmes</a>
+<p><a href="/MTLTL/" rel="noopener noreferrer nofollow" target="_blank">Tamil Programmes</a>
 </p>
 <p></p>
