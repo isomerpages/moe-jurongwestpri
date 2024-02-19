@@ -4,6 +4,9 @@ permalink: /math/
 description: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photo/MATH.JPG">
+</div>
 <table>
 <tbody>
 <tr>
@@ -46,9 +49,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p>The Math department aims to create an enriching environment that enhances
 the acquisition of Mathematical knowledge and skills, the development of
 thinking processes, and the appreciation and interest in Math through the
