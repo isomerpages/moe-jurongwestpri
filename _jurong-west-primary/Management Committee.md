@@ -4,6 +4,9 @@ permalink: /about-us/school-management-committee/
 description: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photo/SMC.JPG">
+</div>
 <table>
 <tbody>
 <tr>
@@ -18,9 +21,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -45,9 +47,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -116,9 +117,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -218,9 +218,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
