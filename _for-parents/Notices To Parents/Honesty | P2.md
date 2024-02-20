@@ -21,7 +21,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/tEJsNu4AVWU" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 2 Meet The Parents' Briefing Slides English</a>
+<p><a href="https://youtu.be/U9EV-YlT2QQ" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 2 Meet The Parents' Briefing Slides English</a>
 </p>
 </td>
 </tr>
