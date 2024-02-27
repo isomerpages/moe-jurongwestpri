@@ -99,6 +99,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Feb 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/068_P3_Learning_Journey_to_Singapore_Zoo_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Learning Journey to the Zoo on 7 Mar, Thu</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
