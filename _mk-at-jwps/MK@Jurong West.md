@@ -5,13 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_OH_2024_PT1.JPEG">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK_OH_2024_PT2.JPEG">
-</div>
 <p></p>
 <p>MK@Jurong West started operation on 4 Jan 2022.</p>
 <p>MK @ Jurong West is located within Jurong West Primary School.</p>
