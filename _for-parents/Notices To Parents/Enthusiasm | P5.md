@@ -74,39 +74,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/006_For_P5_first_day_of_school.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 first day of school</a>
-</p>
-<p><a href="/files/Letter to parents/Term 1/002a_P2_P6_Things_to_bring_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Things to bring</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Jan 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/028_P5_Camp_7_to_9_Mar_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Camp - 7 to 9 Mar 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/JWPS_2024_P5_Modes_of_Assessments_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Modes of Assessments</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Feb 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/038_P5_Life_Skills_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Life Skills Programme - Getting Ready for the Big Test</a>
 </p>
 </td>
 </tr>
