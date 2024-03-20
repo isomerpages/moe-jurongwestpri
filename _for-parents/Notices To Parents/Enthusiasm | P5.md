@@ -81,6 +81,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Mar 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/045_P5_IHC_Cohort_LJ.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Learning Journey to Indian Heritage Centre</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
