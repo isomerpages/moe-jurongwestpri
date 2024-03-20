@@ -74,17 +74,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Dec 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/k1 group 1 cohort_lj.pdf" rel="noopener noreferrer nofollow" target="_blank">K1 group 1 Cohort Learning Journey</a>
-</p>
-<p><a href="/files/Letter to parents/Term 1/k1 group 2 cohort_lj.pdf" rel="noopener noreferrer nofollow" target="_blank">K1 group 2 Cohort Learning Journey</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>5 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
