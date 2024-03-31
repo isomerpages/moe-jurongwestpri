@@ -88,7 +88,7 @@ variant: tiptap
 <p>18 Mar 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 2/044_P6_Term_2_and_June_Hol_Supplementary_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Term 2 and June Holidays Supplementary Schedule</a>
+<p><a href="/files/Letter to parents/Term 2/Letter_to_Parents__P6_Term_2__June_Hol_Supplementary_Schedule____revised.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Supplementary Lessons for Term 2 and June holidays</a>
 </p>
 </td>
 </tr>
