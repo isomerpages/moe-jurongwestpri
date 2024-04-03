@@ -90,6 +90,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Apr 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/049_P4_Learning_Journey_to_SSC.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Science Learning Journey to Singapore Science Centre</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
