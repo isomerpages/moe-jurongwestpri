@@ -101,6 +101,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Apr 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/051_Letter_to_Parent_Secondary_Schools_Roadshow_2024_w_poster.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary Schools Roadshow</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
