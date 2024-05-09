@@ -6,7 +6,11 @@ third_nav_title: Notices To Parents
 variant: tiptap
 ---
 <h4>Primary 4 Meet The Parents' Slides</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -62,7 +66,11 @@ variant: tiptap
 </table>
 <p></p>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -96,6 +104,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 2/049_P4_Learning_Journey_to_SSC.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Science Learning Journey to Singapore Science Centre</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/053_P4_Life_Skills_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Financial Literacy Life Skills Programme</a>
 </p>
 </td>
 </tr>
