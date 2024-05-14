@@ -123,7 +123,8 @@ variant: tiptap
 <p>14 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter to parents/Term 2/055_P6_Learning_Journey_to_River_Wonders.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Learning Journey to River Wonders</a>
+</p>
 </td>
 </tr>
 </tbody>
