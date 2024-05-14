@@ -6,7 +6,11 @@ third_nav_title: Notices To Parents
 variant: tiptap
 ---
 <h4>Primary 6 Meet The Parents' Slides</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -64,7 +68,11 @@ variant: tiptap
 </table>
 <p></p>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -108,6 +116,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 2/051_Letter_to_Parent_Secondary_Schools_Roadshow_2024_w_poster.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary Schools Roadshow</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
