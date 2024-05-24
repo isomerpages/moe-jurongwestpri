@@ -6,7 +6,11 @@ third_nav_title: Notices To Parents
 variant: tiptap
 ---
 <h4>Primary 5 Meet The Parents' Slides</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -62,7 +66,11 @@ variant: tiptap
 </table>
 <p></p>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -88,6 +96,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 2/045_P5_IHC_Cohort_LJ.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Learning Journey to Indian Heritage Centre</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 May 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
