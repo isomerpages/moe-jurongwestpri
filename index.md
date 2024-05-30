@@ -15,4 +15,10 @@ sections:
         - title: Calendar
           description: ""
           url: /about-us/calendar
+        - title: Open House 2024
+          description: Register before 19 Jun
+          url: https://go.gov.sg/openhouse2024-jwps
+        - title: Kindergarten Visits 2024
+          description: Register before 19 Jun
+          url: https://go.gov.sg/kvisit2024-jwps
 ---
