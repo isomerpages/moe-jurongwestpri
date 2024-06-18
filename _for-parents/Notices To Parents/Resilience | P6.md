@@ -100,33 +100,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 Mar 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 2/047_NAPFA_Test_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NAPFA Test 2024</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 Apr 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 2/051_Letter_to_Parent_Secondary_Schools_Roadshow_2024_w_poster.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary Schools Roadshow</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14 May 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 2/055_P6_Learning_Journey_to_River_Wonders.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Learning Journey to River Wonders</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

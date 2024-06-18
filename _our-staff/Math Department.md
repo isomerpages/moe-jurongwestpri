@@ -7,7 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photo/MATH.JPG">
 </div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -21,7 +24,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -31,20 +37,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Neo Wee Ting Esther</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Teow-Hoon Mee Ling Jessie</p>
 </td>
 </tr>
 </tbody>
