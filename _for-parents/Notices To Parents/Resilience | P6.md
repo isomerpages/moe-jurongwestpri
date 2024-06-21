@@ -100,6 +100,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 Jun 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/059_P6_Semester_2_Supplementary_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Supplementary Schedule</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
