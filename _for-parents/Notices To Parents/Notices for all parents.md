@@ -5,7 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Notices To Parents
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -21,6 +25,15 @@ third_nav_title: Notices To Parents
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/001a_School_Hours__School_Terms_and_Holidays_for_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">School hours, school terms and school holidays 2024</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Jun 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/057_VIA_collection_of_recycled_items.pdf" rel="noopener noreferrer nofollow" target="_blank">VIA Collection of Recycled Items</a>
 </p>
 </td>
 </tr>
