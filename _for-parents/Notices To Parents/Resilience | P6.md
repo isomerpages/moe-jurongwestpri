@@ -93,19 +93,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Mar 2024</p>
+<p>19 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 2/Letter_to_Parents__P6_Term_2__June_Hol_Supplementary_Schedule____revised.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Supplementary Lessons for Term 2 and June holidays</a>
+<p><a href="/files/Letter to parents/Term 3/059_P6_Semester_2_Supplementary_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Supplementary Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 Jun 2024</p>
+<p>24 Jun 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 3/059_P6_Semester_2_Supplementary_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Supplementary Schedule</a>
+<p><a href="/files/Letter to parents/Term 3/060_P6_Math_Clinic_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Mathematics Clinic 2024</a>
 </p>
 </td>
 </tr>
