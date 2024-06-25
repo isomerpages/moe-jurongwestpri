@@ -24,8 +24,8 @@ all of the changes.</p>
 </p>
 <ol start="2">
 <li>
-<p>This Web Site is maintained by Jurong West Primary School(JWPS). It is
-owned by Jurong West Primary School.</p>
+<p>This Web Site is maintained by Jurong West Primary School. It is owned
+by Jurong West Primary School(JWPS).</p>
 </li>
 <li>
 <p>The materials located on this Web Site including the information and software
