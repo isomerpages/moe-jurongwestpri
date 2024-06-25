@@ -67,43 +67,42 @@ copyright and may not be reproduced or appropriated in any manner without
 written permission of JWPS.</p>
 </li>
 </ol>
-<p>
-<br>
-</p>
-<p><strong>Disclaimer of Warranties and Liability</strong>
+<p></p>
+<p></p>
+<p><strong>Right of Access</strong>
 </p>
 <ol start="7" data-tight="true" class="tight">
 <li>
-<p>The Contents of this website are provided on an "as is" basis without
+<p>JWPS reserves all rights to deny or restrict access to this Web Site to
+any particular person, or to block access from a particular external address
+to this Web Site, at any time, without ascribing any reasons whatsoever.</p>
+<p>
+<br>
+</p>
+</li>
+</ol>
+<p><strong>Disclaimer of Warranties and Liability</strong>
+</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>The Contents of this Web Site are provided on an "as is" basis without
 warranties of any kind. To the fullest extent permitted by law, JWPS does
 not warrant and hereby disclaims any warranty:</p>
 </li>
 </ol>
 <p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement,
 title, merchantability or fitness for any particular purpose of the Contents
-of this website;</p>
-<p>(b) that the Contents available through this website or any functions
+of this Web Site;</p>
+<p>(b) that the Contents available through this Web Site or any functions
 associated therewith will be uninterrupted or error-free, or that defects
-will be corrected or that this website and the server is and will be free
+will be corrected or that this Web Site and the server is and will be free
 of all viruses and/or other harmful elements.</p>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p>JWPS shall also not be liable for any damage or loss of any kind caused
-as a result (direct or indirect) of the use of the website, including but
-not limited to any damage or loss suffered as a result of reliance on the
-Contents contained in or available from the website.</p>
-</li>
-</ol>
-<p>
-<br>
-</p>
-<p><strong>Right of Access</strong>
-</p>
 <ol start="9" data-tight="true" class="tight">
 <li>
-<p>JWPS reserves all rights to deny or restrict access to this website to
-any particular person, or to block access from a particular Internet address
-to this website, at any time, without ascribing any reasons whatsoever.</p>
+<p>JWPS shall also not be liable for any damage or loss of any kind caused
+as a result (direct or indirect) of the use of the Web Site, including
+but not limited to any damage or loss suffered as a result of reliance
+on the Contents contained in or available from the Web Site.</p>
 </li>
 </ol>
 <p>
@@ -111,19 +110,20 @@ to this website, at any time, without ascribing any reasons whatsoever.</p>
 </p>
 <p><strong>Links from this website to other websites</strong>
 </p>
-<ol start="10">
+<p></p>
+<ol start="10" data-tight="true" class="tight">
 <li>
-<p>This website contains hyperlinks to websites which are not maintained
-by JWPS. JWPS is not responsible for the contents of those websites and
-shall not be liable for any damages or loss arising from access to those
-websites. Use of the hyperlinks and access to such websites are entirely
+<p>This Web Site contains hyperlinks to web sites which are not maintained
+JWPS. JWPS is not responsible for the contents of those web sites and shall
+not be liable for any damages or loss arising from access to those web
+sites. Use of the hyperlinks and access to such web sites are entirely
 at your own risk.</p>
 </li>
 <li>
-<p>Hyperlinks to other websites are provided as a convenience. In no circumstances
+<p>Hyperlinks to other web sites are provided as a convenience. In no circumstances
 shall JWPS be considered to be associated or affiliated with any trade
 or service marks, logos, insignia or other devices used or appearing on
-websites to which this website is linked.</p>
+web sites to which this Web Site is linked.</p>
 </li>
 </ol>
 <p>
@@ -131,28 +131,33 @@ websites to which this website is linked.</p>
 </p>
 <p><strong>Links to this website from other websites</strong>
 </p>
-<ol start="12">
+<ol start="12" data-tight="true" class="tight">
 <li>
 <p>Except as set forth below, caching and links to, and the framing of this
-website or any of the Contents are prohibited.</p>
+Web Site or any of the Contents are prohibited.</p>
+<p></p>
 </li>
 <li>
 <p>You must secure permission from JWPS prior to hyperlinking to, or framing,
-this website or any of the Contents, or engaging in similar activities.
+this Web Site or any of the Contents, or engaging in similar activities.
 JWPS reserves the right to impose conditions when permitting any hyperlinking
-to, or framing of this website or any of the Contents.</p>
+to, or framing of this Web Site or any of the Contents.</p>
+<p></p>
 </li>
 <li>
-<p>Your linking to, or framing any part of this website or its Contents constitute
-acceptance of these Terms of Use. This is deemed to be the case even after
-the posting of any changes or modifications to these Terms of Use. If you
-do not accept these Terms of Use, you must discontinue linking to, or framing
-of this website or any of the Contents.</p>
+<p>Your linking to, or framing any part of this Web Site or its Contents
+constitute acceptance of these Terms of Use. This is deemed to be the case
+even after the posting of any changes or modifications to these Terms of
+Use. If you do not accept these Terms of Use, you must discontinue linking
+to, or framing of this Web Site or any of the Contents.</p>
+<p></p>
 </li>
 <li>
 <p>In no circumstances shall JWPS be considered to be associated or affiliated
 in whatever manner with any trade or service marks, logos, insignia or
-other devices used or appearing on web the Contents.</p>
+other devices used or appearing on web sites that link to this Web Site
+or any of the Contents.</p>
+<p></p>
 </li>
 <li>
 <p>JWPS reserves all rights to disable any links to, or frames of any site
@@ -160,16 +165,16 @@ containing inappropriate, profane, defamatory, infringing, obscene, indecent
 or unlawful topics, names, material or information, or material or information
 that violates any written law, any applicable intellectual property, proprietary,
 privacy or publicity rights.</p>
+<p></p>
 </li>
 <li>
 <p>JWPS reserves the right to disable any unauthorised links or frames and
 disclaims any responsibility for the content available on any other site
-reached by links to or from this website or any of the Contents.</p>
-</li>
-</ol>
-<p>
+reached by links to or from this Web Site or any of the Contents.
 <br>
 </p>
+</li>
+</ol>
 <p><strong>Governing Law</strong>
 </p>
 <ol start="18" data-tight="true" class="tight">
