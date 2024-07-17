@@ -89,6 +89,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Jul 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/064_P4_PE_Outdoor_Education_cum_Values_in_Action__VIA__Activity__Estate_Cleaning.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 PE Outdoor Education cum VIA Activity – Estate Cleaning</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
