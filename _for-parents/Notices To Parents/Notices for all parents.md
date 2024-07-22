@@ -37,6 +37,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Jul 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/063_National_Day_Celebrations_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">National Day Celebrations on 8 Aug 2024</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
