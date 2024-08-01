@@ -109,6 +109,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Aug 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/066_P6_Prelim_Dismissal.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Prelim Examination Dismissal Time</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
