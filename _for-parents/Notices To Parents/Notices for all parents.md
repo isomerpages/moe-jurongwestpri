@@ -46,6 +46,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Aug 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/069_Edusave_Character_Award.pdf" rel="noopener noreferrer nofollow" target="_blank">Edusave Character Award 2024</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
