@@ -15,4 +15,7 @@ sections:
         - title: Calendar
           description: ""
           url: /calendar
+        - title: Teachers' Day Dedications
+          description: Messages for your teachers
+          url: https://padlet.com/jurongwestprisch/jwps-teachers-day-dedications-2024-m9mggafa8l4qqdsi
 ---
