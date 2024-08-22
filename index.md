@@ -14,5 +14,5 @@ sections:
           url: /about-jwps/contact-us/
         - title: Calendar
           description: ""
-          url: /about-us/calendar
+          url: /calendar
 ---
