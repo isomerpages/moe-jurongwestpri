@@ -16,7 +16,7 @@ variant: tiptap
 </p>
 <p>Tel: 6769 1260 / 8697 1660
 <br>SMS &amp; Whatsapp: 8697 1660</p>
-<p>New Address wef 2 Feb 2024:
+<p>Address:
 <br>51 Bukit Batok Crescent #05-14 Unity Centre&nbsp;Singapore 658077</p>
 <p>Operating hours: Mon-Fri 9am - 5:30pm; Sat 9am - 3:30pm
 <br>Closed on Sunday and Public Holidays</p>
@@ -31,7 +31,12 @@ please click on this link: <a href="https://www.yangtzekiang.com.sg/eshop/size-c
 <br>Fax: 6466 5959
 <br>Address: 17 Lorong Kilat #01-10, Kilat Court, Singapore 598139</p>
 <p>Monthly Fees:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
