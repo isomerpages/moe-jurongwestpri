@@ -177,9 +177,8 @@ absence from school.</p>
 <h3>Security in School</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>All visitors are to enter the school using Gate 1 only. At Gate 1, visitors
-will be required to register for a pass using their NRIC or other identification
-documents with the security guard.</p>
+<p>All visitors are required to register for a pass using their NRIC or other
+identification documents with the security guard.</p>
 </li>
 <li>
 <p>Upon collection of pass, visitors will need to proceed to General Office
