@@ -170,10 +170,11 @@ and</p>
 <p>reinforcing safety.</p>
 </li>
 </ul>
-<p>Note: All students are expected to report to school on time. Late-comers
-are to have valid reasons and/or supported by letters from parents. Students
-are to bring a medical certificate or a letter from home to explain an
-absence from school.</p>
+<p>Note: All students are to be in school by 7:30 am. Late-comers are to
+have valid reasons and/or supported by letters from parents. Students are
+to bring a medical certificate or a letter from home to explain an absence
+from school. Persistent latecomers would be meted out with the necessary
+consequences and their conduct grade might be affected.</p>
 <h3>Security in School</h3>
 <ul data-tight="true" class="tight">
 <li>
