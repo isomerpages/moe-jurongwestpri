@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <ol data-tight="true" class="tight">
 <li>
+<p>All students are to be in school by 7:30am.</p>
+</li>
+<li>
 <p>Sing the National Anthem and take the Pledge by all Singapore Citizens.
 Place right fist over the heart when taking the Pledge.</p>
 </li>
@@ -170,9 +173,9 @@ and</p>
 <p>reinforcing safety.</p>
 </li>
 </ul>
-<p>Note: All students are to be in school by 7:30 am. Late-comers are to
-have valid reasons and/or supported by letters from parents. Students are
-to bring a medical certificate or a letter from home to explain an absence
+<p>Note: All students are to be in school by 7:30am. Late-comers are to have
+valid reasons and/or supported by letters from parents. Students are to
+bring a medical certificate or a letter from home to explain an absence
 from school. Persistent latecomers would be meted out with the necessary
 consequences and their conduct grade might be affected.</p>
 <h3>Security in School</h3>
