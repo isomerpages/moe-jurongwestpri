@@ -35,3 +35,4 @@ and videos, showcasing their unique perspectives and creativity.</p>
 <p>We believe the Creative Media Club will inspire our students to think
 outside the box, nurture their talents, and prepare them for a future where
 creativity and technology go hand in hand.</p>
+<p>CCA: Wednesday</p>
