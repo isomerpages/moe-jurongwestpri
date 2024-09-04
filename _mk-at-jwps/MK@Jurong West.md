@@ -9,14 +9,18 @@ variant: tiptap
 <p></p>
 <p>MK@Jurong West started operation on 4 Jan 2022.</p>
 <p>MK @ Jurong West is located within Jurong West Primary School.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Programmes</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>2024</p>
+<p>2025</p>
 </th>
 </tr>
 <tr>
@@ -24,7 +28,7 @@ variant: tiptap
 <p>MK</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AM and PM</p>
+<p>AM</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +36,7 @@ variant: tiptap
 <p>KCare</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AM and PM</p>
+<p>PM</p>
 </td>
 </tr>
 </tbody>
@@ -53,7 +57,11 @@ KCare/MK staff will be at the foyer to receive/dismiss your child.
 </div>
 <p></p>
 <p>The gate opening hours are:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -123,7 +131,8 @@ to the foyer during arrival and dismissal times.
 <p>
 <br>Parents who send/fetch their child outside the above gate opening hours
 are advised to call/WhatsApp the respective numbers (96791940 – KCare /
-96474301 - MK) first.
+96474301 - MK) first. Do note that the phone is manned only during office
+hours only.
 <br>
 </p>
 <p>As the KCare and MK staff will be busy taking care of all the children,
