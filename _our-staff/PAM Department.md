@@ -7,7 +7,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photo/PAM.JPG">
 </div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -21,17 +24,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Senior Teacher</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Suriati Bte Samuri</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
