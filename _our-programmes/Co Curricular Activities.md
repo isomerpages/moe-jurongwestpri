@@ -49,11 +49,11 @@ broad categories listed below.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/artclub/" rel="noopener noreferrer nofollow" target="_blank">Art Club</a>
+<p><a href="https://jurongwestpri.moe.edu.sg/cca/band/" rel="noopener nofollow" target="_blank">Brass Band</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/infocommclub/" rel="noopener noreferrer nofollow" target="_blank">Infocom Club</a>
+<p><a href="https://jurongwestpri.moe.edu.sg/cca/infocommclub/" rel="noopener nofollow" target="_blank">Creative Media Club</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,8 +67,7 @@ broad categories listed below.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/band/" rel="noopener noreferrer nofollow" target="_blank">Concert Band</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://jurongwestpri.moe.edu.sg/cca/stemclub/" rel="noopener noreferrer nofollow" target="_blank">S.T.E.M Club (Science. Technology. Engineering. Maths)</a>
@@ -117,8 +116,7 @@ broad categories listed below.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/dramaclub/" rel="noopener noreferrer nofollow" target="_blank">Drama Club</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
