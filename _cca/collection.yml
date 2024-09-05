@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Badminton.md
-      - Basketball.md
-      - Football.md
+      - Basketball (boys only).md
+      - Football (boys only).md
       - Hockey.md
-      - Netball.md
+      - Netball (girls only).md
       - Brass Band.md
       - Choir.md
       - Chinese Dance.md

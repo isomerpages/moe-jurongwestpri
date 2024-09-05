@@ -1,5 +1,5 @@
 ---
-title: Football
+title: Football (boys only)
 permalink: /cca/football/
 description: ""
 variant: tiptap

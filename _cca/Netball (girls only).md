@@ -1,5 +1,5 @@
 ---
-title: Netball
+title: Netball (girls only)
 permalink: /cca/netball/
 description: ""
 variant: tiptap
