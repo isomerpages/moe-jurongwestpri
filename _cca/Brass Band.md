@@ -1,5 +1,5 @@
 ---
-title: Concert Band
+title: Brass Band
 permalink: /cca/band/
 description: ""
 variant: tiptap

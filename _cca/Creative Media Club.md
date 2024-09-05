@@ -1,5 +1,5 @@
 ---
-title: InfoComm Club
+title: Creative Media Club
 permalink: /cca/infocommclub/
 description: ""
 variant: tiptap
