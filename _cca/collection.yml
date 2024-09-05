@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Badminton.md
-      - Basketball.md
+      - Basketball (boys only).md
       - Football.md
       - Hockey.md
       - Netball.md
