@@ -17,7 +17,7 @@ and well-balanced individuals.</p>
 <p>The soft skills and social-emotional competencies developed during CCAs
 sessions are essential in preparing students for the challenges they will
 face in the future.</p>
-<p>JWPS offers a total of 14 different CCAs, which can be grouped into 4
+<p>JWPS offers a total of 12 different CCAs, which can be grouped into 4
 broad categories listed below.
 <br>
 </p>
