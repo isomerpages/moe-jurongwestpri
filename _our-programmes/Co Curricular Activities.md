@@ -67,7 +67,8 @@ broad categories listed below.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://jurongwestpri.moe.edu.sg/cca/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://jurongwestpri.moe.edu.sg/cca/stemclub/" rel="noopener noreferrer nofollow" target="_blank">S.T.E.M Club (Science. Technology. Engineering. Maths)</a>
@@ -83,7 +84,8 @@ broad categories listed below.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/choir/" rel="noopener noreferrer nofollow" target="_blank">Choir</a>
+<p><a href="https://jurongwestpri.moe.edu.sg/cca/chinesedance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a> 
+<br><a href="https://jurongwestpri.moe.edu.sg/cca/chinesedance/" rel="noopener noreferrer nofollow" target="_blank">Performances</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,8 +101,7 @@ broad categories listed below.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/chinesedance/" rel="noopener noreferrer nofollow" target="_blank">Chinese Dance</a> 
-<br><a href="https://jurongwestpri.moe.edu.sg/cca/chinesedance/" rel="noopener noreferrer nofollow" target="_blank">Performances</a>
+<p><a href="https://jurongwestpri.moe.edu.sg/cca/moderndance/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance (Hip Hop)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,8 +131,7 @@ broad categories listed below.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/moderndance/" rel="noopener noreferrer nofollow" target="_blank">Modern Dance (Hip Hop)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
