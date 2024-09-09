@@ -63,7 +63,7 @@ broad categories listed below.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/basketball/" rel="noopener noreferrer nofollow" target="_blank">Basketball</a>
+<p><a href="https://jurongwestpri.moe.edu.sg/cca/basketball/" rel="noopener nofollow" target="_blank">Basketball (boys only)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +97,7 @@ broad categories listed below.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/netball/" rel="noopener noreferrer nofollow" target="_blank">Netball</a>
+<p><a href="https://jurongwestpri.moe.edu.sg/cca/netball/" rel="noopener nofollow" target="_blank">Netball (girls only)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,36 +113,8 @@ broad categories listed below.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://jurongwestpri.moe.edu.sg/cca/football/" rel="noopener noreferrer nofollow" target="_blank">Football</a>
+<p><a href="https://jurongwestpri.moe.edu.sg/cca/football/" rel="noopener nofollow" target="_blank">Football (boys only)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
