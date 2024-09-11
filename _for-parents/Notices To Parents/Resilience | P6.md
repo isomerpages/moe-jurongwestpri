@@ -105,7 +105,8 @@ variant: tiptap
 <p>11 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter to parents/Term 4/074_PSLE_LC_2024.pdf" rel="noopener nofollow" target="_blank">PSLE Listening Comprehension</a>
+</p>
 </td>
 </tr>
 </tbody>
