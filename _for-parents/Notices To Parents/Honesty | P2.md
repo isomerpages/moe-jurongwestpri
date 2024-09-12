@@ -6,7 +6,11 @@ third_nav_title: Notices To Parents
 variant: tiptap
 ---
 <h4>Primary 2 Meet the Parents' Slides</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -51,7 +55,11 @@ variant: tiptap
 </table>
 <p></p>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -60,6 +68,15 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Notice</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 4/073_CCA_Recruitment_Exercise_for_P2.pdf" rel="noopener nofollow" target="_blank">CCA Choice for 2025</a>
+</p>
+</td>
 </tr>
 </tbody>
 </table>
