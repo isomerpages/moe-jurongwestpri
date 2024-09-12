@@ -6,7 +6,11 @@ third_nav_title: Notices To Parents
 variant: tiptap
 ---
 <h4>Primary 3 Meet The Parents' Slides</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -60,7 +64,11 @@ variant: tiptap
 </table>
 <p></p>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -76,6 +84,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/JWPS_2024_P3_Modes_of_Assessments_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Modes of Assessments</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 4/075_HBL_for_P3.pdf" rel="noopener nofollow" target="_blank">HBL for P3</a>
 </p>
 </td>
 </tr>
