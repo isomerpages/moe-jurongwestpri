@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Sep 2-24</p>
+<p>16 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 4/078_PSLE_study_break_and_PSLE_arrangements_for_R1_to_R4.pdf" rel="noopener nofollow" target="_blank">Study break and PSLE arrangements for R1 to R4 students</a>
