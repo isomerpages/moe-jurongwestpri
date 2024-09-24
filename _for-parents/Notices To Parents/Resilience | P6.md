@@ -120,6 +120,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 4/080_P6_Asian_Civilisations_Museum_Learning_Journey.pdf" rel="noopener nofollow" target="_blank">P6 Asian Civilisations Museum Learning Journey</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
