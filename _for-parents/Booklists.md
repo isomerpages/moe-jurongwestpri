@@ -4,7 +4,11 @@ permalink: /information-and-updates/booklists/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -19,7 +23,7 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/p1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 2024 booklist</a>
+<p><a href="/files/Booklist/P1_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">P1 2025 Booklist</a>
 </p>
 </td>
 </tr>
@@ -28,8 +32,7 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/JWPS_2024_P2.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 2024 booklist</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -37,8 +40,7 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/JWPS_2024_P3.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 2024 booklist</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -46,8 +48,7 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/JWPS_2024_P4.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 2024 booklist</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
