@@ -98,6 +98,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Oct 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 4/084_Purchase_of_Calculators_for_P4_students.pdf" rel="noopener nofollow" target="_blank">Purchase of Calculators for P4 students</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
