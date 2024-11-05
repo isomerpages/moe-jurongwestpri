@@ -91,44 +91,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Jun 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 3/059_P6_Semester_2_Supplementary_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Supplementary Schedule</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/074_PSLE_LC_2024.pdf" rel="noopener nofollow" target="_blank">PSLE Listening Comprehension</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/078_PSLE_study_break_and_PSLE_arrangements_for_R1_to_R4.pdf" rel="noopener nofollow" target="_blank">Study break and PSLE arrangements for R1 to R4 students</a>
-</p>
-<p><a href="/files/Letter to parents/Term 4/079_PSLE_arrangements_for_R5_and_R6.pdf" rel="noopener nofollow" target="_blank">PSLE arrangements for R5 and R6 students</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/080_P6_Asian_Civilisations_Museum_Learning_Journey.pdf" rel="noopener nofollow" target="_blank">P6 Asian Civilisations Museum Learning Journey</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
