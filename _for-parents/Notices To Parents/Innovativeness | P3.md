@@ -87,15 +87,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/075_HBL_for_P3.pdf" rel="noopener nofollow" target="_blank">HBL for P3</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
