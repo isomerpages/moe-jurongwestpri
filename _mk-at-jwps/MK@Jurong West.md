@@ -97,23 +97,7 @@ KCare/MK staff will be at the foyer to receive/dismiss your child.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12:50pm to 1:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Arrival of MK (PM) students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4:50pm to 5:00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dismissal of MK (PM) students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5:30pm to 7pm</p>
+<p>5pm to 7pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dismissal of KCare students</p>
