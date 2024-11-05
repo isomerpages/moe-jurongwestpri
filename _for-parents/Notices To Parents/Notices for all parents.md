@@ -30,15 +30,6 @@ third_nav_title: Notices To Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Jun 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 3/057_VIA_collection_of_recycled_items.pdf" rel="noopener noreferrer nofollow" target="_blank">VIA Collection of Recycled Items</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>20 Aug 2024</p>
 </td>
 <td rowspan="1" colspan="1">
