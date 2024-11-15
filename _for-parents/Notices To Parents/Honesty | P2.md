@@ -22,33 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/U9EV-YlT2QQ" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 2 Meet The Parents' Briefing Slides English</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/B1aiKueXEj0" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 2 Meet The Parents' Briefing Slides Mathematics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/MXADcRicF8s" rel="noopener noreferrer nofollow" target="_blank">1. [2024] Primary 2 Meet The Parents' Briefing Slides Chinese Language</a>
-</p>
-<p><a href="https://youtu.be/H1svY5ZomJY" rel="noopener noreferrer nofollow" target="_blank">2. [2024] Primary 2 Meet The Parents' Briefing Slides Malay Language</a>
-</p>
-<p><a href="https://youtu.be/aK38xzU46N8" rel="noopener noreferrer nofollow" target="_blank">3. [2024] Primary 2 Meet The Parents' Briefing Slides Tamil Language</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -71,20 +48,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 Sep 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/073_CCA_Recruitment_Exercise_for_P2.pdf" rel="noopener nofollow" target="_blank">CCA Choice for 2025</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18 Oct 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/2025_Letter_to_Parent_P3_Swimming_Finalised_with_item_checklist.pdf" rel="noopener nofollow" target="_blank">P3 Swimming Programme 2025</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
