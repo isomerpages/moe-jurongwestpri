@@ -22,44 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/hXMScb3VuGA" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 5 Meet The Parents' Briefing Slides English</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/YVTic0X5l9I" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 5 Meet The Parents' Briefing Slides Mathematics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/5g9pZE5EAQ4" rel="noopener noreferrer nofollow" target="_blank">1. [2024] Primary 5 Meet The Parents' Briefing Slides Chinese Language</a>
-</p>
-<p><a href="https://youtu.be/GngRzTGSRUI" rel="noopener noreferrer nofollow" target="_blank">2. [2024] Primary 5 Meet The Parents' Briefing Slides Higher Chinese Language</a>
-</p>
-<p><a href="https://youtu.be/eonpPNTVmos" rel="noopener noreferrer nofollow" target="_blank">3. [2024] Primary 5 Meet The Parents' Briefing Slides Malay Language</a>
-</p>
-<p><a href="https://youtu.be/gp0P2OLrYs8" rel="noopener noreferrer nofollow" target="_blank">4. [2024] Primary 5 Meet The Parents' Briefing Slides Tamil Language</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/AaO9oawNlIY" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 5 Meet The Parents' Briefing Slides Science</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -82,11 +48,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Feb 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/JWPS_2024_P5_Modes_of_Assessments_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Modes of Assessments</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -22,42 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/ADFh1PAhbJs" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 3 Meet The Parents' Briefing Slides English</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/QUWL0K6My4I" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 3 Meet The Parents' Briefing Slides Mathematics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/cGNWCw6wHAs" rel="noopener noreferrer nofollow" target="_blank">1. [2024] Primary 3 Meet The Parents' Briefing Slides Chinese Language</a>
-</p>
-<p><a href="https://youtu.be/TECn_OVs8Cg" rel="noopener noreferrer nofollow" target="_blank">2. [2024] Primary 3 Meet The Parents' Briefing Slides Malay Language</a>
-</p>
-<p><a href="https://youtu.be/11tWr3pnPJ0" rel="noopener noreferrer nofollow" target="_blank">3. [2024] Primary 3 Meet The Parents' Briefing Slides Tamil Language</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/fZqaPrd_AvE" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 3 Meet The Parents' Briefing Slides Science</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -80,19 +48,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Feb 2024</p>
+<p>18 Oct 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/JWPS_2024_P3_Modes_of_Assessments_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Modes of Assessments</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/075_HBL_for_P3.pdf" rel="noopener nofollow" target="_blank">HBL for P3</a>
+<p><a href="/files/Letter to parents/Term 4/2025_Letter_to_Parent_P3_Swimming_Finalised_with_item_checklist.pdf" rel="noopener nofollow" target="_blank">P3 2025 Swimming Programme and Schedule</a>
 </p>
 </td>
 </tr>

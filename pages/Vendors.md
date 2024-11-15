@@ -20,7 +20,7 @@ variant: tiptap
 <br>51 Bukit Batok Crescent #05-14 Unity Centre&nbsp;Singapore 658077</p>
 <p>Operating hours: Mon-Fri 9am - 5:30pm; Sat 9am - 3:30pm
 <br>Closed on Sunday and Public Holidays</p>
-<p>For the month of Dec 2023 and Jan 2024, you can only buy the uniform online
+<p>For the month of Dec 2024 and Jan 2025, you can only buy the uniform online
 or from their shop at Unity Centre.</p>
 <p>To buy the uniform online and for information on school uniform size chart,
 please click on this link: <a href="https://www.yangtzekiang.com.sg/eshop/size-chart/" rel="noopener noreferrer nofollow" target="_blank">Uniform Size Chart</a>

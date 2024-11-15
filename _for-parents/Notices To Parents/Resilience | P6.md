@@ -22,46 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/8K7kBTSXmGU" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 6 Meet The Parents' Briefing Slides English</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/xc4vo6pSJYY" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 6 Meet The Parents' Briefing Slides Mathematics</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/tNKy3NwtFk8" rel="noopener noreferrer nofollow" target="_blank">1. [2024] Primary 6 Meet The Parents' Briefing Slides Chinese Language</a>
-</p>
-<p><a href="https://youtu.be/rVrA2bECDpE" rel="noopener noreferrer nofollow" target="_blank">2. [2024] Primary 6 Meet The Parents' Briefing Slides Higher Chinese Language</a>
-</p>
-<p><a href="https://youtu.be/sRy1_W-WxrY" rel="noopener noreferrer nofollow" target="_blank">3. [2024] Primary 6 Meet The Parents' Briefing Slides Foundation Chinese Language</a>
-</p>
-<p><a href="https://youtu.be/GnJRz8IHb30" rel="noopener noreferrer nofollow" target="_blank">4. [2024] Primary 6 Meet The Parents' Briefing Slides Malay Language</a>
-</p>
-<p><a href="https://youtu.be/GKmHLkOjl40" rel="noopener noreferrer nofollow" target="_blank">5. [2024] Primary 6 Meet The Parents' Briefing Slides Tamil Language</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/L7brMOzlrr0" rel="noopener noreferrer nofollow" target="_blank">[2024] Primary 6 Meet The Parents' Briefing Slides Science</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -84,49 +48,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Feb 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/JWPS_2024_P6_Modes_of_Assessments_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Modes of Assessments</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 Jun 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 3/059_P6_Semester_2_Supplementary_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Semester 2 Supplementary Schedule</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>11 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/074_PSLE_LC_2024.pdf" rel="noopener nofollow" target="_blank">PSLE Listening Comprehension</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/078_PSLE_study_break_and_PSLE_arrangements_for_R1_to_R4.pdf" rel="noopener nofollow" target="_blank">Study break and PSLE arrangements for R1 to R4 students</a>
-</p>
-<p><a href="/files/Letter to parents/Term 4/079_PSLE_arrangements_for_R5_and_R6.pdf" rel="noopener nofollow" target="_blank">PSLE arrangements for R5 and R6 students</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/080_P6_Asian_Civilisations_Museum_Learning_Journey.pdf" rel="noopener nofollow" target="_blank">P6 Asian Civilisations Museum Learning Journey</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
