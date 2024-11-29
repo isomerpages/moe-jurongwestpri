@@ -275,6 +275,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Benson Pang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
