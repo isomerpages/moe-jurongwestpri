@@ -125,14 +125,6 @@ space and finances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST LSP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Margaret Lim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST SEN</p>
 </td>
 <td rowspan="1" colspan="1">
