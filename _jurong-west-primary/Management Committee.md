@@ -217,6 +217,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Information &amp; Communication Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seah Hui Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Malay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,10 +241,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information &amp; Communication Technology</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seah Hui Yan</p>
+<p>Ms Liu Hong Ping</p>
 </td>
 </tr>
 </tbody>
