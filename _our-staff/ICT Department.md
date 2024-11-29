@@ -4,7 +4,10 @@ permalink: /ict/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -18,11 +21,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Subject Head (covering)</p>
+<p>Subject Head</p>
 </th>
 </tr>
 <tr>
