@@ -4,9 +4,25 @@ permalink: /pam/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photo/PAM.JPG">
-</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Head of Department</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Tien Juan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
