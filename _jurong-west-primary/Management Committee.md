@@ -217,6 +217,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norliah Bte Abdul Latif</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>PE and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
