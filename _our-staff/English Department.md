@@ -28,6 +28,24 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Level Head</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Benson Pang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Lead Teacher</p>
 </th>
 </tr>
