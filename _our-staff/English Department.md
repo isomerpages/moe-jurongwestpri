@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Benson Pang</p>
+<p>Mr Benson Pang</p>
 </td>
 </tr>
 </tbody>
