@@ -22,7 +22,6 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
