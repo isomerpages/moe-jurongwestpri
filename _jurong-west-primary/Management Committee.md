@@ -108,6 +108,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>PE and CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Tien Juan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
