@@ -100,6 +100,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Sheau Yun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
