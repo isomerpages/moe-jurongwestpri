@@ -36,7 +36,7 @@ office (67933419) or email us at <a href="mailto:jwsc2@ymca.edu.sg" rel="noopene
 </p>
 <p>Teachers are allowed to use their preferred mode of communications with
 parents (Parents Gateway app, Whatsapp, phone calls, Student handbook etc).
-We respect the privacy of the teachers and teachers are not required give
+We respect the privacy of the teachers and teachers are <strong><u>not required</u></strong> give
 their handphone numbers to parents.</p>
 <p>Unless it is an emergency (student forgot some information is not an emergency),
 we sincerely hope that parents do not contact teachers during weekends,
