@@ -4,10 +4,10 @@ permalink: /about-us/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photo/SMC.JPG">
-</div>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -23,7 +23,10 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,7 +52,11 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -72,7 +79,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hamidah Binti Osman</p>
+<p>Mr Irwan B Md Isa</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +95,23 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jerica Koh</p>
+<p>Mdm Radin Anita Bte Abu Bakar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Sheau Yun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE and CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Tien Juan</p>
 </td>
 </tr>
 <tr>
@@ -112,14 +135,18 @@ variant: tiptap
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Siew Hwee</p>
+<p>Ms Wai Lai May</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -134,7 +161,7 @@ variant: tiptap
 <p>Year Head (Upper Block)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wai Lai May</p>
+<p>Mrs Tan-Tan Mei Ching</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +169,7 @@ variant: tiptap
 <p>Year Head (Middle Block)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sophia Ow Yong</p>
+<p>Ms Wen Hui</p>
 </td>
 </tr>
 <tr>
@@ -158,23 +185,23 @@ variant: tiptap
 <p>Asst Year Head (Upper Block)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tan-Tan Mei Ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Asst Year Head (Middle Block)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Emily Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head (Lower Block, covering)</p>
+<p>Asst Year Head (Middle Block, covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yvonne Chew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst Year Head (Lower Block)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Siew Hwee</p>
 </td>
 </tr>
 </tbody>
@@ -182,7 +209,11 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -202,6 +233,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Information &amp; Communication Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Seah Hui Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Norliah Bte Abdul Latif</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>PE and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,17 +257,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information &amp; Communication Technology (covering)</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Seah Hui Yan</p>
+<p>Ms Liu Hong Ping</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -240,6 +291,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Benson Pang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,7 +310,10 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -273,7 +335,10 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

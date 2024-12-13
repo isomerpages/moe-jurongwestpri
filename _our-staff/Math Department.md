@@ -4,9 +4,6 @@ permalink: /math/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photo/MATH.JPG">
-</div>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -19,7 +16,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jerica Koh</p>
+<p>Mdm Radin Anita Bte Abu Bakar</p>
 </td>
 </tr>
 </tbody>
