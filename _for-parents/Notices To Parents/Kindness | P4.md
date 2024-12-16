@@ -50,10 +50,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>16 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter to parents/Term 1/005_For_P4_first_day_of_school.pdf" rel="noopener nofollow" target="_blank">P4 first day of school on 3 Jan 2025</a>
+</p>
+<p><a href="/files/Letter to parents/Term 1/P2_P6_List_of_Things_to_bring_2025.pdf" rel="noopener nofollow" target="_blank">Things to bring</a>
+</p>
 </td>
 </tr>
 </tbody>
