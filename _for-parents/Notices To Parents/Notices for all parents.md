@@ -21,10 +21,11 @@ third_nav_title: Notices To Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>16 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter to parents/Term 1/001_School_Hours__School_Terms_and_Holidays_for_2025.pdf" rel="noopener nofollow" target="_blank">2025 School Hours, School Terms and Holidays</a>
+</p>
 </td>
 </tr>
 </tbody>
