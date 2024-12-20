@@ -12,7 +12,7 @@ variant: tiptap
 <p>Online store : <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">Pacific Bookstore online store</a>
 </p>
 <p>Note: the bookshop does not sell school uniform. Please buy directly from
-the School Uniform vendor.</p>
+the uniform vendor.</p>
 <h4>School Uniform</h4>
 <p><strong>Yang Tze Kiang Tailor</strong>
 </p>
