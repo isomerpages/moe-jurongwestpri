@@ -11,6 +11,8 @@ variant: tiptap
 <br>Lunch Break: 12:00 pm - 1:00 pm</p>
 <p>Online store : <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">Pacific Bookstore online store</a>
 </p>
+<p>Note: the bookshop does not sell school uniform. Please buy directly from
+the School Uniform vendor.</p>
 <h4>School Uniform</h4>
 <p><strong>Yang Tze Kiang Tailor</strong>
 </p>
@@ -20,8 +22,7 @@ variant: tiptap
 <br>51 Bukit Batok Crescent #05-14 Unity Centre&nbsp;Singapore 658077</p>
 <p>Operating hours: Mon-Fri 9am - 5:30pm; Sat 9am - 3:30pm
 <br>Closed on Sunday and Public Holidays</p>
-<p>For the month of Dec 2024 and Jan 2025, you can only buy the uniform online
-or from their shop at Unity Centre.</p>
+<p>You can only buy the uniform online or from their shop at Unity Centre.</p>
 <p>To buy the uniform online and for information on school uniform size chart,
 please click on this link: <a href="https://www.yangtzekiang.com.sg/eshop/size-chart/" rel="noopener noreferrer nofollow" target="_blank">Uniform Size Chart</a>
 </p>
