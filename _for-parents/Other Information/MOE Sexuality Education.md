@@ -19,7 +19,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>2. The Goals of Sexuality Education are:</p>
+<p>2. The <strong>Goals </strong>of Sexuality Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -27,7 +27,7 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>3. The Key Messages of Sexuality Education are:</p>
+<p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
@@ -69,15 +69,21 @@ with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks</p>
 <p>At Jurong West Primary School, the following Sexuality Education lessons
-will be taught in 2024:</p>
+will be taught in 2025:</p>
 <p></p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Primary 5</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -163,7 +169,7 @@ and how to seek help for themselves and their friends.</p>
 <p><strong><br></strong>
 </p>
 <p></p>
-<p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
+<p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -171,7 +177,13 @@ and how to seek help for themselves and their friends.</p>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -242,8 +254,8 @@ providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable [ <a href="/files/Slides and info/SEd_Opt_out_form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> ]. The
-completed opt-out form is to be submitted by 16/01/2024.</p>
+of the year and is also downloadable [ <a href="/files/Letter to parents/Term 1/SEd_Opt_out_form_2025.pdf" rel="noopener nofollow" target="_blank">here</a> ].
+The completed opt-out form is to be submitted by 17/01/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 67933419 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
