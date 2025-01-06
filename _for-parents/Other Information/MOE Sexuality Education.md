@@ -254,8 +254,8 @@ providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable [ ]. The completed opt-out form is
-to be submitted by 17/01/2025.</p>
+of the year and is also downloadable [ <a href="/files/Letter to parents/Term 1/SEd_Opt_out_form_2025.pdf" rel="noopener nofollow" target="_blank">here</a> ].
+The completed opt-out form is to be submitted by 17/01/2025.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 67933419 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
