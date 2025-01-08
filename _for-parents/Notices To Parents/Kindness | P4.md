@@ -59,6 +59,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/022_P4_Museum_based_learning_experience.pdf" rel="noopener nofollow" target="_blank">Museum-based Learning (MBL) Experience for P4 students</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
