@@ -66,6 +66,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/012_P5_Public_Speaking_Workshop.pdf" rel="noopener nofollow" target="_blank">Public Speaking Workshop for P5 students</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
