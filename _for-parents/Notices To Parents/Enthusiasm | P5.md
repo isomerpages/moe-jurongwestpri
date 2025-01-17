@@ -84,6 +84,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/026_Letter_to_Parents___Parent_Engagement_Sessions_2025.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Sessions 2025</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
