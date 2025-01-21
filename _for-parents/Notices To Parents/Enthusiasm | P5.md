@@ -25,7 +25,7 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents Engagement Session for English: <a href="https://go.gov.sg/p5el25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5el25</a>
+<p>Briefing slides for English: <a href="https://go.gov.sg/p5el25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5el25</a>
 </p>
 </td>
 </tr>
