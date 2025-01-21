@@ -22,26 +22,74 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Standard English</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Briefing slides for English: <a href="https://go.gov.sg/p5el25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5el25</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Briefing slides for Mathematics: <a href="https://go.gov.sg/p5ma25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5ma25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing slides for Science: <a href="https://go.gov.sg/p5sci25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5sci25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing slides for Chinese Language: <a href="https://go.gov.sg/p5cl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5cl25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing slides for Higher Chinese Language: <a href="https://go.gov.sg/p5hcl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5hcl25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foundation Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing slides for Foundation Chinese Language: <a href="https://go.gov.sg/p5fcl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5fcl25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing slides for Malay Language: <a href="https://go.gov.sg/p5ml25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5ml25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing slides for Tamil Language: <a href="https://go.gov.sg/p5tl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p5tl25</a>
+</p>
 </td>
 </tr>
 </tbody>
