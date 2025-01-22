@@ -34,7 +34,7 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Slides for Mathematics: <a href="https://go.gov.sg/p5math2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p5math2025</a>
+<p>Slides for Mathematics (updated): <a href="https://go.gov.sg/p5math2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/p5math2025</a>
 </p>
 </td>
 </tr>
