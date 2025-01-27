@@ -6,7 +6,9 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Open House at MK @ JW 2025" src="/images/OPEN_HOUSE_2025___MKJW.jpg">
+</div>
 <p>MK@Jurong West started operation on 4 Jan 2022.</p>
 <p>MK @ Jurong West is located within Jurong West Primary School.</p>
 <table style="minWidth: 50px">
