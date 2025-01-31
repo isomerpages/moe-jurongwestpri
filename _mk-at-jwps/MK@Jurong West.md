@@ -43,8 +43,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>You can refer to the <a href="/files/MK/briefing_slides_NoVideo.pdf" rel="noopener noreferrer nofollow" target="_blank">briefing slides</a> for more
-information about MK curriculum and experience.</p>
+<p>You can refer to the <a href="/files/MK/MKOH_2025_JurongWest_pdf.pdf" rel="noopener nofollow" target="_blank">briefing slides</a> for
+more information about MK curriculum and experience.</p>
 <p>A Day At An MOE Kindergarten - <a href="https://www.youtube.com/watch?v=QXvV21a-TqE&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p>MK Curriculum - <a href="https://youtu.be/EU00qf7iumE" rel="noopener noreferrer nofollow" target="_blank">here</a>
