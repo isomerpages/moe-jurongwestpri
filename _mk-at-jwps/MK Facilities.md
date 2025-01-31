@@ -19,7 +19,7 @@ arrive/dismiss.</p>
 <p>MK Facilities and Activities</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/MK/MK_LEARNING_ENVIRONMENT.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Learning Environment</a>
+<p><a href="/files/MK_Learning_Environment.pdf" rel="noopener nofollow" target="_blank">MK Learning Environment</a>
 </p>
 </li>
 <li>
