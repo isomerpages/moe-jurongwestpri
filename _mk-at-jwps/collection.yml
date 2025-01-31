@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - MK@Jurong West.md
-      - Your Child at MK@JWPS.md
       - Our MK Staff.md
+      - Your Child at MK@JWPS.md
       - MK Facilities.md
       - Admission.md
       - Withdrawal from MK.md
@@ -13,6 +13,6 @@ collections:
       - KCare Facilities.md
       - Fees and Financial Support.md
       - Early Years Centre Partners.md
-      - P1 Admission for MK Students.md
+      - "The Road to Primary 1: Transition and Admission Tips for MK Students.md"
       - Parents Appreciation.md
       - Contact Us.md

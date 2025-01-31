@@ -9,7 +9,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Open House at MK @ JW 2025" src="/images/OPEN_HOUSE_2025___MKJW.jpg">
 </div>
-<p>MK@Jurong West started operation on 4 Jan 2022.</p>
+<h4>MK@Jurong West started operation on 4 Jan 2022.</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Our Vision, Mission and Values" src="/images/3.jpg">
+</div>
 <p>MK @ Jurong West is located within Jurong West Primary School.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -43,8 +46,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>You can refer to the <a href="/files/MK/briefing_slides_NoVideo.pdf" rel="noopener noreferrer nofollow" target="_blank">briefing slides</a> for more
-information about MK curriculum and experience.</p>
+<p>You can refer to the <a href="/files/MK/MKOH_2025_JurongWest_pdf.pdf" rel="noopener nofollow" target="_blank">briefing slides</a> for
+more information about MK curriculum and experience.</p>
 <p>A Day At An MOE Kindergarten - <a href="https://www.youtube.com/watch?v=QXvV21a-TqE&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p>MK Curriculum - <a href="https://youtu.be/EU00qf7iumE" rel="noopener noreferrer nofollow" target="_blank">here</a>
