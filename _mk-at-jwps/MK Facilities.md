@@ -23,15 +23,15 @@ arrive/dismiss.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/MK/Centre_based_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">Centre Based Programme</a>
+<p><a href="/files/Centre_Based_Programmes___MKJW.pdf" rel="noopener nofollow" target="_blank">Centre Based Programmes</a>
 </p>
 </li>
 <li>
-<p><a href="/files/MK/Events_and_Celebration.pdf" rel="noopener noreferrer nofollow" target="_blank">Event &amp; Celebrations</a>
+<p><a href="/files/Events_and_Celebration.pdf" rel="noopener nofollow" target="_blank">Events &amp; Celebrations</a>
 </p>
 </li>
 <li>
-<p><a href="/files/MK/Partnerships___Collaborations.pdf" rel="noopener noreferrer nofollow" target="_blank">Partnerships &amp; Collaborations</a>
+<p><a href="/files/Partnership_and_Collaboration.pdf" rel="noopener nofollow" target="_blank">Partnerships &amp; Collaborations</a>
 </p>
 </li>
 </ul>
