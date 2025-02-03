@@ -22,10 +22,66 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Slides for English:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Mathematics:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Science:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Chinese Language:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Higher Chinese Language:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foundation Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Foundation Chinese Language:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Malay Language:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Tamil Language:</p>
 </td>
 </tr>
 </tbody>
