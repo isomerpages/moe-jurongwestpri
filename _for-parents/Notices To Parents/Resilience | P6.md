@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Notices To Parents
 variant: tiptap
 ---
-<h4>Primary 6 Meet The Parents' Slides</h4>
+<h4>Primary 6 Subject Information Slides</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,10 +22,71 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Slides for English: <a href="https://go.gov.sg/p6el25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p6el25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Mathematics: <a href="https://go.gov.sg/p6ma25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p6ma25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Science: <a href="https://go.gov.sg/p6sci25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p6sci25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Chinese Language:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Higher Chinese Language:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foundation Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Foundation Chinese Language:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Malay Language: <a href="https://go.gov.sg/p6ml25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p6ml25</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamil Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Slides for Tamil Language: <a href="https://go.gov.sg/p6tl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p6tl25</a>
+</p>
 </td>
 </tr>
 </tbody>
