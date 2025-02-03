@@ -24,3 +24,4 @@ Ziqing (CL Teacher).</p>
 <p>Upper (Left to right): Siti Suriati Mohammad (AE Staff), Ms Veronica Charles
 (EL Teacher), Ms Iffath Zehra (TL Teacher), Mdm Norhidah Othman (ML Teacher),
 Nuraisyah Alias (EL Teacher), Mdm Chen Chun Xiu (CL Teacher).</p>
+<p></p>
