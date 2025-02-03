@@ -15,12 +15,13 @@ MK Educators.</p>
 <img style="width: 100%" height="auto" width="100%" alt="MK Staff" src="/images/MK_Staff.jpg">
 </div>
 <p>Bottom (Left to right): Ms Reshma Rajiv (EL Teacher), Ms Lee Yun Xun Jess
-(EL Teacher), Mdm Fairuniza Alias (Centre Head), Mdm Marjaanaa Begham (TL
+(EL Teacher), Mdm Fairuniza Alias (Centre Head), Mdm Marjaanaa Behgam (TL
 &amp; Senior Teacher, Child development), Mdm Suria Yusof (ML Teacher).</p>
 <p>Middle (Left to right): Ms Sajidah Rahman (EL Teacher), Mdm Wu Hui (CL
 Teacher), Ms Alya Idora Putri Arman (EL Teacher), Mdm Zhang Ling (CL Teacher),
 Ms Yu Qianqian (CL Teacher), Ms Shafiqa Abdul Wahab, (EL Teacher), Ms Neo
-Qijing (CL Teacher).</p>
+Ziqing (CL Teacher).</p>
 <p>Upper (Left to right): Siti Suriati Mohammad (AE Staff), Ms Veronica Charles
 (EL Teacher), Ms Iffath Zehra (TL Teacher), Mdm Norhidah Othman (ML Teacher),
 Nuraisyah Alias (EL Teacher), Mdm Chen Chun Xiu (CL Teacher).</p>
+<p></p>
