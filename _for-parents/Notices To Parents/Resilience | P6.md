@@ -60,7 +60,8 @@ variant: tiptap
 <p>Higher Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Slides for Higher Chinese Language:</p>
+<p>Slides for Higher Chinese Language: <a href="https://go.gov.sg/p6hcl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p6hcl25</a>
+</p>
 </td>
 </tr>
 <tr>
