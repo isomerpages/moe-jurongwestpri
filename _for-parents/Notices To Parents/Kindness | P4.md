@@ -54,7 +54,8 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Slides for Chinese Language:</p>
+<p>Slides for Chinese Language: <a href="https://go.gov.sg/p4cl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p4cl25</a>
+</p>
 </td>
 </tr>
 <tr>
