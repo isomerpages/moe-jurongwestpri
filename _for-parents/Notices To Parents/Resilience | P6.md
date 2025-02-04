@@ -69,7 +69,8 @@ variant: tiptap
 <p>Foundation Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Slides for Foundation Chinese Language:</p>
+<p>Slides for Foundation Chinese Language: <a href="https://go.gov.sg/p6fcl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p6fcl25</a>
+</p>
 </td>
 </tr>
 <tr>
