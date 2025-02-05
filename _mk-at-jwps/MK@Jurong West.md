@@ -9,11 +9,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Open House at MK @ JW 2025" src="/images/OPEN_HOUSE_2025___MKJW.jpg">
 </div>
-<h4>MK@Jurong West started operation on 4 Jan 2022.</h4>
+<p>MK@Jurong West started operation on 4 Jan 2022.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Our Vision, Mission and Values" src="/images/3.jpg">
 </div>
-<p>MK @ Jurong West is located within Jurong West Primary School.</p>
+<p>MK@Jurong West is located within Jurong West Primary School.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -78,7 +78,7 @@ KCare/MK staff will be at the foyer to receive/dismiss your child.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7am to 7:15am</p>
+<p>7:00am to 7:50am</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Arrival of KCare students</p>
@@ -89,7 +89,7 @@ KCare/MK staff will be at the foyer to receive/dismiss your child.
 <p>7:50am to 8:00am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Arrival of MK (AM) students</p>
+<p>Arrival of MK students</p>
 </td>
 </tr>
 <tr>
@@ -97,12 +97,12 @@ KCare/MK staff will be at the foyer to receive/dismiss your child.
 <p>11:50am to 12:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dismissal of MK (AM) students</p>
+<p>Dismissal of MK students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5pm to 7pm</p>
+<p>5:00pm to 7:00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dismissal of KCare students</p>
@@ -119,9 +119,8 @@ to the foyer during arrival and dismissal times.
 </div>
 <p>
 <br>Parents who send/fetch their child outside the above gate opening hours
-are advised to call/WhatsApp the respective numbers (96791940 – KCare /
-96474301 - MK) first. Do note that the phone is manned only during office
-hours only.
+are advised to call the respective numbers (96791940 – KCare / 96474301
+- MK). Do note that the phone is manned only during office hours only.
 <br>
 </p>
 <p>As the KCare and MK staff will be busy taking care of all the children,
