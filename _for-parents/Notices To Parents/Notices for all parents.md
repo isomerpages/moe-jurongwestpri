@@ -28,6 +28,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Feb 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/028_TDD_2025.pdf" rel="noopener nofollow" target="_blank">Total Defence Day &amp; Exercise SG Ready 2025</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
