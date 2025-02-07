@@ -42,7 +42,7 @@ third_nav_title: Notices To Parents
 <p>7 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/JWPS_2025_P3_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">2025 P3 Modes of Assessments </a>
+<p><a href="/files/JWPS_2025_P3_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">2025 P3 Modes of Assessments</a>
 </p>
 </td>
 </tr>
