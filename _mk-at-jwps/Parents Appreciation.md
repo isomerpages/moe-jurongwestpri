@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4>Parents Appreciation Videos &amp; Letters</h4>
+<p>Here are some appreciation videos from parents!</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/R_uE067xY9Y?si=kut-SDIS6YsUdwUk"></iframe>
@@ -34,6 +35,8 @@ description: ""
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BTuiKDGj5wo?si=JVRWWOlzJsygxB5y"></iframe>
 </div>
 <p></p>
+<p></p>
+<p>Parents writing appreciation cards for our MK educators!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents Appreciation" src="/images/26.jpg">
 </div>
