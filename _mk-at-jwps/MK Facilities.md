@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4>MK Facilities</h4>
-<p>MK@Jurong West is located at the ground floor (no need to use lift).</p>
-<p>Parents and children will wait at this indoor sheltered area when they
-arrive/dismiss.</p>
+<p>MK@Jurong West is located at the ground floor (there is no need to use
+the lift).</p>
+<p>Parents and children will wait at this indoor sheltered area during dismissal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_facilities___Foyer_2.jpeg">
 </div>
