@@ -166,6 +166,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Feb 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/036_P5_Life_skills_programme.pdf" rel="noopener nofollow" target="_blank">P5 Life Skills Programme – Getting Ready for the Big Test</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
