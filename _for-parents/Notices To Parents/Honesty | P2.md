@@ -25,7 +25,8 @@ variant: tiptap
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Slides for English: <a href="https://go.gov.sg/p2el25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p2el25</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +34,8 @@ variant: tiptap
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Slides for Mathematics: <a href="https://go.gov.sg/p2ma25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p2ma25</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +43,8 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Slides for Chinese Language: <a href="https://go.gov.sg/p2cl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p2cl25</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +52,8 @@ variant: tiptap
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Slides for Malay Language: <a href="https://go.gov.sg/p2ml25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p2ml25</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +61,7 @@ variant: tiptap
 <p>Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Slides for Tamil Language:</p>
 </td>
 </tr>
 </tbody>
