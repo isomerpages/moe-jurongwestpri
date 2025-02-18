@@ -61,7 +61,8 @@ variant: tiptap
 <p>Tamil Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Slides for Tamil Language:</p>
+<p>Slides for Tamil Language: <a href="https://go.gov.sg/p2tl25" rel="noopener nofollow" target="_blank">https://go.gov.sg/p2tl25</a>
+</p>
 </td>
 </tr>
 </tbody>
