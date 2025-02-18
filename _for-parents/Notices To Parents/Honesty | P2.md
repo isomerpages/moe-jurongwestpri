@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Notices To Parents
 variant: tiptap
 ---
-<h4>Primary 3 Subject Information Slides</h4>
+<h4>Primary 2 Subject Information Slides</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
