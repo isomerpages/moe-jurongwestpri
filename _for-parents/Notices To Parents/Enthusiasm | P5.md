@@ -184,6 +184,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Feb 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/041_P5_TIE_programme_to_Taiwan.pdf" rel="noopener nofollow" target="_blank">TIE Programme</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
