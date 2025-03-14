@@ -96,26 +96,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/005_For_P4_first_day_of_school.pdf" rel="noopener nofollow" target="_blank">P4 first day of school on 3 Jan 2025</a>
-</p>
-<p><a href="/files/Letter to parents/Term 1/P2_P6_List_of_Things_to_bring_2025.pdf" rel="noopener nofollow" target="_blank">Things to bring</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/022_P4_Museum_based_learning_experience.pdf" rel="noopener nofollow" target="_blank">Museum-based Learning (MBL) Experience for P4 students</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>17 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
