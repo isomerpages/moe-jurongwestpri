@@ -49,15 +49,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/002_For_P1_first_2_days_of_school.pdf" rel="noopener nofollow" target="_blank">P1 2025 first 2 days of school</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3 Mar 2025</p>
 </td>
 <td rowspan="1" colspan="1">
