@@ -112,44 +112,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Dec 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/006_For_P5_first_day_of_school.pdf" rel="noopener nofollow" target="_blank">P5 first day of school on 3 Jan 2025</a>
-</p>
-<p><a href="/files/Letter to parents/Term 1/P2_P6_List_of_Things_to_bring_2025.pdf" rel="noopener nofollow" target="_blank">Things to bring</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/009_P5_Learning_Journey_to_Indian_Heritage_Centre.pdf" rel="noopener nofollow" target="_blank">P5 Learning Journey to Indian Heritage Centre</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/012_P5_Public_Speaking_Workshop.pdf" rel="noopener nofollow" target="_blank">Public Speaking Workshop for P5 students</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14 Jan 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/025_P5_Camp.pdf" rel="noopener nofollow" target="_blank">P5 Camp</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>17 Jan 2025</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,15 +125,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/JSA___Parent_Nomination_Form.pdf" rel="noopener nofollow" target="_blank">Junior Sports Academy Nomination by Parents</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 Feb 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/036_P5_Life_skills_programme.pdf" rel="noopener nofollow" target="_blank">P5 Life Skills Programme – Getting Ready for the Big Test</a>
 </p>
 </td>
 </tr>
