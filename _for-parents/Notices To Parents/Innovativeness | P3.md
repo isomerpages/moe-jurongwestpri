@@ -103,10 +103,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>21 Feb 2025</p>
+<p>24 Mar 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/037_P3_Learning_Journey_to_Singapore_Zoo_2025.pdf" rel="noopener nofollow" target="_blank">Learning Journey to Zoo</a>
+<p><a href="/files/Letter to parents/Term 2/033_P3_Geylang_Serai_Heritage_Gallery.pdf" rel="noopener nofollow" target="_blank">Learning Journey to Geylang Serai Heritage Gallery</a>
 </p>
 </td>
 </tr>
