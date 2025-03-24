@@ -105,10 +105,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 Jan 2025</p>
+<p>24 Mar 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/JSA___Parent_Nomination_Form.pdf" rel="noopener nofollow" target="_blank">Junior Sports Academy Nomination by Parents</a>
+<p><a href="/files/Letter to parents/Term 2/034_P4_Kreta_Ayer_Heritage_Gallery.pdf" rel="noopener nofollow" target="_blank">Learning Journey to Kreta Ayer Heritage Gallery</a>
 </p>
 </td>
 </tr>
