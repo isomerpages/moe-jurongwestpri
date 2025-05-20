@@ -11,5 +11,5 @@ variant: tiptap
 </p>
 <h2>Waiting List application</h2>
 <p>If you wish to enroll your child in MK@Jurong West, please submit your
-waiting list application via this url: <a href="http://go.gov.sg/mkjwwaitlist" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mkjwwaitlist</a>
+waiting list application via this url: <a href="https://go.gov.sg/mkjwwaitlistform" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mkjwwaitlistform</a>
 </p>
