@@ -73,6 +73,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/056_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Principal's Letter to Parents</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -82,8 +91,8 @@ office (67933419) or email us at <a href="mailto:jwsc2@ymca.edu.sg" rel="noopene
 </p>
 <p>Teachers are allowed to use their preferred mode of communications with
 parents (Parents Gateway app, Whatsapp, phone calls, Student handbook etc).
-We respect the privacy of the teachers and teachers are <strong><u>not required</u></strong> give
-their handphone numbers to parents.</p>
+We respect the privacy of the teachers and teachers are <strong><u>not required</u></strong> to
+give their handphone numbers to parents.</p>
 <p>Unless it is an emergency (student forgot some information is not an emergency),
 we sincerely hope that parents do not contact teachers during weekends,
 school holidays, and from 7pm to 8am on school days.</p>
