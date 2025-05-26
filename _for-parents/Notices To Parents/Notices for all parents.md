@@ -78,7 +78,8 @@ third_nav_title: Notices To Parents
 <p>20 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter to parents/Term 2/056_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Principal's Letter to Parents</a>
+</p>
 </td>
 </tr>
 </tbody>
