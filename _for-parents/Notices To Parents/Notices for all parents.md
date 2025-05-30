@@ -82,6 +82,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/055_Collection_of_Recycled_items_2025.pdf" rel="noopener nofollow" target="_blank">Values-In-Action (VIA) Activity – Collection of Recycled Items</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
