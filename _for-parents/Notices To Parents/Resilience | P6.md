@@ -128,6 +128,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/058_P6_Prelim_and_PSLE_Schedule.pdf" rel="noopener nofollow" target="_blank">Prelim and PSLE schedule</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
