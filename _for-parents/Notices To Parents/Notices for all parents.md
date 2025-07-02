@@ -66,15 +66,6 @@ third_nav_title: Notices To Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>14 May 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 2/052_PTM_30_May_2025.pdf" rel="noopener nofollow" target="_blank">PTM on 30 May</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>20 May 2025</p>
 </td>
 <td rowspan="1" colspan="1">
