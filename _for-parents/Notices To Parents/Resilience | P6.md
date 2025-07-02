@@ -121,15 +121,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>25 Feb 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/039_P6_Term_2_Supplementary_Schedule.pdf" rel="noopener nofollow" target="_blank">P6 Term 2 Supplementary Schedule</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>4 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
