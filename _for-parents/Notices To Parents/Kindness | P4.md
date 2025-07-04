@@ -112,6 +112,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/059_P4_PE_Outdoor_Education_cum_Values_in_Action__VIA__Activity___Estate_Cleaning_25_July_2025.pdf" rel="noopener nofollow" target="_blank">P4 PE Outdoor Education cum Values in Action</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
