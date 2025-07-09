@@ -121,6 +121,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/063_P4_Learning_Journey_to_SSC_2025.pdf" rel="noopener nofollow" target="_blank">P4 Learning Journey to Singapore Science Centre</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
