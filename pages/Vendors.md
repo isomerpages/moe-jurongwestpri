@@ -11,8 +11,8 @@ variant: tiptap
 <br>Lunch Break: 12:00 pm - 1:00 pm</p>
 <p>Online store : <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">Pacific Bookstore online store</a>
 </p>
-<p>Note: the bookshop does not sell school uniform. Please buy directly from
-the uniform vendor.</p>
+<p>Note: the bookshop does not sell school uniform and name tag. Please buy
+school uniform and name tag directly from the uniform vendor.</p>
 <h4>School Uniform and Name Tag</h4>
 <p><strong>Yang Tze Kiang Tailor</strong>
 </p>
