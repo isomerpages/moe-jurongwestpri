@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <p>Note: the bookshop does not sell school uniform. Please buy directly from
 the uniform vendor.</p>
-<h4>School Uniform</h4>
+<h4>School Uniform and Name Tag</h4>
 <p><strong>Yang Tze Kiang Tailor</strong>
 </p>
 <p>Tel: 6769 1260 / 8697 1660
@@ -22,9 +22,10 @@ the uniform vendor.</p>
 <br>51 Bukit Batok Crescent #05-14 Unity Centre&nbsp;Singapore 658077</p>
 <p>Operating hours: Mon-Fri 9am - 5:30pm; Sat 9am - 3:30pm
 <br>Closed on Sunday and Public Holidays</p>
-<p>You can only buy the uniform online or from their shop at Unity Centre.</p>
-<p>To buy the uniform online and for information on school uniform size chart,
-please click on this link: <a href="https://www.yangtzekiang.com.sg/eshop/size-chart/" rel="noopener noreferrer nofollow" target="_blank">Uniform Size Chart</a>
+<p>You can only buy the uniform and name tag online or from their shop at
+Unity Centre.</p>
+<p>To buy the uniform and name tag online and for information on school uniform
+size chart, please click on this link: <a href="https://www.yangtzekiang.com.sg/eshop/size-chart/" rel="noopener noreferrer nofollow" target="_blank">Uniform Size Chart</a>
 </p>
 <h4>School Bus</h4>
 <p><strong>JK59 Pte Ltd</strong> 
