@@ -82,6 +82,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/062_National_Day_Celebrations_2025.pdf" rel="noopener nofollow" target="_blank">National Day Celebrations 2025</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
