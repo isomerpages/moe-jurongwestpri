@@ -56,6 +56,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 4/070_P1_Learning_Journey_to_HortPark.pdf" rel="noopener nofollow" target="_blank">P1 Learning Journey to HortPark</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
