@@ -92,6 +92,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 4/071_P2_Learning_Journey_to_Jurong_Lake_Gardens.pdf" rel="noopener nofollow" target="_blank">P2 Learning Journey to Jurong Lake Gardens</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
