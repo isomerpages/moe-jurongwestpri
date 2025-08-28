@@ -110,6 +110,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/074_P3_Maths_Parents_Engagement_Session.pdf" rel="noopener nofollow" target="_blank">P3 Maths Parents Engagement Session</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
