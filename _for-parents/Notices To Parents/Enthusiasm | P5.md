@@ -137,15 +137,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Jun 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 2/057_P5_NE_show_on_12_July.pdf" rel="noopener nofollow" target="_blank">P5 NE Show on 12 July</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
