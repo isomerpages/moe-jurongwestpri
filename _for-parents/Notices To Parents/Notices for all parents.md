@@ -33,7 +33,7 @@ third_nav_title: Notices To Parents
 <p>7 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/JWPS_2025_P3_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">2025 P3 Modes of Assessments</a>
+<p><a href="/files/JWPS_2025_P3_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">P3 Assessment Topics &amp; Components</a>
 </p>
 </td>
 </tr>
@@ -42,7 +42,7 @@ third_nav_title: Notices To Parents
 <p>7 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/JWPS_2025_P4_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">2025 P4 Modes of Assessments</a>
+<p><a href="/files/JWPS_2025_P4_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">P4 Assessment Topics &amp; Components</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ third_nav_title: Notices To Parents
 <p>7 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/JWPS_2025_P5_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">2025 P5 Modes of Assessments</a>
+<p><a href="/files/JWPS_2025_P5_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">P5 Assessment Topics &amp; Components</a>
 </p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ third_nav_title: Notices To Parents
 <p>7 Feb 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/JWPS_2025_P6_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">2025 P6 Modes of Assessments</a>
+<p><a href="/files/JWPS_2025_P6_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">P6 Assessment Topics &amp; Components</a>
 </p>
 </td>
 </tr>

@@ -78,7 +78,33 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Primary 4 Assessment</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/JWPS_2025_P4_Modes_of_Assessments.pdf" rel="noopener nofollow" target="_blank">P4 Modes of Assessment &amp; End-of-Year Exam Schedule</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sent via Parents Gateway dated 7 Feb 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/JWPS_2025_P4_Assessment_Overview__Topics_and_Components_.pdf" rel="noopener nofollow" target="_blank">P4 Assessment Topics &amp; Components</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Link sent via Parents Gateway dated 7 Feb 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
 <table style="minWidth: 50px">
 <colgroup>
