@@ -49,6 +49,6 @@ Subsidy (AS) - for Singapore Citizens children only
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/QR_code_KCare_enrolment_and_subsidy_appln.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK/QR_code_KCare_enrolment_and_subsidy_appln.png">
 </div>
 <p></p>
