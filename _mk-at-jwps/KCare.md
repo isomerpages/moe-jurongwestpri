@@ -36,8 +36,8 @@ variant: tiptap
 <p>Click on the link below to:
 <br>- submit KCare enrolment application and/or
 <br>- apply for KCare Additional Subsidy (AS) - for Singapore Citizens children
-only</p>
-<p><a href="go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and AS application link</a>
+only
+<br><a href="go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and AS application link</a>
 </p>
 <p></p>
 <p><strong>Withdrawal Policy</strong>
