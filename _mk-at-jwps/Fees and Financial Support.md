@@ -43,10 +43,8 @@ For more information on KCare subsidy, please refer to this website:
 <br>Please submit the KCare Enrolment and AS application promptly to avoid
 delays in subsidy commencement. Backdating of KCare AS is not permitted.
 <br>
-<br>Click on the link below to:
-<br>- submit KCare enrolment application and/or
-<br>- apply for KCare Additional Subsidy (AS) - for Singapore Citizens children
-only
+<br>Click on the link or scan the QR code below to apply for KCare Additional
+Subsidy (AS) - for Singapore Citizens children only
 <br><a href="go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and/or AS application link</a>
 </p>
 <p></p>
