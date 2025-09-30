@@ -48,3 +48,7 @@ Subsidy (AS) - for Singapore Citizens children only
 <br><a href="go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and/or AS application link</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/QR_code_KCare_enrolment_and_subsidy_appln.png">
+</div>
+<p></p>
