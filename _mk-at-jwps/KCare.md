@@ -37,9 +37,8 @@ variant: tiptap
 <br>- submit KCare enrolment application and/or
 <br>- apply for KCare Additional Subsidy (AS) - for Singapore Citizens children
 only
-<br><a href="go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and/or AS application link</a>
+<br><a href="go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and AS application link</a>
 </p>
-<p></p>
 <p><strong>Withdrawal Policy</strong>
 </p>
 <p>One month written notice must be given to the Centre by the end of the
