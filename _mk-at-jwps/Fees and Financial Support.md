@@ -45,7 +45,7 @@ delays in subsidy commencement. Backdating of KCare AS is not permitted.
 <br>
 <br>Click on the link or scan the QR code below to apply for KCare Additional
 Subsidy (AS) - for Singapore Citizens children only
-<br><a href="go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and/or AS application link</a>
+<br><a href="https://go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and AS application link</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MK/QR_code_KCare_enrolment_and_subsidy_appln.png">
