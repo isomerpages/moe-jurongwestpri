@@ -61,6 +61,7 @@ KCare/MK staff will be at the foyer to receive/dismiss your child.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/mk entrance1.jpg">
 </div>
 <p></p>
+<h4>Arrival and Dismissal</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Authorisation Passes are required for parents/caregivers to have access
@@ -85,11 +86,11 @@ are <strong>not required</strong> to call the MK/KCare staff on parents’
 behalf.</p>
 </li>
 </ul>
-<h5>MK/KCare Premise: No entry for parents/caregivers</h5>
+<h4>MK/KCare Premise: No entry for parents/caregivers</h4>
 <p>For safety and security reasons, all parents/caregivers are NOT allowed
 to enter the MK/KCare premise. We seek your co-operation for the safety
 of your child and all other children.</p>
-<h5>Park at Blk 601A Multi-storey Carpark</h5>
+<h4>Park at Blk 601A Multi-storey Carpark</h4>
 <p>For parents or caregivers who drive, you are strongly encouraged to park
 at the visitor lots inside block 601A multi-storey carpark.</p>
 <p></p>
