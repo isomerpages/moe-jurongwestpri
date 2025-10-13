@@ -2,7 +2,7 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - MK@Jurong West.md
+      - About Us.md
       - Our MK Staff.md
       - Your Child at MK@JWPS.md
       - MK Facilities.md
