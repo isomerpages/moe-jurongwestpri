@@ -2,6 +2,14 @@ collections:
   mk-at-jwps:
     output: true
     order:
+      - About Us/.keep
+      - About Us/About Us.md
+      - About Us/Our Vision and Mission.md
+      - About Us/Our MK Staff.md
+      - Your Child at MK@JWPS.md
+      - MK Facilities.md
+      - Early Years Centre Partners.md
+      - Information For Parents/.keep
       - Information For Parents/Parents Appreciation.md
       - "Information For Parents/The Road to Primary 1: Transition and Admission
         Tips for MK Students.md"
@@ -9,14 +17,6 @@ collections:
       - Information For Parents/MK Uniform.md
       - Information For Parents/Withdrawal from MK.md
       - Information For Parents/Admission.md
-      - Information For Parents/.keep
-      - About Us/.keep
-      - About Us/About Us.md
-      - About Us/Our Vision and Mission.md
-      - About Us/Our MK Staff.md
-      - Your Child at MK@JWPS.md
-      - MK Facilities.md
       - KCare.md
       - KCare Facilities.md
-      - Early Years Centre Partners.md
       - Contact Us.md
