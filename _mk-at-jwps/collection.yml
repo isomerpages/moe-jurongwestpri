@@ -2,6 +2,7 @@ collections:
   mk-at-jwps:
     output: true
     order:
+      - About Us/Our Vision and Mission.md
       - About Us/About Us.md
       - About Us/Our MK Staff.md
       - About Us/.keep
