@@ -2,8 +2,6 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - Our Vision and Mission/About Us.md
-      - Our Vision and Mission/.keep
       - Our MK Staff.md
       - Your Child at MK@JWPS.md
       - MK Facilities.md
