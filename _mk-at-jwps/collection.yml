@@ -2,6 +2,7 @@ collections:
   mk-at-jwps:
     output: true
     order:
+      - Information For Parents/Withdrawal from MK.md
       - Information For Parents/Admission.md
       - Information For Parents/.keep
       - About Us/.keep
