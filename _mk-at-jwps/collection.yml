@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Vision and Mission/.keep
-      - About Us.md
       - Our MK Staff.md
       - Your Child at MK@JWPS.md
       - MK Facilities.md
