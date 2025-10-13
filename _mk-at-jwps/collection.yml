@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - Our MK Staff.md
       - Your Child at MK@JWPS.md
       - MK Facilities.md
       - Admission.md
