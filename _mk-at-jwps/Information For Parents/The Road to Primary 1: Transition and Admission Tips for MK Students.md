@@ -3,6 +3,7 @@ title: "The Road to Primary 1: Transition and Admission Tips for MK Students"
 permalink: /mk-at-jwps/p1admission/
 description: ""
 variant: tiptap
+third_nav_title: Information For Parents
 ---
 <h4>MK, K2 Students Transition to Primary 1</h4>
 <p></p>

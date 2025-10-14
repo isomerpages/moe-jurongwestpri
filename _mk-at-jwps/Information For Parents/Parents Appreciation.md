@@ -3,6 +3,7 @@ title: Parents Appreciation
 permalink: /mk-at-jwps/parentsappreciation/
 variant: tiptap
 description: ""
+third_nav_title: Information For Parents
 ---
 <h4>Parents Appreciation Videos &amp; Letters</h4>
 <p>Here are some appreciation videos from parents!</p>

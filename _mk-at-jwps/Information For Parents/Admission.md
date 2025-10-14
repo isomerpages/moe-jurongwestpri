@@ -3,6 +3,7 @@ title: Admission
 permalink: /mk-at-jwps/admission/
 description: ""
 variant: tiptap
+third_nav_title: Information For Parents
 ---
 <h2>K1 REGISTRATION</h2>
 <p>Online registration for 2026 Kindergarten 1 (K1) admission is over.</p>

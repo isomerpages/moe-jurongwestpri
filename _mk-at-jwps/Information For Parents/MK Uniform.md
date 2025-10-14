@@ -3,6 +3,7 @@ title: MK Uniform
 permalink: /mk-at-jwps/uniform/
 description: ""
 variant: tiptap
+third_nav_title: Information For Parents
 ---
 <p>Please be informed that CDA account <strong>cannot </strong>be used to
 buy MK uniforms from our appointed uniform suppliers, Beau Voix Uniform

@@ -3,6 +3,7 @@ title: Fees and Financial Support
 permalink: /mk-at-jwps/finance-links/
 description: ""
 variant: tiptap
+third_nav_title: Information For Parents
 ---
 <h2>MK Fees and Subsidy for MK</h2>
 <p><strong>MOE Kindergarten (MK) fees</strong>
