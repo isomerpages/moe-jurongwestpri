@@ -4,7 +4,7 @@ permalink: /cca/hockey/
 description: ""
 variant: tiptap
 ---
-<p><strong>Hockey</strong> (closure by end 2026)
+<p><strong>Hockey</strong> (CCA closure by end 2026)
 <br>
 </p>
 <p>To watch introduction video click <a href="https://youtu.be/I0aGfGUOGQI" rel="noopener noreferrer nofollow" target="_blank">here</a>.
