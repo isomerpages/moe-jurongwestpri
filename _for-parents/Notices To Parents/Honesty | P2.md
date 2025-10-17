@@ -110,6 +110,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Oct 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 4/CCA_Recruitment_Exercise___Letter_to_Parents_2025_Final.pdf" rel="noopener nofollow" target="_blank">CCA Recruitment Exercise for P2</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
