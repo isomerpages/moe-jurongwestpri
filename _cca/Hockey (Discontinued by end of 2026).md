@@ -1,5 +1,5 @@
 ---
-title: Hockey (CCA closure by end 2026)
+title: Hockey (Discontinued by end of 2026)
 permalink: /cca/hockey/
 description: ""
 variant: tiptap
