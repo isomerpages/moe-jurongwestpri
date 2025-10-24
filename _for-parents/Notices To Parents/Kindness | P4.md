@@ -138,6 +138,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Oct 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 4/082_P4_Purchase_of_Calculator.pdf" rel="noopener nofollow" target="_blank">P4 Purchase of Calculators</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
