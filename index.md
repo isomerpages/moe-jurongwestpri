@@ -31,7 +31,7 @@ sections:
       description: Submit your nomination(s) for one or more deserving teacher(s) by 9
         Jan 2026. Your nomination(s) will be a source of encouragement for our
         teacher(s)
-      button: Nominate here for OYEA 2026
+      button: Click here to nominate
       url: https://go.gov.sg/oyea2026
       image: /images/Information and Updates/OYEA_Banner.jpg
       alt: OYEA 2026
