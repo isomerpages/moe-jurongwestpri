@@ -24,6 +24,7 @@ sections:
       url: https://go.gov.sg/pat2026
       image: /images/Information and Updates/PAT_Banner.jpg
       title: PAT 2026
+      alt: PAT 2026
   - infopic:
       title: OYEA 2026
       id: infopic
@@ -33,4 +34,5 @@ sections:
       button: Nominate here for OYEA 2026
       url: https://go.gov.sg/oyea2026
       image: /images/Information and Updates/OYEA_Banner.jpg
+      alt: OYEA 2026
 ---
