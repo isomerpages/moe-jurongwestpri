@@ -20,7 +20,7 @@ sections:
       description: Submit your nomination(s) for one or more deserving teacher(s) by 9
         Jan 2026. Your nomination(s) will be a source of encouragement for our
         teacher(s)
-      button: Nominate here for PAT 2026
+      button: Click here to nominate
       url: https://go.gov.sg/pat2026
       image: /images/Information and Updates/PAT_Banner.jpg
       title: PAT 2026
