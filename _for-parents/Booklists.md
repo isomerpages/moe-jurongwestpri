@@ -23,7 +23,8 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Booklist/P1_2026_Booklist.pdf" rel="noopener nofollow" target="_blank">P1 2026 Booklist</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -31,7 +32,8 @@ variant: tiptap
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Booklist/P2_2026_Booklist.pdf" rel="noopener nofollow" target="_blank">P2 2026 Booklist</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -39,7 +41,8 @@ variant: tiptap
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Booklist/P3_2026_Booklist.pdf" rel="noopener nofollow" target="_blank">P3 2026 Booklist</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -47,7 +50,8 @@ variant: tiptap
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Booklist/P4_2026_Booklist.pdf" rel="noopener nofollow" target="_blank">P4 2026 Booklist</a>
+</p>
 </td>
 </tr>
 <tr>
