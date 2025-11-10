@@ -23,8 +23,7 @@ variant: tiptap
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Booklist/P1_2026_Booklist.pdf" rel="noopener nofollow" target="_blank">P1 2026 Booklist</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
