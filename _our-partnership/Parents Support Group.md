@@ -4,11 +4,6 @@ permalink: /our-partnership/parents-support-group/
 description: ""
 variant: markdown
 ---
-|                      PSG Advisors                      |
-|-------------------------------------|
-| Mr Phang Siew Eng, Charlie<br>Mdm Sim Hong Suan, Nancy |
-
-<br>
 
 
 |                      Coordinating Staff for PSG activities                     |
@@ -17,4 +12,3 @@ variant: markdown
 | Ms Wai Lai May, Year Head |
 
 <br>
-
