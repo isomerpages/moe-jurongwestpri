@@ -74,21 +74,5 @@ the knowledge they have acquired.</p>
 <p>With the right <strong>Attitude </strong>instilled, students are empowered
 to take on greater responsibility and accountability in improving environmental
 sustainability.</p>
+<h3></h3>
 <p></p>
-<h3>P1 to P6 LLP- Experiential Learning of Lifeskills for Personal Excellence</h3>
-<p>The LLP aims to build self-confidence in students through their interaction
-with nature, build leadership skills, create optimism through the recognition
-of their strengths and weaknesses, and build resilience through resolving
-challenges in a responsible manner.</p>
-<p>This programme has evolved from a modular activity-based lesson to the
-spiral curriculum from Primary 1 to Primary 6.</p>
-<p>The objectives are realised through lessons which heighten the students’ <strong>A</strong>wareness
-of the outdoor via mastery of lessons, deliberate <strong>A</strong>ction
-via application of skills and concepts taught and the engendering of desired <strong>A</strong>ttitude
-via purposeful reflection and value-reinforcement. The programme encompasses
-the main curriculum, Co-Curriculum, CCA and Sports Module. The main curriculum
-consists of the PAL Outdoor Education, PAL Sports Module and P3 Swimming
-Programme while the Co-Curriculum comprises &nbsp;the Upper Primary Sports
-Carnival, Lower Primary Games Day and outdoor education modules such as
-Water Adventure (P6), Adventure Camp (P5), Forest Adventure (P4) and Day
-Camp (P3).</p>
