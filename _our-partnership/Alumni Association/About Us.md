@@ -35,8 +35,8 @@ and industry networking.</p>
 <p>To foster the spirit of service to the school.</p>
 </li>
 </ol>
-<h2>Primary 1 Phase 2A(1) Registration</h2>
-<p>To be eligible for the Primary 1 Phase 2A(1) registration, you will need
+<h2>Primary 1 Phase 2A Registration</h2>
+<p>To be eligible for the Primary 1 Phase 2A registration, you will need
 to be a full member of the alumni association at least one year before
 the 30th of June of the year when your child needs to be registered. This
 is in accordance to MOE guidelines.</p>
