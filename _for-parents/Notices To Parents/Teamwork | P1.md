@@ -24,10 +24,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>24 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Slides and info/JWPS_2025_P1_Orientation_For_website_FINAL.pdf" rel="noopener nofollow" target="_blank">P1 2026 Orientation slides</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -49,28 +50,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Mar 2025</p>
+<p>24 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/038_P1_Parent_Engagement_Session.pdf" rel="noopener nofollow" target="_blank">P1 Parent Engagement Session</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 Aug 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 4/070_P1_Learning_Journey_to_HortPark.pdf" rel="noopener nofollow" target="_blank">P1 Learning Journey to HortPark</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 Aug 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 3/074_P1_Maths_Parents_Engagement_Session.pdf" rel="noopener nofollow" target="_blank">P1 Maths Parents Engagement Session</a> 
+<p><a href="/files/Letter to parents/Term 1/001_Things_to_bring_for_first_4_days_of_school_for_P1_2026.pdf" rel="noopener nofollow" target="_blank">Things to bring for the first 4 days of school for P1 2026</a>
 </p>
 </td>
 </tr>
