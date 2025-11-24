@@ -24,10 +24,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>24 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Slides and info/JWPS_2025_P1_Orientation_For_website_FINAL.pdf" rel="noopener nofollow" target="_blank">P1 2026 Orientation slides</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -54,6 +55,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/JWPS_2025_P1_Orientation_For_website_FINAL.pdf" rel="noopener nofollow" target="_blank">P1 2026 Orientation slides</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Nov 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
