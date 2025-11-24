@@ -53,7 +53,8 @@ variant: tiptap
 <p>24 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter to parents/Term 1/001_Things_to_bring_for_first_4_days_of_school_for_P1_2026.pdf" rel="noopener nofollow" target="_blank">Things to bring for the first 4 days of school for P1 2026</a>
+</p>
 </td>
 </tr>
 </tbody>
