@@ -20,6 +20,15 @@ variant: tiptap
 <p>Title</p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Things to bring on the first 3 days</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P3_Things_to_bring__on_first_3_days_of_2026.pdf" rel="noopener nofollow" target="_blank">Things to bring on the first 3 days of 2026</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Primary 3 Assessment</h4>
