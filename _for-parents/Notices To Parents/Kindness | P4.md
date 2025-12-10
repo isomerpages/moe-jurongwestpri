@@ -33,8 +33,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Primary 4 Assessment</h4>
-<p></p>
+<h4></h4>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
 <table style="minWidth: 50px">
 <colgroup>
