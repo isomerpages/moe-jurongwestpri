@@ -46,7 +46,7 @@ space and finances.</p>
 <p>Year Head (Middle Block)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wen Hui</p>
+<p>Ms Wai Lai May</p>
 </td>
 </tr>
 <tr>
@@ -106,25 +106,17 @@ space and finances.</p>
 <p>Ms Wyn Lim Chieng Yong</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4>Senior Teacher</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST SEN</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm K Sunitha</p>
+<p>Ms Joy Ng Min Yi</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4></h4>
 <p>For more information about Student Support:</p>
 <p><a href="/SENinfo" rel="noopener noreferrer nofollow" target="_blank">SEN and other support information</a>
 </p>
