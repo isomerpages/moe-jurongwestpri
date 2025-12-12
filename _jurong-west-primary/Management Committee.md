@@ -40,12 +40,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Patricia Sim Ee Koon, VP Academic</p>
+<p>Mr Ng Wei Ping, VP Academic</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Wan Kheng, VP Academic</p>
+<p>Mdm Patricia Sim Ee Koon, VP Academic</p>
 </td>
 </tr>
 </tbody>
@@ -68,14 +68,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nor Hazilah Bte Hasan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>English</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +79,7 @@ variant: tiptap
 <p>Information &amp; Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Carol Cheong Wei Siang</p>
+<p>Ms Quek Liza</p>
 </td>
 </tr>
 <tr>
@@ -100,26 +92,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Wong Sheau Yun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>PE and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Tien Juan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Patricia Goh Hwee Sung</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +145,7 @@ variant: tiptap
 <p>Year Head (Middle Block)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wen Hui</p>
+<p>Ms Wai Lai May</p>
 </td>
 </tr>
 <tr>
@@ -348,6 +324,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Chris Ng Boon Pian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Khairul Nizam Bin Mohd Taha</p>
 </td>
 </tr>
 </tbody>
