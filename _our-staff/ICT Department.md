@@ -16,7 +16,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Cheong Wei Siang&nbsp;Carol</p>
+<p>Ms&nbsp;Quek Liza</p>
 </td>
 </tr>
 </tbody>
