@@ -33,6 +33,10 @@ leave sufficient space for others to go through.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Polyclinic Gate" src="/images/Gates/Polyclinic_Gate.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P1 parents and caregivers waiting area during dismissal" src="/images/Gates/P1_parents_wait_area.jpg">
+</div>
 <p>P2 students are dismissed at <strong><u>Gate 2</u></strong>.</p>
 <p>Parents/caregivers should wait along the walkway and leave sufficient
 space for others to go through.</p>
