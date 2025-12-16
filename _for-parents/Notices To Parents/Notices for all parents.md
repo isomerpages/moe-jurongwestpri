@@ -30,7 +30,7 @@ third_nav_title: Notices To Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School terms, holidays</p>
+<p>School terms and holidays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/003_School_Terms_and_Holidays_for_2026.pdf" rel="noopener nofollow" target="_blank">School terms and holidays</a>
