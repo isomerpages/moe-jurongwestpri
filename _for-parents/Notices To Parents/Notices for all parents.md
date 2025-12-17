@@ -19,6 +19,24 @@ third_nav_title: Notices To Parents
 <p>Notices</p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>First 2 days of school, school hours, arrival and dismissal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/002_First_2_days_of_school__School_Hours__arrival_and_dismissal_for_2026.pdf" rel="noopener nofollow" target="_blank">First 2 days of school, school hours, arrival and dismissal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School terms and holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/003_School_Terms_and_Holidays_for_2026.pdf" rel="noopener nofollow" target="_blank">School terms and holidays</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

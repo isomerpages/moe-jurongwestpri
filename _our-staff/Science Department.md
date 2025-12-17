@@ -11,23 +11,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Head of Department</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Hwee Sung Patricia</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p>Subject Head</p>
 </th>
 </tr>
@@ -39,6 +22,23 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chin Joong Fui</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>The Science Department aims to develop inquiring learners who are able
 to use his senses, think, ask and reflect critically.</p>
 <p>

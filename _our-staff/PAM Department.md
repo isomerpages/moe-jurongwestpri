@@ -39,23 +39,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chia Gek Lan Jean</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>
 <br>The PAM department aims to provide students with skills, knowledge and
 attitudes necessary to make active living a way of life.

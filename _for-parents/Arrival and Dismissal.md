@@ -12,9 +12,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="gates" src="/images/School%20gates.jpg">
 </div>
 <h4>Vehicles</h4>
-<p>Parents who send their child to school by car should follow the instructions
-of the 2 guards stationed at the main gate and enter the school as illustrated
-below:</p>
+<p>Parents who send their child to school by car and motorcycle should follow
+the instructions of the 2 guards stationed at the main gate and enter the
+school as illustrated below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AM%20car%20arrival.jpg">
 </div>
@@ -28,9 +28,23 @@ Jurong West Street 61 to wait for their child.</p>
 </p>
 <h4>P1 and P2</h4>
 <p>P1 students are dismissed at the <strong><u>Polyclinic Gate</u></strong>.</p>
-<p>P2 students are dismissed at <strong><u>Gate 2</u></strong>.</p>
+<p>Parents/caregivers should wait along the Pioneer Polyclinic walkway and
+leave sufficient space for others to go through.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Polyclinic Gate" src="/images/Gates/Polyclinic_Gate.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P1 parents and caregivers waiting area during dismissal" src="/images/Gates/P1_parents_wait_area.jpg">
+</div>
+<p>P2 students are dismissed at <strong><u>Gate 2</u></strong>.</p>
+<p>Parents/caregivers should wait along the walkway and leave sufficient
+space for others to go through.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gate 2" src="/images/Gates/Gate_2_for_P2_parents_waiting.jpg">
+</div>
 <h4>P3, P4, P5 and P6</h4>
-<p>P3, P4, P5 and P6 students are allowed to use any gates to go home.</p>
+<p>P3, P4, P5 and P6 students are allowed to use any gates and turnstiles
+(at Gates 4 and 5) to go home.</p>
 <h4></h4>
 <p></p>
