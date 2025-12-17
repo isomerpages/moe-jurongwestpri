@@ -62,15 +62,15 @@ space and finances.</p>
 <p>Asst Year Head (Upper Block)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Emily Lim</p>
+<p>Ms Yvonne Chew</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst Year Head (Middle Block, covering)</p>
+<p>Asst Year Head (Middle Block)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Chew</p>
+<p>Ms Emily Lim</p>
 </td>
 </tr>
 <tr>
