@@ -25,7 +25,7 @@ variant: tiptap
 <p>Things to bring on the first 3 days</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/P6_Things_to_bring__on_first_3_days_of_2026.pdf" rel="noopener nofollow" target="_blank">Things to bring on the first 3 days of 2026</a>
+<p><a href="/files/Letter to parents/Term 1/P6_Things_to_bring__on_first_3_days_of_2026_v1.pdf" rel="noopener nofollow" target="_blank">Things to bring on the first 3 days of 2026</a>
 </p>
 </td>
 </tr>
