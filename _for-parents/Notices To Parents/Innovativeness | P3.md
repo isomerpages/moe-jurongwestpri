@@ -47,6 +47,15 @@ variant: tiptap
 <p>Notice</p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/2026_Letter_to_Parent_P3_Swimming_Finalised_with_itemlist_rev_20_Dec.pdf" rel="noopener nofollow" target="_blank">P3 SwimSafer Schedule in 2026</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
