@@ -57,6 +57,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/004_MOE_Centrally_Provisioned_Digital_Tools.pdf" rel="noopener nofollow" target="_blank">MOE Centrally Provisioned Digital Tools</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
