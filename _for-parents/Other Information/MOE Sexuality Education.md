@@ -9,37 +9,45 @@ variant: tiptap
 </p>
 <p></p>
 <p>MOE SEXUALITY EDUCATION IN SCHOOLS</p>
-<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
-the physiological, social and emotional changes they experience as they
-mature, develop healthy and rewarding relationships with others, including
-those with members of the opposite sex, and make wise, informed and responsible
-decisions on sexuality matters. SEd is premised on the importance of the
-family as the basic unit of society. This means encouraging healthy, heterosexual
-marriages and stable nuclear family units with extended family support.
-The teaching and learning of SEd is based on respect for the values and
-beliefs of the different ethnic and religious communities in Singapore
-on sexuality issues.</p>
-<p>2. The <strong>Goals </strong>of Sexuality Education are:</p>
-<p>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
+(SEd) in schools aims to enable students to understand the physiological,
+social and emotional changes they experience as they mature, develop healthy
+and rewarding relationships with others, including those with members of
+the opposite sex, and make wise, informed and responsible decisions on
+sexuality matters. SEd is premised on the importance of the family as the
+basic unit of society. This means encouraging healthy, heterosexual marriages
+and stable nuclear family units with extended family support. The teaching
+and learning of SEd is based on respect for the values and beliefs of the
+different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p>&nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of
+Sexuality Education are:</p>
+<p>&nbsp;(a) Support students in managing their physiological, social and
+emotional changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
-<p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
-and unintended pregnancies. Casual sex can harm and hurt you and your loved
-ones.</p>
+that are premised on the family as the basic unit of society</p>
+<p></p>
+<p></p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
+Sexuality Education are:</p>
+<p>&nbsp;</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
+yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
+relationships based on love and respect (which are the foundation for strong
+families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
+marriage is the best protection against STIs/HIV and unintended pregnancies.
+Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<p><strong>OVERVIEW OF JURONG WEST PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong>
+<p><strong>OVERVIEW OF JURONG WEST PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -67,11 +75,12 @@ ways to manage the physiological, social and emotional changes in their
 growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
-themselves safe from sexuality-related risks</p>
-<p>At Jurong West Primary School, the following Sexuality Education lessons
-will be taught in 2025:</p>
+themselves safe from sexuality-related risks.</p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p>At Jurong West Primary School, the following Sexuality Education lessons
+will be taught in 2026:</p>
+<p></p>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -119,6 +128,7 @@ will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 6</p>
@@ -135,10 +145,12 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
 and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
-</p>
+own responses when they encounter pornography by applying the strategy
+‘<strong>Stop-Think-Do</strong>’.</p>
+<p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 2</p>
@@ -155,8 +167,10 @@ own responses when they encounter pornography by applying the strategy <strong>�
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
+<p></p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
@@ -169,7 +183,7 @@ and how to seek help for themselves and their friends.</p>
 <p><strong><br></strong>
 </p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -253,9 +267,9 @@ providers.</p>
 <p></p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be distributed to parents at the start
-of the year and is also downloadable [ <a href="/files/Letter to parents/Term 1/SEd_Opt_out_form_2025.pdf" rel="noopener nofollow" target="_blank">here</a> ].
-The completed opt-out form is to be submitted by 17/01/2025.</p>
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also available [<a href="/files/Letter to parents/Term 1/Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>].
+The completed opt-out form is to be submitted by 16/01/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 67933419 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
