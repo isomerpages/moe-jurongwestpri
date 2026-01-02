@@ -47,6 +47,15 @@ variant: tiptap
 <p>Notice</p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/008_P6_Learning_Journey_to_Asian_Civilisations_Museum.pdf" rel="noopener nofollow" target="_blank">P6 Cohort Learning Journey to Asian Civilisations Museum</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
