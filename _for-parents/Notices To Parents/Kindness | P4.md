@@ -49,6 +49,15 @@ variant: tiptap
 <p>Notice</p>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Jan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/006_P4_Cohort_Learning_Journeys.pdf" rel="noopener nofollow" target="_blank">P4 Cohort Learning Journeys</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
