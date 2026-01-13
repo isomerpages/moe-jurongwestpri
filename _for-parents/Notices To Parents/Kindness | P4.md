@@ -51,10 +51,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 Jan</p>
+<p>13 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/006_P4_Cohort_Learning_Journeys.pdf" rel="noopener nofollow" target="_blank">P4 Cohort Learning Journeys</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/023_P3_P4_Parents_Engagement_session.pdf" rel="noopener nofollow" target="_blank">P3 P4 Parents Engagement Session</a>
 </p>
 </td>
 </tr>
