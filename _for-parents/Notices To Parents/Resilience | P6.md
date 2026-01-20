@@ -85,19 +85,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Malay and Foundation Malay)</p>
+<p>Parent Engagement Session (Malay, Foundation Malay and Higher Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Slides and info/P6__Malay_Language__Briefing_Slides_2026_inclusive_of_Foundation_and_Higher_Malay_Language.pdf" rel="noopener nofollow" target="_blank">P6 Malay and Foundation Malay Briefing Slides</a>
+<p><a href="/files/Slides and info/P6__Malay_Language__Briefing_Slides_2026_inclusive_of_Foundation_and_Higher_Malay_Language.pdf" rel="noopener nofollow" target="_blank">P6 Malay, Foundation Malay and Higher Malay Briefing Slides</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Tamil and Foundation Tamil)</p>
+<p>Parent Engagement Session (Tamil, Foundation Tamil and Higher Tamil)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Slides and info/P6__Tamil_Language__Briefing_Slides_2026_inclusive_of_Foundation_and_Higher_Tamil_Language.pdf" rel="noopener nofollow" target="_blank">P6 Tamil and Foundation Tamil Briefing Slides</a>
+<p><a href="/files/Slides and info/P6__Tamil_Language__Briefing_Slides_2026_inclusive_of_Foundation_and_Higher_Tamil_Language.pdf" rel="noopener nofollow" target="_blank">P6 Tamil, Foundation Tamil and Higher Tamil Briefing Slides</a>
 </p>
 </td>
 </tr>
