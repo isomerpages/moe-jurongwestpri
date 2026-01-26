@@ -121,6 +121,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/JSA_2026.pdf" rel="noopener nofollow" target="_blank">Junior Sports Academy Selection Trial</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
