@@ -20,10 +20,10 @@ Their musical journey is enriched through exchange programmes with other
 primary and secondary school bands, as well as performances at school and
 public events.</p>
 <p>Beyond music, our structured routines instil important values such as
-discipline, teamwork, responsibility, and commitment. We also nurture leadership
-by empowering student leaders to lead sectionals, plan performances, and
-participate in key events such as the Singapore Youth Festival (SYF), school
-concerts, and exchange programmes.</p>
+discipline, teamwork, responsibility, and commitment. Leadership is also
+nurtured as students are empowered to lead sectionals, plan performances,
+and participate in key events such as the Singapore Youth Festival (SYF),
+school concerts, and exchange programmes.</p>
 <p></p>
 <p>
 <br>
