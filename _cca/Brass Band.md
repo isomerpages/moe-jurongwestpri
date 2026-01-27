@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>Brass Band</strong> 
 <br>
 </p>
-<p>To watch introduction video click <a href="https://youtu.be/lg5I0s3fpLw" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>To watch introduction video click <a href="https://youtu.be/u4YhY5MCX70" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>
 <br>
 </p>
