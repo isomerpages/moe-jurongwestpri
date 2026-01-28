@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (English)</p>
+<p>Parents Engagement Session (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P6__English__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P6 English Briefing Slides</a>
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Mathematics)</p>
+<p>Parents Engagement Session (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P6__Mathematics__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P6 Mathematics Briefing Slides</a>
@@ -49,7 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Science)</p>
+<p>Parents Engagement Session (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P6__Science__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P6 Science Briefing Slides</a>
@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Chinese)</p>
+<p>Parents Engagement Session (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P6__Chinese_Language__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P6 Chinese Briefing Slides</a>
@@ -67,7 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Foundation Chinese)</p>
+<p>Parents Engagement Session (Foundation Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P6__Foundation_Chinese_Language__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P6 Foundation Chinese Briefing Slides</a>
@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Higher Chinese)</p>
+<p>Parents Engagement Session (Higher Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P6__Higher_Chinese_Language__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P6 Higher Chinese Briefing Slides</a>
@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Malay, Foundation Malay and Higher Malay)</p>
+<p>Parents Engagement Session (Malay, Foundation Malay and Higher Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P6__Malay_Language__Briefing_Slides_2026_inclusive_of_Foundation_and_Higher_Malay_Language.pdf" rel="noopener nofollow" target="_blank">P6 Malay, Foundation Malay and Higher Malay Briefing Slides</a>
@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Tamil, Foundation Tamil and Higher Tamil)</p>
+<p>Parents Engagement Session (Tamil, Foundation Tamil and Higher Tamil)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P6__Tamil_Language__Briefing_Slides_2026_inclusive_of_Foundation_and_Higher_Tamil_Language.pdf" rel="noopener nofollow" target="_blank">P6 Tamil, Foundation Tamil and Higher Tamil Briefing Slides</a>
@@ -103,7 +103,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Slides</p>
+<p>Parents Engagement Slides</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -111,7 +111,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement FAQ</p>
+<p>Parents Engagement FAQ</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/Frequently_Asked_Questions_Upper_Block_Parents_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">Parents Engagement FAQ</a>
