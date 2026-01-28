@@ -29,6 +29,51 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Engagement Session (English)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P2__English__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P2 English Briefing Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Engagement Session (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P2__Mathematics__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P2 Mathematics Briefing Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Engagement Session (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P2_CL_MTP_2026.pdf" rel="noopener nofollow" target="_blank">P2 Chinese Briefing Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Engagement Session (Malay)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P2_ML_MTP_2026.pdf" rel="noopener nofollow" target="_blank">P2 Malay Briefing Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Engagement Session (Tamil)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P2_TL_MTP_2026.pdf" rel="noopener nofollow" target="_blank">P2 Tamil Briefing Slides</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

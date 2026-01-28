@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (English)</p>
+<p>Parents Engagement Session (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P4__English__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P4 English Briefing Slides</a>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Mathematics)</p>
+<p>Parents Engagement Session (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P4__Mathematics__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P4 Mathematics Briefing Slides</a>
@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Science)</p>
+<p>Parents Engagement Session (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P4__Science__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P4 Science Briefing Slides</a>
@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Chinese)</p>
+<p>Parents Engagement Session (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P4__Chinese_Language__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P4 Chinese Briefing Slides</a>
@@ -69,7 +69,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Malay)</p>
+<p>Parents Engagement Session (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P4__Malay_Language__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P4 Malay Briefing Slides</a>
@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Engagement Session (Tamil)</p>
+<p>Parents Engagement Session (Tamil)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Slides and info/P4__Tamil_Language__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P4 Tamil Briefing Slides</a>
