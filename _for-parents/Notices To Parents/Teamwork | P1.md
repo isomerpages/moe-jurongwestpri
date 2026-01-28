@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Jan 2026</p>
+<p>Parent Engagement Session (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/P1__English__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P1 English Briefing Slides</a>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Jan 2026</p>
+<p>Parent Engagement Session (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/P1__Mathematics__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P1 Mathematics Briefing Slides</a>
@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Jan 2026</p>
+<p>Parent Engagement Session (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Jan 2026</p>
+<p>Parent Engagement Session (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/P1_ML_MTP_2026.pdf" rel="noopener nofollow" target="_blank">P1 Malay Briefing Slides</a>
@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 Jan 2026</p>
+<p>Parent Engagement Session (Tamil)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/P1_TL_MTP_2026.pdf" rel="noopener nofollow" target="_blank">P1 Tamil Briefing Slides</a>
