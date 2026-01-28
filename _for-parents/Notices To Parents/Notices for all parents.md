@@ -37,6 +37,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Total Defence Day and Exercise SG Ready 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/027_TDD_Power_Disruption.pdf" rel="noopener nofollow" target="_blank">TDD and power disruption</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
