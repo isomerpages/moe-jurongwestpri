@@ -54,7 +54,8 @@ variant: tiptap
 <p>Parent Engagement Session (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter to parents/Term 1/P1_CL_MTP_2026_v1.pdf" rel="noopener nofollow" target="_blank">P1 Chinese Briefing Slides</a>
+</p>
 </td>
 </tr>
 <tr>
