@@ -101,6 +101,23 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Engagement Slides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Engagement FAQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Slides and info/Frequently_Asked_Questions_Upper_Block_Parents_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">Parents Engagement FAQ</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
