@@ -75,6 +75,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P1__English__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P1 English Briefing Slides</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
