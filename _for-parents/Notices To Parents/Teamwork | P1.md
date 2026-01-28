@@ -31,6 +31,50 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P1__English__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P1 English Briefing Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P1__Mathematics__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P1 Mathematics Briefing Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P1_ML_MTP_2026.pdf" rel="noopener nofollow" target="_blank">P1 Malay Briefing Slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Jan 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/P1_TL_MTP_2026.pdf" rel="noopener nofollow" target="_blank">P1 Tamil Briefing Slides</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Please check your <strong>Parents Gateway</strong> app for the latest Notices and Forms.</h4>
@@ -72,15 +116,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Letter to parents/Term 1/025_P1_P2_Parents_Engagement_session.pdf" rel="noopener nofollow" target="_blank">P1 P2 Parents Engagement Session</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>28 Jan 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/P1__English__Briefing_Slides_2026.pdf" rel="noopener nofollow" target="_blank">P1 English Briefing Slides</a>
 </p>
 </td>
 </tr>
