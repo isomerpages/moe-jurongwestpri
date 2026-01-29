@@ -106,7 +106,8 @@ variant: tiptap
 <p>Parents Engagement Slides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Letter to parents/Term 1/Upper_Block_Parent_Engagement_slides.pdf" rel="noopener nofollow" target="_blank">Parents Engagement Slides</a>
+</p>
 </td>
 </tr>
 <tr>
