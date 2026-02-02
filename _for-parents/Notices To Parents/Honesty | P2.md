@@ -74,6 +74,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents Engagement Slides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Slides and info/2026_P1_and_P2_Parent_Engagement_Slides.pdf" rel="noopener nofollow" target="_blank">P1 P2 Parents Engagement Slides</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
