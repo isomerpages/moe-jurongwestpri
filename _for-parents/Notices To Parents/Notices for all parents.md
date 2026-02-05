@@ -46,6 +46,33 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p>Assessment Modes and Key Dates 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/JWPS_2026_P3_Assessment_Overview_Final.pdf" rel="noopener nofollow" target="_blank">Primary 3 (Innovativeness)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/JWPS_2026_P4_Assessment_Overview_Final.pdf" rel="noopener nofollow" target="_blank">Primary 4 (Kindness)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/JWPS_2026_P5_Assessment_Overview_Final.pdf" rel="noopener nofollow" target="_blank">Primary 5 (Enthusiasm)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 1/JWPS_2026_P6_Assessment_Overview_Final.pdf" rel="noopener nofollow" target="_blank">Primary 6 (Resilience) </a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
