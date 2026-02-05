@@ -69,7 +69,7 @@ third_nav_title: Notices To Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Letter to parents/Term 1/JWPS_2026_P6_Assessment_Overview_Final.pdf" rel="noopener nofollow" target="_blank">Primary 6 (Resilience) </a>
+<p><a href="/files/Letter to parents/Term 1/JWPS_2026_P6_Assessment_Overview_Final.pdf" rel="noopener nofollow" target="_blank">Primary 6 (Resilience)</a>
 </p>
 </td>
 </tr>
