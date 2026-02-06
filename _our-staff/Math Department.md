@@ -64,5 +64,5 @@ development of metacognitive abilities; and</p>
 </ul>
 <p><a href="/Mathprogram" rel="noopener noreferrer nofollow" target="_blank">Math programmes and activities</a>
 </p>
-<p><a href="/files/Slides and info/seab_approvedcalculators.pdf" rel="noopener nofollow" target="_blank">List of Approved Scientific Calculators</a>
+<p><a href="https://www.seab.gov.sg/approved-calculators/" rel="noopener nofollow" target="_blank">List of Approved Scientific Calculators</a>
 </p>
