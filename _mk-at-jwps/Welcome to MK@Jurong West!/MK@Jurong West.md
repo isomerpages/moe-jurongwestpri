@@ -50,7 +50,12 @@ third_nav_title: Welcome to MK@Jurong West!
 </table>
 <p></p>
 <hr>
-<h4>Our Vision and Mission</h4>
+<h4>Our Beliefs, Vision and Mission</h4>
+<p>MK@Jurong West provides a nurturing learning environment where children
+grow through purposeful play, quality interactions, and meaningful experiences.
+Guided by the Nurturing Early Learners (NEL) Framework, we customise learning
+to meet our children’s needs while building strong foundations in literacy,
+numeracy, bilingualism, and social-emotional development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK_Vision_and_Mission.png">
