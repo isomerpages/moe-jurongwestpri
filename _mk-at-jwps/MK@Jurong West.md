@@ -4,8 +4,17 @@ permalink: /mk-jurong-west/mk/
 variant: tiptap
 description: ""
 ---
-<p>MK@Jurong West started operation on 4 Jan 2022.</p>
-<p>MK@Jurong West is located within Jurong West Primary School.</p>
+<h3>Welcome to MK@Jurong West!</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>MK@Jurong West started operation on 4 Jan 2022.</strong>
+</p>
+</li>
+<li>
+<p><strong>MK@Jurong West is located within Jurong West Primary School.</strong>
+</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,9 +48,15 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p>Our Vision and Mission</p>
+<hr>
+<h4>Our Vision and Mission</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MK_Vision_and_Mission.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK_Vision_and_Mission.png">
+</div>
+<p></p>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
 </div>
 <p></p>
