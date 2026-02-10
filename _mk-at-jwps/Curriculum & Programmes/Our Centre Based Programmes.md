@@ -11,6 +11,8 @@ third_nav_title: Curriculum & Programmes
 <h4>🌟 Fun Fit Friday</h4>
 <h4>🌟 MK Reads</h4>
 <p></p>
+<p><em>This section is under development⏳. Stay tuned for updates!</em>
+</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
