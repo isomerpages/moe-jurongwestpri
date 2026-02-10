@@ -11,7 +11,7 @@ third_nav_title: Curriculum & Programmes
 <p><strong>Transition to K1 Immersion Programme (Early Years Centre)</strong>
 </p>
 <p></p>
-<h4>🌟Singapore Green Awards </h4>
+<h4>🌱 Singapore Green Awards</h4>
 <p></p>
 <hr>
 <p></p>
