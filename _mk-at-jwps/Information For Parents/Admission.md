@@ -20,6 +20,6 @@ application: 📋 <a href="https://go.gov.sg/mkjwwaitlistform" rel="noopener nor
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
 </div>
 <p></p>
