@@ -6,4 +6,5 @@ description: ""
 third_nav_title: Curriculum & Programmes
 ---
 <h4>Primary School Classroom Immersion</h4>
-<p></p>
+<p><em>This section is under development⏳. Stay tuned for updates!</em>
+</p>
