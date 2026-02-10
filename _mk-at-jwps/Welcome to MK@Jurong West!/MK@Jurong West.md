@@ -53,11 +53,11 @@ third_nav_title: Welcome to MK@Jurong West!
 <h4>Our Vision and Mission</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/MK_Vision_and_Mission.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK_Vision_and_Mission.png">
 </div>
 <p></p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
 </div>
 <p></p>
