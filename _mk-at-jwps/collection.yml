@@ -2,8 +2,8 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - MK Open House.md
       - MK@Jurong West.md
+      - MK Open House.md
       - Our MK Staff.md
       - Your Child at MK@JWPS.md
       - MK Facilities.md
