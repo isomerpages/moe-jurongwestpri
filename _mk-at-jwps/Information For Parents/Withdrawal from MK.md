@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Information For Parents
 ---
-<h4>Withdrawal Clause</h4>
+<h3>Withdrawal Clause</h3>
 <p>📌 Please be informed that acceptance of the offer for your child to enrol
 in&nbsp;MOE Kindergarten@Jurong West&nbsp;is subject to the following&nbsp;withdrawal
 conditions, which you are deemed to have read and agreed to upon accepting
