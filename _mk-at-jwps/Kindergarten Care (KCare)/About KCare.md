@@ -5,7 +5,28 @@ description: ""
 variant: tiptap
 third_nav_title: Kindergarten Care (KCare)
 ---
-<p>You can enroll your child in KCare if your child requires full-day service.</p>
+<h4><strong>Kindergarten Care (KCare)</strong></h4>
+<p>KCare is a care service available in all MKs.</p>
+<p>KCare operates from Monday to Friday, till 7pm, including school holidays.
+It is closed on public holidays, Teachers' Day, Children's Day and up to
+6 additional days each year.</p>
+<p>The programme includes meals as well as activities designed to provide
+time and space for children to play, explore and discover through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Indoor and outdoor modular activities, such as art and craft, tinkering,
+cookery and gardening activities.</p>
+</li>
+<li>
+<p>Indoor and outdoor free play, such as dramatic play, and sand and water
+play.</p>
+</li>
+</ul>
+<p>KCare Centre is located within the same premises at the MK.</p>
+<p></p>
+<h4>Service Provider</h4>
+<p><strong>👉 Our KCare service provider is YMCA.</strong>
+</p>
 <p>Your child will enjoy the following modular activities in KCare:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -25,24 +46,39 @@ third_nav_title: Kindergarten Care (KCare)
 </li>
 <li>
 <p>Cookery</p>
+<p></p>
 </li>
 </ul>
-<p>Our KCare service provider is YMCA.</p>
-<p>Contact : 96791940
-<br>Email : <a href="mailto:jwkcc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jwkcc@ymca.edu.sg</a>
+<p><strong>👉 Contact Information</strong>
+</p>
+<p>📱 Phone: 96791940
+<br>📧 Email: <a href="mailto:jwkcc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jwkcc@ymca.edu.sg</a>
 </p>
 <p></p>
-<p><strong>KCare Registration</strong>
+<p><strong>👉 KCare Registration</strong>
 </p>
-<p>Click on the link below to:
-<br>- submit KCare enrolment application and/or
-<br>- apply for KCare Additional Subsidy (AS) - for Singapore Citizens children
+<p>Click on this link 🔗<a href="https://go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and AS Application link</a> to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit KCare enrolment application and/or</p>
+</li>
+<li>
+<p>Apply for KCare Additional Subsidy (AS) - for Singapore Citizens children
 only
-<br><a href="https://go.gov.sg/kcare-application" rel="noopener nofollow" target="_blank">KCare Enrolment and AS application link</a>
+<br>
 </p>
-<p><strong>Withdrawal Policy</strong>
+</li>
+</ul>
+<p><strong>👉 Withdrawal Policy</strong>
 </p>
 <p>One month written notice must be given to the Centre by the end of the
 prior month. Termination will take effect on the last day of the following
 month. For example, if the written notice is given in January, the child's
 last day in the Centre will be end of February.</p>
+<p></p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
+</div>
+<p></p>
