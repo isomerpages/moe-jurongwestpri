@@ -14,7 +14,7 @@ third_nav_title: Events and Celebrations
 <p></p>
 <h4>🌙 Hari Raya</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Hari_Raya.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Hari_Raya.jpg">
 </div>
 <p></p>
 <h4>🪔 Deepavali</h4>
