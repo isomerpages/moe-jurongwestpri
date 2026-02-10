@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Kindergarten Care (KCare)
 ---
-<h4><strong>Kindergarten Care (KCare)</strong></h4>
+<h3><strong>Kindergarten Care (KCare)</strong></h3>
 <p>KCare is a care service available in all MKs.</p>
 <p>KCare operates from Monday to Friday, till 7pm, including school holidays.
 It is closed on public holidays, Teachers' Day, Children's Day and up to
@@ -24,7 +24,7 @@ play.</p>
 </ul>
 <p>KCare Centre is located within the same premises at the MK.</p>
 <p></p>
-<h4>Service Provider</h4>
+<h3>Service Provider</h3>
 <p><strong>👉 Our KCare service provider is YMCA.</strong>
 </p>
 <p>Your child will enjoy the following modular activities in KCare:</p>
@@ -46,14 +46,15 @@ play.</p>
 </li>
 <li>
 <p>Cookery</p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>👉 Contact Information</strong>
 </p>
 <p>📱 Phone: 96791940
 <br>📧 Email: <a href="mailto:jwkcc@ymca.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jwkcc@ymca.edu.sg</a>
 </p>
+<p></p>
 <p></p>
 <p><strong>👉 KCare Registration</strong>
 </p>
@@ -67,6 +68,7 @@ play.</p>
 only
 <br>
 </p>
+<p></p>
 </li>
 </ul>
 <p><strong>👉 Withdrawal Policy</strong>
