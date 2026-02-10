@@ -2,9 +2,6 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - KCare/KCare Facilities.md
-      - KCare/KCare.md
-      - KCare/.keep
       - Welcome to MK@Jurong West!/.keep
       - Welcome to MK@Jurong West!/MK@Jurong West.md
       - Welcome to MK@Jurong West!/Our Team.md
@@ -22,4 +19,7 @@ collections:
       - "Information For Parents/The Road to Primary 1: Transition and Admission
         Tips for MK Students.md"
       - Information For Parents/Parents Appreciation.md
+      - KCare/.keep
+      - KCare/KCare Facilities.md
+      - KCare/KCare.md
       - Contact Us.md
