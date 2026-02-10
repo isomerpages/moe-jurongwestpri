@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum & Programmes
 ---
-<h4>Curriculum Overview</h4>
+<h3>Curriculum Overview</h3>
 <p>All MOE Kindergartens (MKs) offer the same curriculum and flagship programmes,
 and focus on:</p>
 <ul data-tight="true" class="tight">
@@ -31,7 +31,7 @@ Malay and Tamil languages).</p>
 </ul>
 <p>Each MK customises learning activities, teaching resources and approaches,
 and classroom spaces based on their children’s needs and interests.</p>
-<h4>Learning at MK@JW</h4>
+<h3>Learning at MK@JW</h3>
 <p>Our curriculum is anchored on two flagship programmes:</p>
 <p>📖 <strong>HI-Light Programme</strong>
 </p>
