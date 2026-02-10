@@ -52,9 +52,16 @@ Malay, or Tamil).</p>
 <p>Each school term also culminates in a Weeks of Wonder (WOW) project, where
 children explore, inquire, and apply their learning through meaningful,
 hands-on experiences.</p>
+<p></p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Starlight_Prog.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Starlight_Prog_MTL.jpg">
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
