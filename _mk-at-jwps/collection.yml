@@ -2,6 +2,7 @@ collections:
   mk-at-jwps:
     output: true
     order:
+      - MK@JW Team/MK@Jurong West.md
       - MK@JW Team/.keep
       - MK Open House.md
       - Our MK Staff.md
