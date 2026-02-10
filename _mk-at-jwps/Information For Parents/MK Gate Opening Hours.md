@@ -59,7 +59,7 @@ KCare/MK staff will be at the foyer to receive and dismiss your child.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/mk entrance1.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/mk entrance1.jpg">
 </div>
 <p></p>
 <hr>
