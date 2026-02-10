@@ -2,6 +2,7 @@ collections:
   mk-at-jwps:
     output: true
     order:
+      - KCare/KCare Facilities.md
       - KCare/KCare.md
       - KCare/.keep
       - Welcome to MK@Jurong West!/.keep
