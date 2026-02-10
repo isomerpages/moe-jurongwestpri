@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Information For Parents
 ---
-<p>The entrance is via the MK Gate beside block 601A multi-storey carpark.
-KCare/MK staff will be at the foyer to receive/dismiss your child.</p>
+<h4>Gate Opening Hours</h4>
+<p>Entry is through the MK Gate beside Block 601A multi-storey car park.
+KCare/MK staff will be at the foyer to receive and dismiss your child.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -61,6 +62,7 @@ KCare/MK staff will be at the foyer to receive/dismiss your child.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/mk entrance1.jpg">
 </div>
 <p></p>
+<hr>
 <h4>Arrival and Dismissal</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -70,8 +72,8 @@ to the foyer during arrival and dismissal times.</p>
 </li>
 <li>
 <p>Parents who send/fetch their child outside the above gate opening hours
-are advised to call the respective numbers (96791940 – KCare / 96474301
-- MK). Do note that the phone is manned only during office hours only.</p>
+are advised to call the respective numbers (<strong>96791940 – KCare</strong> / <strong>96474301 - MK</strong>).
+Do note that the phone is manned during office hours only.</p>
 <p></p>
 </li>
 <li>
@@ -86,11 +88,22 @@ are <strong>not required</strong> to call the MK/KCare staff on parents’
 behalf.</p>
 </li>
 </ul>
+<p></p>
+<hr>
 <h4>MK/KCare Premise: No entry for parents/caregivers</h4>
-<p>For safety and security reasons, all parents/caregivers are NOT allowed
+<p>For safety and security reasons, all parents/caregivers are <strong>NOT </strong>allowed
 to enter the MK/KCare premise. We seek your co-operation for the safety
 of your child and all other children.</p>
-<h4>Park at Blk 601A Multi-storey Carpark</h4>
+<hr>
+<h4>Parking Arrangements</h4>
+<p>👉 <strong>Park at Blk 601A Multi-storey Carpark</strong>
+</p>
 <p>For parents or caregivers who drive, you are strongly encouraged to park
 at the visitor lots inside block 601A multi-storey carpark.</p>
+<p></p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
+</div>
 <p></p>
