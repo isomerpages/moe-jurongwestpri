@@ -5,14 +5,14 @@ description: ""
 variant: tiptap
 third_nav_title: Information For Parents
 ---
-<h3>Registration</h3>
+<h2>Registration</h2>
 <p>Online registration for 2026 Kindergarten 1 (K1) admission is over.</p>
 <p></p>
 <p>For more information about MK registration, please refer to: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/" rel="noopener noreferrer nofollow" target="_blank">Register for MOE Kindergarten | MOE</a>
 </p>
 <p></p>
 <hr>
-<h3>Waiting List Application</h3>
+<h2>Waiting List Application</h2>
 <p>Register your child with MK@Jurong West by completing the waiting list
 application: 📋 <a href="https://go.gov.sg/mkjwwaitlistform" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mkjwwaitlistform</a>
 </p>
