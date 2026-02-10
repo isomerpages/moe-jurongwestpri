@@ -2,10 +2,10 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - Welcome to MK@Jurong West!/Our Facilities.md
       - Welcome to MK@Jurong West!/.keep
       - Welcome to MK@Jurong West!/MK@Jurong West.md
       - Welcome to MK@Jurong West!/Our Team.md
+      - Welcome to MK@Jurong West!/Our Facilities.md
       - 🏫 MK Open House🎈.md
       - Curriculum & Programmes.md
       - Your Child at MK@JWPS.md
