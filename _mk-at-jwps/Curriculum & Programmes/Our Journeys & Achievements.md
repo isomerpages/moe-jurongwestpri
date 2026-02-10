@@ -13,6 +13,8 @@ third_nav_title: Curriculum & Programmes
 <p></p>
 <h4>🌱 Singapore Green Awards</h4>
 <p></p>
+<p><em>This section is under development⏳. Stay tuned for updates!</em>
+</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
