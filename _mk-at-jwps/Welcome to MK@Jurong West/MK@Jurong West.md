@@ -6,16 +6,12 @@ description: ""
 third_nav_title: Welcome to MK@Jurong West
 ---
 <h3>Welcome to MK@Jurong West!</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>MK@Jurong West started operation on 4 Jan 2022.</strong>
-</p>
-</li>
-<li>
-<p><strong>MK@Jurong West is located within Jurong West Primary School.</strong>
-</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MKJW_location.jpg">
+</div>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -50,7 +46,7 @@ third_nav_title: Welcome to MK@Jurong West
 </table>
 <p></p>
 <hr>
-<h4>Our Beliefs, Vision and Mission</h4>
+<h3>Our Beliefs, Vision and Mission</h3>
 <p>MK@Jurong West provides a nurturing learning environment where children
 grow through purposeful play, quality interactions, and meaningful experiences.
 Guided by the Nurturing Early Learners (NEL) Framework, we customise learning
