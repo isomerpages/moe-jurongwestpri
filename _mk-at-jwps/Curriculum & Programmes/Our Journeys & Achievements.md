@@ -19,10 +19,10 @@ third_nav_title: Curriculum & Programmes
 </div>
 <p></p>
 <h4>🌱 Singapore Green Awards</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/SG_Green_Awards.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/SG_Green_Awards_v2.jpg">
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
