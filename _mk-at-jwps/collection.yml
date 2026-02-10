@@ -2,20 +2,29 @@ collections:
   mk-at-jwps:
     output: true
     order:
-      - MK@Jurong West.md
-      - Our MK Staff.md
-      - Your Child at MK@JWPS.md
-      - MK Facilities.md
-      - Early Years Centre Partners.md
+      - Welcome to MK@Jurong West/.keep
+      - Welcome to MK@Jurong West/MK@Jurong West.md
+      - Welcome to MK@Jurong West/Our Team.md
+      - Welcome to MK@Jurong West/Our Facilities.md
+      - 🏫 MK Open House🎈.md
+      - Curriculum & Programmes/.keep
+      - Curriculum & Programmes/MK Curriculum.md
+      - Curriculum & Programmes/Our Learning Environment.md
+      - Curriculum & Programmes/Our Centre Based Programmes.md
+      - Curriculum & Programmes/Our Journeys & Achievements.md
+      - Curriculum & Programmes/Transition to P1.md
+      - Events and Celebrations/.keep
+      - Events and Celebrations/Festive Celebrations.md
+      - Events and Celebrations/Fun & Learning Events.md
       - Information For Parents/.keep
-      - Information For Parents/Admission.md
+      - Information For Parents/Register With Us.md
       - Information For Parents/Fees and Financial Support.md
       - Information For Parents/MK Gate Opening Hours.md
       - Information For Parents/MK Uniform.md
       - Information For Parents/Withdrawal from MK.md
-      - "Information For Parents/The Road to Primary 1: Transition and Admission
-        Tips for MK Students.md"
       - Information For Parents/Parents Appreciation.md
-      - KCare.md
-      - KCare Facilities.md
+      - Early Years Centre Partners.md
+      - Kindergarten Care (KCare)/.keep
+      - Kindergarten Care (KCare)/About KCare.md
+      - Kindergarten Care (KCare)/KCare Facilities.md
       - Contact Us.md
