@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum & Programmes
 ---
-<h4>A Nurturing Learning Environment</h4>
+<h3>A Nurturing Learning Environment</h3>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<h4>A day in Life of MK</h4>
+<h3>A day in Life of MK</h3>
 <p></p>
