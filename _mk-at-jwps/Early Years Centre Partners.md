@@ -4,13 +4,13 @@ permalink: /mk-at-jwps/mkeyc/
 description: ""
 variant: tiptap
 ---
-<h4>Early Years Centre (EYC) Partnership</h4>
+<h3>Early Years Centre (EYC) Partnership</h3>
 <p>Under this partnership, eligible children in the EYCs are guaranteed a
 place at a partner MOE Kindergarten (MK). You can choose to enrol at the
 partner MK for their Kindergarten 1 (K1) and Kindergarten 2 (K2) programme.
 This allows your child to have a seamless transition to K1 in the year
 they turn 5.</p>
-<h4>Our Partner EYCs</h4>
+<h3>Our Partner EYCs</h3>
 <p>MK@Jurong West partner with 2 Early Years Centres, operated by PCF Sparkletots
 to provide pre-school services for children aged two months to six years
 old.</p>
