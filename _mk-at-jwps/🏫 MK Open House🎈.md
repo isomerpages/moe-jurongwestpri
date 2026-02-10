@@ -20,5 +20,9 @@ description: ""
 <p><strong>Details of the 2026 MK Registration Exercise will be updated by mid-February 2026.</strong>
 </p>
 <p></p>
+<hr>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
+</div>
 <p></p>
