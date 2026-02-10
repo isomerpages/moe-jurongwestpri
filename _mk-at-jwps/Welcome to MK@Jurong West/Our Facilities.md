@@ -7,6 +7,9 @@ third_nav_title: Welcome to MK@Jurong West
 ---
 <p><em>This section is under development⏳. Stay tuned for updates!</em>
 </p>
+<h3>Indoor Spaces</h3>
+<p></p>
+<h3>Outdoor Spaces</h3>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
