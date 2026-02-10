@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum & Programmes
 ---
-<h4>K2 Immersion Programme</h4>
+<h4>Primary School Classroom Immersion</h4>
 <p></p>
