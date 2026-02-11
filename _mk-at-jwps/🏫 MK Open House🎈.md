@@ -17,9 +17,12 @@ description: ""
 </ul>
 <hr>
 <h4>MK Registration Exercise 2026</h4>
-<p><strong>Details of the 2026 MK Registration Exercise will be updated by mid-February 2026.</strong>
+<p>Online registration for 2027 Kindergarten 1 (K1) admissions for both Open
+Admissions (OA) and Early Years Centre (EYC) children will open f<strong>rom 9am on Monday, 23 March 2026 and close at 4:30pm on Tuesday, 31 March 2026.</strong>
 </p>
 <p></p>
+<p>To register, click on this link: 🔗<strong> </strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener nofollow" target="_blank">Register for MOE Kindergarten</a>
+</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
