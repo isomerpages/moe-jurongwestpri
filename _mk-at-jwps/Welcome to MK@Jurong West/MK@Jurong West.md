@@ -7,10 +7,10 @@ third_nav_title: Welcome to MK@Jurong West
 ---
 <h3>Welcome to MK@Jurong West!</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MKJW_location.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MKJW_location_v2.jpg">
+</div>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -46,15 +46,9 @@ third_nav_title: Welcome to MK@Jurong West
 </table>
 <p></p>
 <hr>
-<h3>Our Beliefs, Vision and Mission</h3>
-<p>MK@Jurong West provides a nurturing learning environment where children
-grow through purposeful play, quality interactions, and meaningful experiences.
-Guided by the Nurturing Early Learners (NEL) Framework, we customise learning
-to meet our children’s needs while building strong foundations in literacy,
-numeracy, bilingualism, and social-emotional development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/MK_Vision_and_Mission.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Beliefs.jpg">
 </div>
 <p></p>
 <hr>
