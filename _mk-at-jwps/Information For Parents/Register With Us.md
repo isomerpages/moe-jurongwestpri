@@ -6,9 +6,14 @@ variant: tiptap
 third_nav_title: Information For Parents
 ---
 <h2>Registration</h2>
-<p>Online registration for 2026 Kindergarten 1 (K1) admission is over.</p>
+<p>Online registration for 2027 Kindergarten 1 (K1) admissions for both Open
+Admissions (OA) and Early Years Centre (EYC) children will open f<strong>rom 9am on Monday, 23 March 2026 and close at 4:30pm on Tuesday, 31 March 2026.</strong>
+</p>
 <p></p>
-<p>For more information about MK registration, please refer to: <a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/" rel="noopener noreferrer nofollow" target="_blank">Register for MOE Kindergarten | MOE</a>
+<p>To register, click on this link: 🔗<strong> </strong><a href="https://www.moe.gov.sg/preschool/moe-kindergarten/register/how-to-register" rel="noopener nofollow" target="_blank">Register for MOE Kindergarten</a>
+</p>
+<p></p>
+<p>For more information on MK, please refer to: 🔗 <a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener nofollow" target="_blank">About MOE Kindergarten (MK)</a>
 </p>
 <p></p>
 <hr>
