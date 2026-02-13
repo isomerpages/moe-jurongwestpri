@@ -4,17 +4,15 @@ permalink: /mk-open-house/
 variant: tiptap
 description: ""
 ---
-<h4>MK@Jurong House Open House 2026</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><em>Sign up for our 2026 MK Open House at [</em></strong><em><u>🔗URL to be shared soon</u></em><strong><em>]</em></strong>
+<h4>🌟MK@Jurong West Open House 2026🌟</h4>
+<p>We’re excited to announce that our Open House will be held on:</p>
+<p><strong>📅 7 March 2026 (Saturday)</strong>
 </p>
-</li>
-<li>
-<p><strong><em>We’ll be sharing more about our Open House programme very soon—stay tuned!</em></strong>
+<p>🕑<strong>9:00AM - 12:00PM</strong>
 </p>
-</li>
-</ul>
+<p></p>
+<p>Registration information will be released soon.</p>
+<p>Stay tuned and follow us for updates!</p>
 <hr>
 <h4>MK Registration Exercise 2026</h4>
 <p>Online registration for 2027 Kindergarten 1 (K1) admissions for both Open
