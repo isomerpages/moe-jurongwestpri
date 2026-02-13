@@ -15,7 +15,7 @@ undue emphasis on the academic aspects of development, we place your child
 at the heart of the celebrations where he/shewill be involved in planning
 and executing the celebrations, showing his/her capabilities and accomplishments.</p>
 <hr>
-<h3>K2 Celebrates 2025🎉</h3>
+<h3>K2 Celebrates 2025 - Unity Fiesta🎉</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/K2_Celebrates.jpg">
 </div>
