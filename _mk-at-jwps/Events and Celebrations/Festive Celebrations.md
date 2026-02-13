@@ -22,6 +22,10 @@ third_nav_title: Events and Celebrations
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Deepavali.jpg">
 </div>
 <p></p>
+<h4>🌾Pongal</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Pongal.jpg">
+</div>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
