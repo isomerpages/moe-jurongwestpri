@@ -5,14 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h4>🌟MK@Jurong West Open House 2026🌟</h4>
-<p>We’re excited to announce that our Open House will be held on:</p>
-<p><strong>📅 7 March 2026 (Saturday)</strong>
-</p>
-<p>🕑<strong>9:00AM - 12:00PM</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Open_House_Poster_2026_page_0001.jpg">
+</div>
 <p></p>
-<p>Registration information will be released soon.</p>
-<p>Stay tuned and follow us for updates!</p>
 <hr>
 <h4>MK Registration Exercise 2026</h4>
 <p>Online registration for 2027 Kindergarten 1 (K1) admissions for both Open
