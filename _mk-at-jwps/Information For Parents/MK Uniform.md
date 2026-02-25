@@ -5,14 +5,14 @@ description: ""
 variant: tiptap
 third_nav_title: Information For Parents
 ---
-<h4>Sale of Uniform</h4>
+<h3><strong>Sale of Uniform</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Parents can purchase uniforms directly from MOE-appointed suppliers. </strong>
+<p><strong>Parents can purchase uniforms directly from MOE-appointed suppliers.</strong>
 </p>
 </li>
 <li>
-<p><strong>You can opt for delivery&nbsp;of uniform&nbsp;to your home, or you can purchase the uniform at their retail store. </strong>
+<p><strong>You can opt for delivery&nbsp;of uniform&nbsp;to your home, or you can purchase the uniform at their retail store.</strong>
 </p>
 </li>
 <li>
@@ -31,7 +31,7 @@ by the Ministry of Social and Family Development.</p>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/Uniform/jeep%20sing.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/Uniform/jeep%20sing.jpg">
 </div>
 <p></p>
 <blockquote>
@@ -39,10 +39,10 @@ by the Ministry of Social and Family Development.</p>
 </p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/Uniform/beauvoix%20prices.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MK/Uniform/beauvoix%20prices.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MK/Uniform/beauvoix%20office.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/MK/Uniform/beauvoix%20office.jpg">
 </div>
 <hr>
 <p></p>
