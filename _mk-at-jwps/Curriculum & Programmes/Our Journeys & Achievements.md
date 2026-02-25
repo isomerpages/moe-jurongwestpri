@@ -5,10 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum & Programmes
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
-</div>
 <h3><strong>Moments of Growth &amp; Success</strong></h3>
 <h4>🏆Outstanding Preschool Mother Tongue Language Teacher Award (OPMTL)</h4>
 <p>The Outstanding Preschool Mother Tongue Language (MTL) Teacher Award aims
@@ -38,9 +34,11 @@ a love for the MTL in preschoolers.</p>
 </div>
 <hr>
 <h4>🌱 Singapore Green Awards</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/SGA.jpg">
 </div>
 <hr>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
+</div>
 <p></p>
