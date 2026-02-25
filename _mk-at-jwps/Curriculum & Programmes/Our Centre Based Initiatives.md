@@ -21,7 +21,6 @@ third_nav_title: Curriculum & Programmes
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Fun_Fit_Friday.jpg">
 </div>
 <h4>🌟 MK Reads</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Centre_based_Initiatives___MK_Reads.png">
 </div>
