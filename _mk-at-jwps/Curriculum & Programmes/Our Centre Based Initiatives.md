@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum & Programmes
 ---
-<h3><u>Centre Based Initiatives</u></h3>
+<h3><strong>Centre Based Initiatives</strong></h3>
 <h4>🌟 Start Small Dream Big (SSDB)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Centre_based_Initiatives___SSDB.png">
@@ -18,7 +18,7 @@ third_nav_title: Curriculum & Programmes
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Centre_based_Initiatives___Fun_Fit_Fruity_Friday.png">
 </div>
-<h4>🌟 MK Reads</h4>
+<h4>🌟 MK Reads!</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Centre_based_Initiatives___MK_Reads.png">
 </div>
