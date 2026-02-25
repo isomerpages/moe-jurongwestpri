@@ -5,14 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Curriculum & Programmes
 ---
-<h3>Curriculum Overview</h3>
+<h3><strong>Curriculum Overview</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Curriculum_overview.jpg">
 </div>
 <p>Each MK customises learning activities, teaching resources and approaches,
 and classroom spaces based on their children’s needs and interests.</p>
 <p></p>
-<h3>Learning at MK@JW</h3>
+<h3><strong>Learning at MK@JW</strong></h3>
 <p>Our curriculum is anchored on two flagship programmes:</p>
 <p>📖 <strong>HI-Light Programme</strong>
 </p>
