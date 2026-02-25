@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Welcome to MK@Jurong West
 ---
-<h3>Indoor Spaces</h3>
+<h3>🏫<strong>Indoor Spaces</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Classrooms.jpg">
 </div>
@@ -14,7 +14,7 @@ third_nav_title: Welcome to MK@Jurong West
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Interactive_space.jpg">
 </div>
 <p></p>
-<h3>Outdoor Spaces</h3>
+<h3>🛝<strong>Outdoor Spaces</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Outdoor_areas.jpg">
 </div>
