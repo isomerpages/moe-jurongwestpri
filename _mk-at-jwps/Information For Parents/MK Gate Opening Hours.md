@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Information For Parents
 ---
-<h3>Gate Opening Hours</h3>
+<h3><strong>Gate Opening Hours</strong></h3>
 <p>Entry is through the MK Gate beside Block 601A multi-storey car park.
 KCare/MK staff will be at the foyer to receive and dismiss your child.</p>
 <p></p>
@@ -63,7 +63,7 @@ KCare/MK staff will be at the foyer to receive and dismiss your child.</p>
 </div>
 <p></p>
 <hr>
-<h3>Arrival and Dismissal</h3>
+<h3><strong>Arrival and Dismissal</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Authorisation Passes are required for parents/caregivers to have access
@@ -90,12 +90,12 @@ behalf.</p>
 </ul>
 <p></p>
 <hr>
-<h4>MK/KCare Premise: No entry for parents/caregivers</h4>
+<h4><strong>MK/KCare Premise: No entry for parents/caregivers</strong></h4>
 <p>For safety and security reasons, all parents/caregivers are <strong>NOT </strong>allowed
 to enter the MK/KCare premise. We seek your co-operation for the safety
 of your child and all other children.</p>
 <hr>
-<h4>Parking Arrangements</h4>
+<h4><strong>Parking Arrangements</strong></h4>
 <p>👉 <strong>Park at Blk 601A Multi-storey Carpark</strong>
 </p>
 <p>For parents or caregivers who drive, you are strongly encouraged to park
