@@ -7,7 +7,7 @@ third_nav_title: Curriculum & Programmes
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
 </div>
 <h3><u>Centre Based Initiatives</u></h3>
 <h4>🌟 Start Small Dream Big (SSDB)</h4>
