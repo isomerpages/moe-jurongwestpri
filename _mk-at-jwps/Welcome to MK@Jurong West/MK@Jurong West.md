@@ -6,8 +6,6 @@ description: ""
 third_nav_title: Welcome to MK@Jurong West
 ---
 <h3>Welcome to MK@Jurong West!</h3>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MKJW_location_v2.jpg">
 </div>
@@ -44,13 +42,11 @@ third_nav_title: Welcome to MK@Jurong West
 </tr>
 </tbody>
 </table>
-<p></p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Beliefs.jpg">
 </div>
-<p></p>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
