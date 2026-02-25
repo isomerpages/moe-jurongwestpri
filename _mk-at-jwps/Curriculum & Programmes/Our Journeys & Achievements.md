@@ -35,7 +35,7 @@ a love for the MTL in preschoolers.</p>
 <hr>
 <h4>🌱 Singapore Green Awards</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/SG_Green_Awards_v2.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/SGA.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">

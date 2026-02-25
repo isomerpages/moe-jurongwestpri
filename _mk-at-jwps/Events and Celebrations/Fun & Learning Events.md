@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Events and Celebrations
 ---
-<h3>Celebrating learning and laughter at MK@JW!</h3>
+<h3><strong>Celebrating learning and laughter at MK@JW!</strong></h3>
 <p></p>
 <h4>💜 The Purple Parade</h4>
 <div class="isomer-image-wrapper">

@@ -24,7 +24,7 @@ play.</p>
 </ul>
 <p>KCare Centre is located within the same premises at the MK.</p>
 <p></p>
-<h3>Service Provider</h3>
+<h3><strong>Service Provider</strong></h3>
 <p><strong>👉 Our KCare service provider is YMCA.</strong>
 </p>
 <p>Your child will enjoy the following modular activities in KCare:</p>

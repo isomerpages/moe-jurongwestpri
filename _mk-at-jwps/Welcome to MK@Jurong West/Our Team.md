@@ -10,11 +10,13 @@ third_nav_title: Welcome to MK@Jurong West
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MKJW_team.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MK/CH_message.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/MKJW_team.jpg">
+</div>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MK/banner.jpg">
 </div>
