@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Information For Parents
 ---
-<h2>MK Fees and Subsidy</h2>
+<h2><strong>MK Fees and Subsidy</strong></h2>
 <p>👉 <strong>MOE Kindergarten (MK) fees</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -25,7 +25,7 @@ school fees.</p>
 </p>
 <p></p>
 <hr>
-<h2>KCare Fees and Subsidy</h2>
+<h2><strong>KCare Fees and Subsidy</strong></h2>
 <p>👉 <strong>Kindergarten Care (KCare) fees</strong>
 </p>
 <ul data-tight="true" class="tight">
