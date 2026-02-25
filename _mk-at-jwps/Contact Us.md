@@ -4,7 +4,7 @@ permalink: /mk-at-jwps/mkkcarecontact/
 description: ""
 variant: tiptap
 ---
-<h3>MK Contact Information</h3>
+<h3><strong>MK Contact Information</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,7 +32,7 @@ variant: tiptap
 </table>
 <p></p>
 <hr>
-<h3>KCare Contact Information</h3>
+<h3><strong>KCare Contact Information</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
