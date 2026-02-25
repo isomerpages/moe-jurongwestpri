@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Events and Celebrations
 ---
-<h3>Celebrating Together🎉</h3>
+<h3><strong>Celebrating Together</strong>🎉</h3>
 <p></p>
 <h4>🍊 Chinese New Year</h4>
 <div class="isomer-image-wrapper">
