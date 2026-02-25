@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Welcome to MK@Jurong West
 ---
-<h3>Welcome to MK@Jurong West!</h3>
+<h3><strong>Welcome to MK@Jurong West!</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MKJW_location_v2.jpg">
 </div>
