@@ -45,7 +45,7 @@ third_nav_title: Welcome to MK@Jurong West
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/MK/Beliefs.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MK/MK_Vision_Mission_Values_v2.jpg">
 </div>
 <hr>
 <div class="isomer-image-wrapper">
