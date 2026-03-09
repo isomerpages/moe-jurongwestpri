@@ -5,10 +5,11 @@ variant: tiptap
 description: ""
 ---
 <h4>🌟<strong>MK@Jurong West Open House 2026</strong>🌟</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK/Open_House_Poster_2026_page_0001.jpg">
+<p>Ever wondered what a day in MK looks like? Follow along as our students
+learn, play, explore, and grow together in a nurturing and engaging environment.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="434" width="720" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSM0efgj203H2ed0s3n4LuPzDtf3j1N0V4Fplpc2hnYCTCkf8WjnC5CfUAwZGN7HotlfM9mTvPzOt9/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
 <hr>
 <h4><strong>MK Registration Exercise 2026</strong></h4>
 <p>Online registration for 2027 Kindergarten 1 (K1) admissions for both Open
