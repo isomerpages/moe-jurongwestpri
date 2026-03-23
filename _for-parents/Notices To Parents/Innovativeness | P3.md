@@ -119,6 +119,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Mar 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/JWPS_2026_005_P3_Geylang_Serai_Heritage_Gallery_Final.pdf" rel="noopener nofollow" target="_blank">Learning Journey to Geylang Serai Heritage Gallery</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
