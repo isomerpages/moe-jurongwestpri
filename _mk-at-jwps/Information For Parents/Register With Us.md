@@ -19,7 +19,7 @@ Admissions (OA) and Early Years Centre (EYC) children will open f<strong>rom 9am
 <hr>
 <h2><strong>Waiting List Application</strong></h2>
 <p>Register your child with MK@Jurong West by completing the waiting list
-application: 📋 <a href="https://go.gov.sg/mkjwwaitlistform" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/mkjwwaitlistform</a>
+application: 📋<a href="https://go.gov.sg/2026mkjwwaitlistform" rel="noopener nofollow" target="_blank">go.gov.sg/2026mkjwwaitlistform</a>
 </p>
 <p></p>
 <hr>
