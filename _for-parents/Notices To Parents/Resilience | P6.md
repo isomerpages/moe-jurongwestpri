@@ -146,6 +146,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 April 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/NAPFA_2026___P6_Parents_Letter.pdf" rel="noopener nofollow" target="_blank">NAPFA Test</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
