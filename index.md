@@ -15,4 +15,7 @@ sections:
         - title: Calendar
           description: ""
           url: /calendar
+        - title: Kindergarten Visits 2026
+          description: ""
+          url: /kvisit
 ---
