@@ -17,5 +17,5 @@ sections:
           url: /calendar
         - title: Kindergarten Visits 2026
           description: ""
-          url: /kvisit
+          url: https://go.gov.sg/jwpskvisit2026
 ---
