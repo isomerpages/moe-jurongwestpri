@@ -15,4 +15,7 @@ sections:
         - title: Calendar
           description: ""
           url: /calendar
+        - title: Kindergarten Visits 2026
+          description: Register by 15 May 2026
+          url: https://go.gov.sg/jwpskvisit2026
 ---
