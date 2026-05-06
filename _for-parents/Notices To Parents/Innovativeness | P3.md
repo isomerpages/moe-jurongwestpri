@@ -128,6 +128,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 May 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 2/JWPS_P3_Science_Learning_Journey_to_the_Zoo.pdf" rel="noopener nofollow" target="_blank">Learning Journey to the Zoo</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
