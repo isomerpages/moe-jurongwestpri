@@ -73,6 +73,16 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Values-In-Action (VIA) Activity – Collection Drive of Recyclable Items
+(July to Sep 2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/084_VIA_Activity_Collection_Drive_of_Recyclable_Items_2026.pdf" rel="noopener nofollow" target="_blank">VIA Activity – Collection Drive of Recyclable Items</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
