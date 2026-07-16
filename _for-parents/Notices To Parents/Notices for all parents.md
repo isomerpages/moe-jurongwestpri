@@ -83,6 +83,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/098_National_Day_Celebrations.pdf" rel="noopener nofollow" target="_blank">National Day Celebrations on 7 Aug 2026</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
