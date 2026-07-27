@@ -101,6 +101,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jul 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/104_P2_CCA_Experiential_Session.pdf" rel="noopener nofollow" target="_blank">P2 CCA Experiential Sessions</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
