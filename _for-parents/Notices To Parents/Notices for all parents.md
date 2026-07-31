@@ -92,6 +92,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2026 Edusave Character Award (ECHA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/100_Edusave_Character_Award_2026.pdf" rel="noopener nofollow" target="_blank">Edusave Character Award</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
