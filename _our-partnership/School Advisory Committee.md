@@ -50,27 +50,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Cheng Wen Kai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Owyeong Yu-Hua Yvonne</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Phang Siew Eng</p>
+<p>Ms Sandra Loo Leong Swee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Sandra Loo Leong Swee</p>
+<p>Ms Tee Hui Wen</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sim Han Seng</p>
+<p>Ms Valencia Khoo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Tan Wee Hian</p>
+<p>Mr Xiao Fangmin</p>
 </td>
 </tr>
 </tbody>
