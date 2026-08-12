@@ -155,6 +155,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/JWPS_Prelim_Exam_2026.pdf" rel="noopener nofollow" target="_blank">Prelim Exam</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 July 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/JWPS_Dismissal_Arrangement_for_Prelim_2026.pdf" rel="noopener nofollow" target="_blank">Prelim Dismissal Arrangement</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
