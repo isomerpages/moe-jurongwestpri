@@ -101,6 +101,15 @@ third_nav_title: Notices To Parents
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JWPS Sustainability Efforts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Letter to parents/Term 3/JWPS_JWPS_Sustainability_Efforts.pdf" rel="noopener nofollow" target="_blank">JWPS Sustainability Efforts</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
